@@ -1,0 +1,72 @@
+{
+    "A1C": [
+        "HbA1c",
+        "Hemoglobin A1C",
+        "Glycated Hemoglobin"
+    ],
+    "FPG": [
+        "Fasting Plasma Glucose",
+        "Fasting Glucose"
+    ],
+    "OGTT": [
+        "Oral Glucose Tolerance Test"
+    ],
+    "T2D": [
+        "Type 2 Diabetes",
+        "Type 2 Diabetes Mellitus",
+        "T2DM"
+    ],
+    "T1D": [
+        "Type 1 Diabetes",
+        "Type 1 Diabetes Mellitus",
+        "T1DM"
+    ],
+    "GLP-1": [
+        "GLP-1 RA",
+        "GLP-1 Receptor Agonist",
+        "Glucagon-like Peptide-1"
+    ],
+    "SGLT2": [
+        "SGLT2i",
+        "SGLT2 Inhibitor",
+        "Sodium-Glucose Cotransporter-2"
+    ],
+    "CGM": [
+        "Continuous Glucose Monitor",
+        "Continuous Glucose Monitoring"
+    ],
+    "DSMES": [
+        "Diabetes Self-Management Education and Support"
+    ],
+    "MNT": [
+        "Medical Nutrition Therapy"
+    ],
+    "DPP": [
+        "Diabetes Prevention Program"
+    ],
+    "CKD": [
+        "Chronic Kidney Disease"
+    ],
+    "CVD": [
+        "Cardiovascular Disease"
+    ],
+    "ASCVD": [
+        "Atherosclerotic Cardiovascular Disease"
+    ],
+    "eGFR": [
+        "estimated Glomerular Filtration Rate"
+    ],
+    "UACR": [
+        "Urine Albumin-to-Creatinine Ratio"
+    ],
+    "ACE": [
+        "ACE inhibitor",
+        "Angiotensin-Converting Enzyme inhibitor"
+    ],
+    "ARB": [
+        "Angiotensin Receptor Blocker"
+    ],
+    "BMI": [
+        "Body Mass Index"
+    ]
+}

@@ -12,144 +12,124 @@ from difflib import SequenceMatcher
 
 
 class EntityNormalizer:
-    """Normalizes entity names and handles variants"""
+    """
+    Normalizes entity names and handles medical abbreviation variants.
     
-    # Common medical abbreviation mappings
-    ABBREVIATION_MAP = {
-        'A1C': ['HbA1c', 'Hemoglobin A1C', 'Glycated Hemoglobin'],
-        'FPG': ['Fasting Plasma Glucose', 'Fasting Glucose'],
-        'OGTT': ['Oral Glucose Tolerance Test'],
-        'T2D': ['Type 2 Diabetes', 'Type 2 Diabetes Mellitus', 'T2DM'],
-        'T1D': ['Type 1 Diabetes', 'Type 1 Diabetes Mellitus', 'T1DM'],
-        'GLP-1': ['GLP-1 RA', 'GLP-1 Receptor Agonist', 'Glucagon-like Peptide-1'],
-        'SGLT2': ['SGLT2i', 'SGLT2 Inhibitor', 'Sodium-Glucose Cotransporter-2'],
-        'CGM': ['Continuous Glucose Monitor', 'Continuous Glucose Monitoring'],
-        'DSMES': ['Diabetes Self-Management Education and Support'],
-        'MNT': ['Medical Nutrition Therapy'],
-        'DPP': ['Diabetes Prevention Program'],
-        'CKD': ['Chronic Kidney Disease'],
-        'CVD': ['Cardiovascular Disease'],
-        'ASCVD': ['Atherosclerotic Cardiovascular Disease'],
-        'eGFR': ['estimated Glomerular Filtration Rate'],
-        'UACR': ['Urine Albumin-to-Creatinine Ratio'],
-        'ACE': ['ACE inhibitor', 'Angiotensin-Converting Enzyme inhibitor'],
-        'ARB': ['Angiotensin Receptor Blocker'],
-        'BMI': ['Body Mass Index']
-    }
+    For medical terminology, we use exact matching and abbreviation expansion.
+    Fuzzy matching is disabled by default to prevent incorrect entity merges
+    (e.g., "Type 1 Diabetes" vs "Type 2 Diabetes").
+    """
+    
+    # Load abbreviation mappings from config file
+    _abbreviation_map = None
+    
+    @classmethod
+    def _load_abbreviations(cls) -> Dict[str, List[str]]:
+        """Load medical abbreviations from config file (cached)."""
+        if cls._abbreviation_map is None:
+            config_path = Path(__file__).parent / "config" / "medical_abbreviations.json"
+            try:
+                with open(config_path, 'r') as f:
+                    cls._abbreviation_map = json.load(f)
+            except FileNotFoundError:
+                print(f"Warning: Abbreviation config not found at {config_path}, using empty map")
+                cls._abbreviation_map = {}
+        return cls._abbreviation_map
     
     @staticmethod
-    def normalize_name(name: str) -> str:
+    def normalize_name(name: str, expand_abbreviations: bool = True) -> str:
         """
-        Normalize an entity name to canonical form.
+        Normalize an entity name, optionally expanding abbreviations.
+        
+        This combines basic normalization (whitespace cleanup) with optional
+        abbreviation expansion into a single efficient method.
         
         Args:
             name: Original entity name
+            expand_abbreviations: If True, expand known abbreviations to canonical form
         
         Returns:
-            Normalized name
-        """
-        # Remove extra whitespace
-        name = ' '.join(name.split())
+            Normalized name (canonical form if abbreviation found)
         
-        # Convert to title case for consistency
-        normalized = name.strip()
+        Examples:
+            >>> normalize_name("  HbA1c  ")
+            "A1C"  # Canonical form
+            >>> normalize_name("Type 2 Diabetes")
+            "T2D"  # Canonical form
+        """
+        # Remove extra whitespace and strip
+        normalized = ' '.join(name.split()).strip()
+        
+        # Expand abbreviations if requested
+        if expand_abbreviations:
+            abbreviations = EntityNormalizer._load_abbreviations()
+            for canonical, variants in abbreviations.items():
+                if normalized == canonical or normalized in variants:
+                    return canonical
         
         return normalized
     
     @staticmethod
-    def get_canonical_form(name: str) -> str:
+    def are_similar(
+        name1: str, 
+        name2: str, 
+        use_fuzzy: bool = False,
+        threshold: float = 0.95
+    ) -> bool:
         """
-        Get the canonical form of an entity, expanding abbreviations.
+        Check if two entity names should be considered the same entity.
         
-        Args:
-            name: Entity name (possibly abbreviated)
-        
-        Returns:
-            Canonical form
-        """
-        normalized = EntityNormalizer.normalize_name(name)
-        
-        # Check if it's a known abbreviation
-        for canonical, variants in EntityNormalizer.ABBREVIATION_MAP.items():
-            if normalized == canonical or normalized in variants:
-                return canonical
-        
-        return normalized
-    
-    @staticmethod
-    def are_similar(name1: str, name2: str, threshold: float = 0.85) -> bool:
-        """
-        Check if two entity names are similar enough to be considered the same.
+        For medical terminology, exact matching and abbreviation expansion are
+        preferred. Fuzzy matching is DISABLED by default to prevent dangerous
+        false positives (e.g., merging "Type 1 Diabetes" with "Type 2 Diabetes").
         
         Args:
             name1: First entity name
             name2: Second entity name
-            threshold: Similarity threshold (0-1)
+            use_fuzzy: Enable fuzzy string matching (default: False for safety)
+            threshold: Similarity threshold for fuzzy matching (default: 0.95)
         
         Returns:
-            True if similar enough
+            True if entities should be considered the same
+        
+        Examples:
+            >>> are_similar("HbA1c", "Hemoglobin A1C")
+            True  # Abbreviation match
+            >>> are_similar("Type 1 Diabetes", "Type 2 Diabetes")
+            False  # Different entities (fuzzy disabled by default)
         """
+        # Normalize both names (with abbreviation expansion)
         norm1 = EntityNormalizer.normalize_name(name1).lower()
         norm2 = EntityNormalizer.normalize_name(name2).lower()
         
-        # Exact match
+        # Exact match (after normalization and abbreviation expansion)
         if norm1 == norm2:
             return True
         
-        # Check if one is an abbreviation of the other
-        can1 = EntityNormalizer.get_canonical_form(name1)
-        can2 = EntityNormalizer.get_canonical_form(name2)
-        if can1 == can2:
-            return True
+        # Fuzzy matching (opt-in only, higher threshold for safety)
+        if use_fuzzy:
+            similarity = SequenceMatcher(None, norm1, norm2).ratio()
+            return similarity >= threshold
         
-        # Use sequence matching for fuzzy comparison
-        similarity = SequenceMatcher(None, norm1, norm2).ratio()
-        return similarity >= threshold
-    
-    @staticmethod
-    def extract_numeric_value(text: str) -> Tuple[Optional[float], Optional[str]]:
-        """
-        Extract numeric value and unit from text.
-        
-        Args:
-            text: Text containing a value (e.g., "6.5%", "126 mg/dL")
-        
-        Returns:
-            Tuple of (value, unit) or (None, None)
-        """
-        # Pattern to match number with optional unit
-        pattern = r'([<>=≤≥]?\s*\d+\.?\d*)\s*(%|mg/dL|mmol/L|mg/g|years?|min|weeks?|months?)?'
-        
-        match = re.search(pattern, text)
-        if match:
-            value_str = match.group(1).strip()
-            unit = match.group(2) if match.group(2) else None
-            
-            # Extract just the number
-            num_pattern = r'\d+\.?\d*'
-            num_match = re.search(num_pattern, value_str)
-            if num_match:
-                try:
-                    value = float(num_match.group())
-                    return value, unit
-                except ValueError:
-                    pass
-        
-        return None, None
+        # Default: entities are different
+        return False
 
 
 class EntityLinker:
     """Links entities across documents and builds unified entity set"""
     
     def __init__(self):
-        """Initialize entity linker"""
+        """Initialize entity linker with optimized lookup structures."""
         self.entity_clusters = defaultdict(list)
         self.entity_id_map = {}
+        self.canonical_to_cluster = {}  # Cache for O(1) lookup
         self.next_id = 1
     
     def add_entity(self, entity_data: Dict[str, Any], source_pdf: str, entity_type: str):
         """
         Add an entity to the linking system.
+        
+        Uses O(1) hash lookup for efficient clustering instead of O(n) linear search.
         
         Args:
             entity_data: Entity dict from extraction
@@ -160,22 +140,16 @@ class EntityLinker:
         if not entity_name:
             return
         
-        canonical_name = EntityNormalizer.get_canonical_form(entity_name)
+        # Normalize to canonical form (handles abbreviations)
+        canonical_name = EntityNormalizer.normalize_name(entity_name)
         
-        # Check if this entity matches any existing cluster
-        matched_cluster = None
-        for cluster_key, cluster_entities in self.entity_clusters.items():
-            cluster_canonical = cluster_key
-            
-            if EntityNormalizer.are_similar(canonical_name, cluster_canonical):
-                matched_cluster = cluster_key
-                break
-        
-        # Add to existing cluster or create new one
-        if matched_cluster:
-            cluster_key = matched_cluster
+        # O(1) lookup instead of O(n) linear search
+        if canonical_name in self.canonical_to_cluster:
+            cluster_key = self.canonical_to_cluster[canonical_name]
         else:
+            # New cluster
             cluster_key = canonical_name
+            self.canonical_to_cluster[canonical_name] = cluster_key
         
         # Assign unique ID if not already assigned
         if cluster_key not in self.entity_id_map:
@@ -274,10 +248,8 @@ class PostProcessor:
         self.entities_dir = Path(entities_dir)
         self.output_dir = Path(output_dir)
         
-        # Create output subdirectories
-        self.normalized_dir = self.output_dir / "normalized"
+        # Create output directory for linked entities
         self.linked_dir = self.output_dir / "linked"
-        self.normalized_dir.mkdir(parents=True, exist_ok=True)
         self.linked_dir.mkdir(parents=True, exist_ok=True)
         
         self.entity_linkers = {}  # One linker per entity type
@@ -287,24 +259,20 @@ class PostProcessor:
         entity_files = list(self.entities_dir.glob("*_entities.json"))
         
         if not entity_files:
-            print("❌ No entity files found for post-processing")
+            print("No entity files found for post-processing")
             return
         
-        print(f"\n🔧 Post-processing {len(entity_files)} entity files...")
-        
         for entity_file in entity_files:
-            print(f"\n📄 Processing: {entity_file.name}")
+            print(f"Processing: {entity_file.name}")
             self._process_file(entity_file)
         
         # Generate unified entity sets
-        print("\n🔗 Linking entities across documents...")
         self._generate_unified_entities()
         
         # Generate summary statistics
-        print("\n📊 Generating statistics...")
         self._generate_statistics()
         
-        print("\n✅ Post-processing complete!")
+        print("Post-processing complete")
     
     def _process_file(self, entity_file: Path):
         """Process a single entity extraction file"""
@@ -334,7 +302,7 @@ class PostProcessor:
                 for entity in entities:
                     linker.add_entity(entity, pdf_name, entity_type_key)
         
-        print(f"   ✅ Processed {len(extractions)} extraction chunks")
+        print(f"Processed {len(extractions)} extraction chunks")
     
     def _generate_unified_entities(self):
         """Generate unified entity sets across all documents"""
@@ -349,14 +317,14 @@ class PostProcessor:
             with open(output_file, 'w') as f:
                 json.dump(unified, f, indent=2)
             
-            print(f"   ✅ {entity_type}: {len(unified)} unique entities")
+            print(f"{entity_type}: {len(unified)} unique entities")
         
         # Save combined file
         combined_file = self.linked_dir / "all_entities_unified.json"
         with open(combined_file, 'w') as f:
             json.dump(all_unified, f, indent=2)
         
-        print(f"\n   📁 Unified entities saved to: {self.linked_dir}")
+        print(f"Unified entities saved to: {self.linked_dir}")
     
     def _generate_statistics(self):
         """Generate statistics about extracted and linked entities"""
@@ -394,11 +362,8 @@ class PostProcessor:
         with open(stats_file, 'w') as f:
             json.dump(stats, f, indent=2)
         
-        print(f"\n   📊 Statistics:")
-        print(f"      Total entity types: {stats['total_entity_types']}")
-        print(f"      Cross-document entities: {len(stats['cross_document_entities'])}")
-        print(f"      Single-source entities: {len(stats['single_source_entities'])}")
-        print(f"      Stats saved to: {stats_file}")
+        print(f"Statistics: Total entity types: {stats['total_entity_types']}, Cross-document entities: {len(stats['cross_document_entities'])}, Single-source entities: {len(stats['single_source_entities'])}")
+        print(f"Stats saved to: {stats_file}")
 
 
 def main():

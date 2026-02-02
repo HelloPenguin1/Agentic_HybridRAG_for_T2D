@@ -25,21 +25,22 @@ def run_full_pipeline(pdf_directory: str, skip_text_extraction: bool = False, sk
         skip_text_extraction: Skip text extraction if already done
         skip_entity_extraction: Skip entity extraction if already done
     """
+    # Define all paths in one place
     BASE_DIR = Path(__file__).parent
     CONFIG_DIR = BASE_DIR / "config"
     OUTPUT_DIR = BASE_DIR / "outputs"
+    EXTRACTED_TEXT_DIR = OUTPUT_DIR / "extracted_text"
+    METADATA_DIR = OUTPUT_DIR / "metadata"
+    ENTITIES_DIR = OUTPUT_DIR / "extracted_entities"
     
-    print(f"\n{'='*80}")
+    print("="*60)
     print("T2D CLINICAL KNOWLEDGE GRAPH EXTRACTION PIPELINE")
-    print(f"{'='*80}\n")
+    print("="*60)
     
-    # ========================================================================
     # STEP 1: PDF Text Extraction
-    # ========================================================================
     if not skip_text_extraction:
-        print("\n" + "="*80)
-        print("STEP 1: PDF TEXT EXTRACTION")
-        print("="*80)
+        print("\n[STEP 1/3] PDF TEXT EXTRACTION")
+        print("-" * 60)
         
         pipeline = ExtractionPipeline(
             config_dir=str(CONFIG_DIR),
@@ -47,26 +48,15 @@ def run_full_pipeline(pdf_directory: str, skip_text_extraction: bool = False, sk
             output_dir=str(OUTPUT_DIR)
         )
         
-        # Export metadata catalog
-        print("\n📋 Exporting metadata catalog...")
         pipeline.export_metadata_catalog()
-        
-        # Extract text from all PDFs
-        print("\n📄 Extracting text from PDFs...")
         pipeline.process_all_pdfs(pdf_directory)
     else:
-        print("\n⏭️  Skipping text extraction (already completed)")
+        print("\n[STEP 1/3] SKIPPED - Text extraction already completed")
     
-    # ========================================================================
     # STEP 2: Entity and Relationship Extraction
-    # ========================================================================
     if not skip_entity_extraction:
-        print("\n" + "="*80)
-        print("STEP 2: ENTITY AND RELATIONSHIP EXTRACTION")
-        print("="*80)
-        
-        EXTRACTED_TEXT_DIR = OUTPUT_DIR / "extracted_text"
-        METADATA_DIR = OUTPUT_DIR / "metadata"
+        print("\n[STEP 2/3] ENTITY AND RELATIONSHIP EXTRACTION")
+        print("-" * 60)
         
         orchestrator = ExtractionOrchestrator(
             extracted_text_dir=str(EXTRACTED_TEXT_DIR),
@@ -74,41 +64,32 @@ def run_full_pipeline(pdf_directory: str, skip_text_extraction: bool = False, sk
             output_dir=str(OUTPUT_DIR)
         )
         
-        print("\n🔍 Extracting entities with category-specific logic...")
         orchestrator.process_all()
     else:
-        print("\n⏭️  Skipping entity extraction (already completed)")
+        print("\n[STEP 2/3] SKIPPED - Entity extraction already completed")
     
-    # ========================================================================
     # STEP 3: Post-Processing (Normalization & Linking)
-    # ========================================================================
-    print("\n" + "="*80)
-    print("STEP 3: POST-PROCESSING (NORMALIZATION & LINKING)")
-    print("="*80)
-    
-    ENTITIES_DIR = OUTPUT_DIR / "extracted_entities"
+    print("\n[STEP 3/3] POST-PROCESSING (NORMALIZATION & LINKING)")
+    print("-" * 60)
     
     processor = PostProcessor(
         entities_dir=str(ENTITIES_DIR),
         output_dir=str(OUTPUT_DIR)
     )
     
-    print("\n🔧 Normalizing entities and linking across documents...")
     processor.process_all()
     
-    # ========================================================================
     # Pipeline Complete
-    # ========================================================================
-    print("\n" + "="*80)
+    print("\n" + "="*60)
     print("✅ PIPELINE COMPLETE!")
-    print("="*80)
+    print("="*60)
     print("\nOutput files:")
-    print(f"  📁 Extracted text: {OUTPUT_DIR / 'extracted_text'}")
-    print(f"  📁 Extracted entities: {OUTPUT_DIR / 'extracted_entities'}")
-    print(f"  📁 Linked entities: {OUTPUT_DIR / 'linked'}")
-    print(f"  📁 Metadata: {OUTPUT_DIR / 'metadata'}")
-    print(f"\n  📊 Summary: {OUTPUT_DIR / 'post_processing_statistics.json'}")
-    print("\n" + "="*80 + "\n")
+    print(f"  📁 Extracted text:    {EXTRACTED_TEXT_DIR}")
+    print(f"  📁 Extracted entities: {ENTITIES_DIR}")
+    print(f"  📁 Linked entities:    {OUTPUT_DIR / 'linked'}")
+    print(f"  📁 Metadata:           {METADATA_DIR}")
+    print(f"  📊 Statistics:         {OUTPUT_DIR / 'post_processing_statistics.json'}")
+    print()
 
 
 def main():
@@ -118,7 +99,7 @@ def main():
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 Examples:
-  # Run complete pipeline on PDFs in data/raw_pdfs/
+  # Run complete pipeline
   python run_pipeline.py --pdf-dir data/raw_pdfs
 
   # Skip text extraction if already done
