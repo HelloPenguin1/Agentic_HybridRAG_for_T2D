@@ -1,0 +1,20 @@
+[project]
+name = "diabetes-agenticgraphrag"
+version = "0.1.0"
+description = "GraphRAG with Agentic Workflow for Type 2 Diabetes Nursing Managment"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=7.1.0",
+    "langchain>=1.2.7",
+    "langchain-groq>=1.1.1",
+    "langchain-huggingface>=1.2.0",
+    "langchain-ollama>=1.0.1",
+    "langchain-openai>=1.1.7",
+    "neo4j>=6.1.0",
+    "openai>=2.16.0",
+    "pdfplumber>=0.11.9",
+    "python-dotenv>=1.2.1",
+    "qdrant-client>=1.16.2",
+    "streamlit>=1.53.1",
+]
