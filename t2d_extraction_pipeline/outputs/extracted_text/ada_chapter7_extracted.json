@@ -1,0 +1,1059 @@
+[
+  {
+    "text": "YGOLONHCET\nSETEBAID\n.7\nS150 Diabetes Care Volume 49, Supplement 1, January 2026\n7. Diabetes Technology: Standards\nAmerican Diabetes Association\nProfessional Practice Committee for\nof Care in Diabetes\u20142026\nDiabetes*\nDiabetes Care 2026;49(Suppl. 1):S150\u2013S165 | https://doi.org/10.2337/dc26-S007\nThe American Diabetes Association (ADA) \u201cStandards of Care in Diabetes\u201d in-\ncludes the ADA\u2019s current clinical practice recommendations and is intended to\nprovide the components of diabetes care, general treatment goals and guide-\nlines, and tools to evaluate quality of care. Members of the ADA Professional\nPractice Committee for Diabetes, an interprofessional expert committee, are re-\nsponsible for updating the Standards of Care annually, or more frequently as war-\nranted. For a detailed description of ADA standards, statements, and reports, as\nwell as the evidence-grading system for ADA\u2019s clinical practice recommendations\nand a full list of Professional Practice Committee members, please refer to\n",
+    "page": 1,
+    "chunk_id": "p1_c1",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": " ADA standards, statements, and reports, as\nwell as the evidence-grading system for ADA\u2019s clinical practice recommendations\nand a full list of Professional Practice Committee members, please refer to\nIntroduction and Methodology. Readers who wish to comment on the Standards\nof Care are invited to do so at professional.diabetes.org/SOC.\nDiabetes technology is the term used to describe the hardware and software that\npeople with diabetes use to assist with self-management, ranging from lifestyle modi-\nfications to glucose monitoring and automated therapy adjustments. Historically, dia-\nbetes technology has been divided into two main categories: insulin administration\n(insulin given by syringe, pen, inhalation, patch devices, or pump [also called continu-\nous subcutaneous insulin infusion]) and glucose measurement (assessment by blood\nglucose monitoring [BGM] or continuous glucose monitoring [CGM]). Diabetes tech-\nnology now also includes automated insulin delivery (AID) systems that use C",
+    "page": 1,
+    "chunk_id": "p1_c2",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "d glucose measurement (assessment by blood\nglucose monitoring [BGM] or continuous glucose monitoring [CGM]). Diabetes tech-\nnology now also includes automated insulin delivery (AID) systems that use CGM- *A complete list of members of the American\ninformed algorithms to modulate insulin delivery. Furthermore, diabetes technology Diabetes Association Professional Practice\nCommittee for Diabetes can be found at https:// encompasses connected insulin pens and diabetes self-management support software\ndoi.org/10.2337/dc26-SINT.\nthat serve as medical devices. Diabetes technology, coupled with education, follow-\nDuality of interest information for each contributor\nup, pharmacotherapy as needed, and support, can improve the lives and health of\nis available at https://doi.org/10.2337/dc26-SDIS.\npeople with diabetes; however, the complexity and rapid evolution of the diabetes\nSuggested citation: American Diabetes Association\ntechnology landscape can also be a barrier to implementation for peopl",
+    "page": 1,
+    "chunk_id": "p1_c3",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "ople with diabetes; however, the complexity and rapid evolution of the diabetes\nSuggested citation: American Diabetes Association\ntechnology landscape can also be a barrier to implementation for people with diabe-\nProfessional Practice Committee for Diabetes.\ntes, their care partners, and the health care team.\n7. Diabetes technology: Standards of Care in\nDiabetes\u20142026. Diabetes Care 2026;49(Suppl. 1):\nS150\u2013S165\nGENERAL DEVICE PRINCIPLES\n\u00a9 2025 by the American Diabetes Association.\nRecommendations Readers may use this article as long as the\n7.1 Diabetes devices should be offered to people with diabetes. A work is properly cited, the use is educational\n7.2 The type(s) and selection of devices should be individualized based on a per- and not for profit, and the work is not altered.\nThe version of record may be linked at https://\nson\u2019s specific needs, circumstances, preferences, and skill level. In the setting of\ndiabetesjournals.org/care, but ADA permission is\nan individual whose diabetes",
+    "page": 1,
+    "chunk_id": "p1_c4",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "n of record may be linked at https://\nson\u2019s specific needs, circumstances, preferences, and skill level. In the setting of\ndiabetesjournals.org/care, but ADA permission is\nan individual whose diabetes is partially or wholly managed by someone else required to post this work on any third-party site or\n(e.g., a young child or a person with cognitive impairment or dexterity, psychoso- platform. This publication and its contents may not\ncial issues, and/or physical limitations), the caregiver\u2019s skills and preferences are be reproduced, distributed, or used for text or data\nmining, machine learning, or similar technologies\nintegral to the decision-making process. E\nwithout prior written permission. Requests to\n7.3a When prescribing a continuous glucose monitoring (CGM) device, ensure reuse, adapt, or distribute this work may be sent to\nthat people with diabetes and caregivers are offered initial and ongoing train- permissions@diabetes.org. More information is\ning and education as indicated ",
+    "page": 1,
+    "chunk_id": "p1_c5",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "pt, or distribute this work may be sent to\nthat people with diabetes and caregivers are offered initial and ongoing train- permissions@diabetes.org. More information is\ning and education as indicated by individual circumstances. Education should available at https://diabetesjournals.org/journals/\npages/license.\nDownloaded\nfrom\nhttp://diabetesjournals.org/care/article-pdf/49/Supplement_1/S150/848844/dc26s007.pdf\nby\nguest\non\n01\nFebruary\n2026",
+    "page": 1,
+    "chunk_id": "p1_c6",
+    "source": "ada_chapter7.pdf",
+    "char_count": 443
+  },
+  {
+    "text": "diabetesjournals.org/care Diabetes Technology S151\nInsurance coverage can lag behind device Health care professionals should be\ninclude utilization of data, including\navailability, people\u2019s interest in devices aware of the availability of diabetes devi-\nuploading or sharing data to moni-\nand willingness for adoption can vary, ces and their recommended uses and\ntor and adjust therapy. C\nand health care teams may have chal- how to access the resources needed to\n7.3b When prescribing an automated\nlenges in keeping up with newly released use them. Given the rapidly changing\ninsulin delivery (AID) system, people\ntechnology. An American Diabetes Associ- landscape of technology, it is expected\nwith diabetes and their caregivers\nation resource, which can be accessed at that software and/or hardware are being\nmust receive education on how to\ndiabetes.org/living-with-diabetes/treatment- constantly updated; hence, periodic edu-\nuse and troubleshoot the system. This\ncare/diabetes-technology-guide,",
+    "page": 2,
+    "chunk_id": "p2_c1",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "e are being\nmust receive education on how to\ndiabetes.org/living-with-diabetes/treatment- constantly updated; hence, periodic edu-\nuse and troubleshoot the system. This\ncare/diabetes-technology-guide, can help cation is helpful to keep health care pro-\neducation should occur at regular in-\nhealth care professionals and people with fessionals informed and updated. For\ntervals as needed. Education should\ndiabetes make decisions on the initial those interested in more advanced in-\ninclude utilization of the integrated\nchoice of device(s). Other sources, includ- volvement with device use, there are\nsystem and its data, including upload-\ning device manufacturers, can help peo- defined competencies described as ba-\ning or sharing data to monitor and\nple troubleshoot when difficulties arise sic, fundamental, intermediate, and ad-\nadjust therapy. C\n(1\u20137). vanced that are specific to the role of\n7.4 Health care professionals work-\neach health care team member (12).\ning with people with diabetes",
+    "page": 2,
+    "chunk_id": "p2_c2",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "fundamental, intermediate, and ad-\nadjust therapy. C\n(1\u20137). vanced that are specific to the role of\n7.4 Health care professionals work-\neach health care team member (12).\ning with people with diabetes should Education and Training\nbe aware of available technologies In general, no device used in diabetes The health care team\u2019s knowledge and\nand seek additional support when management works optimally without competency are even more critical\nneeded. E education, training, and ongoing support. when people with diabetes are started\n7.5 People with diabetes using CGM, There are multiple resources, including on- on advanced diabetes technologies,\ncontinuous subcutaneous insulin infusion line tutorials and training videos as well as such as AID systems. In such situa-\nwritten material, on the use of devices. tions, training of the team is vital and\n(CSII), and/or AID for diabetes manage-\nPeople with diabetes and their caregivers should include a discussion about real-\nment should have continu",
+    "page": 2,
+    "chunk_id": "p2_c3",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": " of devices. tions, training of the team is vital and\n(CSII), and/or AID for diabetes manage-\nPeople with diabetes and their caregivers should include a discussion about real-\nment should have continued access to\nvary in comfort level with technology, and istic expectations for the ability of the\ndevices across third-party payors, regard-\nsome prefer in-person training and sup- initiated system to achieve glucose\nless of age or A1C levels. E\nport. Those with more education regard- goals, fundamental differences from\n7.6 Children and adolescents should\ning device use have better outcomes the previous treatment tools, the sys-\nbe supported at school in the use\n(1,2); therefore, the need for additional tem\u2019s features and limitations, and the\nof diabetes technology, such as CGM\neducation should be periodically assessed, best way to use the new system to\nsystems, CSII, connected insulin pens,\nparticularly if treatment goals are not be- maximize the benefits it can offer (13).\nand AID system",
+    "page": 2,
+    "chunk_id": "p2_c4",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "d be periodically assessed, best way to use the new system to\nsystems, CSII, connected insulin pens,\nparticularly if treatment goals are not be- maximize the benefits it can offer (13).\nand AID systems. E\ning met.\n7.7 For adults with diabetes using\nTraining on the use of CGM often dif- Use in Schools for Children and\ndiabetes technology, reasonable ac-\nfers from that of pump and AID sys- Adolescents\ncommodations in educational and\ntems. In some settings, CGM training Technology use should be supported in\nwork settings should include having\ncan be done by users themselves with school settings, and instructions for device\nsufficient time to manage their de-\ncompany-provided training materials (for use should be outlined in the student\u2019s\nvices and respond to high and low\ninstance, people are able to use the over- diabetes medical management plan\nglucose levels. E\nthe-counter [OTC] CGM brands on their (DMMP). A backup treatment plan\n7.8 Consider early initiation, includ-\nown), although for",
+    "page": 2,
+    "chunk_id": "p2_c5",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "able to use the over- diabetes medical management plan\nglucose levels. E\nthe-counter [OTC] CGM brands on their (DMMP). A backup treatment plan\n7.8 Consider early initiation, includ-\nown), although for underresourced, should be included in the DMMP for\ning at diagnosis, of CGM, CSII, and\nyounger (8,9), and older (10) individuals, potential device failure. School nurses\nAID depending on a person\u2019s or care-\nmore repetition and time spent reviewing and designees should complete training\ngiver\u2019s needs and preferences. C\nconcepts is often indicated. Additionally, to stay up to date on diabetes technolo-\n7.8a There should be no requirement\nregular monitoring and review of the data gies prescribed for use in the school\nof C-peptide level, B the presence of\nobtained from CGM devices is needed to setting. Updated resources to support\nislet autoantibodies, B or duration of\ninform and optimize clinical care (8). Edu- diabetes care at school, including train-\ninsulin treatment C before initiation\nc",
+    "page": 2,
+    "chunk_id": "p2_c6",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "tting. Updated resources to support\nislet autoantibodies, B or duration of\ninform and optimize clinical care (8). Edu- diabetes care at school, including train-\ninsulin treatment C before initiation\ncation and training should be available ing materials and a DMMP template,\nof CSII or AID.\nto any person who needs it but should can be found online at (https://diabetes.\n7.9 Standardized reports for all CGM,\nnot constitute a barrier to device use in a org/advocacy/safe-at-school-state-laws/\nCSII, AID, and connected insulin devi-\nmotivated individual. diabetes-medical-management-plan).\nces with a minimum of a single-page\nInsulin pumps and AID systems, on\nreport, such as the standardized CGM\nthe other hand, generally require train- Use for Adults\nreport and weekly summary, should\ning and education for safe use. There For adults using devices in educational\nbe available and utilized. Options for\nare studies where youth with type 1 di- and employment settings, reasonable ac-\ndaily and weekly r",
+    "page": 2,
+    "chunk_id": "p2_c7",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "on for safe use. There For adults using devices in educational\nbe available and utilized. Options for\nare studies where youth with type 1 di- and employment settings, reasonable ac-\ndaily and weekly reports and raw\nabetes have been able to self-initiate commodations should be provided to al-\ndata should be available. E\ntubeless AID systems (11), but for most, low time and space necessary for safe\ntraining with a certified or trained dia- device use (14). This includes time to re-\nTechnology is rapidly changing, and betes educator and education specialist spond appropriately to high and low glu-\nthere is no one-size-fits-all approach to is necessary for full understanding and cose levels and deal with any device\ntechnology use in people with diabetes. safe use of the technology. notifications and issues.\nDownloaded\nfrom\nhttp://diabetesjournals.org/care/article-pdf/49/Supplement_1/S150/848844/dc26s007.pdf\nby\nguest\non\n01\nFebruary\n2026",
+    "page": 2,
+    "chunk_id": "p2_c8",
+    "source": "ada_chapter7.pdf",
+    "char_count": 945
+  },
+  {
+    "text": "ns and issues.\nDownloaded\nfrom\nhttp://diabetesjournals.org/care/article-pdf/49/Supplement_1/S150/848844/dc26s007.pdf\nby\nguest\non\n01\nFebruary\n2026",
+    "page": 2,
+    "chunk_id": "p2_c9",
+    "source": "ada_chapter7.pdf",
+    "char_count": 145
+  },
+  {
+    "text": "S152 Diabetes Technology Diabetes Care Volume 49, Supplement 1, January 2026\nInitiation of Device Use have been shown to benefit from AID\nhelpful when modifying meal plans,\nDiabetes technology should be initiated therapy (20\u201323). Similarly, the duration of\nphysical activity plans, and/or medi-\nsoon after the time of diagnosis and diabetes is not related to outcomes with\ncations (particularly medications that\nanytime thereafter, as indicated by the the use of technology. Therefore, none\ncan cause hypoglycemia) in conjunc-\nuser\u2019s needs and wishes. The use of of these measures should be used when\ntion with a treatment adjustment pro-\nCGM and BGM devices should be started determining suitability for continuous sub-\ngram. E\nfrom the outset of the diagnosis of dia- cutaneous insulin infusion or AID therapy.\n7.14 Consider potential interference\nbetes, particularly in people who require\nof medications and substances on\ninsulin for management (3,4,15,16). CGM Standardized Reporting\nglucose leve",
+    "page": 3,
+    "chunk_id": "p3_c1",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "AID therapy.\n7.14 Consider potential interference\nbetes, particularly in people who require\nof medications and substances on\ninsulin for management (3,4,15,16). CGM Standardized Reporting\nglucose levels measured by blood\nuse allows for close tracking of glucose Use of a standardized CGM tracing is\nglucose meters. B\nlevels with adjustment of insulin dosing helpful for people with diabetes and\nand lifestyle modifications and removes clinicians (24) and in multiple settings,\nthe burden of frequent BGM. In addition, from connected insulin pens (25) to Major clinical trials of insulin-treated\nearly CGM initiation after diagnosis of CGM (26) to AID systems (27). Ideally, people with diabetes have included BGM\ntype 1 diabetes in children and adoles- both people with diabetes and their as part of multifactorial interventions to\ncents has been shown to decrease A1C health care teams can access and ana- demonstrate the benefit of intensive gly-\nlevels and is associated with high paren- lyze the ",
+    "page": 3,
+    "chunk_id": "p3_c2",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "multifactorial interventions to\ncents has been shown to decrease A1C health care teams can access and ana- demonstrate the benefit of intensive gly-\nlevels and is associated with high paren- lyze the data, both between and at cemic management on diabetes compli-\ntal satisfaction and reliance on this tech- clinic visits to inform self-management cations (28). BGM is thus an integral\nnology for diabetes management (5,7). and medication dose titration. component of effective therapy for in-\nTraining on alarm and alert settings dividuals using insulin. In recent years,\nwhen initiating CGM is crucial to avoid BLOOD GLUCOSE MONITORING CGM has emerged as a method for the\nalarm fatigue or overload. Interruption assessment of glucose levels that im-\nof access to CGM is associated with a Recommendations proves outcomes compared with BGM\n7.10 People with diabetes should be\nworsening of outcomes (6,17); there- in many settings (discussed below). Glu-\nprovided with blood glucose monitor-\nfore, it i",
+    "page": 3,
+    "chunk_id": "p3_c3",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "ions proves outcomes compared with BGM\n7.10 People with diabetes should be\nworsening of outcomes (6,17); there- in many settings (discussed below). Glu-\nprovided with blood glucose monitor-\nfore, it is important for individuals on cose monitoring (BGM or CGM) allows\ning (BGM) devices as indicated by\nCGM to have consistent access to devi- people with diabetes to evaluate their in-\ntheir circumstances, preferences, and\nces. A recent systematic review with dividual responses to therapy and assess\ntreatment. People using CGM devices\nmeta-analysis also supports the use of whether glycemic goals are being safely\nmust also have access to BGM at all\nCGM in people with type 2 diabetes not achieved. Integrating glucose testing re-\ntimes. A\nusing insulin, with observations of im- sults into diabetes management can be\n7.11 People who are taking insulin\nproved glycemic outcomes and indi- a useful tool for guiding medical nu-\nand using BGM should be encour-\nvidual experience, reduced health care tri",
+    "page": 3,
+    "chunk_id": "p3_c4",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "management can be\n7.11 People who are taking insulin\nproved glycemic outcomes and indi- a useful tool for guiding medical nu-\nand using BGM should be encour-\nvidual experience, reduced health care trition therapy and physical activity,\naged to check their blood glucose\nresource utilization, and acceptable cost- preventing hypoglycemia, or adjusting\nlevels when appropriate based on\neffectiveness (18). medications (particularly prandial insu-\ntheir insulin therapy. This may in-\nAID systems are the preferred insulin lin doses or correction bolus doses). The\nclude checking when fasting, prior\ndelivery system in individuals with type 1 specific needs and goals of the person\nto meals and snacks, after meals, at\ndiabetes and type 2 diabetes on multi- with diabetes should dictate BGM and\nbedtime, in the middle of the night, ple daily injections (MDI) and people CGM frequency and timing. As recom-\nprior to, during, and after exercise,\nwith other forms of insulin-deficient di- mended by the devi",
+    "page": 3,
+    "chunk_id": "p3_c5",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "in the middle of the night, ple daily injections (MDI) and people CGM frequency and timing. As recom-\nprior to, during, and after exercise,\nwith other forms of insulin-deficient di- mended by the device manufacturers\nwhen hypoglycemia is suspected, af-\nabetes. They can be considered for use and the U.S. Food and Drug Administra-\nter treating low blood glucose levels in people on basal insulin who are not tion (FDA), people with diabetes using\nuntil achieving normoglycemia, when\nreaching their targets. Early initiation of CGM must also have access to BGM for\nhyperglycemia is suspected, and prior\nAID therapy has been shown to be ben- multiple reasons, including whenever\nto and while performing critical tasks\neficial. In an open-label, multicenter, there is suspicion that the CGM is inac-\nsuch as driving. B\nrandomized, parallel clinical trial enroll- curate, while waiting for the CGM device\n7.12 Health care professionals should\ning youth with newly diagnosed type 1 to warm up, when there ",
+    "page": 3,
+    "chunk_id": "p3_c6",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "h as driving. B\nrandomized, parallel clinical trial enroll- curate, while waiting for the CGM device\n7.12 Health care professionals should\ning youth with newly diagnosed type 1 to warm up, when there is a disruption\nbe aware of the differences in accuracy\ndiabetes, initiation of an AID system within in CGM transmission, for calibration (if\namong blood glucose meters. Only me-\n21 days from diagnosis showed 10% needed) or if a warning message ap-\nters approved by the U.S. Food and\nhigher time in range (TIR) (70\u2013180 mg/dL pears, when CGM supplies are delayed,\nDrug Administration (FDA) (or com-\n[3.9\u201310.0 mmol/L]) and lower A1C at and in any clinical setting where glucose\nparable regulatory agencies for other\n12 months versus usual care (15). In ad- levels are changing rapidly (>2 mg/dL/min),\ngeographical locations) with proven\ndition, use of diabetes technology overall which could cause a discrepancy between\naccuracy should be used, with unex-\nimproves A1C and increases the number CGM and ",
+    "page": 3,
+    "chunk_id": "p3_c7",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "eographical locations) with proven\ndition, use of diabetes technology overall which could cause a discrepancy between\naccuracy should be used, with unex-\nimproves A1C and increases the number CGM and blood glucose values.\npired test strips purchased from a\nof people achieving an A1C <7% (19).\npharmacy or licensed distributor and\nThere are no data that the presence or Meter Standards\nproperly stored. E\nabsence of C-peptide or islet autoanti- Glucose meters meeting FDA guidance\n7.13 Although BGM in people on\nbodies is associated with responsiveness for meter accuracy provide the most re-\nnoninsulin therapies has not consis-\nto continuous subcutaneous insulin infu- liable data for diabetes management.\ntently shown clinically significant re-\nsion or AID therapy. People with type 2 dia- There are several current standards for\nductions in A1C levels, it may be\nbetes who continue to produce insulin the accuracy of blood glucose meters,\nDownloaded\nfrom\nhttp://diabetesjournals.org/care/article-",
+    "page": 3,
+    "chunk_id": "p3_c8",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "re several current standards for\nductions in A1C levels, it may be\nbetes who continue to produce insulin the accuracy of blood glucose meters,\nDownloaded\nfrom\nhttp://diabetesjournals.org/care/article-pdf/49/Supplement_1/S150/848844/dc26s007.pdf\nby\nguest\non\n01\nFebruary\n2026",
+    "page": 3,
+    "chunk_id": "p3_c9",
+    "source": "ada_chapter7.pdf",
+    "char_count": 273
+  },
+  {
+    "text": "diabetesjournals.org/care Diabetes Technology S153\nbut the two most used are those of the that data are used in an effective and normoglycemic, and prior to and while\nInternational Organization for Standardi- timely manner. In a large cohort analysis performing critical tasks such as driv-\nzation (ISO) (ISO 15197:2013) and the of over 24,000 adults with both type 1 ing. For many individuals using BGM\nFDA (Table 7.1). In the U.S., currently and type 2 diabetes, more frequent use alone, this requires doing finger sticks\nmarketed meters must meet the stan- of BGM was associated with lower A1C 6\u201310 times daily, although individual\ndard under which they were approved, levels, with greater BGM frequency asso- needs may vary. A database study of\nwhich may not be the current standard. ciated with lower A1C in people with almost 27,000 children and adolescents\nMoreover, the monitoring of current ac- type 1 diabetes across the lifespan with type 1 diabetes showed that, after\ncuracy postmarketing",
+    "page": 4,
+    "chunk_id": "p4_c1",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "lower A1C in people with almost 27,000 children and adolescents\nMoreover, the monitoring of current ac- type 1 diabetes across the lifespan with type 1 diabetes showed that, after\ncuracy postmarketing is left to the man- (33,34). In young adults with type 1 dia- adjusting for multiple confounders, in-\nufacturer and not routinely checked by betes, there was also a correlation be- creased daily frequency of BGM was\nan independent source. tween greater BGM frequency and lower significantly associated with lower A1C\nPeople with diabetes assume their A1C levels (34). Among those who check levels (\u22120.2% per additional check per\nglucose meter is accurate because it is their blood glucose at least once daily, day) and with fewer acute complica-\nFDA cleared, but that may not be the many reported taking no action when re- tions (39).\ncase. In prior analyses with glucose me- sults were high or low (35). Some meters\nters, 14 of 18 glucose meters met the now provide advice to the user in real Peopl",
+    "page": 4,
+    "chunk_id": "p4_c2",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "king no action when re- tions (39).\ncase. In prior analyses with glucose me- sults were high or low (35). Some meters\nters, 14 of 18 glucose meters met the now provide advice to the user in real People With Diabetes Using Basal Insulin\nminimum accuracy requirements (29). time when monitoring glucose levels and/or Oral Agents and Noninsulin Injectables\nHowever, few studies have compared (36), whereas others can be used as a The evidence is insufficient regarding\nmeters head-to-head. part of integrated health platforms (37). when to prescribe BGM and how often\nCertain meter system characteristics, People with diabetes should be taught monitoring is needed for insulin-treated\nsuch as the use of lancing devices that how to use BGM data to adjust food in- people with diabetes who do not use\nare less painful (30) and the ability to take, physical activity, or pharmacologic intensive insulin therapy, such as those\nreapply blood to a strip with an insuf- therapy to achieve their treatment with",
+    "page": 4,
+    "chunk_id": "p4_c3",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": " less painful (30) and the ability to take, physical activity, or pharmacologic intensive insulin therapy, such as those\nreapply blood to a strip with an insuf- therapy to achieve their treatment with type 2 diabetes taking basal insu-\nficient initial sample, or meters with goals. The ongoing need for and fre- lin with or without oral agents and/or\nintegrated speech that can read aloud quency of BGM should be reevaluated noninsulin injectables. However, for\nglucose levels for visually impaired at each routine visit to ensure its effec- those taking basal insulin, assessing\nindividuals (31), may also be benefi- tive use (34,38). fasting glucose with BGM to inform\ncial to people with diabetes (32) and dose adjustments to achieve blood\nmay make BGM less burdensome to People With Diabetes Treated With Intensive glucose goals results in lower A1C\nperform. Insulin Therapies levels (40).\nGlucose monitoring is particularly im- In people with type 2 diabetes not\nUse of Strips From Unlicensed En",
+    "page": 4,
+    "chunk_id": "p4_c4",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "ted With Intensive glucose goals results in lower A1C\nperform. Insulin Therapies levels (40).\nGlucose monitoring is particularly im- In people with type 2 diabetes not\nUse of Strips From Unlicensed Entities portant for people with diabetes treated taking insulin, studies have not consis-\nPeople with diabetes should be advised with insulin therapy to detect and pre- tently shown benefit, although the most\nagainst purchasing or reselling preowned vent hypoglycemia and hyperglycemia. benefit has been seen in individuals par-\nor secondhand test strips, as these may Most individuals on intensive insulin ticipating in structured clinical programs\ngive incorrect results. Only unopened therapies (MDI or insulin pump therapy) (41,42). Some individuals find BGM use-\nand unexpired vials of glucose test strips should be encouraged to assess glucose ful to provide insight into the impact of\nshould be used to ensure BGM accuracy. levels using BGM (and preferably CGM nutrition, physical activity, and",
+    "page": 4,
+    "chunk_id": "p4_c5",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "st strips should be encouraged to assess glucose ful to provide insight into the impact of\nshould be used to ensure BGM accuracy. levels using BGM (and preferably CGM nutrition, physical activity, and medica-\nwith BGM backup) prior to meals and tion management on glucose levels. Glu-\nOptimizing Blood Glucose Meter Use snacks, at bedtime, occasionally post- cose monitoring may also be useful in\nOptimal use of BGM devices requires prandially, prior to, during, and after assessing hypoglycemia, glucose levels\nproper review and interpretation of data physical activity, when they suspect during intercurrent illness, or discrepan-\nby both the person with diabetes and hypoglycemia or hyperglycemia, after cies between measured A1C and glucose\nthe health care professional to ensure treating hypoglycemia until they are levels when there is concern an A1C\nTable 7.1\u2014Comparison of ISO 15197:2013 and FDA blood glucose meter accuracy standards\nSetting FDA* ISO 15197:2013*\nHospital use 95% within 12% ",
+    "page": 4,
+    "chunk_id": "p4_c6",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "cemia until they are levels when there is concern an A1C\nTable 7.1\u2014Comparison of ISO 15197:2013 and FDA blood glucose meter accuracy standards\nSetting FDA* ISO 15197:2013*\nHospital use 95% within 12% for BG \u226575 mg/dL 95% within 15% for BG \u2265100 mg/dL\n95% within 12 mg/dL for BG <75 mg/dL 95% within 15 mg/dL for BG <100 mg/dL\n98% within 15% for BG \u226575 mg/dL 99% in A or B region of consensus error grid\u2021\n98% within 15 mg/dL for BG <75 mg/dL\nHome use 95% within 15% for all BG in the usable BG range\u2020\n99% within 20% for all BG in the usable BG range\u2020\nBG, blood glucose; FDA, U.S. Food and Drug Administration; ISO, International Organization for Standardization. To convert mg/dL to mmol/L,\nsee endmemo.com/medical/unitconvert/Glucose.php.*Data shown in the FDA column are from the FDA (191). Data shown in the ISO column\nare from the FDA (192).\u2020The range of blood glucose values for which the meter has been proven accurate and will provide readings (other\nthan low, high, or error).\u2021Values outside of",
+    "page": 4,
+    "chunk_id": "p4_c7",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "n in the ISO column\nare from the FDA (192).\u2020The range of blood glucose values for which the meter has been proven accurate and will provide readings (other\nthan low, high, or error).\u2021Values outside of the \u201cclinically acceptable\u201d A and B regions are considered \u201coutlier\u201d readings and may be danger-\nous to use for therapeutic decisions (193).\nDownloaded\nfrom\nhttp://diabetesjournals.org/care/article-pdf/49/Supplement_1/S150/848844/dc26s007.pdf\nby\nguest\non\n01\nFebruary\n2026",
+    "page": 4,
+    "chunk_id": "p4_c8",
+    "source": "ada_chapter7.pdf",
+    "char_count": 472
+  },
+  {
+    "text": "S154 Diabetes Technology Diabetes Care Volume 49, Supplement 1, January 2026\nresult may not be reliable in specific indi- with either personal blood glucose meters\n7.17 During pregnancy for individu-\nviduals (for more details, see section 2, or professional blood glucose meters used\nals with type 1 diabetes, CGM can\n\u201cDiagnosis and Classification of Diabetes\u201d). in various inpatient settings (neonatal\nhelp achieve glycemic goals (e.g.,\nA key consideration is that performing intensive care units, hospital wards, and in-\ntime in range and time above range) A\nBGM alone does not lower blood glu- tensive care units) (45). Meters vary in\nand A1C goal B and may be beneficial\ncose levels. To be useful, the informa- terms of their sensitivity to interfering sub-\nfor other types of diabetes in preg-\ntion must be integrated into clinical and stances, and this information should be\nnancy. E See section 15, \u201cManagement\nself-management treatment plans. Further, available in the prescribing information",
+    "page": 5,
+    "chunk_id": "p5_c1",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "ion must be integrated into clinical and stances, and this information should be\nnancy. E See section 15, \u201cManagement\nself-management treatment plans. Further, available in the prescribing information for\nof Diabetes in Pregnancy,\u201d for more\nas noted above, a recent systematic review the meter. Some of the possible interfering\ndetail regarding use of technology in\nwith meta-analysis did support use of CGM substances are listed in Table 7.2.\npregnancy.\nin people with type 2 diabetes with bene-\n7.18 In circumstances when consis-\nfits to glycemic management, individual ex-\nCONTINUOUS GLUCOSE\ntent use of CGM is not feasible,\nperience, health care resource utilization, MONITORING DEVICES\nconsider periodic use of personal or\nand cost-effectiveness (18,43).\nSee Table 7.3for definitions of types of professional CGM to adjust medica-\ncurrently available CGM devices. tion and/or lifestyle. C\nGlucose Meter Inaccuracy\n7.19 Skin reactions, either due to ir-\nAlthough many meters function well un- Rec",
+    "page": 5,
+    "chunk_id": "p5_c2",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": " professional CGM to adjust medica-\ncurrently available CGM devices. tion and/or lifestyle. C\nGlucose Meter Inaccuracy\n7.19 Skin reactions, either due to ir-\nAlthough many meters function well un- Recommendations\nder various circumstances, health care 7.15 Use of CGM is recommended ritation or allergy, should be assessed\nprofessionals and people with diabetes at diabetes onset and anytime there- and addressed to aid in successful\nmust be aware of factors that impair meter after for children, adolescents, and use of devices. E\n(and CGM) accuracy. A meter reading that adults with diabetes who are on insulin 7.20 People who wear CGM devices\nseems discordant with the clinical picture therapy, A on noninsulin therapies that should be educated on potential in-\nneeds to be retested or tested in a labora- can cause hypoglycemia, C and on any terfering substances and other fac-\ntory. Health care professionals in intensive diabetes treatment where CGM helps tors that may affect accuracy. C\ncare ",
+    "page": 5,
+    "chunk_id": "p5_c3",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": " labora- can cause hypoglycemia, C and on any terfering substances and other fac-\ntory. Health care professionals in intensive diabetes treatment where CGM helps tors that may affect accuracy. C\ncare unit settings need to be particularly in management. C The specific CGM\naware of the potential for incorrect me- device and method for use should be\nCGM measures interstitial glucose (which\nter readings during critical illness, and made based on the individual\u2019s circum-\ncorrelates well with plasma glucose,\nlaboratory-based values should be used if stances, preferences, and needs. E\nalthough at times, it can lag if glucose\nthere is any doubt. Some meters give er- 7.16 In people with diabetes on in-\nlevels are rising or falling rapidly). Al-\nror messages if meter readings are likely sulin therapy, CGM devices should\nthough historically there were two\nto be false (44). be used as close to daily as possible\nbasic types of personal CGM devices,\nfor maximal benefit. A People with\nreal-time CGM (",
+    "page": 5,
+    "chunk_id": "p5_c4",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "y, CGM devices should\nthough historically there were two\nto be false (44). be used as close to daily as possible\nbasic types of personal CGM devices,\nfor maximal benefit. A People with\nreal-time CGM (rtCGM) and intermit-\nOxygen. Most currently available glu- diabetes should have uninterrupted\ntently scanned CGM (isCGM), now most\ncose monitors use an enzymatic reac- access to their supplies to minimize\navailable prescribed CGM devices have\ntion linked to an electrochemical reaction, gaps in CGM. A\nsimilar characteristics: no swiping required,\neither glucose oxidase or glucose dehydro-\ngenase (45). Glucose oxidase monitors are\nsensitive to the oxygen available and\nTable 7.2\u2014Some of the more common interfering substances and/or conditions\nshould only be used with capillary blood that affect blood glucose meters (for inpatient and outpatient use)\nin people with normal oxygen saturation.\nSubstance\nHigher oxygen tensions (i.e., arterial blood or condition Potential effects on glucose reading",
+    "page": 5,
+    "chunk_id": "p5_c5",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "lood glucose meters (for inpatient and outpatient use)\nin people with normal oxygen saturation.\nSubstance\nHigher oxygen tensions (i.e., arterial blood or condition Potential effects on glucose readings measured by BGMs*\nor oxygen therapy) may result in false\nMaltose\u2020 Falsely higher blood glucose readings\nlow-glucose readings, and low oxygen ten-\nGalactose Falsely higher blood glucose readings\nsions (i.e., high altitude, hypoxia, or\nvenous blood readings) may lead to Xylose Falsely higher blood glucose readings\nfalsely elevated glucose readings. Glucose N-Acetylcysteine Falsely higher or lower blood glucose readings (depending on BGM design)\ndehydrogenase\u2013based monitors are gen-\nAcetaminophen Falsely higher or lower blood glucose readings (depending on BGM design)\nerally not sensitive to oxygen.\nDopamine Falsely higher or lower blood glucose readings (depending on BGM design)\nTemperature. Because the reaction is Pralidoxime (2-PAM) Falsely higher or lower blood glucose readings (dependi",
+    "page": 5,
+    "chunk_id": "p5_c6",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "ygen.\nDopamine Falsely higher or lower blood glucose readings (depending on BGM design)\nTemperature. Because the reaction is Pralidoxime (2-PAM) Falsely higher or lower blood glucose readings (depending on BGM design)\nsensitive to temperature, all monitors\nHydroxyurea Falsely higher or lower blood glucose readings (depending on BGM design)\nhave an acceptable temperature range\nVitamin C Falsely higher or lower blood glucose readings (depending on BGM design)\n(45). Most will show an error if the tem-\nperature is unacceptable, but a few will Hematocrit (high) Falsely lower blood glucose readings\nprovide a reading and a message indi-\nHematocrit (low) Falsely higher blood glucose readings\ncating that the value may be incorrect.\n*These are potential effects. There are blood glucose monitors (BGMs) that behave differ-\nently than listed in this table. Refer to product labeling for product-specific information.\nInterfering Substances.There are several\n\u2020Unmodified glucose dehydrogenase pyrroloqu",
+    "page": 5,
+    "chunk_id": "p5_c7",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "s) that behave differ-\nently than listed in this table. Refer to product labeling for product-specific information.\nInterfering Substances.There are several\n\u2020Unmodified glucose dehydrogenase pyrroloquinoline quinone (GDH/PQQ) enzyme method\nphysiologic and pharmacologic factors that\nonly. Modern BGM designs do not incorporate unmodified GDH-PQQ enzyme.\ninterfere with glucose readings measured\nDownloaded\nfrom\nhttp://diabetesjournals.org/care/article-pdf/49/Supplement_1/S150/848844/dc26s007.pdf\nby\nguest\non\n01\nFebruary\n2026",
+    "page": 5,
+    "chunk_id": "p5_c8",
+    "source": "ada_chapter7.pdf",
+    "char_count": 525
+  },
+  {
+    "text": "diabetesjournals.org/care Diabetes Technology S155\nshown greater benefits of CGM com-\nTable 7.3\u2014Continuous glucose monitoring devices\npared with BGM for A1C, TIR, time below\nType of device Brand* Availability Alarms range, and time above range (TAR) as\nrtCGM Libre 2 Plus and Libre 3 Plus Prescription Yes well as greater user-reported satisfaction\nDexcom G6 and G7 Prescription Yes (66,67). In addition, CGM benefits were\nEversense 365 Prescription Yes\nreported in a population of adults with\nGuardian 4 Prescription Yes\ntype 2 diabetes (on noninsulin and insulin-\nSimplera Prescription Yes\nincluding therapy) with reduction in A1C\nOTC-CGM Dexcom Stelo OTC No\nlevels, increase in TIR, and reduction of\nAbbott Lingo OTC No\ntime in hyperglycemia (>180 mg/dL\nProfessional CGM Abbott FreeStyle Libre Pro In office No [>10 mmol/L] and >250 mg/dL [>13.9\nDexcom G6 Pro In office No mmol/L]) (62). Although glycemic met-\nCGM, continuous glucose monitoring; isCGM, intermittently scanned CGM; OTC, over the r",
+    "page": 6,
+    "chunk_id": "p6_c1",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": " In office No [>10 mmol/L] and >250 mg/dL [>13.9\nDexcom G6 Pro In office No mmol/L]) (62). Although glycemic met-\nCGM, continuous glucose monitoring; isCGM, intermittently scanned CGM; OTC, over the rics are improved, patient-reported\ncounter; rtCGM, real-time CGM.*Generic names not available. outcomes have shown less consistent\nsatisfaction in this individual population.\nAlthough short-term use of CGM in\ncontinuous stream of data, and adjustable varies, and available options should be youth with type 2 diabetes did not im-\nalarms and alerts. If an individual is still explored with individuals when choosing pact short-term glucose changes or A1C\nusing a CGM that requires scanning, the an integrated system. improvement, users reported behavioral\nlimitations of those systems should be ad- changes with increased blood glucose\ndressed. There are two categories of CGM Benefits of Continuous Glucose measurements, increased insulin admin-\ndevices generally available for personal Monitoring is",
+    "page": 6,
+    "chunk_id": "p6_c2",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "anges with increased blood glucose\ndressed. There are two categories of CGM Benefits of Continuous Glucose measurements, increased insulin admin-\ndevices generally available for personal Monitoring istration, and overall improved diabetes\nuse: those prescribed for diabetes manage- Data From Randomized Controlled Trials management and quality of life (68,69).\nment (rtCGM) and over-the-counter CGM Multiple randomized controlled trials The improvements in type 2 diabetes\n(OTC-CGM), which lacks alarms and alerts (RCTs) have been performed using CGM have largely occurred without changes\nand can be used by people not taking devices, and the results have largely been in insulin doses or other diabetes medi-\ndiabetes medications that increase the positive in terms of reducing A1C levels cations. CGM discontinuation in individ-\nrisk of hypoglycemia. Anyone can pur- and/or episodes of hypoglycemia if partici- uals with type 2 diabetes on basal insulin\nchase the OTC-CGM devices, including pants r",
+    "page": 6,
+    "chunk_id": "p6_c3",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "GM discontinuation in individ-\nrisk of hypoglycemia. Anyone can pur- and/or episodes of hypoglycemia if partici- uals with type 2 diabetes on basal insulin\nchase the OTC-CGM devices, including pants regularly wore the devices (46\u201353). caused partial reversal of A1C reduction\nthose without diabetes or with predia- The benefits of CGM have been shown re- and TIR improvements, suggesting that\nbetes who wish to assess their glycemic gardless of age, sex, education or income continued CGM use achieves the greatest\nresponses to their lifestyles, including the levels, or baseline diabetes characteristics. benefits (17).\neffects of food choices and exercise. Finally, The initial studies were done primar-\nthere are what has been called profes- ily in adults, children, and adolescents Observational and Real-world Studies\nsional CGM devices, which are devices with type 1 diabetes on insulin pump CGM systems are widely available in\nowned and applied by health care pro- therapy and/or MDI (46,47,50",
+    "page": 6,
+    "chunk_id": "p6_c4",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "and Real-world Studies\nsional CGM devices, which are devices with type 1 diabetes on insulin pump CGM systems are widely available in\nowned and applied by health care pro- therapy and/or MDI (46,47,50,51,54). many countries for people with diabe-\nfessionals that generate glucose data The primary outcome was met and tes, and this allows for the collection of\n(blinded or not) over a short period of showed benefit in adults of all ages large amounts of data across groups of\ntime. (46,55,56), including older individuals people with diabetes.\nTable 7.3 provides definitions for the (57\u201359). Data in children show that CGM Data for isCGM in adults with diabe-\ntypes of CGM devices. For people with use in young children with type 1 diabe- tes include results from observational\ntype 1 diabetes using CGM, frequency tes reduced hypoglycemia; in addition, studies, retrospective studies, and anal-\nof sensor use is an important predictor behavioral support of parents of young yses of registry and popu",
+    "page": 6,
+    "chunk_id": "p6_c5",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "CGM, frequency tes reduced hypoglycemia; in addition, studies, retrospective studies, and anal-\nof sensor use is an important predictor behavioral support of parents of young yses of registry and population data\nof A1C lowering for all age-groups (46,47). children with diabetes using CGM showed (70,71). Glycemic benefits in people with\nFew real-time systems require cali- the benefits of reducing hypoglycemia con- type 1 and type 2 diabetes (on MDI,\nbration by the user, and the need to re- cerns and diabetes distress (46,51,60). Simi- basal insulin, and noninsulin therapies)\ncalibrate varies in frequency depending larly, A1C level reduction was seen in have been seen in prospective and retro-\non the device. However, all CGM sys- adolescents and young adults with type 1 spective studies (49,72).\ntems require use of BGM to confirm diabetes using rtCGM (50). Reductions in acute diabetes compli-\naccuracy, especially in settings where RCT data on CGM use in individuals cations, such as diabe",
+    "page": 6,
+    "chunk_id": "p6_c6",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "72).\ntems require use of BGM to confirm diabetes using rtCGM (50). Reductions in acute diabetes compli-\naccuracy, especially in settings where RCT data on CGM use in individuals cations, such as diabetic ketoacidosis\nthere is perceived discordance between with type 2 diabetes on MDI (61) or in- (DKA), episodes of severe hypoglycemia\nsensor reading and the individual\u2019s per- sulin (including basal insulin) plus nonin- or diabetes-related coma, and hospital-\nceived sense of their clinical situation. sulin therapies (61\u201364) show consistent izations for hypoglycemia and hypergly-\nMost CGM systems are designated as reductions in A1C levels and increases cemia, have been observed in adults\nintegrated CGM (iCGM) and cleared as in TIR (70\u2013180 mg/dL [3.9\u201310 mmol/L]) with type 1 or type 2 diabetes (73\u201375),\na class II medical device by the FDA for and time below range but not a reduc- with persistent effects observed even\nintegration with other digitally connected tion in rates of level 3 hypoglyc",
+    "page": 6,
+    "chunk_id": "p6_c7",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "3\u201375),\na class II medical device by the FDA for and time below range but not a reduc- with persistent effects observed even\nintegration with other digitally connected tion in rates of level 3 hypoglycemia after 2 years of CGM initiation (76). Sim-\ndevices. The exact CGM that integrates (65). RCT data for CGM benefits in peo- ilar reductions of acute diabetes events\nwith any given device (e.g., automated ple with type 2 diabetes not using insu- and all-cause inpatient hospitalizations\ninsulin system or connected insulin pen) lin are increasing and generally have were seen in a retrospective review of\nDownloaded\nfrom\nhttp://diabetesjournals.org/care/article-pdf/49/Supplement_1/S150/848844/dc26s007.pdf\nby\nguest\non\n01\nFebruary\n2026",
+    "page": 6,
+    "chunk_id": "p6_c8",
+    "source": "ada_chapter7.pdf",
+    "char_count": 737
+  },
+  {
+    "text": "S156 Diabetes Technology Diabetes Care Volume 49, Supplement 1, January 2026\nadults with type 2 diabetes treated with can be helpful to evaluate an individual\u2019s the presence of isobornyl acrylate, a\nbasal insulin or with noninsulin therapy glucose levels when either rtCGM or isCGM skin sensitizer that can cause an addi-\n6 months after initiation of isCGM (77). is not available to the individual or they tional spreading allergic reaction (94). It\nRetrospective data from rtCGM use in prefer a blinded analysis or a shorter ex- is important to ask CGM users periodi-\nadults (78) with type 1 or type 2 diabetes perience with unblinded data. It can be cally about adhesive reactions, as tape\ntreated with insulin showed that the use particularly useful in individuals using agents formulations may change over time.\nof rtCGM significantly lowered A1C levels that can cause hypoglycemia, as the data Patch testing can sometimes identify the\nand reduced rates of emergency depart- can be used to evalua",
+    "page": 7,
+    "chunk_id": "p7_c1",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "ange over time.\nof rtCGM significantly lowered A1C levels that can cause hypoglycemia, as the data Patch testing can sometimes identify the\nand reduced rates of emergency depart- can be used to evaluate periods of hypo- cause of contact dermatitis (95). Identi-\nment visits or hospitalizations for hypo- glycemia and make medication dose ad- fying and eliminating tape allergens is im-\nglycemia but did not significantly lower justments if needed. It can also be useful portant to ensure the comfortable use of\noverall rates of emergency department to evaluate periods of hyperglycemia. devices and promote self-care (96\u201399).\nvisits, hospitalizations, or hyperglycemia. Some data have shown the benefit of The PANTHER Program offers resources\nRecent data have emerged from a real- intermittent use of CGM (rtCGM or isCGM) in English and Spanish at www.panther-\nworld observational analysis of rtCGM use in individuals with type 2 diabetes on program.org/skin-solutions. In some in-\nin adults with typ",
+    "page": 7,
+    "chunk_id": "p7_c2",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": " CGM (rtCGM or isCGM) in English and Spanish at www.panther-\nworld observational analysis of rtCGM use in individuals with type 2 diabetes on program.org/skin-solutions. In some in-\nin adults with type 2 diabetes not treated noninsulin and/or basal insulin therapies stances, using an implanted sensor can\nwith insulin. In this study, rtCGM benefits (63,85). In these RCTs, people with type 2 help avoid skin reactions in those sensi-\nwere observed at 6 months and 12 months diabetes not on intensive insulin therapy tive to tape (100,101).\nversus baseline, with reduction of mean used CGM intermittently compared with\nglucose levels, reduction of glucose man- those randomized to BGM. Both early (63) Substances and Factors Affecting\nagement indicator (GMI), increase in TIR, and late (63,86) improvements in A1C Continuous Glucose Monitoring Accuracy\nincrease in time in tight target range levels were found. Sensor interference due to several med-\n(70\u2013140 mg/dL [3.9\u20137.8 mmol/L]), and re- Furtherm",
+    "page": 7,
+    "chunk_id": "p7_c3",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "ements in A1C Continuous Glucose Monitoring Accuracy\nincrease in time in tight target range levels were found. Sensor interference due to several med-\n(70\u2013140 mg/dL [3.9\u20137.8 mmol/L]), and re- Furthermore, in a real-world study, ications/substances is a known potential\nduction in TAR >180 mg/dL (>10 mmol/L) the use of professional CGM in individu- source of CGM sensor measurement er-\nand >250 mg/dL (>13.9 mmol/L) (79). als with type 2 diabetes not on insulin rors (Table 7.4). While several of these\nat baseline and at 6 months of follow- substances have been reported in the\nReal-time Continuous Glucose Monitoring up resulted in lower A1C at 6 months as various CGM brands\u2019 user manuals, ad-\nDevice Use in Pregnancy well as a shift toward greater use of glucose- ditional interferences have been discov-\nCGM indication has expanded to include lowering medications with cardiometabolic ered after the market release of these\npregnancy for Dexcom G7, FreeStyle Li- benefits, such as sodium\u2013glucose",
+    "page": 7,
+    "chunk_id": "p7_c4",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": " discov-\nCGM indication has expanded to include lowering medications with cardiometabolic ered after the market release of these\npregnancy for Dexcom G7, FreeStyle Li- benefits, such as sodium\u2013glucose trans- products. Hydroxyurea, used for myelo-\nbre 2, and FreeStyle Libre 3, which en- porter 2 inhibitors and glucagon-like pep- proliferative disorders and hematologic\nhances care in this population (80,81). tide 1 receptor agonists (87). Use of conditions, is one of the most recently\nA discussion of CGM use in pregnancy professional or intermittent CGM should al- identified interfering substances that cause\ncan be found in section 15, \u201cManagement ways be coupled with analysis and interpre- a temporary increase in sensor glucose val-\nof Diabetes in Pregnancy.\u201d tation for people with diabetes along with ues discrepant from actual glucose values\neducation, as needed, to adjust medication (102,103). Similarly, substances such as\nUse of Professional Continuous and change lifestyle behaviors ",
+    "page": 7,
+    "chunk_id": "p7_c5",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": " along with ues discrepant from actual glucose values\neducation, as needed, to adjust medication (102,103). Similarly, substances such as\nUse of Professional Continuous and change lifestyle behaviors (88\u201390). mannitol and sorbitol, when administered\nGlucose Monitoring and Intermittent Use intravenously or as a component of perito-\nof Personal Continuous Glucose Monitoring Side Effects of Continuous Glucose neal dialysis solution, may increase blood\nProfessional CGM devices, which pro- Monitoring Devices mannitol or sorbitol concentrations and\nvide retrospective data, either blinded Contact dermatitis (both irritant and cause falsely elevated readings of sensor\nor unblinded, for analysis can be used allergic) has been reported with all glucose (104). Therefore, it is crucial to rou-\nto identify patterns of hypoglycemia and devices that attach to the skin (91\u201393). tinely review the medications and supple-\nhyperglycemia (82\u201384). Professional CGM In some cases, this has been linked to ment",
+    "page": 7,
+    "chunk_id": "p7_c6",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "tify patterns of hypoglycemia and devices that attach to the skin (91\u201393). tinely review the medications and supple-\nhyperglycemia (82\u201384). Professional CGM In some cases, this has been linked to ments used by the person with diabetes to\nTable 7.4\u2014Continuous glucose monitoring device interfering substances\nMedication Systems affected Effect\nAcetaminophen - -\n>4 g/day Dexcom G6, Dexcom G7 Higher sensor readings than actual glucose\nAny dose Medtronic Guardian 4 Higher sensor readings than actual glucose\nAscorbic acid (vitamin C), >500 mg/day FreeStyle Libre 2, FreeStyle Libre 3 Higher sensor readings than actual glucose\nAscorbic acid (vitamin C), >1,000 mg/day FreeStyle Libre 2 Plus, FreeStyle Libre 3 Plus Higher sensor readings than actual glucose\nHydroxyurea Dexcom G6, Dexcom G7, Medtronic Guardian 4 Higher sensor readings than actual glucose\nMannitol (intravenously or as peritoneal Senseonics Eversense365 Higher sensor readings than actual glucose\ndialysis solution)\nSorbitol (intraven",
+    "page": 7,
+    "chunk_id": "p7_c7",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": " Guardian 4 Higher sensor readings than actual glucose\nMannitol (intravenously or as peritoneal Senseonics Eversense365 Higher sensor readings than actual glucose\ndialysis solution)\nSorbitol (intravenously or as peritoneal Senseonics Eversense365 Higher sensor readings than actual glucose\ndialysis solution)\nDownloaded\nfrom\nhttp://diabetesjournals.org/care/article-pdf/49/Supplement_1/S150/848844/dc26s007.pdf\nby\nguest\non\n01\nFebruary\n2026",
+    "page": 7,
+    "chunk_id": "p7_c8",
+    "source": "ada_chapter7.pdf",
+    "char_count": 439
+  },
+  {
+    "text": "diabetesjournals.org/care Diabetes Technology S157\nidentify possible interfering substances and list of insulin product costs with dosage requisite for receiving the full dose of\nadvise them accordingly on the need to forms). Insulin pens may allow people insulin with each injection. Concerns\nuse additional BGM if sensor values are un- with vision impairment or dexterity issues with technique and use of the proper\nreliable due to these substances. to dose insulin accurately (113\u2013115), and technique are outlined in section 9,\ninsulin injection aids are also available to \u201cPharmacologic Approaches to Glycemic\nINSULIN DELIVERY help with these issues. (For a helpful list Treatment.\u201d\nof injection aids, see diabetes.org/living- Connected insulin pens are insulin\nInsulin Syringes and Pens\nwith-diabetes/treatment-care/diabetes- pens with the capacity to record and/or\nRecommendations technology-guide). Inhaled technosphere transmit insulin dose data. Insulin pen\n7.21 For people with insulin-requ",
+    "page": 8,
+    "chunk_id": "p8_c1",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "betes/treatment-care/diabetes- pens with the capacity to record and/or\nRecommendations technology-guide). Inhaled technosphere transmit insulin dose data. Insulin pen\n7.21 For people with insulin-requiring\ninsulin can be useful for people with diabe- caps are also available and are placed\ndiabetes on multiple daily injections tes, providing an alternative method of on existing insulin pens and may assist\n(MDI), insulin pens are preferred in insulin delivery with very fast onset of with calculating insulin doses and by\nmost cases. Still, insulin syringes may action. providing a memory function. Some con-\nbe used for insulin delivery consider- The most common syringe sizes are nected insulin pens and pen caps can be\ning individual and caregiver pref- 1 mL, 0.5 mL, and 0.3 mL, allowing doses programmed to calculate insulin doses,\nerence, insulin type, availability in of up to 100 units, 50 units, and 30 units, can be synced with select CGM systems,\nvials, dosing therapy, cost, and self- r",
+    "page": 8,
+    "chunk_id": "p8_c2",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "programmed to calculate insulin doses,\nerence, insulin type, availability in of up to 100 units, 50 units, and 30 units, can be synced with select CGM systems,\nvials, dosing therapy, cost, and self- respectively, of U-100 insulin. Some 0.3-mL and can provide downloadable data re-\nmanagement capabilities. C syringes have half-unit markings, whereas ports. These pens and pen caps are use-\n7.22 Insulin pens or insulin injection other syringes have markings in 1- to ful to people with diabetes for real-time\naids are recommended for people 2-unit increments. In a few parts of the insulin dosing and allow clinicians to ret-\nwith dexterity issues or vision impair- world, insulin syringes still have U-80 and rospectively review the insulin delivery\nment or when decided by shared deci- U-40 markings for older insulin concen- times and, in some cases, doses and glu-\nsion making to facilitate the accurate trations and veterinary insulin, and U-500 cose data to make informed insulin dose\ndosing an",
+    "page": 8,
+    "chunk_id": "p8_c3",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "s for older insulin concen- times and, in some cases, doses and glu-\nsion making to facilitate the accurate trations and veterinary insulin, and U-500 cose data to make informed insulin dose\ndosing and administration of insulin. C syringes are available for the use of U-500 adjustments (116). A quantitative study\n7.23 Offer connected insulin pens insulin. Syringes are generally used once showed that people with diabetes pre-\nfor people with diabetes taking multi- but may be reused by the same individual ferred connected pens because of their\nple daily insulin injections when ap- in resource-limited settings with appropri- ability to log insulin doses and glucose\npropriate. B ate storage and cleansing (115). levels automatically (116). In a multicen-\n7.24 FDA-approved insulin dose Insulin pens offer added convenience ter RCT in people with type 1 diabetes,\ncalculators/decision support systems by combining the vial and syringe into a the use of an insulin pen cap was asso-\nmay be helpful",
+    "page": 8,
+    "chunk_id": "p8_c4",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "ens offer added convenience ter RCT in people with type 1 diabetes,\ncalculators/decision support systems by combining the vial and syringe into a the use of an insulin pen cap was asso-\nmay be helpful for calculating insulin single device. Insulin pens, allowing push- ciated with improved glycemic outcomes\nbutton injections, come as disposable pens at 6 weeks in the insulin cap group, with\ndoses. B\nwith prefilled cartridges or reusable insulin an increase in TIR and decrease in GMI\npens with replaceable insulin cartridges. and TAR (117). A systematic review\nInjecting insulin with a syringe or pen\nPens vary with respect to dosing incre- of connected insulin pens or pen caps\n(105\u2013111) is the insulin delivery method\nment and minimal dose, ranging from showed improvement of glucose out-\nused by most people with diabetes (112),\nhalf-unit doses to 2-unit dose increments, comes whether as A1C reduction, TIR in-\nalthough inhaled insulin is also available. with the latter available in U-200 ins",
+    "page": 8,
+    "chunk_id": "p8_c5",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "y most people with diabetes (112),\nhalf-unit doses to 2-unit dose increments, comes whether as A1C reduction, TIR in-\nalthough inhaled insulin is also available. with the latter available in U-200 insulin crease, or hypoglycemia reduction (118).\nOthers use insulin pumps or AID devices\npens. U-500 pens come in 5-unit dose in- A recent real-world study with multina-\n(see INSULIN PUMPS AND AUTOMATED INSULIN DELIV- crements. Some reusable pens include a tional data collected from 3,954 adults\nERY SYSTEMS, below). For people with diabe- memory function, which can recall dose with diabetes using a connected pen and\ntes who use insulin, insulin syringes and\namounts and timing. Insulin pens, once CGM validated the fact that treatment\npens both can deliver insulin safely and\nstarted, can be kept in use for variable engagement with a connected insulin\neffectively for the achievement of glyce-\ndurations, based on the type of insulin, pen is positively associated with glycemic\nmic goals. Individua",
+    "page": 8,
+    "chunk_id": "p8_c6",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": " use for variable engagement with a connected insulin\neffectively for the achievement of glyce-\ndurations, based on the type of insulin, pen is positively associated with glycemic\nmic goals. Individual preferences, cost, usually for 28 days, ranging from 14 to outcomes. On the other hand, missing as\ninsulin type, dosing therapy, and self- 56 days. Needle thickness (gauge) and little as two basal doses or four bolus in-\nmanagement capabilities should be con- length are other considerations. Needle sulin doses over a 14-day period would\nsidered when choosing among delivery gauges range from 22 to 34, with a higher be associated with a clinically relevant\nsystems. Trials with insulin pens generally gauge indicating a thinner needle. A decrease in TIR of \u22655% (119).\nshow equivalence or small improvements thicker needle can give a dose of insulin Bolus calculators have been devel-\nin glycemic outcomes compared with us- more quickly, while a thinner needle may oped to aid dosing decisions (12",
+    "page": 8,
+    "chunk_id": "p8_c7",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "provements thicker needle can give a dose of insulin Bolus calculators have been devel-\nin glycemic outcomes compared with us- more quickly, while a thinner needle may oped to aid dosing decisions (120\u2013125).\ning a vial and syringe. Many individuals cause less pain. Needle length ranges These systems are subject to FDA clear-\nwith diabetes prefer using a pen because from 4 to 12.7 mm, with some evi- ance to ensure safety and efficacy in\nof its simplicity and convenience. It is im- dence suggesting that shorter needles terms of algorithms used and subse-\nportant to note that while many insulin (4\u20135 mm) lower the risk of intramuscular quent dosing recommendations. People\ntypes are available for purchase as either injection with erratic absorption and pos- interested in using these systems should\npens or vials, others may be available in sibly the development of lipohypertro- be encouraged to use those that are\nonly one form or the other, and there phy. When reused, needles may be duller F",
+    "page": 8,
+    "chunk_id": "p8_c8",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "uld\npens or vials, others may be available in sibly the development of lipohypertro- be encouraged to use those that are\nonly one form or the other, and there phy. When reused, needles may be duller FDA approved. Health care professional\nmay be significant cost differences be- and thus injections may be more painful. input and education can be helpful\ntween pens and vials (see Table 9.4 for a Proper insulin injection technique is a for setting the initial dosing calculations\nDownloaded\nfrom\nhttp://diabetesjournals.org/care/article-pdf/49/Supplement_1/S150/848844/dc26s007.pdf\nby\nguest\non\n01\nFebruary\n2026",
+    "page": 8,
+    "chunk_id": "p8_c9",
+    "source": "ada_chapter7.pdf",
+    "char_count": 610
+  },
+  {
+    "text": "S158 Diabetes Technology Diabetes Care Volume 49, Supplement 1, January 2026\nwith ongoing follow-up for adjustments adolescents, and adults (126). Real-world Complications and Challenges of Infusing\nas needed. data on insulin pump use in individuals Insulin\nComplications of infused insulin can be\nwith type 1 diabetes show benefits in\ncaused by issues with infusion sets (dis-\nInsulin Pumps and Automated A1C levels and hypoglycemia reductions\nInsulin Delivery Systems as well as total daily insulin dose reduc- lodgement and occlusion), which put in-\ndividuals at risk for ketosis and DKA and\ntion (127).\nRecommendations\nthus must be recognized and managed\n7.25a AID systems are the preferred Although AID systems have been shown\nearly (133). Other pump skin issues\ninsulin delivery method over MDI, to improve outcomes compared with MDI\ninclude lipohypertrophy or, less fre-\nCSII, and sensor-augmented pumps and insulin pump therapy alone, the choice\nquently, lipoatrophy (134) and pump\nin people ",
+    "page": 9,
+    "chunk_id": "p9_c1",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": ", to improve outcomes compared with MDI\ninclude lipohypertrophy or, less fre-\nCSII, and sensor-augmented pumps and insulin pump therapy alone, the choice\nquently, lipoatrophy (134) and pump\nin people with type 1 diabetes, A of insulin delivery system is up to the indi-\nsite infection. Discontinuation of pump\nadults with type 2 diabetes, A children vidual along with support from their diabe-\ntherapy is relatively uncommon today;\nand adolescents with type 2 diabetes, E tes care team (126). Thus, the choice of\nthe frequency has decreased over the\nand those with other forms of insulin- insulin delivery method is based on the\npast few decades, and its causes have\ndeficient diabetes. B, C, D, E Choice of characteristics of the person with diabetes\nchanged (135). Current reasons for dis-\nan AID system should be made based and which method is most likely to benefit\ncontinuation are problems with cost or\non the individual\u2019s circumstances, prefer- them. Diabetes Wise (diabeteswise.org/),\nwearabi",
+    "page": 9,
+    "chunk_id": "p9_c2",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "ystem should be made based and which method is most likely to benefit\ncontinuation are problems with cost or\non the individual\u2019s circumstances, prefer- them. Diabetes Wise (diabeteswise.org/),\nwearability, loss of insurance, dislike of\nences, and needs. E for individuals with diabetes, Diabetes\nthe pump, suboptimal glycemic out-\n7.25b Consider AID systems for se- Wise Pro (pro.diabeteswise.org/), for comes, or psychosocial considerations\nlect people with type 2 diabetes health care professionals, and the PANTHER (e.g., anxiety or depression) (130). Com-\ntreated with basal insulin not achiev- Program (pantherprogram.org/device- mon barriers to pump therapy adoption\ning individualized glycemic goals. comparison-chart) have helpful websites in children and adolescents are con-\nB Choice of an AID system should to assist health care professionals and peo- cerns regarding the physical interfer-\nbe made basedon the individual\u2019s ple with diabetes in choosing diabetes de- ence of the device, di",
+    "page": 9,
+    "chunk_id": "p9_c3",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "AID system should to assist health care professionals and peo- cerns regarding the physical interfer-\nbe made basedon the individual\u2019s ple with diabetes in choosing diabetes de- ence of the device, discomfort with the\ncircumstances, preferences, and\nvices based on their individual needs and idea of having a device on the body,\nneeds. E\npreferences. therapeutic effectiveness, and financial\n7.26 Individuals with diabetes who\nAdoption of AID and pump therapy in burden (136\u2013138).\nhave been using CSII and/or AID should\nthe U.S. shows geographical variations,\nhave continued access across third-\nwhich may be related to health care pro- Description of AID Systems\nparty payors. E\nfessional preference or center character- AID systems consist of mainly three\nistics (128) and socioeconomic status, as components: an insulin pump, a CGM\nStand-alone Insulin Pumps and AID pump therapy is more common in indi- system, and an algorithm that deter-\nSystems viduals of higher socioeconomic status, mines ins",
+    "page": 9,
+    "chunk_id": "p9_c4",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "components: an insulin pump, a CGM\nStand-alone Insulin Pumps and AID pump therapy is more common in indi- system, and an algorithm that deter-\nSystems viduals of higher socioeconomic status, mines insulin delivery. Based on the model\nInsulin pumps have been available in as reflected by private health insurance, and brand of currently FDA-approved\nthe U.S. for over 40 years. These devices family income, and education (128). Given and -cleared AID systems, the algorithm\ndeliver rapid-acting insulin throughout the barriers to optimal diabetes care ob- can be hosted in the pump body, in an\nthe day to manage glucose levels. Most served in disadvantaged groups (129), insulin pod, or on a phone app. All AID\ninsulin pumps use tubing to deliver in- systems on the market today integrate\naddressing the differences in access to in-\nsulin through a cannula, while a few at- with one or more CGM systems and ad-\nsulin pumps and other diabetes technolo-\ntach directly to the skin without tubing just ins",
+    "page": 9,
+    "chunk_id": "p9_c5",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "he differences in access to in-\nsulin through a cannula, while a few at- with one or more CGM systems and ad-\nsulin pumps and other diabetes technolo-\ntach directly to the skin without tubing just insulin delivery either by modulat-\ngies may lower health disparities (130).\n(pods or patch pumps), and these sys- ing the preprogrammed basal rates or\nAID systems preferentially, as well as\ntems have been approved for use in by replacing the basal rates with micro-\ninsulin pump therapy alone or along\ntype 1 and type 2 diabetes. AID systems, boluses or microdoses of insulin every\nwith CGM, can be successfully started\nwhich can adjust insulin delivery rates 5 min.\nat the time of diagnosis (131) or at any\nbased on sensor glucose values, are pre- The modulation of insulin delivery is\npoint when they are needed in the\nferred over nonautomated pumps and done by increasing, decreasing, or paus-\ncourse of an individual\u2019s diabetes. These\nMDI in people with type 1 diabetes and ing insulin based on the",
+    "page": 9,
+    "chunk_id": "p9_c6",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": " are needed in the\nferred over nonautomated pumps and done by increasing, decreasing, or paus-\ncourse of an individual\u2019s diabetes. These\nMDI in people with type 1 diabetes and ing insulin based on the CGM feedback,\ndevices can be safely used in adults (in-\nhave largely replaced the use of noninte- the predicted direction of the glucose\ncluding older adults), adolescents, and\ngrated or standard insulin pumps. Recently, levels, and the speed with which the\nchildren (15,16). Practical aspects of pump\nthree AID systems were approved for use glucose levels are changing. Different\ntherapy initiation include assessment of\nby people with type 2 diabetes. AID systems modulate insulin based on\nreadiness of the person with diabetes and\nHistorically, studies that compared predicted glucose levels at various times,\nMDI with insulin pump therapy were their caregivers, if applicable. There is no most commonly 30 min or 1 h. Currently\nrelatively small and of short duration. consensus on which factors ",
+    "page": 9,
+    "chunk_id": "p9_c7",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "arious times,\nMDI with insulin pump therapy were their caregivers, if applicable. There is no most commonly 30 min or 1 h. Currently\nrelatively small and of short duration. consensus on which factors are most available AID systems have either fixed\nHowever, a systematic review and meta- predictive of success with insulin pump glucose targets or adjustable glucose tar-\nanalysis concluded that pump therapy in or AID therapy (132). However, an un- gets, ranging from 87 to 180 mg/dL (4.8\npeople with type 1 diabetes has modest ad- derstanding of the technical features of to 10 mmol/L), depending on the system.\nvantages for lowering A1C levels (\u22120.30% the system and how to troubleshoot if Glucose targets are generally set up for\n[95% CI \u22120.58 to \u22120.02]) and for reduc- problems are encountered is necessary 24 h but can also be adjusted in some\ning severe hypoglycemia rates in children, for safe use. systems with up to eight segments per\nDownloaded\nfrom\nhttp://diabetesjournals.org/care/article",
+    "page": 9,
+    "chunk_id": "p9_c8",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": " necessary 24 h but can also be adjusted in some\ning severe hypoglycemia rates in children, for safe use. systems with up to eight segments per\nDownloaded\nfrom\nhttp://diabetesjournals.org/care/article-pdf/49/Supplement_1/S150/848844/dc26s007.pdf\nby\nguest\non\n01\nFebruary\n2026",
+    "page": 9,
+    "chunk_id": "p9_c9",
+    "source": "ada_chapter7.pdf",
+    "char_count": 274
+  },
+  {
+    "text": "diabetesjournals.org/care Diabetes Technology S159\nday. All current AID systems provide au- (<3.9 mmol/L) without rebound hypergly- are collected based on voluntary sharing\ntomated correction doses, whether em- cemia during a 6-week randomized cross- to the database by AID users. A recent\nbedded in the microdose adjustments over trial in people with type 1 diabetes of systematic review of AID real-world\nevery 5 min or by providing additional cor- various ages (139). Similar results were studies, with 20 studies representing\nrection boluses with doses that are depen- seen in additional studies in adults and 171,209 individuals, substantiated the re-\ndent on the various types of algorithms, children with reduction of hypoglycemia sults observed in the pivotal trials and\nwith variable frequency and threshold glu- (140\u2013142). have confirmed the clinical benefits of\ncose based on the type of control algo- AID systems in people with type 1 diabe-\nrithm. Most AID systems can be used in Data fr",
+    "page": 10,
+    "chunk_id": "p10_c1",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "cy and threshold glu- (140\u2013142). have confirmed the clinical benefits of\ncose based on the type of control algo- AID systems in people with type 1 diabe-\nrithm. Most AID systems can be used in Data from Pivotal Trials tes. Newer systems have shown increased\nmanual mode, although this is generally All currently FDA-approved and -cleared time spent in automation, and the real-\nnot recommended, as the benefits of CGM AID systems were tested for safety and world studies have retrospectively analyzed\nmodulation may be partially or totally lost. efficacy in their pivotal trials in children, longer duration of system use compared\nHowever, use of AID in manual mode may adolescents, and adults with type 1 dia- with their respective pivotal trials, with\nbe necessary in some circumstances, there- betes (143\u2013145) as well as in adults with most analyses occurring for more than\nfore it is important to review and reassess type 2 diabetes (146,147). These studies 6 months and an average duration of\nma",
+    "page": 10,
+    "chunk_id": "p10_c2",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "es (143\u2013145) as well as in adults with most analyses occurring for more than\nfore it is important to review and reassess type 2 diabetes (146,147). These studies 6 months and an average duration of\nmanual-mode settings periodically. Current were conducted by following a variety of 9 months (157). Benefits include im-\nAID systems still require manual entry of methodologies, including observational provement in A1C levels, TIR, and other\ncarbohydrates for meal announcements studies as well as RCTs. Regardless of the glucometrics as well as psychosocial\nor qualitative meal estimation announce- study design, all AID system pivotal trials benefits (159\u2013164).\nments to calculate prandial doses. that examined individuals 2 years old or Finally, real-world data showed that\nAdjustments for physical activity are older, including older adults, have consis- AID systems provide the same glycemic\navailable in most AID systems currently tently demonstrated superiority to either benefits to Medicare an",
+    "page": 10,
+    "chunk_id": "p10_c3",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "activity are older, including older adults, have consis- AID systems provide the same glycemic\navailable in most AID systems currently tently demonstrated superiority to either benefits to Medicare and Medicaid ben-\non the market. These can be programmed standard insulin delivery or SAP and/or eficiaries with type 1 and type 2 diabe-\nin various time increments. In general, the usual care (for the randomized trials), tes, emphasizing that access to this\nglucose target is raised to prespecified lev- with consistent improvement in A1C, in- technology should be made available re-\nels based on AID systems, and these are crease in TIR, especially overnight, as gardless of A1C levels and should be\noften accompanied by more conservative well as reduction of time spent in hypo- based on the individual\u2019s needs (165).\ninsulin delivery to reduce the risk of hypo- glycemia (in the studies in people with\nglycemia in the setting of increased insulin type 1 diabetes). The greatest improve- Automated I",
+    "page": 10,
+    "chunk_id": "p10_c4",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "ual\u2019s needs (165).\ninsulin delivery to reduce the risk of hypo- glycemia (in the studies in people with\nglycemia in the setting of increased insulin type 1 diabetes). The greatest improve- Automated Insulin Delivery Systems in\nsensitivity other than physical activity, ments were seen with AID when used in Pregnancy\nsuch as prolonged fasting or NPO status individuals with the highest baseline A1C The use of AID systems in diabetes and\nfor procedures. Of note, some systems or lowest TIR (148). These systems may pregnancy presents particular chal-\nmay still give autocorrection boluses if the also lower the risk of exercise-related hy- lenges, as the current FDA-approved\nglucose levels rise above a certain thresh- poglycemia (149) and have been shown AID systems (except for one that has\nold even while the exercise/activity mode to have psychosocial benefits (150\u2013155). been FDA approved but is not yet\nhas been enabled. Details on the available A review of the literature on the health commer",
+    "page": 10,
+    "chunk_id": "p10_c5",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "en while the exercise/activity mode to have psychosocial benefits (150\u2013155). been FDA approved but is not yet\nhas been enabled. Details on the available A review of the literature on the health commercially available) have glucose\nAID systems and their features can be found and economic value of AID systems found goals that are not pregnancy specific\nat pantherprogram.org/device-type. that AID systems are cost-effective (156). and do not have algorithms designed\nAID systems have largely replaced other AID is the standard of care for people to achieve pregnancy-specific glucose\nmethods of continuous subcutaneous in- with type 1 diabetes who are capable of goals. Initiating or continuing AID sys-\nsulin delivery due to the advantages they safely using the device and should be the tems during pregnancy needs to be\noffer in insulin modulation to adjust insu- preferred method of insulin delivery in assessed carefully. Selected individuals\nlin doses and minimize hypoglycemia and these individ",
+    "page": 10,
+    "chunk_id": "p10_c6",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "pregnancy needs to be\noffer in insulin modulation to adjust insu- preferred method of insulin delivery in assessed carefully. Selected individuals\nlin doses and minimize hypoglycemia and these individuals. The decision to use AID with type 1 diabetes should be evalu-\nhyperglycemia. systems should be made based on the ated as potential candidates for AID\npreference of the person with diabetes systems in the setting of expert guidance.\nPartial Closed-Loop Systems (and/or caregivers) and the availability of The details on the use of AID systems in\nSensor-augmented pumps (SAPs) were resources to provide necessary training, pregnancy are discussed in section 15,\nthe precursors of the currently used AID access, and support for their use. \u201cManagement of Diabetes in Pregnancy.\u201d\nsystems. They are discussed here more\nfor historical perspective because they Data From Real-world Studies Insulin Pumps and Automated Insulin\nare no longer commonly used, having Data from real-world studies on AID sys-",
+    "page": 10,
+    "chunk_id": "p10_c7",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "iscussed here more\nfor historical perspective because they Data From Real-world Studies Insulin Pumps and Automated Insulin\nare no longer commonly used, having Data from real-world studies on AID sys- Delivery Systems in People With Type 2 and\nbeen replaced by more fully functional tems have become available and con- Other Types of Diabetes\nAID systems. SAPs consist of three com- tinue to increase rapidly. These studies Additional insulin delivery options in\nponents: an insulin pump, a CGM sys- include large numbers of users, at times people with type 2 diabetes include dis-\ntem, and an algorithm that automates even 30-fold higher than the number posable patch-like devices, which provide\ninsulin suspension when glucose is low of people studied in AID pivotal trials either a continuous subcutaneous insulin\nor is predicted to go low within the (157). It is important to emphasize infusion of rapid-acting insulin (basal) with\nnext 30 min. Predictive low-glucose that for some AID systems al",
+    "page": 10,
+    "chunk_id": "p10_c8",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "utaneous insulin\nor is predicted to go low within the (157). It is important to emphasize infusion of rapid-acting insulin (basal) with\nnext 30 min. Predictive low-glucose that for some AID systems all data are bolus insulin in 2-unit increments at the\nsuspend systems have been shown to automatically collected to the database press of a button or bolus insulin only,\nreduce time spent with glucose <70 mg/dL (158), whereas for other systems data delivered in 2-unit increments, used in\nDownloaded\nfrom\nhttp://diabetesjournals.org/care/article-pdf/49/Supplement_1/S150/848844/dc26s007.pdf\nby\nguest\non\n01\nFebruary\n2026",
+    "page": 10,
+    "chunk_id": "p10_c9",
+    "source": "ada_chapter7.pdf",
+    "char_count": 618
+  },
+  {
+    "text": "S160 Diabetes Technology Diabetes Care Volume 49, Supplement 1, January 2026\nconjunction with basal insulin injections and no announcements, TIR was preserved provide recommendations for specific\n(166\u2013169). Use of a technology as a means across groups (174). apps for diabetes management, educa-\nof insulin delivery is an individual choice Loop, an open-source model predic- tion, and support in the absence of RCTs\nfor people with diabetes and should be tive control algorithm, is implemented and validation of apps unless they are\nconsidered an option in those who are ca- on iPhones as an app. Prospective real- FDA cleared.\npable of safely using the device. world data from 558 adults and children An area of particular importance is\nwith type 1 diabetes on this system (171) that of online privacy and security. Es-\nOpen-Source Automated Insulin was used to support the FDA clearance of tablished cloud-based data aggregator\nDosing a variant called Tidepool Loop (175), now programs, such as Tid",
+    "page": 11,
+    "chunk_id": "p11_c1",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "cy and security. Es-\nOpen-Source Automated Insulin was used to support the FDA clearance of tablished cloud-based data aggregator\nDosing a variant called Tidepool Loop (175), now programs, such as Tidepool, Glooko, and\nimplemented commercially. others, have been developed with ap-\nRecommendation\n7.27 Support and provide diabetes Both the Loop and OpenAPS algo- propriate data security features and are\nmanagement advice to people with rithms offer direct management of algo- compliant with the U.S. Health Insur-\ndiabetes who choose to use an open- rithm aggressiveness through conventional ance Portability and Accountability Act\nsource AID system. B pump settings. Therefore, it is advisable of 1996. These programs can help moni-\nthat health care professionals understand tor people with diabetes and provide ac-\nand offer support in tuning settings for cess to their health care teams (178).\nthese safe and effective technologies (170). Consumers should read the policy re-\nOpen-source automate",
+    "page": 11,
+    "chunk_id": "p11_c2",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "s and provide ac-\nand offer support in tuning settings for cess to their health care teams (178).\nthese safe and effective technologies (170). Consumers should read the policy re-\nOpen-source automated insulin dosing This may include, for example, the adjust-\ngarding data privacy and sharing before\n(OS-AID) algorithms provide the precise ment of basal rates, insulin-to-carbohydrate\nentering data into an application and\ncode that governs their operation, so ratios, or insulin sensitivity factors. As with\nlearn how they can manage the way\nhealth care professionals and people any AID system, a backup insulin treatment\ntheir data will be used (some programs\nwith diabetes can have a more com- plan is advisable.\noffer the ability to share more or less in-\nplete understanding of risks and bene-\nformation, such as being part of a regis-\nfits of their use (170). Any commercial Digital Health Technology try or data repository or not).\nentity could provide the source code for\nRecommendation Many ",
+    "page": 11,
+    "chunk_id": "p11_c3",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "ormation, such as being part of a regis-\nfits of their use (170). Any commercial Digital Health Technology try or data repository or not).\nentity could provide the source code for\nRecommendation Many online programs offer lifestyle\ntheir interoperable automated glycemic\n7.28 Consider combining technology counseling to achieve weight loss and\ncontroller, but most choose not to. OS-\n(CGM, insulin pump, and/or diabe- increased physical activity (179). Many\nAID algorithms are largely designed,\ntes apps) with online or virtual li- include a health coach and can create\nmaintained, and curated by people\ncensed coaching to improve glycemic small groups of similar participants on\nwith diabetes and their caregivers.\noutcomes in individuals with diabetes social networks. Some programs aim to\nMany people with diabetes use these\nor prediabetes. B treat prediabetes and prevent progres-\nalgorithms with cleared CGM systems\nsion to diabetes, often following the\nand insulin pump components. The in-\nmode",
+    "page": 11,
+    "chunk_id": "p11_c4",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "ple with diabetes use these\nor prediabetes. B treat prediabetes and prevent progres-\nalgorithms with cleared CGM systems\nsion to diabetes, often following the\nand insulin pump components. The in-\nmodel of the Diabetes Prevention Pro-\nformation on how to set up and man- Increasingly, people are turning to the\ngram (180,181). Others assist in im-\nage these systems is freely available internet for advice, coaching, connec-\nproving diabetes outcomes by remotely\nonline. tion, and health care. Diabetes, partly\nmonitoring clinical data (for instance,\nOS-AID is the preferred term when re- because it is both common and nu-\nwireless monitoring of glucose levels, ferring to any open-source system (com- meric, lends itself to the development\nweight, or blood pressure) and provid-\nmercial or otherwise). It is important to of apps and online programs. Recom-\ning feedback and coaching (182\u2013187).\nnote that the term \u201cDIY\u201d is not reflective mendations for developing and imple-\nThere are text messaging a",
+    "page": 11,
+    "chunk_id": "p11_c5",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": ". It is important to of apps and online programs. Recom-\ning feedback and coaching (182\u2013187).\nnote that the term \u201cDIY\u201d is not reflective mendations for developing and imple-\nThere are text messaging approaches\nof any aspect of these community-driven menting a digital diabetes clinic have\nthat tie into a variety of different types\nsystems. No individual person has written been published (176). The FDA approves\nof lifestyle and treatment programs,\nall the code for these algorithms, and a and monitors clinically validated, digital,\nwhich vary in terms of their effective-\nlarge percentage of users do not build the and usually online health technologies in-\nsoftware themselves (171). There are two tended to treat a medical or psychological ness (188,189). There are limited RCT\nmain available algorithms, the OpenAPS condition; these are known as digital data for many of these interventions,\nalgorithm and the Loop algorithm, which therapeutics, or \u201cdigiceuticals\u201d (fda.gov/ and long-term follo",
+    "page": 11,
+    "chunk_id": "p11_c6",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "gorithms, the OpenAPS condition; these are known as digital data for many of these interventions,\nalgorithm and the Loop algorithm, which therapeutics, or \u201cdigiceuticals\u201d (fda.gov/ and long-term follow-up is lacking. How-\nhave been implemented on a variety of medical-devices/digital-health-center- ever, in a real-world observational study\nplatforms. excellence/device-software-functions- of individuals with type 2 diabetes treated\nThe OpenAPS heuristic algorithm (im- including-mobile-medical-applications) with basal insulin, noninsulin glucose-\nplemented on a system on a chip in (177). Other applications, such as those lowering medications, or no medications,\nOpenAPS, Android smartphones as An- that assist in displaying or storing data, the use of a digital health solution and\ndroidAPS, and iPhone as iAPS/Trio) is sup- encourage a healthy lifestyle or provide rtCGM resulted in reductions of GMI\nported by large real-world studies (172) limited clinical data support. Therefore, and TAR >1",
+    "page": 11,
+    "chunk_id": "p11_c7",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": " iPhone as iAPS/Trio) is sup- encourage a healthy lifestyle or provide rtCGM resulted in reductions of GMI\nported by large real-world studies (172) limited clinical data support. Therefore, and TAR >180 mg/dL (>10 mmol/L) and\nand a multicenter RCT (173). The Open- it is possible to find apps that have been >250 mg/dL (>13.9 mmol/L) as well as\nAPS algorithm also supports unannounced fully reviewed and approved by the FDA an increase in TIR by 15% and participa-\nmeals. In a single-center study of adoles- and others designed and promoted by tion in a least one engagement activity\ncents with type 1 diabetes randomized to people with relatively little skill or per week (190). Therefore, even with lim-\nAndroidAPS with quantitative carbohydrate knowledge in the clinical treatment of di- ited data, for an individual with diabetes,\nannouncements, qualitative announcements, abetes. There are insufficient data to opting in to one of these programs can\nDownloaded\nfrom\nhttp://diabetesjournals.org/c",
+    "page": 11,
+    "chunk_id": "p11_c8",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": ", for an individual with diabetes,\nannouncements, qualitative announcements, abetes. There are insufficient data to opting in to one of these programs can\nDownloaded\nfrom\nhttp://diabetesjournals.org/care/article-pdf/49/Supplement_1/S150/848844/dc26s007.pdf\nby\nguest\non\n01\nFebruary\n2026",
+    "page": 11,
+    "chunk_id": "p11_c9",
+    "source": "ada_chapter7.pdf",
+    "char_count": 285
+  },
+  {
+    "text": "diabetesjournals.org/care Diabetes Technology S161\nbe helpful in providing support and, for monitoring: FUTURE-PEAK. J Clin Endocrinol diabetes: the CLOuD RCT. Efficacy Mech Eval\nmany, is an attractive option. Metab 2021;106:e3037\u2013e3048 2024:1\u201375\n2. Yoo JH, Kim G, Lee HJ, Sim KH, Jin S-M, Kim JH. 16. Vakharia M, Lyons SK, Buckingham D, et al.\nEffect of structured individualized education on Initiating insulin pumps in youth with new-onset\nInpatient Care continuous glucose monitoring use in poorly type 1 diabetes: a quality improvement initiative.\ncontrolled patients with type 1 diabetes: a Pediatr Qual Saf 2025;10:e803\nRecommendations\nrandomized controlled trial. Diabetes Res Clin 17. Aleppo G, Beck RW, Bailey R, et al.; Type 2\n7.29 In people with diabetes wearing\nPract 2022;184:109209 Diabetes Basal Insulin Users: The Mobile Study\npersonal CGM, the use of CGM should 3. Champakanath A, Akturk HK, Alonso GT, (MOBILE) Study Group. The effect of discontinuing\nbe continued when clinically ",
+    "page": 12,
+    "chunk_id": "p12_c1",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "betes Basal Insulin Users: The Mobile Study\npersonal CGM, the use of CGM should 3. Champakanath A, Akturk HK, Alonso GT, (MOBILE) Study Group. The effect of discontinuing\nbe continued when clinically appro- Snell-Bergeon JK, Shah VN. Continuous glucose continuous glucose monitoring in adults with type 2\npriate during hospitalization, with monitoring initiation within first year of type 1 diabetes treated with basal insulin. Diabetes Care\ndiabetes diagnosis is associated with improved 2021;44:2729\u20132737\nconfirmatory point-of-care glucose\nglycemic outcomes: 7-year follow-up study. 18. Aronson R, Abitbol A, Bajaj HS, et al. Continuous\nmeasurements for insulin dosing and Diabetes Care 2022;45:750\u2013753 glucose monitoring in noninsulin-treated type 2\nhypoglycemia assessment and treat- 4. Patton SR, Noser AE, Youngkin EM, Majidi S, diabetes: a critical review of reported trials with an\nment under an institutional protocol. B Clements MA. Early initiation of diabetes devices updated systematic r",
+    "page": 12,
+    "chunk_id": "p12_c2",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": ", Noser AE, Youngkin EM, Majidi S, diabetes: a critical review of reported trials with an\nment under an institutional protocol. B Clements MA. Early initiation of diabetes devices updated systematic review and meta-analysis of\nrelates to improved glycemic control in children randomised controlled trials. Diabetes Obes Metab\n7.30 Continue use of insulin pump or\nwith recent-onset type 1 diabetes mellitus. 2025;27:6220\u20136242\nAID in people with diabetes who are Diabetes Technol Ther 2019;21:379\u2013384 19. Karakus KE, Akturk HK, Alonso GT, Snell-\nhospitalized when clinically appropriate. 5. Prahalad P, Ding VY, Zaharieva DP, et al. Bergeon JK, Shah VN. Association between\nThis is contingent upon availability of Teamwork, targets, technology, and tight control diabetes technology use and glycemic outcomes\nin newly diagnosed type 1 diabetes: the Pilot 4T in adults with type 1 diabetes over a decade.\nnecessary supplies, resources, training,\nStudy. J Clin Endocrinol Metab 2022;107:998\u20131008 Diabetes",
+    "page": 12,
+    "chunk_id": "p12_c3",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "tcomes\nin newly diagnosed type 1 diabetes: the Pilot 4T in adults with type 1 diabetes over a decade.\nnecessary supplies, resources, training,\nStudy. J Clin Endocrinol Metab 2022;107:998\u20131008 Diabetes Care 2023;46:1646\u20131651\nongoing competency assessments, and\n6. Addala A, Maahs DM, Scheinker D, Chertow S, 20. Vigersky RA, Huang S, Cordero TL, et al.;\nimplementation of institutional diabetes Leverenz B, Prahalad P. Uninterrupted continuous OpT2mise Study Group. Improved HbA1c, total\ntechnology protocols. C glucose monitoring access is associated with a daily insulin dose, and treatment satisfaction\ndecrease in HbA1c in youth with type 1 diabetes with insulin pump therapy compared to multiple\nand public insurance. Pediatr Diabetes 2020;21: daily insulin injections in patients with type 2\nFor details on technology use in the in- 1301\u20131309 diabetes irrespective of baseline C-peptide levels.\npatient setting, see section 16, \u201cDiabetes 7. Tanenbaum ML, Zaharieva DP, Addala A, et al. Endocr Pr",
+    "page": 12,
+    "chunk_id": "p12_c4",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": " details on technology use in the in- 1301\u20131309 diabetes irrespective of baseline C-peptide levels.\npatient setting, see section 16, \u201cDiabetes 7. Tanenbaum ML, Zaharieva DP, Addala A, et al. Endocr Pract 2018;24:446\u2013452\nCare in the Hospital.\u201d \u201cI was ready for it at the beginning\u201d: parent 21. Gill M, Chhabra H, Shah M, Zhu C, Grunberger\nexperiences with early introduction of continuous G. C-peptide and beta-cell autoantibody testing\nglucose monitoring following their child\u2019s type 1 prior to initiating continuous subcutaneous insulin\nThe Future diabetes diagnosis. Diabet Med 2021;38:e14567 infusion pump therapy did not improve utilization\nThe pace of development in diabetes 8. Prahalad P, Ding VY, Zaharieva DP, et al. or medical costs among older adults with diabetes\ntechnology is extremely rapid. New ap- Sustained HbA1c improvements over 36 months mellitus. Endocr Pract 2018;24:634\u2013645\nproaches and tools are available each in youth in the Teamwork, Targets, Technology, 22. Aleppo G, Par",
+    "page": 12,
+    "chunk_id": "p12_c5",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "rapid. New ap- Sustained HbA1c improvements over 36 months mellitus. Endocr Pract 2018;24:634\u2013645\nproaches and tools are available each in youth in the Teamwork, Targets, Technology, 22. Aleppo G, Parkin CG, Carlson AL, et al. Lost in\nand Tight Control (4T) study. J Clin Endo Met. 10 translation: a disconnect between the science\nyear. It is difficult for research to keep\nJuly 2025 [Epub ahead of print]. DOI: 10.1210/ and medicare coverage criteria for continuous\nup with these advances, because newer clinem/dgaf397 subcutaneous insulin infusion. Diabetes Technol\nversions of the devices and digital solu- 9. Maizel J, Haller MJ, Maahs DM, et al. Peer Ther 2021;23:715\u2013725\ntions are already on the market by the mentoring improves diabetes technology use and 23. Argento NB, Liu J, Hughes AS, McAuliffe-\nreduces diabetes distress among underserved Fogarty AH. Impact of Medicare continuous\ntime a study is completed. The most\ncommunities: outcomes of a pilot diabetes support subcutaneous insulin",
+    "page": 12,
+    "chunk_id": "p12_c6",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "uliffe-\nreduces diabetes distress among underserved Fogarty AH. Impact of Medicare continuous\ntime a study is completed. The most\ncommunities: outcomes of a pilot diabetes support subcutaneous insulin infusion policies in patients\nimportant consideration in all these\ncoach intervention. J Diabetes Res 2025;2025: with type 1 diabetes. J Diabetes Sci Technol\nsystems is the person with diabetes. 1970247 2020;14:257\u2013261\nTechnology selection must be appro- 10. Weinstock RS, Raghinaru D, Gal RL, et al. 24. Mullen DM, Bergenstal RM, Johnson M, et al.\npriate and safe for the individual. Sim- Older adults benefit from virtual support for AGP reports for glucose and insulin devices\ncontinuous glucose monitor use but require qualitative study: what patients and clinicians want.\nply having a device or application does\nlonger visits. J Diabetes Sci Technol. 2 November Sci Diabetes Self Manag Care 2025;51:333\u2013344\nnot change outcomes unless the human 2024 [Epub ahead of print]. DOI: 10.1177/ 25. Simo",
+    "page": 12,
+    "chunk_id": "p12_c7",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": " application does\nlonger visits. J Diabetes Sci Technol. 2 November Sci Diabetes Self Manag Care 2025;51:333\u2013344\nnot change outcomes unless the human 2024 [Epub ahead of print]. DOI: 10.1177/ 25. Simonson GD, Criego AB, Battelino T, et al.\nbeing engages with it appropriately to 19322968241294250 Expert panel recommendations for a standardized\ncreate positive health benefits. This under- 11. Meighan S, Douvas JL, Rearson A, Squaresky ambulatory glucose profile report for connected\nR, Kelly A, Marks BE. The type of patient training insulin pens. Diabetes Technol Ther 2024;26:\nscores the need for the health care team\ndoes not impact outcomes in the first 90 days of 814\u2013822\nto assist people with diabetes in device\nautomated insulin delivery use. Diabetes Technol 26. Johnson ML, Martens TW, Criego AB, Carlson\nand program selection and to support Ther 2024;26:773\u2013779 AL, Simonson GD, Bergenstal RM. Utilizing the\ntheir use through ongoing education and 12. Patil SP, Albanese-O\u2019Neill A, Yehl K",
+    "page": 12,
+    "chunk_id": "p12_c8",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "ego AB, Carlson\nand program selection and to support Ther 2024;26:773\u2013779 AL, Simonson GD, Bergenstal RM. Utilizing the\ntheir use through ongoing education and 12. Patil SP, Albanese-O\u2019Neill A, Yehl K, Seley JJ, ambulatory glucose profile to standardize and\ntraining. Expectations must be tempered Hughes AS. Professional competencies for diabetes implement continuous glucose monitoring in\ntechnology use in the care setting. Sci Diabetes Self clinical practice. Diabetes Technol Ther 2019;21:\nby reality\u2014we do not yet have technology\nManag Care 2022;48:437\u2013445 S217\u2013S225\nthat completely eliminates the self-care\n13. Phillip M, Nimri R, Bergenstal RM, et al. 27. Karakus KE, Snell-Bergeon JK, Akturk HK.\ntasks necessary for managing diabetes, Consensus recommendations for the use of Comparison of computational statistical packages\nbut the tools described in this section can automated insulin delivery technologies in for the analysis of continuous glucose monitoring\nmake it easier to manage if d",
+    "page": 12,
+    "chunk_id": "p12_c9",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "omputational statistical packages\nbut the tools described in this section can automated insulin delivery technologies in for the analysis of continuous glucose monitoring\nmake it easier to manage if disseminated clinical practice. Endocr Rev 2023;44:254\u2013280 data with a reference software, \u201cAmbulatory\n14. Anderson JE, Greene MA, Griffin JW, Jr, Glucose Profile,\u201d in type 1 diabetes. Diabetes\nequitably.\net al.; American Diabetes Association. Diabetes Technol Ther 2025;27:202\u2013208\nand employment. Diabetes Care 2014;37(Suppl. 1): 28. Diabetes Control and Complications Trial\nReferences S112\u2013S117 (DCCT)/Epidemiology of Diabetes Interventions\n1. Broos B, Charleer S, Bolsens N, et al. Diabetes 15. Boughton CK, Allen JM, Ware J, et al. The and Complications (EDIC) Study Research Group.\nknowledge and metabolic control in type 1 effect of closed-loop glucose control on C-peptide Intensive diabetes treatment and cardiovascular\ndiabetes starting with continuous glucose secretion in youth with newly d",
+    "page": 12,
+    "chunk_id": "p12_c10",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "metabolic control in type 1 effect of closed-loop glucose control on C-peptide Intensive diabetes treatment and cardiovascular\ndiabetes starting with continuous glucose secretion in youth with newly diagnosed type 1 outcomes in type 1 diabetes: the DCCT/EDIC\nDownloaded\nfrom\nhttp://diabetesjournals.org/care/article-pdf/49/Supplement_1/S150/848844/dc26s007.pdf\nby\nguest\non\n01\nFebruary\n2026",
+    "page": 12,
+    "chunk_id": "p12_c11",
+    "source": "ada_chapter7.pdf",
+    "char_count": 389
+  },
+  {
+    "text": "S162 Diabetes Technology Diabetes Care Volume 49, Supplement 1, January 2026\nstudy 30-year follow-up. Diabetes Care 2016;39: 43. Holmes-Truscott E, Baptista S, Ling M, et al. controlled trials and meta-analysis. Diabetologia\n686\u2013693 The impact of structured self-monitoring of blood 2022;65:604\u2013619\n29. Pleus S, Baumstark A, Jendrike N, et al. glucose on clinical, behavioral, and psychosocial 57. Pratley RE, Kanapka LG, Rickels MR, et al.;\nSystem accuracy evaluation of 18 CE-marked outcomes among adults with non-insulin-treated Wireless Innovation for Seniors With Diabetes\ncurrent-generation blood glucose monitoring type 2 diabetes: a systematic review and meta- Mellitus (WISDM) Study Group. Effect of continuous\nsystems based on EN ISO 15197:2015. BMJ Open analysis. Front Clin Diabetes Healthc 2023;4: glucose monitoring on hypoglycemia in older adults\nDiabetes Res Care 2020;8:e001067 1177030 with type 1 diabetes: a randomized clinical trial.\n30. Grady M, Lamps G, Shemain A, Cameron H, 44",
+    "page": 13,
+    "chunk_id": "p13_c1",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "hc 2023;4: glucose monitoring on hypoglycemia in older adults\nDiabetes Res Care 2020;8:e001067 1177030 with type 1 diabetes: a randomized clinical trial.\n30. Grady M, Lamps G, Shemain A, Cameron H, 44. Sai S, Urata M, Ogawa I. Evaluation of JAMA 2020;323:2397\u20132406\nMurray L. Clinical evaluation of a new, lower linearity and interference effect on SMBG and 58. Miller KM, Kanapka LG, Rickels MR, et al. Benefit\npain, one touch lancing device for people with POCT devices, showing drastic high values, low of continuous glucose monitoring in reducing\ndiabetes: virtually pain-free testing and improved values, or error messages. J Diabetes Sci Technol hypoglycemia is sustained through 12 months\ncomfort compared to current lancing systems. J 2019;13:734\u2013743 of use among older adults with type 1 diabetes.\nDiabetes Sci Technol 2021;15:53\u201359 45. Sacks DB, Arnold M, Bakris GL, et al. Guidelines Diabetes Technol Ther 2022;24:424\u2013434\n31. Heinemann L, Drossel D, Freckmann G, and recommendations for lab",
+    "page": 13,
+    "chunk_id": "p13_c2",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "etes.\nDiabetes Sci Technol 2021;15:53\u201359 45. Sacks DB, Arnold M, Bakris GL, et al. Guidelines Diabetes Technol Ther 2022;24:424\u2013434\n31. Heinemann L, Drossel D, Freckmann G, and recommendations for laboratory analysis in the 59. Bao S, Bailey R, Calhoun P, Beck RW.\nKulzer B. Usability of medical devices for patients diagnosis and management of diabetes mellitus. Effectiveness of continuous glucose monitoring\nwith diabetes who are visually impaired or blind. Diabetes Care 2023;46:e151\u2013e199 in older adults with type 2 diabetes treated with\nJ Diabetes Sci Technol 2016;10:1382\u20131387 46. Tamborlane WV, Beck RW, Bode BW, et al.; basal insulin. Diabetes Technol Ther 2022;24:299\u2013306\n32. Harrison B, Brown D. Accuracy of a blood Juvenile Diabetes Research Foundation Continuous 60. Van Name MA, Kanapka LG, DiMeglio LA,\nglucose monitoring system that recognizes Glucose Monitoring Study Group. Continuous et al. Long-term continuous glucose monitor use\ninsufficient sample blood volume and allows gluco",
+    "page": 13,
+    "chunk_id": "p13_c3",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": " LG, DiMeglio LA,\nglucose monitoring system that recognizes Glucose Monitoring Study Group. Continuous et al. Long-term continuous glucose monitor use\ninsufficient sample blood volume and allows glucose monitoring and intensive treatment of type 1 in very young children with type 1 diabetes: one-\napplication of more blood to the same test strip. diabetes. N Engl J Med 2008;359:1464\u20131476 year results from the SENCE study. J Diabetes Sci\nExpert Rev Med Devices 2020;17:75\u201382 47. Tumminia A, Crimi S, Sciacca L, et al. Efficacy Technol 2023;17:976\u2013987\n33. Karter AJ, Ackerson LM, Darbinian JA, et al. 61. Martens T, Beck RW, Bailey R, et al.; MOBILE\nof real-time continuous glucose monitoring on\nSelf-monitoring of blood glucose levels and Study Group. Effect of continuous glucose monitoring\nglycaemic control and glucose variability in type 1\nglycemic control: the Northern California Kaiser on glycemic control in patients with type 2 diabetes\ndiabetic patients treated with either insulin\nPerman",
+    "page": 13,
+    "chunk_id": "p13_c4",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "mic control and glucose variability in type 1\nglycemic control: the Northern California Kaiser on glycemic control in patients with type 2 diabetes\ndiabetic patients treated with either insulin\nPermanente Diabetes registry. Am J Med 2001; treated with basal insulin: a randomized clinical trial.\npumps or multiple insulin injection therapy: a\n111:1\u20139 JAMA 2021;325:2262\u20132272\nrandomized controlled crossover trial. Diabetes\n34. Miller KM, Beck RW, Bergenstal RM, et al.; 62. Grace T, Salyer J. Use of real-time continuous\nMetab Res Rev 2015;31:61\u201368\nT1D Exchange Clinic Network. Evidence of a glucose monitoring improves glycemic control and\n48. Hansen KW, Bibby BM. The frequency of\nstrong association between frequency of self- other clinical outcomes in type 2 diabetes patients\nintermittently scanned glucose and diurnal variation\nmonitoring of blood glucose and hemoglobin A1c treated with less intensive therapy. Diabetes\nof glycemic metrics. J Diabetes Sci Technol 2022;16:\nlevels in T1D exchan",
+    "page": 13,
+    "chunk_id": "p13_c5",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "ned glucose and diurnal variation\nmonitoring of blood glucose and hemoglobin A1c treated with less intensive therapy. Diabetes\nof glycemic metrics. J Diabetes Sci Technol 2022;16:\nlevels in T1D exchange clinic registry participants. Technol Ther 2022;24:26\u201331\n1461\u20131465\nDiabetes Care 2013;36:2009\u20132014 63. Ehrhardt NM, Chellappa M, Walker MS, Fonda\n49. Urakami T, Yoshida K, Kuwabara R, et al.\n35. Grant RW, Huang ES, Wexler DJ, et al. SJ, Vigersky RA. The effect of real-time continuous\nFrequent scanning using flash glucose monitoring\nPatients who self-monitor blood glucose and glucose monitoring on glycemic control in patients\ncontributes to better glycemic control in children\ntheir unused testing results. Am J Manag Care with type 2 diabetes mellitus. J Diabetes Sci Technol\nand adolescents with type1 diabetes. J Diabetes\n2015;21:e119\u2013e129 2011;5:668\u2013675\nInvestig 2022;13:185\u2013190\n36. Katz LB, Stewart L, Guthrie B, Cameron H. 64. Price DA, Deng Q, Kipnes M, Beck SE. Episodic\n50. Laffel LM, ",
+    "page": 13,
+    "chunk_id": "p13_c6",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "ith type1 diabetes. J Diabetes\n2015;21:e119\u2013e129 2011;5:668\u2013675\nInvestig 2022;13:185\u2013190\n36. Katz LB, Stewart L, Guthrie B, Cameron H. 64. Price DA, Deng Q, Kipnes M, Beck SE. Episodic\n50. Laffel LM, Kanapka LG, Beck RW, et al.;\nPatient satisfaction with a new, high accuracy real-time CGM use in adults with type 2 diabetes:\nCDE10. Effect of continuous glucose monitoring\nblood glucose meter that provides personalized results of a pilot randomized controlled trial.\non glycemic control in adolescents and young\nguidance, insight, and encouragement. J Diabetes Diabetes Ther 2021;12:2089\u20132099\nadults with type 1 diabetes: a randomized clinical\nSci Technol 2020;14:318\u2013323 65. Jancev M, Vissers TACM, Visseren FLJ, et al.\ntrial. JAMA 2020;323:2388\u20132396\n37. Shaw RJ, Yang Q, Barnes A, et al. Self- Continuous glucose monitoring in adults with\n51. Strategies to Enhance New CGM Use in Early\nmonitoring diabetes with multiple mobile health type 2 diabetes: a systematic review and meta-\nChildhood (SENCE",
+    "page": 13,
+    "chunk_id": "p13_c7",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "tinuous glucose monitoring in adults with\n51. Strategies to Enhance New CGM Use in Early\nmonitoring diabetes with multiple mobile health type 2 diabetes: a systematic review and meta-\nChildhood (SENCE) Study Group. A randomized\ndevices. J Am Med Inform Assoc 2020;27:667\u2013676 analysis. Diabetologia 2024;67:798\u2013810\nclinical trial assessing continuous glucose monitoring\n38. Gellad WF, Zhao X, Thorpe CT, Mor MK, 66. Ferreira ROM, Trevisan T, Pasqualotto E,\n(CGM) use with standardized education with or\nGood CB, Fine MJ. Dual use of Department of et al. Continuous glucose monitoring systems in\nwithout a family behavioral intervention compared Veterans Affairs and Medicare benefits and use noninsulin-treated people with type 2 diabetes: a\nof test strips in veterans with type 2 diabetes with fingerstick blood glucose monitoring in very systematic review and meta-analysis of randomized\nmellitus. JAMA Intern Med 2015;175:26\u201334 young children with type 1 diabetes. Diabetes Care controlled trials. ",
+    "page": 13,
+    "chunk_id": "p13_c8",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "stick blood glucose monitoring in very systematic review and meta-analysis of randomized\nmellitus. JAMA Intern Med 2015;175:26\u201334 young children with type 1 diabetes. Diabetes Care controlled trials. Diabetes Technol Ther 2024;26:\n39. Ziegler R, Heidtmann B, Hilgard D, Hofer S, 2021;44:464\u2013472 252\u2013262\nRosenbauer J, Holl R; DPV-Wiss-Initiative. Frequency 52. New JP, Ajjan R, Pfeiffer AFH, Freckmann G. 67. Moon SJ, Kim K-S, Lee WJ, Lee MY, Vigersky\nof SMBG correlates with HbA1c and acute Continuous glucose monitoring in people with R, Park C-Y. Efficacy of intermittent short-term\ncomplications in children and adolescents with diabetes: the randomized controlled Glucose Level use of a real-time continuous glucose monitoring\ntype 1 diabetes. Pediatr Diabetes 2011;12: Awareness in Diabetes Study (GLADIS). Diabet Med system in non-insulin-treated patients with type 2\n11\u201317 2015;32:609\u2013617 diabetes: a randomized controlled trial. Diabetes\n40. Rosenstock J, Bajaj HS, Lingvay I, Heller 53. Gubi",
+    "page": 13,
+    "chunk_id": "p13_c9",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "y (GLADIS). Diabet Med system in non-insulin-treated patients with type 2\n11\u201317 2015;32:609\u2013617 diabetes: a randomized controlled trial. Diabetes\n40. Rosenstock J, Bajaj HS, Lingvay I, Heller 53. Gubitosi-Klug RA, Braffett BH, Bebu I, et al. Obes Metab 2023;25:110\u2013120\nSR. Clinical perspectives on the frequency of Continuous glucose monitoring in adults with 68. Manfredo J, Lin T, Gupta R, et al. Short-term\nhypoglycemia in treat-to-target randomized type 1 diabetes with 35 years duration from the use of CGM in youth onset type 2 diabetes is\ncontrolled trials comparing basal insulin analogs in DCCT/EDIC study. Diabetes Care 2022;45:659\u2013665 associated with behavioral modifications. Front\ntype 2 diabetes: a narrative review. BMJ Open 54. Sequeira PA, Montoya L, Ruelas V, et al. Endocrinol (Lausanne) 2023;14:1182260\nDiabetes Res Care 2024;12:e003930 Continuous glucose monitoring pilot in low-income 69. Chesser H, Srinivasan S, Puckett C, Gitelman SE,\n41. Zou Y, Zhao S, Li G, Zhang C. The ef",
+    "page": 13,
+    "chunk_id": "p13_c10",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "sanne) 2023;14:1182260\nDiabetes Res Care 2024;12:e003930 Continuous glucose monitoring pilot in low-income 69. Chesser H, Srinivasan S, Puckett C, Gitelman SE,\n41. Zou Y, Zhao S, Li G, Zhang C. The efficacy and type 1 diabetes patients. Diabetes Technol Ther Wong JC. Real-time continuous glucose monitoring\nfrequency of self-monitoring of blood glucose in 2013;15:855\u2013858 in adolescents and young adults with type 2\nnon-insulin-treated T2D patients: a systematic 55. Friedman JG, Coyne K, Aleppo G, Szmuilowicz diabetes can improve quality of life. J Diabetes\nreview and meta-analysis. J Gen Intern Med 2023; ED. Beyond A1C: exploring continuous glucose Sci Technol 2024;18:911\u2013919\n38:755\u2013764 monitoring metrics in managing diabetes. Endocr 70. Deshmukh H, Wilmot EG, Gregory R, et al.\n42. Young LA, Buse JB, Weaver MA, et al.; Connect 2023;12:e230085 Effect of flash glucose monitoring on glycemic\nMonitor Trial Group. Glucose self-monitoring in 56. Teo E, Hassan N, Tam W, Koh S. Effectiveness con",
+    "page": 13,
+    "chunk_id": "p13_c11",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": " Buse JB, Weaver MA, et al.; Connect 2023;12:e230085 Effect of flash glucose monitoring on glycemic\nMonitor Trial Group. Glucose self-monitoring in 56. Teo E, Hassan N, Tam W, Koh S. Effectiveness control, hypoglycemia, diabetes-related distress,\nnon-insulin-treated patients with type 2 diabetes of continuous glucose monitoring in maintaining and resource utilization in the Association of\nin primary care settings: a randomized trial. JAMA glycaemic control among people with type 1 British Clinical Diabetologists (ABCD) nationwide\nIntern Med 2017;177:920\u2013929 diabetes mellitus: a systematic review of randomised audit. Diabetes Care 2020;43:2153\u20132160\nDownloaded\nfrom\nhttp://diabetesjournals.org/care/article-pdf/49/Supplement_1/S150/848844/dc26s007.pdf\nby\nguest\non\n01\nFebruary\n2026",
+    "page": 13,
+    "chunk_id": "p13_c12",
+    "source": "ada_chapter7.pdf",
+    "char_count": 786
+  },
+  {
+    "text": "diabetesjournals.org/care Diabetes Technology S163\n71. Charleer S, Gillard P, Vandoorne E, Cammaerts continuous glucose monitoring on clinical decision system Eversense: an alternative for diabetes\nK, Mathieu C, Casteels K. Intermittently scanned making and glycemic control in persons with type 2 patients with isobornyl acrylate allergy. Contact\ncontinuous glucose monitoring is associated with diabetes on insulin therapy. Nutr Metab Cardiovasc Dermatitis 2020;82:101\u2013104\nhigh satisfaction but increased HbA1c and weight Dis 2021;31:1267\u20131275 99. Freckmann G, Buck S, Waldenmaier D, et al.\nin well-controlled youth with type 1 diabetes. 85. Ziegler R, Heinemann L, Freckmann G, Skin reaction report form: development and\nPediatr Diabetes 2020;21:1465\u20131474 Schnell O, Hinzmann R, Kulzer B. Intermittent use design of a standardized report form for skin\n72. Krakauer M, Botero JF, Lavalle-Gonz\u00e1lez FJ, of continuous glucose monitoring: expanding the reactions due to medical devices for diabetes\nPro",
+    "page": 14,
+    "chunk_id": "p14_c1",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "tent use design of a standardized report form for skin\n72. Krakauer M, Botero JF, Lavalle-Gonz\u00e1lez FJ, of continuous glucose monitoring: expanding the reactions due to medical devices for diabetes\nProietti A, Barbieri DE. A review of flash glucose clinical value of CGM. J Diabetes Sci Technol management. J Diabetes Sci Technol 2021;15:\nmonitoring in type 2 diabetes. Diabetol Metab 2021;15:684\u2013694 801\u2013806\nSyndr 2021;13:42 86. Wada E, Onoue T, Kobayashi T, et al. Flash 100. Deiss D, Irace C, Carlson G, Tweden KS,\n73. Hohendorff J, Gumprecht J, Mysliwiec M, glucose monitoring helps achieve better glycemic Kaufman FR. Real-world safety of an implantable\nZozulinska-Ziolkiewicz D, Malecki MT. Intermittently control than conventional self-monitoring of blood continuous glucose sensor over multiple cycles of\nscanned continuous glucose monitoring data of glucose in non-insulin-treated type 2 diabetes: a use: a post-market registry study. Diabetes Technol\npolish patients from real-life condition",
+    "page": 14,
+    "chunk_id": "p14_c2",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "e cycles of\nscanned continuous glucose monitoring data of glucose in non-insulin-treated type 2 diabetes: a use: a post-market registry study. Diabetes Technol\npolish patients from real-life conditions: more randomized controlled trial. BMJ Open Diabetes Ther 2020;22:48\u201352\nscanning and better glycemic control compared to Res Care 2020;8:e001115 101. Sanchez P, Ghosh-Dastidar S, Tweden KS,\nworldwide data. Diabetes Technol Ther 2021;23: 87. Nemlekar PM, Hannah KL, Norman GJ. Kaufman FR. Real-world data from the first U.S.\n577\u2013585 Association between change in A1C and use of commercial users of an implantable continuous\n74. Nathanson D, Svensson A-M, Miftaraj M, professional continuous glucose monitoring in glucose sensor. Diabetes Technol Ther 2019;21:\nFranz\u00e9n S, Bolinder J, Eeg-Olofsson K. Effect of adults with type 2 diabetes on noninsulin therapies: 677\u2013681\nflash glucose monitoring in adults with type 1 a real-world evidence study. Clin Diabetes 2023;41: 102. Szmuilowicz ED, Aleppo G.",
+    "page": 14,
+    "chunk_id": "p14_c3",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "Effect of adults with type 2 diabetes on noninsulin therapies: 677\u2013681\nflash glucose monitoring in adults with type 1 a real-world evidence study. Clin Diabetes 2023;41: 102. Szmuilowicz ED, Aleppo G. Interferent effect\ndiabetes: a nationwide, longitudinal observational 359\u2013366 of hydroxyurea on continuous glucose monitoring.\nstudy of 14,372 flash users compared with 7691 88. Sherrill CH, Houpt CT, Dixon EM, Richter SJ. Diabetes Care 2021;44:e89\u2013e90\nglucose sensor naive controls. Diabetologia 2021; Effect of pharmacist-driven professional continuous 103. Pf\u00fctzner A, Jensch H, Cardinal C,\n64:1595\u20131603 glucose monitoring in adults with uncontrolled Srikanthamoorthy G, Riehn E, Thom\u00e9 N. Laboratory\n75. Roussel R, Riveline J-P, Vicaut E, et al. Important diabetes. J Manag Care Spec Pharm 2020;26:\nprotocol and pilot results for dynamic interference\ndrop in rate of acute diabetes complications in 600\u2013609\ntesting of continuous glucose monitoring sensors. J\npeople with type 1 or type 2 diabetes",
+    "page": 14,
+    "chunk_id": "p14_c4",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "6:\nprotocol and pilot results for dynamic interference\ndrop in rate of acute diabetes complications in 600\u2013609\ntesting of continuous glucose monitoring sensors. J\npeople with type 1 or type 2 diabetes after initiation 89. Fantasia KL, Stockman M-C, Ju Z, et al.\nDiabetes Sci Technol 2024;18:59\u201365\nof flash glucose monitoring in France: the RELIEF Professional continuous glucose monitoring and\n104. U.S. FDA. Summary of safety and effectiveness\nstudy. Diabetes Care 2021;44:1368\u20131376 endocrinology eConsult for adults with type 2\ndata (SSED). Continuous glucose monitor (CGM),\n76. Riveline J-P, Roussel R, Vicaut E, et al. diabetes in primary care: results of a clinical pilot\nimplanted, adjunctive use 2018. Accessed 14 August\nReduced rate of acute diabetes events with flash program. J Clin Transl Endocrinol 2021;24:100254\n2025. Available from https://www.accessdata.fda\nglucose monitoring is sustained for 2 years after 90. Simonson GD, Bergenstal RM, Johnson ML,\n.gov/cdrh_docs/pdf16/P160048B.pd",
+    "page": 14,
+    "chunk_id": "p14_c5",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "Endocrinol 2021;24:100254\n2025. Available from https://www.accessdata.fda\nglucose monitoring is sustained for 2 years after 90. Simonson GD, Bergenstal RM, Johnson ML,\n.gov/cdrh_docs/pdf16/P160048B.pdf\ninitiation: extended outcomes from the RELIEF Davidson JL, Martens TW. Effect of professional\n105. Machry RV, Cipriani GF, Pedroso HU, et al.\nstudy. Diabetes Technol Ther 2022;24:611\u2013618 CGM (pCGM) on glucose management in type 2\nPens versus syringes to deliver insulin among\n77. Miller E, Kerr MSD, Roberts GJ, Nabutovsky diabetes patients in primary care. J Diabetes Sci\nelderly patients with type 2 diabetes: a randomized\nY, Wright E. Flash CGM associated with event Technol 2021;15:539\u2013545\ncontrolled clinical trial. Diabetol Metab Syndr\nreduction in nonintensive diabetes therapy. Am J 91. Pleus S, Ulbrich S, Zschornack E, Kamann S,\n2021;13:64\nManag Care 2021;27:e372\u2013e377 Haug C, Freckmann G. Documentation of skin-\n106. Korytkowski M, Bell D, Jacobsen C, Suwannasari\n78. Karter AJ, Parker M",
+    "page": 14,
+    "chunk_id": "p14_c6",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "us S, Ulbrich S, Zschornack E, Kamann S,\n2021;13:64\nManag Care 2021;27:e372\u2013e377 Haug C, Freckmann G. Documentation of skin-\n106. Korytkowski M, Bell D, Jacobsen C, Suwannasari\n78. Karter AJ, Parker MM, Moffet HH, Gilliam LK, related issues associated with continuous glucose\nR; FlexPen Study Team. A multicenter, randomized,\nDlott R. Association of real-time continuous glucose monitoring use in the scientific literature. Diabetes\nopen-label, comparative, two-period crossover trial\nmonitoring with glycemic control and acute Technol Ther 2019;21:538\u2013545\nof preference, efficacy, and safety profiles of a\nmetabolic events among patients with insulin- 92. Herman A, de Montjoye L, Baeck M. Adverse\nprefilled, disposable pen and conventional vial/\ntreated diabetes. JAMA 2021;325:2273\u20132284 cutaneous reaction to diabetic glucose sensors\nsyringe for insulin injection in patients with type 1\n79. Layne JE, Jepson LH, Carite AM, Parkin CG, and insulin pumps: irritant contact dermatitis or\nor 2 diabete",
+    "page": 14,
+    "chunk_id": "p14_c7",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "reaction to diabetic glucose sensors\nsyringe for insulin injection in patients with type 1\n79. Layne JE, Jepson LH, Carite AM, Parkin CG, and insulin pumps: irritant contact dermatitis or\nor 2 diabetes mellitus. Clin Ther 2003;25:2836\u20132848\nBergenstal RM. Long-term improvements in allergic contact dermatitis? Contact Dermatitis\n107. Singh R, Samuel C, Jacob JJ. A comparison\nglycemic control with Dexcom CGM use in adults 2020;83:25\u201330\nof insulin pen devices and disposable plastic\nwith noninsulin-treated type 2 diabetes. Diabetes 93. Rigo RS, Levin LE, Belsito DV, Garzon MC,\nsyringes - simplicity, safety, convenience and cost Technol Ther 2024;26:925\u2013931 Gandica R, Williams KM. Cutaneous reactions to\n80. Akturk HK; American Diabetes Association continuous glucose monitoring and continuous differences. Eur Endocrinol 2018;14:47\u201351\n108. Frid AH, Kreugel G, Grassi G, et al. New\nDiabetes Technology Interest Group. Recent subcutaneous insulin infusion devices in type 1\nadvances in diabetes tec",
+    "page": 14,
+    "chunk_id": "p14_c8",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "ferences. Eur Endocrinol 2018;14:47\u201351\n108. Frid AH, Kreugel G, Grassi G, et al. New\nDiabetes Technology Interest Group. Recent subcutaneous insulin infusion devices in type 1\nadvances in diabetes technology and activities of diabetes mellitus. J Diabetes Sci Technol 2021;15: insulin delivery recommendations. Mayo Clin\nthe American Diabetes Association Diabetes 786\u2013791 Proc 2016;91:1231\u20131255\nTechnology Interest Group. Clin Diabetes 2024; 94. Kamann S, Aerts O, Heinemann L. Further 109. Slabaugh SL, Bouchard JR, Li Y, Baltz JC,\n42:316\u2013321 evidence of severe allergic contact dermatitis Meah YA, Moretz DC. Characteristics relating to\n81. Dexcom, Inc. Dexcom G7 Continuous Glucose from isobornyl acrylate while using a continuous adherence and persistence to basal insulin regimens\nMonitoring System. Integrated Continuous Glucose glucose monitoring system. J Diabetes Sci Technol among elderly insulin-na\u00efve patients with type 2\nMonitoring System, Factory Calibrated. Dexcom, 2018;12:630\u2013633 dia",
+    "page": 14,
+    "chunk_id": "p14_c9",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "tem. Integrated Continuous Glucose glucose monitoring system. J Diabetes Sci Technol among elderly insulin-na\u00efve patients with type 2\nMonitoring System, Factory Calibrated. Dexcom, 2018;12:630\u2013633 diabetes: pre-filled pens versus vials/syringes. Adv\nInc. Accessed 14 August 2025. Available from 95. Hyry HSI, Liippo JP, Virtanen HM. Allergic Ther 2015;32:1206\u20131221\nhttps://fda.report/PMN/K213919 contact dermatitis caused by glucose sensors in 110. Ahmann A, Szeinbach SL, Gill J, Traylor L,\n82. Abitbol A, Jain AB, Tsoukas MA, et al. Use of type 1 diabetes patients. Contact Dermatitis 2019; Garg SK. Comparing patient preferences and\nflash glucose monitoring is associated with 81:161\u2013166 healthcare provider recommendations with the\nHbA1c reduction in type 2 diabetes managed 96. Asarani NAM, Reynolds AN, Boucher SE, de pen versus vial-and-syringe insulin delivery in\nwith basal insulin in Canada: a real-world prospective Bock M, Wheeler BJ. Cutaneous complications patients with type 2 diabetes",
+    "page": 14,
+    "chunk_id": "p14_c10",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "olds AN, Boucher SE, de pen versus vial-and-syringe insulin delivery in\nwith basal insulin in Canada: a real-world prospective Bock M, Wheeler BJ. Cutaneous complications patients with type 2 diabetes. Diabetes Technol\nobservational study. Diab Vasc Dis Res 2024;21: with continuous or flash glucose monitoring use: Ther 2014;16:76\u201383\n14791641241253967 systematic review of trials and observational 111. Asche CV, Luo W, Aagren M. Differences in\n83. Heer RS, Lovegrove J, Welsh Z. Efficacy of studies. J Diabetes Sci Technol 2020;14:328\u2013337 rates of hypoglycemia and health care costs in\nflash glucose monitoring on HbA1c in type 2 97. Lombardo F, Salzano G, Crisafulli G, et al. patients treated with insulin aspart in pens versus\ndiabetes: an individual patient data meta-analysis Allergic contact dermatitis in pediatric patients vials. Curr Med Res Opin 2013;29:1287\u20131296\nof real-world evidence. Diabetes Res Clin Pract with type 1 diabetes: an emerging issue. Diabetes 112. Hanas R, de Beaufort ",
+    "page": 14,
+    "chunk_id": "p14_c11",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "dermatitis in pediatric patients vials. Curr Med Res Opin 2013;29:1287\u20131296\nof real-world evidence. Diabetes Res Clin Pract with type 1 diabetes: an emerging issue. Diabetes 112. Hanas R, de Beaufort C, Hoey H, Anderson\n2025;219:111950 Res Clin Pract 2020;162:108089 B. Insulin delivery by injection in children and\n84. Ribeiro RT, Andrade R, Nascimento do O\ufffd D, 98. Oppel E, Kamann S, Heinemann L, Reichl F-X, adolescents with diabetes. Pediatr Diabetes 2011;\nLopes AF, Raposo JF. Impact of blinded retrospective H\u00f6gg C. The implanted glucose monitoring 12:518\u2013526\nDownloaded\nfrom\nhttp://diabetesjournals.org/care/article-pdf/49/Supplement_1/S150/848844/dc26s007.pdf\nby\nguest\non\n01\nFebruary\n2026",
+    "page": 14,
+    "chunk_id": "p14_c12",
+    "source": "ada_chapter7.pdf",
+    "char_count": 696
+  },
+  {
+    "text": "S164 Diabetes Technology Diabetes Care Volume 49, Supplement 1, January 2026\n113. Pf\u00fctzner A, Schipper C, Niemeyer M, et al. review and meta-analysis. J Clin Nurs 2024;33: 141. Beato-V\u00edbora PI, Quir\u00f3s-L\u00f3pez C, L\u00e1zaro-\nComparison of patient preference for two insulin 2412\u20132426 Mart\u00edn L, et al. Impact of sensor-augmented\ninjection pen devices in relation to patient 129. Howe CJ, Morone J, Hawkes CP, Lipman TH. pump therapy with predictive low-glucose suspend\ndexterity skills. J Diabetes Sci Technol 2012;6: Racial disparities in technology use in children function on glycemic control and patient satisfaction\n910\u2013916 with type 1 diabetes: a qualitative content analysis in adults and children with type 1 diabetes. Diabetes\n114. Maltese G, McAuley SA, Trawley S, Sinclair of parents\u2019 perspectives. Sci Diabetes Self Manag Technol Ther 2018;20:738\u2013743\nAJ. Ageing well with diabetes: the role of Care 2023;49:55\u201364 142. Brown SA, Beck RW, Raghinaru D, et al.;\ntechnology. Diabetologia 2024;67:2085\u2013",
+    "page": 15,
+    "chunk_id": "p15_c1",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": ". Sci Diabetes Self Manag Technol Ther 2018;20:738\u2013743\nAJ. Ageing well with diabetes: the role of Care 2023;49:55\u201364 142. Brown SA, Beck RW, Raghinaru D, et al.;\ntechnology. Diabetologia 2024;67:2085\u20132102 130. Tanenbaum ML, Commissariat PV, Wilmot iDCL Trial Research Group. Glycemic outcomes of\n115. Zabaleta-Del-Olmo E, Vlacho B, Jodar- EG, Lange K. Navigating the unique challenges of use of CLC versus PLGS in type 1 diabetes: a\nFern\u00e1ndez L, et al. Safety of the reuse of needles automated insulin delivery systems to facilitate randomized controlled trial. Diabetes Care 2020;\nfor subcutaneous insulin injection: a systematic effective uptake, onboarding, and continued use. 43:1822\u20131828\nreview and meta-analysis. Int J Nurs Stud 2016; J Diabetes Sci Technol 2025;19:47\u201353 143. Akturk HK, Brown SA, Beck RW, et al.\n60:121\u2013132 131. Berghaeuser MA, Kapellen T, Heidtmann B, Registration and real-life studies on automated\n116. Seo J, Heidenreich S, Aldalooj E, et al. Haberland H, Klinkert C, Holl",
+    "page": 15,
+    "chunk_id": "p15_c2",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "SA, Beck RW, et al.\n60:121\u2013132 131. Berghaeuser MA, Kapellen T, Heidtmann B, Registration and real-life studies on automated\n116. Seo J, Heidenreich S, Aldalooj E, et al. Haberland H, Klinkert C, Holl RW; German insulin delivery systems. Diabetes Technol Ther\nPatients\u2019 preferences for connected insulin pens: Working Group for Insulin Pump Treatment in 2025;27:S48\u2013S59\na discrete choice experiment among patients Paediatric Patients. Continuous subcutaneous 144. Gera S, Iyer J, Meighan S, March CA, Marks\nwith type 1 and type 2 diabetes. Patient 2023;16: insulin infusion in toddlers starting at diagnosis of BE. A review of real-world evidence about the\n127\u2013138 type 1 diabetes mellitus. A multicenter analysis use of automated insulin delivery systems in\n117. Gomez-Peralta F, Abreu C, Fern\u00e1ndez- of 104 patients from 63 centres in Germany and people with type 1 diabetes. Endocr Pract 2025;31:\nRubio E, et al. Efficacy of a connected insulin pen Austria. Pediatr Diabetes 2008;9:590\u2013595 1150\u2013116",
+    "page": 15,
+    "chunk_id": "p15_c3",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": " of 104 patients from 63 centres in Germany and people with type 1 diabetes. Endocr Pract 2025;31:\nRubio E, et al. Efficacy of a connected insulin pen Austria. Pediatr Diabetes 2008;9:590\u2013595 1150\u20131161\ncap in people with noncontrolled type 1 diabetes: a 132. Peters AL, Ahmann AJ, Battelino T, et al. 145. Marrero DG, Parkin CG, Aleppo G, et al. The\nmulticenter randomized clinical trial. Diabetes Care Diabetes technology-continuous subcutaneous role of advanced technologies in improving diabetes\n2023;46:206\u2013208 insulin infusion therapy and continuous glucose outcomes. Am J Manag Care 2025;31:e102\u2013e112\n146. Kudva YC, Raghinaru D, Lum JW, et al.; 2IQP\n118. Cranston I, Jamdade V, Liao B, Newson RS. monitoring in adults: an Endocrine Society clinical\nStudy Group. A randomized trial of automated\nClinical, economic, and patient-reported benefits practice guideline. J Clin Endocrinol Metab 2016;\ninsulin delivery in type 2 diabetes. N Engl J Med\nof connected insulin pen systems: a systematic 101",
+    "page": 15,
+    "chunk_id": "p15_c4",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "Clinical, economic, and patient-reported benefits practice guideline. J Clin Endocrinol Metab 2016;\ninsulin delivery in type 2 diabetes. N Engl J Med\nof connected insulin pen systems: a systematic 101:3922\u20133937\n2025;392:1801\u20131812\nliterature review. Adv Ther 2023;40:2015\u20132037 133. Karges B, Rosenbauer J, Stahl-Pehe A, et al.\n147. Pasquel FJ, Davis GM, Huffman DM, et al.;\n119. Danne TPA, Joubert M, Hartvig NV, Kaas A, Hybrid closed-loop insulin therapy and risk of\nOmnipod 5 SECURE-T2D Consortium. Automated\nKnudsen NN, Mader JK. Association between severe hypoglycaemia and diabetic ketoacidosis\ninsulin delivery in adults with type 2 diabetes: a\ntreatment adherence and continuous glucose in young people (aged 2-20 years) with type 1\nnonrandomized clinical trial. JAMA Netw Open\nmonitoring outcomes in people with diabetes diabetes: a population-based study. Lancet Diabetes\n2025;8:e2459348\nusing smart insulin pens in a real-world setting. Endocrinol 2025;13:88\u201396\n148. Boughton CK, Hovorka R. ",
+    "page": 15,
+    "chunk_id": "p15_c5",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "mes in people with diabetes diabetes: a population-based study. Lancet Diabetes\n2025;8:e2459348\nusing smart insulin pens in a real-world setting. Endocrinol 2025;13:88\u201396\n148. Boughton CK, Hovorka R. The role of\nDiabetes Care 2024;47:995\u20131003 134. Ucieklak D, Mrozinska S, Wojnarska A,\nautomated insulin delivery technology in\n120. Bailey TS, Stone JY. A novel pen-based Malecki MT, Klupa T, Matejko B. Insulin-induced\ndiabetes. Diabetologia 2024;67:2034\u20132044\nBluetooth-enabled insulin delivery system with lipohypertrophy in patients with type 1 diabetes\n149. Sherr JL, Cengiz E, Palerm CC, et al. Reduced\ninsulin dose tracking and advice. Expert Opin mellitus treated with an insulin pump. Int J\nhypoglycemia and increased time in target using\nDrug Deliv 2017;14:697\u2013703 Endocrinol 2022;2022:9169296\nclosed-loop insulin delivery during nights with or\n121. Eiland L, McLarney M, Thangavelu T, Drincic 135. Wong JC, Boyle C, DiMeglio LA, et al.; T1D\nwithout antecedent afternoon exercise in type 1\nA.",
+    "page": 15,
+    "chunk_id": "p15_c6",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "6\nclosed-loop insulin delivery during nights with or\n121. Eiland L, McLarney M, Thangavelu T, Drincic 135. Wong JC, Boyle C, DiMeglio LA, et al.; T1D\nwithout antecedent afternoon exercise in type 1\nA. App-based insulin calculators: current and Exchange Clinic Network. Evaluation of pump\ndiabetes. Diabetes Care 2013;36:2909\u20132914\nfuture state. Curr Diab Rep 2018;18:123 discontinuation and associated factors in the T1D\n150. Berget C, Cobry E, Escobar E, et al. Sustained\n122. Breton MD, Patek SD, Lv D, et al. Continuous Exchange Clinic Registry. J Diabetes Sci Technol\nimprovements in glycaemic and psychosocial\nglucose monitoring and insulin informed advisory 2017;11:224\u2013232\noutcomes for youth and caregivers using Omnipod\nsystem with automated titration and dosing of 136. Royston C, Hovorka R, Boughton CK. Closed-\n5 AID for 12months. Diabetes Obes Metab 2025;\ninsulin reduces glucose variability in type 1 diabetes loop therapy: recent advancements and potential\n27:4942\u20134949\nmellitus. Diabete",
+    "page": 15,
+    "chunk_id": "p15_c7",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "Boughton CK. Closed-\n5 AID for 12months. Diabetes Obes Metab 2025;\ninsulin reduces glucose variability in type 1 diabetes loop therapy: recent advancements and potential\n27:4942\u20134949\nmellitus. Diabetes Technol Ther 2018;20:531\u2013540 predictors of glycemic outcomes. Expert Opin Drug\n151. Weissberg-Benchell J, Hessler D, Polonsky\n123. Bergenstal RM, Johnson M, Passi R, et al. Deliv 2025;22:875\u2013892\nWH, Fisher L. Psychosocial impact of the bionic\nAutomated insulin dosing guidance to optimise 137. Sherr JL, Hermann JM, Campbell F, et al.; pancreas during summer camp. J Diabetes Sci\ninsulin management in patients with type 2 diabetes: T1D Exchange Clinic Network, the DPV Initiative,\nTechnol 2016;10:840\u2013844\na multicentre, randomised controlled trial. Lancet and the National Paediatric Diabetes Audit and 152. Troncone A, Bonfanti R, Iafusco D, et al.\n2019;393:1138\u20131148 the Royal College of Paediatrics and Child Health Evaluating the experience of children with type 1\n124. Schneider JE, Parikh A,",
+    "page": 15,
+    "chunk_id": "p15_c8",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "t and 152. Troncone A, Bonfanti R, Iafusco D, et al.\n2019;393:1138\u20131148 the Royal College of Paediatrics and Child Health Evaluating the experience of children with type 1\n124. Schneider JE, Parikh A, Stojanovic I. Impact registries. Use of insulin pump therapy in children diabetes and their parents taking part in an\nof a novel insulin management service on non- and adolescents with type 1 diabetes and its artificial pancreas clinical trial over multiple days\ninsulin pharmaceutical expenses. J Health Econ impact on metabolic control: comparison of results in a diabetes camp setting. Diabetes Care 2016;39:\nOutcomes Res 2018;6:53\u201362 from three large, transatlantic paediatric registries. 2158\u20132164\n125. Huckvale K, Adomaviciute S, Prieto JT, Leow Diabetologia 2016;59:87\u201391 153. Barnard KD, Wysocki T, Allen JM, et al.\nMK-S, Car J. Smartphone apps for calculating 138. Commissariat PV, Boyle CT, Miller KM, et al. Closing the loop overnight at home setting:\ninsulin dose: a systematic assessmen",
+    "page": 15,
+    "chunk_id": "p15_c9",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "ocki T, Allen JM, et al.\nMK-S, Car J. Smartphone apps for calculating 138. Commissariat PV, Boyle CT, Miller KM, et al. Closing the loop overnight at home setting:\ninsulin dose: a systematic assessment. BMC Med Insulin pump use in young children with type 1 psychosocial impact for adolescents with type 1\n2015;13:106 diabetes: sociodemographic factors and parent- diabetes and their parents. BMJ Open Diabetes\n126. Fan W, Deng C, Xu R, et al. Efficacy and reported barriers. Diabetes Technol Ther 2017;19: Res Care 2014;2:e000025\nsafety of automated insulin delivery systems in 363\u2013369 154. Carlson AL, Sherr JL, Shulman DI, et al. Safety\npatients with type 1 diabetes mellitus: a systematic 139. Forlenza GP, Li Z, Buckingham BA, et al. and glycemic outcomes during the MiniMed\nreview and meta-analysis. Diabetes Metab J Predictive low-glucose suspend reduces hypoglycemia advanced hybrid closed-loop system pivotal trial in\n2025;49:235\u2013251 in adults, adolescents, and children with type 1 adolesce",
+    "page": 15,
+    "chunk_id": "p15_c10",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "ysis. Diabetes Metab J Predictive low-glucose suspend reduces hypoglycemia advanced hybrid closed-loop system pivotal trial in\n2025;49:235\u2013251 in adults, adolescents, and children with type 1 adolescents and adults with type 1 diabetes.\n127. Aleppo G, DeSalvo DJ, Lauand F, et al. diabetes in an at-home randomized crossover Diabetes Technol Ther 2022;24:178\u2013189\nImprovements in glycemic outcomes in 4738 study: results of the PROLOG trial. Diabetes Care 155. Weissberg-Benchell J, Vesco AT, Shapiro J,\nchildren, adolescents, and adults with type 1 2018;41:2155\u20132161 et al. Psychosocial impact of the insulin-only iLet\ndiabetes initiating a tubeless insulin management 140. Wood MA, Shulman DI, Forlenza GP, et al. bionic pancreas for adults, youth, and caregivers\nsystem. Diabetes Ther 2023;14:593\u2013610 In-clinic evaluation of the MiniMed 670G System of youth with type 1 diabetes. Diabetes Technol\n128. Gangqiang G, Hua C, Hongyu S. Risk \"suspend before low\" feature in children with Ther 2023;25:70",
+    "page": 15,
+    "chunk_id": "p15_c11",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "10 In-clinic evaluation of the MiniMed 670G System of youth with type 1 diabetes. Diabetes Technol\n128. Gangqiang G, Hua C, Hongyu S. Risk \"suspend before low\" feature in children with Ther 2023;25:705\u2013717\npredictors of glycaemic control in children and type 1 diabetes. Diabetes Technol Ther 2018;20: 156. Vallivaara H-L, Lepp\u00e4nen HA, Mustonen J,\nadolescents with type 1 diabetes: a systematic 731\u2013737 Saari A, Martikainen J, Rintam\u00e4ki RM. Long-term\nDownloaded\nfrom\nhttp://diabetesjournals.org/care/article-pdf/49/Supplement_1/S150/848844/dc26s007.pdf\nby\nguest\non\n01\nFebruary\n2026",
+    "page": 15,
+    "chunk_id": "p15_c12",
+    "source": "ada_chapter7.pdf",
+    "char_count": 581
+  },
+  {
+    "text": "diabetesjournals.org/care Diabetes Technology S165\nhealth economic evaluation of automated insulin insulin injections for patients with uncontrolled 182. \u00d6berg U, Isaksson U, Jutterstr\u00f6m L, Orre CJ,\ndelivery system compared with continuous type 2 diabetes mellitus. J Diabetes Sci Technol H\u00f6rnsten \u00c5. Perceptions of persons with type 2\nsubcutaneous insulin infusion pumps and CGM in a 2015;9:1111\u20131116 diabetes treated in Swedish primary health care:\nreal-world setting in Finnish paediatric and adult 169. Bergenstal RM, Peyrot M, Dreon DM, et al.; qualitative study on using eHealth services for\nindividuals with type 1 diabetes. Diabetes Obes Calibra Study Group. Implementation of basal- self-management support. JMIR Diabetes 2018;\nMetab 2025;27:4793\u20134801 bolus therapy in type 2 diabetes: a randomized 3:e7\n157. Considine EG, Sherr JL. Real-world evidence controlled trial comparing bolus insulin delivery 183. Bollyky JB, Bravata D, Yang J, Williamson M,\nof automated insulin delivery system u",
+    "page": 16,
+    "chunk_id": "p16_c1",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "domized 3:e7\n157. Considine EG, Sherr JL. Real-world evidence controlled trial comparing bolus insulin delivery 183. Bollyky JB, Bravata D, Yang J, Williamson M,\nof automated insulin delivery system use. Diabetes using an insulin patch with an insulin pen. Schneider J. Remote lifestyle coaching plus a\nTechnol Ther 2024;26:53\u201365 Diabetes Technol Ther 2019;21:273\u2013285 connected glucose meter with certified diabetes\n158. Forlenza GP, DeSalvo DJ, Aleppo G, et al. 170. Braune K, Lal RA, Petru\ufffdzelkov\u00e1 L, et al.; OPEN educator support improves glucose and weight\nReal-world evidence of Omnipod 5 automated International Healthcare Professional Network and loss for people with type 2 diabetes. J Diabetes\ninsulin delivery system use in 69,902 people with OPEN Legal Advisory Group. Open-source automated Res 2018;2018:3961730\ntype 1 diabetes. Diabetes Technol Ther 2024;26: insulin delivery: international consensus statement 184. Wilhide Iii CC, Peeples MM, Anthony Kouyat\u00e9\n514\u2013525 and practical guida",
+    "page": 16,
+    "chunk_id": "p16_c2",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "d Res 2018;2018:3961730\ntype 1 diabetes. Diabetes Technol Ther 2024;26: insulin delivery: international consensus statement 184. Wilhide Iii CC, Peeples MM, Anthony Kouyat\u00e9\n514\u2013525 and practical guidance for health-care professionals. RC. Evidence-based mHealth chronic disease\n159. Amig\u00f3 J, Ortiz-Z\u00fa\u00f1iga A\ufffd, de Urbina AMO, Lancet Diabetes Endocrinol 2022;10:58\u201374 mobile app intervention design: development\net al. Switching from treatment with sensor 171. Lum JW, Bailey RJ, Barnes-Lomen V, et al. A of a framework. JMIR Res Protoc 2016;5:e25\naugmented pump to hybrid closed loop system in real-world prospective study of the safety and 185. Dixon RF, Zisser H, Layne JE, et al. A virtual\ntype 1 diabetes: impact on glycemic control and effectiveness of the loop open source automated type 2 diabetes clinic using continuous glucose\nneuropsychological tests in the real world. Diabetes insulin delivery system. Diabetes Technol Ther monitoring and endocrinology visits. J Diabetes\nRes Clin Pract 20",
+    "page": 16,
+    "chunk_id": "p16_c3",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "es clinic using continuous glucose\nneuropsychological tests in the real world. Diabetes insulin delivery system. Diabetes Technol Ther monitoring and endocrinology visits. J Diabetes\nRes Clin Pract 2023;201:110730 2021;23:367\u2013375 Sci Technol 2020;14:908\u2013911\n160. Chico A, Navas de Sol\u00eds S, Lainez M, Rius F, 172. Braune K, Gajewska KA, Thieffry A, et al. 186. Yang Y, Lee EY, Kim H-S, Lee S-H, Yoon K-H,\nCuesta M. Efficacy, safety, and satisfaction with Why #WeAreNotWaiting-motivations and self- Cho J-H. Effect of a mobile phone-based glucose-\nthe Accu-Chek Insight with Diabeloop closed- reported outcomes among users of open-source monitoring and feedback system for type 2 diabetes\nloop system in subjects with type 1 diabetes: a automated insulin delivery systems: multinational management in multiple primary care clinic settings:\nmulticenter real-world study. Diabetes Technol survey. J Med Internet Res 2021;23:e25409 cluster randomized controlled trial. JMIR Mhealth\nTher 2023;25:242\u2013249 17",
+    "page": 16,
+    "chunk_id": "p16_c4",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "ultiple primary care clinic settings:\nmulticenter real-world study. Diabetes Technol survey. J Med Internet Res 2021;23:e25409 cluster randomized controlled trial. JMIR Mhealth\nTher 2023;25:242\u2013249 173. Burnside MJ, Lewis DM, Crocket HR, et al. Uhealth 2020;8:e16266\n161. Benhamou P-Y, Adenis A, Lebbad H, et al. Open-source automated insulin delivery in type 1 187. Levine BJ, Close KL, Gabbay RA. Reviewing\nOne-year real-world performance of the DBLG1 diabetes. N Engl J Med 2022;387:869\u2013881 U.S. connected diabetes care: the newest member\nclosed-loop system: data from 3706 adult users 174. Petruzelkova L, Neuman V, Plachy L, et al. of the team. Diabetes Technol Ther 2020;22:1\u20139\nwith type 1 diabetes in Germany. Diabetes Obes First use of open-source automated insulin 188. McGill DE, Volkening LK, Butler DA, Wasserman\nMetab 2023;25:1607\u20131613 delivery AndroidAPS in full closed-loop scenario: RM, Anderson BJ, Laffel LM. Text-message\n162. Benhamou P-Y, Adenis A, Lablanche S, et al. Pancreas4AL",
+    "page": 16,
+    "chunk_id": "p16_c5",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "LK, Butler DA, Wasserman\nMetab 2023;25:1607\u20131613 delivery AndroidAPS in full closed-loop scenario: RM, Anderson BJ, Laffel LM. Text-message\n162. Benhamou P-Y, Adenis A, Lablanche S, et al. Pancreas4ALL randomized pilot study. Diabetes responsiveness to blood glucose monitoring\nFirst generation of a modular interoperable Technol Ther 2023;25:315\u2013323 reminders is associated with HbA1c benefit in\nclosed-loop system for automated insulin delivery 175. Braune K, Hussain S, Lal R. The first regulatory teenagers with type 1 diabetes. Diabet Med\nin patients with type 1 diabetes: lessons from trials clearance of an open-source automated insulin 2019;36:600\u2013605\nand real-life data. J Diabetes Sci Technol 2023;17: delivery algorithm. J Diabetes Sci Technol 2023;17: 189. Shen Y, Wang F, Zhang X, et al. Effectiveness\n1433\u20131439 1139\u20131141 of internet-based interventions on glycemic control\n163. Beck RW, Kanapka LG, Breton MD, et al. A 176. Phillip M, Bergenstal RM, Close KL, et al. in patients with ty",
+    "page": 16,
+    "chunk_id": "p16_c6",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": " Effectiveness\n1433\u20131439 1139\u20131141 of internet-based interventions on glycemic control\n163. Beck RW, Kanapka LG, Breton MD, et al. A 176. Phillip M, Bergenstal RM, Close KL, et al. in patients with type 2 diabetes: meta-analysis of\nmeta-analysis of randomized trial outcomes for The digital/virtual diabetes clinic: the future is randomized controlled trials. J Med Internet Res\nthe t:slim X2 insulin pump with Control-IQ now-recommendations from an international panel 2018;20:e172\ntechnology in youth and adults from age 2 to 72. on diabetes digital technologies introduction. 190. Kumbara AB, Iyer AK, Green CR, et al. Impact\nDiabetes Technol Ther 2023;25:329\u2013342 Diabetes Technol Ther 2021;23:146\u2013154 of a combined continuous glucose monitoring-\n164. Grassi B, G\u00f3mez AM, Calliari LE, et al. Real- 177. Fleming GA, Petrie JR, Bergenstal RM, digital health solution on glucose metrics and self-\nworld performance of the MiniMed 780G advanced Holl RW, Peters AL, Heinemann L. Diabetes management beh",
+    "page": 16,
+    "chunk_id": "p16_c7",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": " 177. Fleming GA, Petrie JR, Bergenstal RM, digital health solution on glucose metrics and self-\nworld performance of the MiniMed 780G advanced Holl RW, Peters AL, Heinemann L. Diabetes management behavior for adults with type 2\nhybrid closed loop system in Latin America: digital app technology: benefits, challenges, and diabetes: real-world, observational study. JMIR\nsubstantial improvement in glycaemic control recommendations. A consensus report by the Diabetes 2023;8:e47638\nwith each technology iteration of the MiniMed European Association for the Study of Diabetes 191. U.S. Food and Drug Administration. Self-\nautomated insulin delivery system. Diabetes (EASD) and the American Diabetes Association Monitoring Blood Glucose Test Systems for Over-\nObes Metab 2023;25:1688\u20131697 (ADA) Diabetes Technology Working Group. the-Counter Use. Guidance for Industry and Food\n165. Forlenza GP, Carlson AL, Galindo RJ, et al. Diabetes Care 2020;43:250\u2013260 and Drug Administration Staff, September 2020",
+    "page": 16,
+    "chunk_id": "p16_c8",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "s Technology Working Group. the-Counter Use. Guidance for Industry and Food\n165. Forlenza GP, Carlson AL, Galindo RJ, et al. Diabetes Care 2020;43:250\u2013260 and Drug Administration Staff, September 2020.\nReal-world evidence supporting tandem Control- 178. Wong JC, Izadi Z, Schroeder S, et al. A pilot Accessed 19 August 2025. Available from https://\nIQ hybrid closed-loop success in the Medicare study of use of a software platform for the www.fda.gov/regulatory-information/search-fda-\nand Medicaid type 1 and type 2 diabetes collection, integration, and visualization of diabetes guidance-documents/self-monitoring-blood-\npopulations. Diabetes Technol Ther 2022;24: device data by health care providers in a glucose-test-systems-over-counter-use\n814\u2013823 multidisciplinary pediatric setting. Diabetes Technol 192. U.S. Food and Drug Administration. Blood\n166. Grunberger G, Rosenfeld CR, Bode BW, Ther 2018;20:806\u2013816 Glucose Monitoring Test Systems for Prescription\net al. Effectiveness of V-Go for ",
+    "page": 16,
+    "chunk_id": "p16_c9",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": " Technol 192. U.S. Food and Drug Administration. Blood\n166. Grunberger G, Rosenfeld CR, Bode BW, Ther 2018;20:806\u2013816 Glucose Monitoring Test Systems for Prescription\net al. Effectiveness of V-Go for patients with type 2 179. Chao DY, Lin TM, Ma W-Y. Enhanced self- Point-of-Care Use: Guidance for Industry and\ndiabetes in a real-world setting: a prospective efficacy and behavioral changes among patients Food and Drug Administration Staff, September\nobservational study. Drugs Real World Outcomes with diabetes: cloud-based mobile health platform 2020. Accessed 15 August 2025. Available from\n2020;7:31\u201340 and mobile app service. JMIR Diabetes 2019;4: https://www.fda.gov/regulatory-information/search-\n167. Raval AD, Nguyen MH, Zhou S, Grabner M, e11017 fda-guidance-documents/blood-glucose-monitoring-\nBarron J, Quimbo R. Effect of V-Go versus 180. Sepah SC, Jiang L, Peters AL. Translating the test-systems-prescription-point-care-use\nmultiple daily injections on glycemic control, diabetes prev",
+    "page": 16,
+    "chunk_id": "p16_c10",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "ring-\nBarron J, Quimbo R. Effect of V-Go versus 180. Sepah SC, Jiang L, Peters AL. Translating the test-systems-prescription-point-care-use\nmultiple daily injections on glycemic control, diabetes prevention program into an online 193. Pardo S, Simmons DA. The quantitative\ninsulin use, and diabetes medication costs among social network: validation against CDC standards. relationship between ISO 15197 accuracy criteria\nindividuals with type 2 diabetes mellitus. J Manag Diabetes Educ 2014;40:435\u2013443 and mean absolute relative difference (MARD) in\nCare Spec Pharm 2019;25:1111\u20131123 181. Kaufman N, Ferrin C, Sugrue D. Using digital the evaluation of analytical performance of self-\n168. Winter A, Lintner M, Knezevich E. V-Go health technology to prevent and treat diabetes. monitoring of blood glucose (SMBG) systems. J\ninsulin delivery system versus multiple daily Diabetes Technol Ther 2019;21:S79\u2013S94 Diabetes Sci Technol 2016;10:1182\u20131187\nDownloaded\nfrom\nhttp://diabetesjournals.org/care/artic",
+    "page": 16,
+    "chunk_id": "p16_c11",
+    "source": "ada_chapter7.pdf",
+    "char_count": 1000
+  },
+  {
+    "text": "cose (SMBG) systems. J\ninsulin delivery system versus multiple daily Diabetes Technol Ther 2019;21:S79\u2013S94 Diabetes Sci Technol 2016;10:1182\u20131187\nDownloaded\nfrom\nhttp://diabetesjournals.org/care/article-pdf/49/Supplement_1/S150/848844/dc26s007.pdf\nby\nguest\non\n01\nFebruary\n2026",
+    "page": 16,
+    "chunk_id": "p16_c12",
+    "source": "ada_chapter7.pdf",
+    "char_count": 276
+  }
+]
