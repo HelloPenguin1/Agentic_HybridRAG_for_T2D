@@ -8,7 +8,7 @@ import json
 import yaml
 from pathlib import Path
 from typing import Dict, List, Any, Optional
-import pdfplumber
+from llama_parse import LlamaParse
 from dataclasses import dataclass
 from datetime import datetime
 
@@ -104,76 +104,66 @@ class MetadataManager:
 
 
 class PDFTextExtractor:
-    """Extracts text from PDF files with page-level granularity"""
+    """Extracts text from PDF files using LlamaParse for layout-aware Markdown extraction"""
     
     @staticmethod
-    def extract_text_from_pdf(pdf_path: str, chunk_size: int = 1000, chunk_overlap: int = 200) -> List[Dict[str, Any]]:
+    def extract_text_from_pdf(pdf_path: str, output_dir: Optional[str] = None) -> List[Dict[str, Any]]:
         """
-        Extract text from PDF, chunked by page and further split for manageable processing.
+        Extract text from PDF using LlamaParse API with Markdown formatting.
+        Returns entire document as a single chunk to optimize for Gemini's 1M token context.
         
         Args:
             pdf_path: Path to PDF file
-            chunk_size: Target character count per chunk
-            chunk_overlap: Overlap between chunks to preserve context
+            output_dir: Optional directory to check for cached extraction
         
         Returns:
-            List of dicts with 'text', 'page', 'chunk_id', 'source'
+            List with single dict containing full document text in Markdown format
         """
-        chunks = []
+        filename = os.path.basename(pdf_path)
+        
+        # RESUME LOGIC: Check if already extracted
+        if output_dir:
+            cache_file = Path(output_dir) / f"{Path(pdf_path).stem}_extracted.json"
+            if cache_file.exists():
+                print(f"  ✅ Already extracted, loading from cache: {filename}")
+                try:
+                    with open(cache_file, 'r') as f:
+                        return json.load(f)
+                except Exception as e:
+                    print(f"  ⚠️ Cache read failed, re-extracting: {e}")
         
         try:
-            with pdfplumber.open(pdf_path) as pdf:
-                for page_num, page in enumerate(pdf.pages, start=1):
-                    page_text = page.extract_text()
-                    
-                    if not page_text or len(page_text.strip()) == 0:
-                        continue
-                    
-                    # Split page into chunks if it's too long
-                    if len(page_text) <= chunk_size:
-                        chunks.append({
-                            'text': page_text,
-                            'page': page_num,
-                            'chunk_id': f"p{page_num}_c1",
-                            'source': os.path.basename(pdf_path),
-                            'char_count': len(page_text)
-                        })
-                    else:
-                        # Split long pages into overlapping chunks
-                        page_chunks = PDFTextExtractor._split_text(
-                            page_text, 
-                            chunk_size, 
-                            chunk_overlap
-                        )
-                        
-                        for chunk_idx, chunk_text in enumerate(page_chunks, start=1):
-                            chunks.append({
-                                'text': chunk_text,
-                                'page': page_num,
-                                'chunk_id': f"p{page_num}_c{chunk_idx}",
-                                'source': os.path.basename(pdf_path),
-                                'char_count': len(chunk_text)
-                            })
+            # Initialize LlamaParse with Markdown output
+            parser = LlamaParse(
+                api_key=os.getenv("LLAMA_CLOUD_API_KEY"),
+                result_type="markdown",  # Preserve table structure
+                verbose=True,
+                language="en"
+            )
+            
+            print(f"  🔄 Calling LlamaParse API for: {filename}")
+            
+            # Extract full document
+            documents = parser.load_data(pdf_path)
+            
+            # Combine all pages into single Markdown string
+            full_text = "\n\n".join([doc.text for doc in documents])
+            
+            # Return as single pseudo-chunk
+            result = [{
+                'text': full_text,
+                'page': 'full_document',
+                'chunk_id': 'full_doc',
+                'source': filename,
+                'char_count': len(full_text)
+            }]
+            
+            print(f"  ✅ Extracted {len(full_text)} characters as Markdown")
+            return result
         
         except Exception as e:
-            print(f"Error extracting text from {pdf_path}: {e}")
+            print(f"  ❌ Error extracting text from {pdf_path}: {e}")
             return []
-        
-        return chunks
-    
-    @staticmethod
-    def _split_text(text: str, chunk_size: int, overlap: int) -> List[str]:
-        """Split text into overlapping chunks"""
-        chunks = []
-        start = 0
-        
-        while start < len(text):
-            end = start + chunk_size
-            chunk = text[start:end]
-            chunks.append(chunk)
-            start = end - overlap
-        
-        return chunks
     
     @staticmethod
     def save_extracted_text(chunks: List[Dict[str, Any]], output_path: str):
@@ -249,9 +239,12 @@ class ExtractionPipeline:
             
             print(f"Category: {metadata.category}")
             
-            # Extract text
+            # Extract text with resume capability
             try:
-                chunks = PDFTextExtractor.extract_text_from_pdf(str(pdf_path))
+                chunks = PDFTextExtractor.extract_text_from_pdf(
+                    str(pdf_path),
+                    output_dir=str(self.extracted_dir)
+                )
                 
                 if not chunks:
                     print("No text extracted")
