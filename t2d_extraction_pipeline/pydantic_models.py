@@ -1,10 +1,11 @@
 """
 Pydantic Models for T2D Clinical Knowledge Graph Extraction
-Enforces strict typing and validation for LLM-based entity and relationship extraction
+Enforces strict typing and validation for LLM-based entity and relationship extraction.
+Updated with "Unknown" literals and optional fields to prevent extraction crashes.
 """
 
 from pydantic import BaseModel, Field
-from typing import List, Literal, Optional
+from typing import List, Literal, Optional, Union
 from enum import Enum
 
 
@@ -18,15 +19,16 @@ class EvidenceLevel(str, Enum):
     B = "B"  # Supportive evidence from cohort studies
     C = "C"  # Supportive evidence from poorly controlled studies
     E = "E"  # Expert consensus
+    Unknown = "Unknown"
+
 
 
 class BaseEntity(BaseModel):
-    """Base model for all entities"""
     name: str = Field(description="The canonical name of the entity")
     synonyms: List[str] = Field(default_factory=list, description="Alternative names or abbreviations")
-    source_text: str = Field(description="The exact text snippet from which this was extracted")
+    source_text: Optional[str] = Field(default="", description="The exact text snippet")
     page_number: Optional[int] = Field(default=None, description="Source page number")
-    evidence_level: Optional[EvidenceLevel] = Field(default=None, description="ADA evidence level if mentioned")
+    evidence_level: Optional[EvidenceLevel] = Field(default=EvidenceLevel.Unknown)
 
 
 class BaseRelationship(BaseModel):
@@ -34,7 +36,7 @@ class BaseRelationship(BaseModel):
     source_entity: str = Field(description="The source entity name")
     target_entity: str = Field(description="The target entity name")
     relationship_type: str = Field(description="The type of relationship")
-    evidence_level: Optional[EvidenceLevel] = Field(default=None)
+    evidence_level: Optional[EvidenceLevel] = Field(default=EvidenceLevel.Unknown)
     conditional_context: Optional[str] = Field(default=None, description="Any conditions that apply (e.g., 'if eGFR < 30')")
 
 
@@ -44,7 +46,7 @@ class BaseRelationship(BaseModel):
 
 class DiagnosticTest(BaseEntity):
     """Model for diagnostic tests"""
-    test_type: Literal["Lab", "Physical", "Imaging", "Questionnaire"]
+    test_type: Optional[Literal["Lab", "Physical", "Imaging", "Questionnaire", "Unknown"]] = Field(default="Unknown")
     normal_range: Optional[str] = Field(default=None, description="Normal reference range if applicable")
     units: Optional[str] = Field(default=None, description="Units of measurement (e.g., 'mg/dL', '%')")
 
@@ -52,14 +54,14 @@ class DiagnosticTest(BaseEntity):
 class Condition(BaseEntity):
     """Model for medical conditions"""
     icd10_code: Optional[str] = Field(default=None)
-    classification: Literal["Type 1 Diabetes", "Type 2 Diabetes", "Prediabetes", "Gestational Diabetes", "Other"]
+    classification: Optional[Literal["Type 1 Diabetes", "Type 2 Diabetes", "Prediabetes", "Gestational Diabetes", "Other", "Unknown"]] = Field(default="Unknown")
 
 
 class MetricValue(BaseEntity):
     """Model for specific metric values (thresholds, targets)"""
-    value: float = Field(description="The numeric value")
-    unit: str = Field(description="Unit of measurement")
-    comparator: Literal["<", "<=", ">", ">=", "=", "range"] = Field(description="How to interpret the value")
+    value: Optional[float] = Field(default=None, description="The numeric value")
+    unit: Optional[str] = Field(default=None, description="Unit of measurement")
+    comparator: Optional[Literal["<", "<=", ">", ">=", "=", "range", "Unknown"]] = Field(default="Unknown", description="How to interpret the value")
     upper_bound: Optional[float] = Field(default=None, description="For range values")
 
 
@@ -71,7 +73,7 @@ class ScreeningFrequency(BaseEntity):
 
 class TargetGoal(BaseEntity):
     """Model for treatment targets"""
-    goal_type: Literal["A1C", "Fasting Glucose", "Postprandial Glucose", "Time in Range", "Blood Pressure", "LDL", "Other"]
+    goal_type: Optional[Literal["A1C", "Fasting Glucose", "Postprandial Glucose", "Time in Range", "Blood Pressure", "LDL", "Other", "Unknown"]] = Field(default="Unknown")
     target_value: str = Field(description="The target value (e.g., '<7.0%')")
     patient_population: str = Field(description="Which patient group this applies to")
 
@@ -86,12 +88,13 @@ class PatientProfile(BaseEntity):
 
 class AssessmentDiagnosisRelationship(BaseRelationship):
     """Relationships for assessment/diagnosis category"""
-    relationship_type: Literal[
+    relationship_type: Optional[Literal[
         "DIAGNOSES_CONDITION_AT_VALUE",
         "REQUIRES_SCREENING",
         "HAS_DEFAULT_TARGET",
-        "DEFINED_BY"
-    ]
+        "DEFINED_BY",
+        "Unknown"
+    ]] = Field(default="Unknown")
 
 
 class AssessmentDiagnosisExtraction(BaseModel):
@@ -111,44 +114,45 @@ class AssessmentDiagnosisExtraction(BaseModel):
 
 class Intervention(BaseEntity):
     """Model for healthcare interventions"""
-    intervention_type: Literal["Education", "Counseling", "Program", "Surgery", "Other"]
+    intervention_type: Optional[Literal["Education", "Counseling", "Program", "Surgery", "Other", "Unknown"]] = Field(default="Unknown")
     duration: Optional[str] = Field(default=None, description="Duration if specified")
     frequency: Optional[str] = Field(default=None, description="How often administered")
 
 
 class Behavior(BaseEntity):
     """Model for patient behaviors"""
-    behavior_category: Literal["Diet", "Exercise", "Smoking", "Sleep", "Medication Adherence", "Other"]
+    behavior_category: Optional[Literal["Diet", "Exercise", "Smoking", "Sleep", "Medication Adherence", "Other", "Unknown"]] = Field(default="Unknown")
     target_amount: Optional[str] = Field(default=None, description="e.g., '150 min/week', '>5% weight loss'")
 
 
 class SocialDeterminant(BaseEntity):
     """Model for social determinants of health"""
-    sdoh_category: Literal["Food Security", "Housing", "Financial", "Transportation", "Health Literacy", "Other"]
+    sdoh_category: Optional[Literal["Food Security", "Housing", "Financial", "Transportation", "Health Literacy", "Other", "Unknown"]] = Field(default="Unknown")
     screening_tool: Optional[str] = Field(default=None, description="Tool to assess this SDOH")
 
 
 class Outcome(BaseEntity):
     """Model for health outcomes"""
-    outcome_type: Literal["Weight Loss", "A1C Reduction", "Improved Distress", "Remission", "Other"]
+    outcome_type: Optional[Literal["Weight Loss", "A1C Reduction", "Improved Distress", "Remission", "Other", "Unknown"]] = Field(default="Unknown")
     magnitude: Optional[str] = Field(default=None, description="Expected improvement (e.g., '>5%')")
 
 
 class ScreeningTool(BaseEntity):
     """Model for screening instruments"""
-    tool_type: Literal["Questionnaire", "Scale", "Assessment"]
+    tool_type: Optional[Literal["Questionnaire", "Scale", "Assessment", "Unknown"]] = Field(default="Unknown")
     threshold: Optional[str] = Field(default=None, description="Cutoff score for positive screen")
     what_it_measures: str = Field(description="What this tool screens for")
 
 
 class EducationLifestyleRelationship(BaseRelationship):
     """Relationships for education/lifestyle category"""
-    relationship_type: Literal[
+    relationship_type: Optional[Literal[
         "RECOMMENDS_BEHAVIOR",
         "IMPROVES",
         "BARRIER_TO",
-        "ASSESSES"
-    ]
+        "ASSESSES",
+        "Unknown"
+    ]] = Field(default="Unknown")
 
 
 class EducationLifestyleExtraction(BaseModel):
@@ -169,7 +173,7 @@ class MedicationClass(BaseEntity):
     """Model for medication classes"""
     class_name: str = Field(description="Drug class name (e.g., 'SGLT2i', 'GLP-1 RA')")
     mechanism_of_action: Optional[str] = Field(default=None)
-    route: Literal["Oral", "Subcutaneous", "Intravenous", "Inhaled", "Other"]
+    route: Optional[Literal["Oral", "Subcutaneous", "Intravenous", "Inhaled", "Other", "Unknown"]] = Field(default="Unknown")
 
 
 class ActiveIngredient(BaseEntity):
@@ -181,21 +185,21 @@ class ActiveIngredient(BaseEntity):
 
 class Device(BaseEntity):
     """Model for diabetes technology devices"""
-    device_type: Literal["CGM", "Insulin Pump", "AID System", "Connected Pen", "Meter", "Other"]
+    device_type: Optional[Literal["CGM", "Insulin Pump", "AID System", "Connected Pen", "Meter", "Other", "Unknown"]] = Field(default="Unknown")
     brand: Optional[str] = Field(default=None)
     features: List[str] = Field(default_factory=list)
 
 
 class ClinicalIndication(BaseEntity):
     """Model for clinical indications for treatment"""
-    indication_type: Literal["Primary", "Secondary", "Off-label"]
+    indication_type: Optional[Literal["Primary", "Secondary", "Off-label", "Unknown"]] = Field(default="Unknown")
     condition: str = Field(description="The condition being treated")
     priority: Optional[int] = Field(default=None, description="1 = first-line, 2 = second-line, etc.")
 
 
 class AdverseEvent(BaseEntity):
     """Model for side effects and adverse events"""
-    severity: Literal["Mild", "Moderate", "Severe", "Life-threatening"]
+    severity: Optional[Literal["Mild", "Moderate", "Severe", "Life-threatening", "Unknown"]] = Field(default="Unknown")
     frequency: Optional[str] = Field(default=None, description="How common (e.g., 'Common', 'Rare')")
 
 
@@ -216,14 +220,15 @@ class Dosage(BaseEntity):
 
 class PharmacologyRelationship(BaseRelationship):
     """Relationships for pharmacology/technology category"""
-    relationship_type: Literal[
+    relationship_type: Optional[Literal[
         "CONTAINS_INGREDIENT",
         "IS_TREATED_BY_PREFERRED",
         "HAS_RISK",
         "REQUIRES_EDUCATION_ON",
         "CONTRAINDICATED_WITH",
-        "TITRATED_BY"
-    ]
+        "TITRATED_BY",
+        "Unknown"
+    ]] = Field(default="Unknown")
 
 
 class PharmacologyExtraction(BaseModel):
@@ -244,7 +249,7 @@ class PharmacologyExtraction(BaseModel):
 
 class Complication(BaseEntity):
     """Model for diabetes complications"""
-    complication_category: Literal["Cardiovascular", "Renal", "Retinopathy", "Neuropathy", "Foot", "Other"]
+    complication_category: Optional[Literal["Cardiovascular", "Renal", "Retinopathy", "Neuropathy", "Foot", "Other", "Unknown"]] = Field(default="Unknown")
     stage: Optional[str] = Field(default=None, description="Staging if applicable (e.g., 'CKD Stage 3')")
 
 
@@ -257,32 +262,33 @@ class ScreeningTest(BaseEntity):
 
 class TherapeuticAgent(BaseEntity):
     """Model for medications used to manage complications"""
-    agent_type: Literal["Medication", "Procedure", "Lifestyle Modification"]
+    agent_type: Optional[Literal["Medication", "Procedure", "Lifestyle Modification", "Unknown"]] = Field(default="Unknown")
     when_to_use: str = Field(description="Clinical scenario for use")
 
 
 class RiskFactor(BaseEntity):
     """Model for risk factors"""
-    factor_type: Literal["Modifiable", "Non-modifiable"]
+    factor_type: Optional[Literal["Modifiable", "Non-modifiable", "Unknown"]] = Field(default="Unknown")
     impact_magnitude: Optional[str] = Field(default=None, description="e.g., '2x risk', 'High risk'")
 
 
 class ReferralCriteria(BaseEntity):
     """Model for when to refer to specialist"""
     specialist_type: str = Field(description="e.g., 'Ophthalmologist', 'Nephrologist'")
-    urgency: Literal["Routine", "Urgent", "Emergent"]
+    urgency: Optional[Literal["Routine", "Urgent", "Emergent", "Unknown"]] = Field(default="Unknown")
     criteria: str = Field(description="What triggers the referral")
 
 
 class ComplicationsRelationship(BaseRelationship):
     """Relationships for complications category"""
-    relationship_type: Literal[
+    relationship_type: Optional[Literal[
         "DETECTED_BY",
         "MANAGED_BY",
         "INCREASES_RISK_OF",
         "REQUIRES_MONITORING",
-        "TRIGGERS_REFERRAL"
-    ]
+        "TRIGGERS_REFERRAL",
+        "Unknown"
+    ]] = Field(default="Unknown")
 
 
 class ComplicationsExtraction(BaseModel):
@@ -301,7 +307,7 @@ class ComplicationsExtraction(BaseModel):
 
 class PopulationSegment(BaseEntity):
     """Model for special populations"""
-    population_type: Literal["Pediatric", "Older Adult", "Pregnancy", "Other"]
+    population_type: Optional[Literal["Pediatric", "Older Adult", "Pregnancy", "Other", "Unknown"]] = Field(default="Unknown")
     age_range: Optional[str] = Field(default=None)
     defining_characteristics: List[str] = Field(default_factory=list)
 
@@ -316,7 +322,7 @@ class SpecificGoal(BaseEntity):
 class AllowedMedication(BaseEntity):
     """Model for medications safe for population"""
     medication_name: str
-    safety_level: Literal["Preferred", "Acceptable", "Use with Caution"]
+    safety_level: Optional[Literal["Preferred", "Acceptable", "Use with Caution", "Unknown"]] = Field(default="Unknown")
     special_instructions: Optional[str] = Field(default=None)
 
 
@@ -336,12 +342,13 @@ class AgeRange(BaseEntity):
 
 class SpecialPopulationsRelationship(BaseRelationship):
     """Relationships for special populations category"""
-    relationship_type: Literal[
+    relationship_type: Optional[Literal[
         "HAS_TARGET_OVERRIDE",
         "CAN_USE_MEDICATION",
         "MUST_AVOID_MEDICATION",
-        "REQUIRES_DEINTENSIFICATION_IF"
-    ]
+        "REQUIRES_DEINTENSIFICATION_IF",
+        "Unknown"
+    ]] = Field(default="Unknown")
 
 
 class SpecialPopulationsExtraction(BaseModel):

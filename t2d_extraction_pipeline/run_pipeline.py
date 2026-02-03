@@ -5,10 +5,10 @@ from pathlib import Path
 from dotenv import load_dotenv
 
 # Internal imports
-from .extraction_pipeline import ExtractionPipeline
-from .entity_extractor import LLMExtractor
-from .post_processor import PostProcessor
-from .pydantic_models import (
+from extraction_pipeline import ExtractionPipeline
+from entity_extractor import LLMExtractor
+from post_processor import PostProcessor
+from pydantic_models import (
     AssessmentDiagnosisExtraction, EducationLifestyleExtraction,
     PharmacologyExtraction, ComplicationsExtraction, SpecialPopulationsExtraction
 )
