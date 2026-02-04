@@ -1,0 +1,381 @@
+{
+  "interventions": [
+    {
+      "name": "Diabetes Prevention Program",
+      "synonyms": [
+        "DPP",
+        "National DPP",
+        "National Diabetes Prevention Program"
+      ],
+      "source_text": "The Diabetes Prevention Program (DPP) (8), the Finnish Diabetes Prevention Study (DPS) (9), and the Da Qing Diabetes Prevention Study (Da Qing study) (10), demonstrated that lifestyle/behavioral intervention with an individualized reduced-calorie meal plan is highly effective in preventing or delaying type 2 diabetes and improving other cardiometabolic risk factors such as blood pressure, lipids, and markers of inflammation (11). The strongest evidence for diabetes prevention in the U.S. comes from the DPP trial (8). The DPP demonstrated that intensive lifestyle intervention could reduce the risk of incident type 2 diabetes by 58% over 3 years.",
+      "page_number": null,
+      "evidence_level": "A",
+      "intervention_type": "Lifestyle Intervention",
+      "duration": "3 years",
+      "frequency": null
+    },
+    {
+      "name": "Metformin",
+      "synonyms": [],
+      "source_text": "Metformin has the most robust efficacy and safety data as a pharmacologic therapy for diabetes prevention among people with prediabetes (82). Importantly, metformin was overall less effective than lifestyle modification in the DPP, although it has been demonstrated in small randomized clinical trials both in healthy individuals (100) and in individuals receiving high-dose glucocorticoids for the treatment of cancer (101) and rheumatologic/autoimmune disorders (102,103).",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "intervention_type": "Pharmacologic",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Teplizumab-mzwv infusion",
+      "synonyms": [],
+      "source_text": "Teplizumab-mzwv infusion to delay the onset of symptomatic type 1 diabetes (stage 3) should be discussed with selected individuals aged \u22658 years with stage 2 type 1 diabetes.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "intervention_type": "Pharmacologic",
+      "duration": "14-day course",
+      "frequency": null
+    },
+    {
+      "name": "Medical Nutrition Therapy",
+      "synonyms": [
+        "MNT"
+      ],
+      "source_text": "For people at risk for or living with diabetes, individualized medical nutrition therapy (see section 5, \u201cFacilitating Positive Health Behaviors and Well-being to Improve Health Outcomes,\u201d for more detailed information) is effective in lowering A1C (29,30).",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "intervention_type": "Therapy",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Technology-assisted diabetes prevention programs",
+      "synonyms": [],
+      "source_text": "Based on individual preference, certified technology-assisted diabetes prevention programs through smartphones, web-based applications, and telehealth can be effective in preventing type 2 diabetes and should be considered. B",
+      "page_number": null,
+      "evidence_level": "B",
+      "intervention_type": "Digital Health",
+      "duration": null,
+      "frequency": null
+    }
+  ],
+  "behaviors": [
+    {
+      "name": "Mediterranean diet",
+      "synonyms": [],
+      "source_text": "Prescribe an evidence-based eating pattern (e.g., Mediterranean, low carbohydrate) to individuals with prediabetes to prevent type 2 diabetes. B",
+      "page_number": null,
+      "evidence_level": "B",
+      "behavior_category": "Diet",
+      "target_amount": null
+    },
+    {
+      "name": "Low carbohydrate diet",
+      "synonyms": [],
+      "source_text": "A variety of eating patterns (21) can be appropriate for individuals with prediabetes or diabetes, including Mediterranean-style, plant-based (which may or may not be omnivorous), Dietary Approaches to Stop Hypertension (DASH), and low-carbohydrate (22\u201325).",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "behavior_category": "Diet",
+      "target_amount": null
+    },
+    {
+      "name": "Plant-based diet",
+      "synonyms": [],
+      "source_text": "A variety of eating patterns (21) can be appropriate for individuals with prediabetes or diabetes, including Mediterranean-style, plant-based (which may or may not be omnivorous), Dietary Approaches to Stop Hypertension (DASH), and low-carbohydrate (22\u201325).",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "behavior_category": "Diet",
+      "target_amount": null
+    },
+    {
+      "name": "Dietary Approaches to Stop Hypertension (DASH)",
+      "synonyms": [
+        "DASH"
+      ],
+      "source_text": "A variety of eating patterns (21) can be appropriate for individuals with prediabetes or diabetes, including Mediterranean-style, plant-based (which may or may not be omnivorous), Dietary Approaches to Stop Hypertension (DASH), and low-carbohydrate (22\u201325).",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "behavior_category": "Diet",
+      "target_amount": null
+    },
+    {
+      "name": "150 min/week moderate-intensity physical activity",
+      "synonyms": [],
+      "source_text": "Two major goals of the DPP were to achieve and maintain at least 7% weight loss and to obtain 150 min of moderate-intensity physical activity per week, such as brisk walking.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "behavior_category": "Physical Activity",
+      "target_amount": "150 min/week"
+    },
+    {
+      "name": "Weight loss of at least 7%",
+      "synonyms": [],
+      "source_text": "Two major goals of the DPP were to achieve and maintain at least 7% weight loss and to obtain 150 min of moderate-intensity physical activity per week, such as brisk walking.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "behavior_category": "Weight Management",
+      "target_amount": "7%"
+    },
+    {
+      "name": "Smoking cessation",
+      "synonyms": [],
+      "source_text": "Smoking cessation, weight change, type 2 diabetes, and mortality. N Engl J Med 2018;379:623\u2013632",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "behavior_category": "Lifestyle",
+      "target_amount": null
+    },
+    {
+      "name": "Reduce total fat intake",
+      "synonyms": [],
+      "source_text": "The initial focus of the nutrition intervention was on reducing total fat intake rather than caloric restriction. However, the concepts of calorie balance and the need to restrict total calories and fat were also introduced.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "behavior_category": "Diet",
+      "target_amount": null
+    },
+    {
+      "name": "Reduce total calories",
+      "synonyms": [],
+      "source_text": "However, the concepts of calorie balance and the need to restrict total calories and fat were also introduced.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "behavior_category": "Diet",
+      "target_amount": null
+    },
+    {
+      "name": "Resistance training",
+      "synonyms": [],
+      "source_text": "In addition to aerobic activity, a physical activity plan designed to prevent diabetes can include resistance training (17,33).",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "behavior_category": "Physical Activity",
+      "target_amount": null
+    },
+    {
+      "name": "Breaking up prolonged sedentary time",
+      "synonyms": [],
+      "source_text": "Breaking up prolonged sedentary time may also be encouraged, as it lowers postprandial glucose levels (34).",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "behavior_category": "Physical Activity",
+      "target_amount": null
+    }
+  ],
+  "social_determinants": [],
+  "outcomes": [
+    {
+      "name": "Delay onset of type 2 diabetes",
+      "synonyms": [],
+      "source_text": "In people with prediabetes, monitor for the development of diabetes at least annually; modify frequency of testing based on individual risk assessment. E",
+      "page_number": null,
+      "evidence_level": "E",
+      "outcome_type": "Prevention",
+      "magnitude": null
+    },
+    {
+      "name": "Prevent onset of type 2 diabetes",
+      "synonyms": [],
+      "source_text": "The DPP demonstrated that intensive lifestyle intervention could reduce the risk of incident type 2 diabetes by 58% over 3 years.",
+      "page_number": null,
+      "evidence_level": "A",
+      "outcome_type": "Prevention",
+      "magnitude": "58%"
+    },
+    {
+      "name": "Weight loss",
+      "synonyms": [],
+      "source_text": "Trials involving medical nutrition therapy for adults with prediabetes found significant reductions in weight, waist circumference, and glycemia (54,55).",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "outcome_type": "Physiological",
+      "magnitude": "significant reductions"
+    },
+    {
+      "name": "Reduced risk of progression to type 2 diabetes",
+      "synonyms": [],
+      "source_text": "Follow-up of three large trials of lifestyle intervention for diabetes prevention showed sustained reduction in the risk of progression to type 2 diabetes: 39% reduction at 30 years in the Da Qing study (12), 43% reduction at 7 years in the Finnish DPS (9), and 34% reduction at 10 years (13), 27% reduction at 15 years (14), and 24% reduction at 21 years in the U.S. Diabetes Prevention Program Outcomes Study (DPPOS) (15,16).",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "outcome_type": "Prevention",
+      "magnitude": "39% at 30 years"
+    },
+    {
+      "name": "Lower A1C",
+      "synonyms": [],
+      "source_text": "For people at risk for or living with diabetes, individualized medical nutrition therapy (see section 5, \u201cFacilitating Positive Health Behaviors and Well-being to Improve Health Outcomes,\u201d for more detailed information) is effective in lowering A1C (29,30).",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "outcome_type": "Glycemic Control",
+      "magnitude": null
+    },
+    {
+      "name": "Delay onset of symptomatic type 1 diabetes",
+      "synonyms": [],
+      "source_text": "Teplizumab-mzwv infusion to delay the onset of symptomatic type 1 diabetes (stage 3) should be discussed with selected individuals aged \u22658 years with stage 2 type 1 diabetes.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "outcome_type": "Prevention",
+      "magnitude": null
+    }
+  ],
+  "screening_tools": [
+    {
+      "name": "American Diabetes Association risk test",
+      "synonyms": [],
+      "source_text": "Screening for prediabetes (which refers to hyperglycemia preceding the diagnosis of type 2 diabetes only) and type 2 diabetes risk through an assessment of risk factors (Table 2.5) or with an assessment tool, such as the American Diabetes Association risk test, which can be used by either a layperson or a health care professional (diabetes.org/diabetes-risk-test), is recommended to guide whether to perform a diagnostic test for prediabetes (Table 2.2) and type 2 diabetes (Table 2.1) (see section 2, \u201cDiagnosis and Classification of Diabetes\u201d).",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "tool_type": "Risk Assessment",
+      "threshold": null,
+      "what_it_measures": "Risk for prediabetes and type 2 diabetes"
+    }
+  ],
+  "relationships": [
+    {
+      "source_entity": "Diabetes Prevention Program",
+      "target_entity": "Prevent onset of type 2 diabetes",
+      "relationship_type": "ACHIEVES",
+      "evidence_level": "A",
+      "conditional_context": null
+    },
+    {
+      "source_entity": "Diabetes Prevention Program",
+      "target_entity": "150 min/week moderate-intensity physical activity",
+      "relationship_type": "RECOMMENDS_BEHAVIOR",
+      "evidence_level": "Unknown",
+      "conditional_context": null
+    },
+    {
+      "source_entity": "Diabetes Prevention Program",
+      "target_entity": "Weight loss of at least 7%",
+      "relationship_type": "RECOMMENDS_BEHAVIOR",
+      "evidence_level": "Unknown",
+      "conditional_context": null
+    },
+    {
+      "source_entity": "Mediterranean diet",
+      "target_entity": "Prevent onset of type 2 diabetes",
+      "relationship_type": "IMPROVES",
+      "evidence_level": "B",
+      "conditional_context": "individuals with prediabetes"
+    },
+    {
+      "source_entity": "Metformin",
+      "target_entity": "Delay onset of type 2 diabetes",
+      "relationship_type": "CONSIDERED_FOR",
+      "evidence_level": "Unknown",
+      "conditional_context": "adults at high risk of type 2 diabetes, especially those aged 25\u201359 years with BMI \u226535 kg/m\u00b2, higher fasting plasma glucose (e.g., \u2265110 mg/dL [\u22656 mmol/L]), and higher A1C (e.g., \u22656.0% [\u226542 mmol/mol])"
+    },
+    {
+      "source_entity": "Metformin",
+      "target_entity": "Prevent hyperglycemia",
+      "relationship_type": "CONSIDERED_FOR",
+      "evidence_level": "B",
+      "conditional_context": "high-risk individuals treated with a phosphatidylinositol 3-kinase \u03b1 (PI3K\u03b1) inhibitor"
+    },
+    {
+      "source_entity": "Metformin",
+      "target_entity": "Prevent hyperglycemia",
+      "relationship_type": "CONSIDERED_FOR",
+      "evidence_level": "B",
+      "conditional_context": "high-risk individuals treated with high-dose glucocorticoids"
+    },
+    {
+      "source_entity": "Teplizumab-mzwv infusion",
+      "target_entity": "Delay onset of symptomatic type 1 diabetes",
+      "relationship_type": "RECOMMENDED_FOR",
+      "evidence_level": "Unknown",
+      "conditional_context": "selected individuals aged \u22658 years with stage 2 type 1 diabetes"
+    },
+    {
+      "source_entity": "Medical Nutrition Therapy",
+      "target_entity": "Lower A1C",
+      "relationship_type": "IMPROVES",
+      "evidence_level": "Unknown",
+      "conditional_context": "people at risk for or living with diabetes"
+    },
+    {
+      "source_entity": "Technology-assisted diabetes prevention programs",
+      "target_entity": "Prevent type 2 diabetes",
+      "relationship_type": "EFFECTIVE_IN",
+      "evidence_level": "B",
+      "conditional_context": null
+    },
+    {
+      "source_entity": "150 min/week moderate-intensity physical activity",
+      "target_entity": "Prevent onset of type 2 diabetes",
+      "relationship_type": "IMPROVES",
+      "evidence_level": "Unknown",
+      "conditional_context": null
+    },
+    {
+      "source_entity": "Weight loss of at least 7%",
+      "target_entity": "Prevent onset of type 2 diabetes",
+      "relationship_type": "IMPROVES",
+      "evidence_level": "Unknown",
+      "conditional_context": null
+    },
+    {
+      "source_entity": "American Diabetes Association risk test",
+      "target_entity": "Risk for prediabetes and type 2 diabetes",
+      "relationship_type": "ASSESSES",
+      "evidence_level": "Unknown",
+      "conditional_context": null
+    },
+    {
+      "source_entity": "Low carbohydrate diet",
+      "target_entity": "Prevent onset of type 2 diabetes",
+      "relationship_type": "IMPROVES",
+      "evidence_level": "Unknown",
+      "conditional_context": "individuals with prediabetes or diabetes"
+    },
+    {
+      "source_entity": "Plant-based diet",
+      "target_entity": "Prevent onset of type 2 diabetes",
+      "relationship_type": "IMPROVES",
+      "evidence_level": "Unknown",
+      "conditional_context": "individuals with prediabetes or diabetes"
+    },
+    {
+      "source_entity": "Dietary Approaches to Stop Hypertension (DASH)",
+      "target_entity": "Prevent onset of type 2 diabetes",
+      "relationship_type": "IMPROVES",
+      "evidence_level": "Unknown",
+      "conditional_context": "individuals with prediabetes or diabetes"
+    },
+    {
+      "source_entity": "Reduce total fat intake",
+      "target_entity": "Prevent onset of type 2 diabetes",
+      "relationship_type": "IMPROVES",
+      "evidence_level": "Unknown",
+      "conditional_context": null
+    },
+    {
+      "source_entity": "Reduce total calories",
+      "target_entity": "Prevent onset of type 2 diabetes",
+      "relationship_type": "IMPROVES",
+      "evidence_level": "Unknown",
+      "conditional_context": null
+    },
+    {
+      "source_entity": "Resistance training",
+      "target_entity": "Prevent onset of type 2 diabetes",
+      "relationship_type": "IMPROVES",
+      "evidence_level": "Unknown",
+      "conditional_context": null
+    },
+    {
+      "source_entity": "Breaking up prolonged sedentary time",
+      "target_entity": "Prevent onset of type 2 diabetes",
+      "relationship_type": "IMPROVES",
+      "evidence_level": "Unknown",
+      "conditional_context": null
+    },
+    {
+      "source_entity": "Smoking cessation",
+      "target_entity": "Prevent onset of type 2 diabetes",
+      "relationship_type": "IMPROVES",
+      "evidence_level": "Unknown",
+      "conditional_context": null
+    }
+  ]
+}

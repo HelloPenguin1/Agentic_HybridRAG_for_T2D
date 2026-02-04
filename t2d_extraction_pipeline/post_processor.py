@@ -32,7 +32,18 @@ class PostProcessor:
                         node["sources"].add(file_path.stem.replace("_entities", ""))
                         if not node["metadata"]: node["metadata"] = ent
 
-        final_nodes = {k: {**v, "sources": list(v["sources"])} for k, v in global_nodes.items()}
+                        # Track metadata for citations
+                        if ent.get('page_number'):
+                            node["page_numbers"].add(ent['page_number'])
+                        if ent.get('source_text'):
+                            node["evidence_snippets"].append(ent['source_text'])
+
+        final_nodes = {k: {
+            **v, 
+            "sources": list(v["sources"]),
+            "page_numbers": sorted(list(v["page_numbers"])),
+            "evidence_snippets": list(set(v["evidence_snippets"]))[:5] # Keep top 5 for brevity
+        } for k, v in global_nodes.items()}
         
         with open(self.output_dir / "unified_graph.json", 'w') as f:
             json.dump({"nodes": final_nodes, "relationships": global_rels}, f, indent=2)

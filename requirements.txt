@@ -3,11 +3,13 @@ python-dotenv
 langchain-openai
 ipykernel
 streamlit
-langchain_groq
+google-genai
+pydantic
 langchain_huggingface
 openai
 langchain_ollama
 neo4j 
 qdrant-client
-pdfplumber 
-python-dotenv
+pdfplumber
+llama-index
+llama-parse

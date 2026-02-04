@@ -40,9 +40,9 @@ async def run_pipeline():
     CONFIG_DIR = PKG_DIR / "config"
     
     # 1. Text Extraction
-    print("=" * 60)
+
     print("STEP 1: Extracting text from PDFs")
-    print("=" * 60)
+
     pipe = ExtractionPipeline(str(CONFIG_DIR), str(PDF_DIR), str(OUT_DIR))
     pipe.process_all_pdfs(str(PDF_DIR))
 
@@ -112,9 +112,7 @@ async def run_pipeline():
                     
             except Exception as e:
                 if "RATE_LIMIT_EXHAUSTED" in str(e):
-                    print("\n" + "=" * 60)
                     print("⛔ RATE LIMIT REACHED")
-                    print("=" * 60)
                     print(f"Processed {processed_count}/{total_files} documents before hitting limit.")
                     print("The pipeline can be resumed by running this script again.")
                     print("Already-processed files will be skipped automatically.")

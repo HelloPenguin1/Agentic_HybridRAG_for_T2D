@@ -1,0 +1,1918 @@
+{
+  "complications": [
+    {
+      "name": "Cardiovascular disease",
+      "synonyms": [
+        "CVD",
+        "atherosclerotic cardiovascular disease",
+        "ASCVD",
+        "heart failure"
+      ],
+      "source_text": "Cardiovascular disease (CVD) is a broad term that includes atherosclerotic cardiovascular disease (ASCVD) and heart failure, two CVDs common among people with diabetes (1).",
+      "page_number": "S216",
+      "evidence_level": "Unknown",
+      "complication_category": "Cardiovascular",
+      "stage": "Unknown"
+    },
+    {
+      "name": "Heart failure",
+      "synonyms": [
+        "HFpEF",
+        "HFmrEF",
+        "HFrEF"
+      ],
+      "source_text": "CVD also includes heart failure, and diabetes is a risk factor for incident heart failure, which is at least twofold more prevalent in people with diabetes compared with those without diabetes and is a major cause of morbidity and mortality (11). People with diabetes may present with a wide spectrum of heart failure, including heart failure with preserved ejection fraction (HFpEF), heart failure with mildly reduced ejection fraction (HFmrEF), or heart failure with reduced ejection fraction (HFrEF) (12,13).",
+      "page_number": "S216",
+      "evidence_level": "Unknown",
+      "complication_category": "Cardiovascular",
+      "stage": "Unknown"
+    },
+    {
+      "name": "Chronic kidney disease",
+      "synonyms": [
+        "CKD"
+      ],
+      "source_text": "There is an increasing appreciation of the common pathophysiology and interrelationship of cardiometabolic risk factors leading to both adverse cardiovascular and adverse kidney outcomes in people with diabetes, including ASCVD, heart failure, and chronic kidney disease (CKD) (17,18).",
+      "page_number": "S216",
+      "evidence_level": "Unknown",
+      "complication_category": "Kidney",
+      "stage": "Unknown"
+    },
+    {
+      "name": "Hypertension",
+      "synonyms": [],
+      "source_text": "An elevated blood pressure is defined as a systolic blood pressure 120\u2013129 mmHg with a diastolic blood pressure <80 mmHg (23). Hypertension is defined as a systolic blood pressure \u2265130 mmHg or a diastolic blood pressure \u226580 mmHg (23).",
+      "page_number": "S216",
+      "evidence_level": "Unknown",
+      "complication_category": "Cardiovascular",
+      "stage": "Unknown"
+    },
+    {
+      "name": "Peripheral artery disease",
+      "synonyms": [
+        "PAD"
+      ],
+      "source_text": "ASCVD broadly refers to a history of acute coronary syndrome, myocardial infarction (MI), stable or unstable angina or coronary or other arterial revascularization, stroke, or peripheral artery disease (PAD) including aortic aneurysm and is the leading cause of morbidity and mortality in people with diabetes (1).",
+      "page_number": "S216",
+      "evidence_level": "Unknown",
+      "complication_category": "Cardiovascular",
+      "stage": "Unknown"
+    },
+    {
+      "name": "Acute kidney injury",
+      "synonyms": [
+        "AKI"
+      ],
+      "source_text": "AKI is defined as a rapid decline in kidney function, typically within a short period (hours to days), characterized by increase in serum creatinine and/or decrease in urine output (80).",
+      "page_number": "S224",
+      "evidence_level": "Unknown",
+      "complication_category": "Kidney",
+      "stage": "Unknown"
+    },
+    {
+      "name": "Hyperkalemia",
+      "synonyms": [],
+      "source_text": "Treatment with ACE inhibitors and ARBs or MRAs can cause AKI and hyperkalemia, while diuretics can cause AKI and either hypokalemia or hyperkalemia (depending on mechanism of action) (77,78).",
+      "page_number": "S224",
+      "evidence_level": "Unknown",
+      "complication_category": "Metabolic",
+      "stage": "Unknown"
+    },
+    {
+      "name": "Hypotension",
+      "synonyms": [],
+      "source_text": "Adverse events attributed to blood pressure treatment, including hypotension, syncope, bradycardia, hyperkalemia, and elevations in serum creatinine, occurred more frequently in the intensive treatment arm than in the standard therapy arm.",
+      "page_number": "S218",
+      "evidence_level": "Unknown",
+      "complication_category": "Cardiovascular",
+      "stage": "Unknown"
+    },
+    {
+      "name": "Syncope",
+      "synonyms": [],
+      "source_text": "Adverse events attributed to blood pressure treatment, including hypotension, syncope, bradycardia, hyperkalemia, and elevations in serum creatinine, occurred more frequently in the intensive treatment arm than in the standard therapy arm.",
+      "page_number": "S218",
+      "evidence_level": "Unknown",
+      "complication_category": "Neurological",
+      "stage": "Unknown"
+    },
+    {
+      "name": "Bradycardia",
+      "synonyms": [],
+      "source_text": "Adverse events attributed to blood pressure treatment, including hypotension, syncope, bradycardia, hyperkalemia, and elevations in serum creatinine, occurred more frequently in the intensive treatment arm than in the standard therapy arm.",
+      "page_number": "S218",
+      "evidence_level": "Unknown",
+      "complication_category": "Cardiovascular",
+      "stage": "Unknown"
+    },
+    {
+      "name": "Statin intolerance",
+      "synonyms": [],
+      "source_text": "Statin therapy is a cornerstone of CVD prevention and treatment; however, a subset of individuals experience partial (inability to tolerate sufficient dosage necessary to achieve therapeutic objectives due to adverse effects) or complete (inability to tolerate any dose) intolerance to statin therapy (127).",
+      "page_number": "S227",
+      "evidence_level": "Unknown",
+      "complication_category": "Adverse Event",
+      "stage": "Unknown"
+    },
+    {
+      "name": "Musculoskeletal adverse effects",
+      "synonyms": [],
+      "source_text": "Fewer musculoskeletal adverse effects occurred in those treated with evolocumab or ezetimibe than in those treated with ezetimibe plus placebo, although rates of discontinuation due to these effects were similar.",
+      "page_number": "S229",
+      "evidence_level": "Unknown",
+      "complication_category": "Adverse Event",
+      "stage": "Unknown"
+    },
+    {
+      "name": "Bleeding",
+      "synonyms": [
+        "major bleeding",
+        "gastrointestinal bleeding",
+        "intracranial hemorrhage"
+      ],
+      "source_text": "In contrast, major bleeding was significantly increased from 3.2 to 4.1% in the aspirin group (rate ratio 1.29; P = 0.003), with most of the excess being gastrointestinal bleeding and other extracranial bleeding.",
+      "page_number": "S230",
+      "evidence_level": "Unknown",
+      "complication_category": "Adverse Event",
+      "stage": "Unknown"
+    },
+    {
+      "name": "Diabetic ketoacidosis",
+      "synonyms": [
+        "DKA"
+      ],
+      "source_text": "Diabetic ketoacidosis and euglycemic ketoacidosis (266).",
+      "page_number": "S234",
+      "evidence_level": "Unknown",
+      "complication_category": "Metabolic",
+      "stage": "Unknown"
+    },
+    {
+      "name": "Euglycemic ketoacidosis",
+      "synonyms": [],
+      "source_text": "Diabetic ketoacidosis and euglycemic ketoacidosis (266).",
+      "page_number": "S234",
+      "evidence_level": "Unknown",
+      "complication_category": "Metabolic",
+      "stage": "Unknown"
+    },
+    {
+      "name": "Heart failure with preserved ejection fraction",
+      "synonyms": [
+        "HFpEF"
+      ],
+      "source_text": "In people with type 2 diabetes and established heart failure with either preserved or reduced ejection fraction, an SGLT2 inhibitor with proven benefit in this population is recommended to improve quality of life. A",
+      "page_number": "S232",
+      "evidence_level": "A",
+      "complication_category": "Cardiovascular",
+      "stage": "Unknown"
+    },
+    {
+      "name": "Heart failure with reduced ejection fraction",
+      "synonyms": [
+        "HFrEF"
+      ],
+      "source_text": "In people with type 2 diabetes and established heart failure with either preserved or reduced ejection fraction, an SGLT2 inhibitor with proven benefit in this population is recommended to improve quality of life. A",
+      "page_number": "S232",
+      "evidence_level": "A",
+      "complication_category": "Cardiovascular",
+      "stage": "Unknown"
+    },
+    {
+      "name": "Heart failure with mildly reduced ejection fraction",
+      "synonyms": [
+        "HFmrEF"
+      ],
+      "source_text": "People with diabetes may present with a wide spectrum of heart failure, including heart failure with preserved ejection fraction (HFpEF), heart failure with mildly reduced ejection fraction (HFmrEF), or heart failure with reduced ejection fraction (HFrEF) (12,13).",
+      "page_number": "S216",
+      "evidence_level": "Unknown",
+      "complication_category": "Cardiovascular",
+      "stage": "Unknown"
+    },
+    {
+      "name": "Albuminuria",
+      "synonyms": [],
+      "source_text": "An ACE inhibitor (ACEi) or angiotensin receptor blocker (ARB) is suggested for the treatment of hypertension in people with coronary artery disease (CAD) or urine albumin-to-creatinine ratio 30\u2013299 mg/g creatinine and is strongly recommended for individuals with urine albumin-to-creatinine ratio \u2265300 mg/g creatinine. \u2020Dihydropyridine calcium channel blocker (CCB). \u2021Thiazide-like diuretic; long-acting agents shown to reduce cardiovascular events, such as chlorthalidone and indapamide, are preferred. \u00a7If it can be safely attained, the on-treatment blood pressure goal is <130/80 mmHg; a systolic blood pressure goal <120 mmHg should be encouraged in individuals with high cardiovascular or kidney risk. BP, blood pressure. Adapted from de Boer et al. (24).",
+      "page_number": "S220",
+      "evidence_level": "Unknown",
+      "complication_category": "Kidney",
+      "stage": "Unknown"
+    },
+    {
+      "name": "Coronary artery disease",
+      "synonyms": [
+        "CAD"
+      ],
+      "source_text": "An ACE inhibitor (ACEi) or angiotensin receptor blocker (ARB) is suggested for the treatment of hypertension in people with coronary artery disease (CAD) or urine albumin-to-creatinine ratio 30\u2013299 mg/g creatinine and is strongly recommended for individuals with urine albumin-to-creatinine ratio \u2265300 mg/g creatinine. \u2020Dihydropyridine calcium channel blocker (CCB). \u2021Thiazide-like diuretic; long-acting agents shown to reduce cardiovascular events, such as chlorthalidone and indapamide, are preferred. \u00a7If it can be safely attained, the on-treatment blood pressure goal is <130/80 mmHg; a systolic blood pressure goal <120 mmHg should be encouraged in individuals with high cardiovascular or kidney risk. BP, blood pressure. Adapted from de Boer et al. (24).",
+      "page_number": "S220",
+      "evidence_level": "Unknown",
+      "complication_category": "Cardiovascular",
+      "stage": "Unknown"
+    }
+  ],
+  "screening_tests": [
+    {
+      "name": "Blood pressure measurement",
+      "synonyms": [],
+      "source_text": "Blood pressure should be measured at every routine clinical visit, or at least every 6 months by a trained individual who should follow the guidelines established for the general population: measurement in the seated position, with feet on the floor and arm supported at heart level, after 5 min of rest. Cuff size should be appropriate for the upper-arm circumference (29).",
+      "page_number": "S216",
+      "evidence_level": "Unknown",
+      "test_name": "Blood pressure measurement",
+      "frequency": "every routine clinical visit, or at least every 6 months",
+      "indication": "Every routine clinical visit"
+    },
+    {
+      "name": "Home blood pressure self-monitoring",
+      "synonyms": [],
+      "source_text": "Home blood pressure self-monitoring and 24-h ambulatory blood pressure monitoring may provide evidence of white coat hypertension, masked hypertension, or other discrepancies between office and true blood pressure (30,31).",
+      "page_number": "S216",
+      "evidence_level": "Unknown",
+      "test_name": "Home blood pressure self-monitoring",
+      "frequency": "Unknown",
+      "indication": "To provide evidence of white coat hypertension, masked hypertension, or other discrepancies between office and true blood pressure"
+    },
+    {
+      "name": "24-h ambulatory blood pressure monitoring",
+      "synonyms": [],
+      "source_text": "Home blood pressure self-monitoring and 24-h ambulatory blood pressure monitoring may provide evidence of white coat hypertension, masked hypertension, or other discrepancies between office and true blood pressure (30,31).",
+      "page_number": "S216",
+      "evidence_level": "Unknown",
+      "test_name": "24-h ambulatory blood pressure monitoring",
+      "frequency": "Unknown",
+      "indication": "To provide evidence of white coat hypertension, masked hypertension, or other discrepancies between office and true blood pressure"
+    },
+    {
+      "name": "Lipid profile",
+      "synonyms": [],
+      "source_text": "In adults with prediabetes or diabetes not taking statins or other lipid-lowering therapy, it is reasonable to obtain a lipid profile at the time of diagnosis, at an initial medical evaluation, annually thereafter, or more frequently if indicated. E",
+      "page_number": "S222",
+      "evidence_level": "E",
+      "test_name": "Lipid profile",
+      "frequency": "at the time of diagnosis, at an initial medical evaluation, annually thereafter, or more frequently if indicated",
+      "indication": "Adults with prediabetes or diabetes not taking statins or other lipid-lowering therapy"
+    },
+    {
+      "name": "Lipid profile",
+      "synonyms": [],
+      "source_text": "Obtain a lipid profile at initiation of statins or other lipid-lowering therapy, 4\u201312 weeks after initiation or a change in dose, and annually thereafter, as it facilitates monitoring the response to therapy and informs medication-taking behavior. A",
+      "page_number": "S222",
+      "evidence_level": "A",
+      "test_name": "Lipid profile",
+      "frequency": "at initiation of statins or other lipid-lowering therapy, 4\u201312 weeks after initiation or a change in dose, and annually thereafter",
+      "indication": "Initiation of statins or other lipid-lowering therapy"
+    },
+    {
+      "name": "Ankle-brachial index testing",
+      "synonyms": [],
+      "source_text": "In asymptomatic individuals with diabetes and age \u226565 years, microvascular disease in any location, or foot complications or any end-organ damage from diabetes, screening for PAD with ankle-brachial index testing is recommended if a PAD diagnosis would change management. B",
+      "page_number": "S230",
+      "evidence_level": "B",
+      "test_name": "Ankle-brachial index testing",
+      "frequency": "Unknown",
+      "indication": "Asymptomatic individuals with diabetes and age \u226565 years, microvascular disease in any location, or foot complications or any end-organ damage from diabetes, if a PAD diagnosis would change management"
+    },
+    {
+      "name": "Natriuretic peptide measurement",
+      "synonyms": [
+        "BNP",
+        "NT-proBNP"
+      ],
+      "source_text": "Adults with diabetes are at increased risk for the development of asymptomatic cardiac structural or functional abnormalities (stage B heart failure) or symptomatic (stage C) heart failure. Consider screening adults with diabetes by measuring a natriuretic peptide (B-type natriuretic peptide [BNP] or N-terminal pro-BNP [NT-proBNP]) to facilitate prevention of stage C heart failure.",
+      "page_number": "S230",
+      "evidence_level": "Unknown",
+      "test_name": "Natriuretic peptide measurement",
+      "frequency": "Unknown",
+      "indication": "Adults with diabetes to facilitate prevention of stage C heart failure"
+    },
+    {
+      "name": "Echocardiography",
+      "synonyms": [],
+      "source_text": "In asymptomatic individuals with diabetes and abnormal natriuretic peptide levels, echocardiography is recommended to identify stage B heart failure. A",
+      "page_number": "S230",
+      "evidence_level": "A",
+      "test_name": "Echocardiography",
+      "frequency": "Unknown",
+      "indication": "Asymptomatic individuals with diabetes and abnormal natriuretic peptide levels"
+    },
+    {
+      "name": "Coronary artery calcium measurement",
+      "synonyms": [],
+      "source_text": "In adults with diabetes \u226540 years of age, measurement of coronary artery calcium is also reasonable for cardiovascular risk assessment.",
+      "page_number": "S234",
+      "evidence_level": "Unknown",
+      "test_name": "Coronary artery calcium measurement",
+      "frequency": "Unknown",
+      "indication": "Adults with diabetes \u226540 years of age for cardiovascular risk assessment"
+    },
+    {
+      "name": "Exercise ECG testing",
+      "synonyms": [],
+      "source_text": "Exercise ECG testing without or with echocardiography may be used as the initial test.",
+      "page_number": "S234",
+      "evidence_level": "Unknown",
+      "test_name": "Exercise ECG testing",
+      "frequency": "Unknown",
+      "indication": "Candidates for advanced or invasive cardiac testing with symptoms or signs of cardiac or vascular disease and an abnormal resting electrocardiogram (ECG)"
+    },
+    {
+      "name": "Pharmacologic stress echocardiography",
+      "synonyms": [],
+      "source_text": "Pharmacologic stress echocardiography or nuclear imaging should be considered in individuals with diabetes in whom resting ECG abnormalities preclude exercise stress testing (e.g., left bundle branch block or ST-T abnormalities).",
+      "page_number": "S234",
+      "evidence_level": "Unknown",
+      "test_name": "Pharmacologic stress echocardiography",
+      "frequency": "Unknown",
+      "indication": "Individuals with diabetes in whom resting ECG abnormalities preclude exercise stress testing"
+    },
+    {
+      "name": "Nuclear imaging",
+      "synonyms": [],
+      "source_text": "Pharmacologic stress echocardiography or nuclear imaging should be considered in individuals with diabetes in whom resting ECG abnormalities preclude exercise stress testing (e.g., left bundle branch block or ST-T abnormalities).",
+      "page_number": "S234",
+      "evidence_level": "Unknown",
+      "test_name": "Nuclear imaging",
+      "frequency": "Unknown",
+      "indication": "Individuals with diabetes in whom resting ECG abnormalities preclude exercise stress testing"
+    }
+  ],
+  "therapeutic_agents": [
+    {
+      "name": "Sodium\u2013glucose cotransporter (SGLT) inhibitors",
+      "synonyms": [
+        "SGLT inhibitors",
+        "SGLT2 inhibitors",
+        "SGLT1/2 inhibitors"
+      ],
+      "source_text": "treatment with SGLT inhibitors and/or GLP-1 RAs that have demonstrated cardiovascular and kidney benefit is considered a fundamental element of risk reduction and a core pharmacological strategy to improve cardiovascular and kidney outcomes in people with type 2 diabetes (Fig. 10.1).",
+      "page_number": "S216",
+      "evidence_level": "Unknown",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "To improve cardiovascular and kidney outcomes in people with type 2 diabetes"
+    },
+    {
+      "name": "Glucagon-like peptide 1 receptor agonists",
+      "synonyms": [
+        "GLP-1 RAs"
+      ],
+      "source_text": "treatment with SGLT inhibitors and/or GLP-1 RAs that have demonstrated cardiovascular and kidney benefit is considered a fundamental element of risk reduction and a core pharmacological strategy to improve cardiovascular and kidney outcomes in people with type 2 diabetes (Fig. 10.1).",
+      "page_number": "S216",
+      "evidence_level": "Unknown",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "To improve cardiovascular and kidney outcomes in people with type 2 diabetes"
+    },
+    {
+      "name": "ACE inhibitors",
+      "synonyms": [
+        "ACEi"
+      ],
+      "source_text": "An ACE inhibitor (ACEi) or angiotensin receptor blocker (ARB) is suggested for the treatment of hypertension in people with coronary artery disease (CAD) or urine albumin-to-creatinine ratio 30\u2013299 mg/g creatinine and is strongly recommended for individuals with urine albumin-to-creatinine ratio \u2265300 mg/g creatinine. \u2020Dihydropyridine calcium channel blocker (CCB). \u2021Thiazide-like diuretic; long-acting agents shown to reduce cardiovascular events, such as chlorthalidone and indapamide, are preferred. \u00a7If it can be safely attained, the on-treatment blood pressure goal is <130/80 mmHg; a systolic blood pressure goal <120 mmHg should be encouraged in individuals with high cardiovascular or kidney risk. BP, blood pressure. Adapted from de Boer et al. (24).",
+      "page_number": "S220",
+      "evidence_level": "Unknown",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "Hypertension in people with coronary artery disease (CAD) or urine albumin-to-creatinine ratio 30\u2013299 mg/g creatinine; strongly recommended for individuals with urine albumin-to-creatinine ratio \u2265300 mg/g creatinine"
+    },
+    {
+      "name": "Angiotensin receptor blockers",
+      "synonyms": [
+        "ARB"
+      ],
+      "source_text": "An ACE inhibitor (ACEi) or angiotensin receptor blocker (ARB) is suggested for the treatment of hypertension in people with coronary artery disease (CAD) or urine albumin-to-creatinine ratio 30\u2013299 mg/g creatinine and is strongly recommended for individuals with urine albumin-to-creatinine ratio \u2265300 mg/g creatinine. \u2020Dihydropyridine calcium channel blocker (CCB). \u2021Thiazide-like diuretic; long-acting agents shown to reduce cardiovascular events, such as chlorthalidone and indapamide, are preferred. \u00a7If it can be safely attained, the on-treatment blood pressure goal is <130/80 mmHg; a systolic blood pressure goal <120 mmHg should be encouraged in individuals with high cardiovascular or kidney risk. BP, blood pressure. Adapted from de Boer et al. (24).",
+      "page_number": "S220",
+      "evidence_level": "Unknown",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "Hypertension in people with coronary artery disease (CAD) or urine albumin-to-creatinine ratio 30\u2013299 mg/g creatinine; strongly recommended for individuals with urine albumin-to-creatinine ratio \u2265300 mg/g creatinine"
+    },
+    {
+      "name": "Calcium channel blockers",
+      "synonyms": [
+        "CCB",
+        "Dihydropyridine calcium channel blocker"
+      ],
+      "source_text": "An ACE inhibitor (ACEi) or angiotensin receptor blocker (ARB) is suggested for the treatment of hypertension in people with coronary artery disease (CAD) or urine albumin-to-creatinine ratio 30\u2013299 mg/g creatinine and is strongly recommended for individuals with urine albumin-to-creatinine ratio \u2265300 mg/g creatinine. \u2020Dihydropyridine calcium channel blocker (CCB). \u2021Thiazide-like diuretic; long-acting agents shown to reduce cardiovascular events, such as chlorthalidone and indapamide, are preferred. \u00a7If it can be safely attained, the on-treatment blood pressure goal is <130/80 mmHg; a systolic blood pressure goal <120 mmHg should be encouraged in individuals with high cardiovascular or kidney risk. BP, blood pressure. Adapted from de Boer et al. (24).",
+      "page_number": "S220",
+      "evidence_level": "Unknown",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "Hypertension"
+    },
+    {
+      "name": "Diuretics",
+      "synonyms": [
+        "Thiazide-like diuretic"
+      ],
+      "source_text": "An ACE inhibitor (ACEi) or angiotensin receptor blocker (ARB) is suggested for the treatment of hypertension in people with coronary artery disease (CAD) or urine albumin-to-creatinine ratio 30\u2013299 mg/g creatinine and is strongly recommended for individuals with urine albumin-to-creatinine ratio \u2265300 mg/g creatinine. \u2020Dihydropyridine calcium channel blocker (CCB). \u2021Thiazide-like diuretic; long-acting agents shown to reduce cardiovascular events, such as chlorthalidone and indapamide, are preferred. \u00a7If it can be safely attained, the on-treatment blood pressure goal is <130/80 mmHg; a systolic blood pressure goal <120 mmHg should be encouraged in individuals with high cardiovascular or kidney risk. BP, blood pressure. Adapted from de Boer et al. (24).",
+      "page_number": "S220",
+      "evidence_level": "Unknown",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "Hypertension"
+    },
+    {
+      "name": "Mineralocorticoid receptor antagonist",
+      "synonyms": [
+        "MRA",
+        "nonsteroidal MRA"
+      ],
+      "source_text": "In individuals with type 2 diabetes and CKD with albuminuria treated with maximum tolerated doses of ACE inhibitor or ARB, recommend treatment with a nonsteroidal MRA with demonstrated benefit to improve cardiovascular outcomes and reduce the risk of CKD progression. A",
+      "page_number": "S232",
+      "evidence_level": "A",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "Type 2 diabetes and CKD with albuminuria treated with maximum tolerated doses of ACE inhibitor or ARB"
+    },
+    {
+      "name": "Statin therapy",
+      "synonyms": [],
+      "source_text": "For people with diabetes aged 40\u201375 years without ASCVD, use moderate-intensity statin therapy in addition to lifestyle therapy. A",
+      "page_number": "S222",
+      "evidence_level": "A",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "Primary prevention in people with diabetes aged 40\u201375 years without ASCVD"
+    },
+    {
+      "name": "Bempedoic acid",
+      "synonyms": [],
+      "source_text": "In people with diabetes intolerant to statin therapy, treatment with bempedoic acid is recommended to reduce cardiovascular event rates as an alternative cholesterol-lowering plan. A",
+      "page_number": "S222",
+      "evidence_level": "A",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "People with diabetes intolerant to statin therapy"
+    },
+    {
+      "name": "Ezetimibe",
+      "synonyms": [],
+      "source_text": "In people with diabetes and ASCVD, treatment with high-intensity statin therapy is recommended to obtain an LDL cholesterol reduction of \u226550% from baseline and an LDL cholesterol goal of <55 mg/dL (<1.4 mmol/L). Addition of ezetimibe or a PCSK9 inhibitor with proven benefit in this population is recommended if this goal is not achieved on maximum tolerated statin therapy. B",
+      "page_number": "S222",
+      "evidence_level": "B",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "People with diabetes and ASCVD if LDL goal is not achieved on maximum tolerated statin therapy"
+    },
+    {
+      "name": "PCSK9 inhibitor",
+      "synonyms": [
+        "PCSK9 monoclonal antibody"
+      ],
+      "source_text": "In people with diabetes and ASCVD, treatment with high-intensity statin therapy is recommended to obtain an LDL cholesterol reduction of \u226550% from baseline and an LDL cholesterol goal of <55 mg/dL (<1.4 mmol/L). Addition of ezetimibe or a PCSK9 inhibitor with proven benefit in this population is recommended if this goal is not achieved on maximum tolerated statin therapy. B",
+      "page_number": "S222",
+      "evidence_level": "B",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "People with diabetes and ASCVD if LDL goal is not achieved on maximum tolerated statin therapy"
+    },
+    {
+      "name": "Icosapent ethyl",
+      "synonyms": [],
+      "source_text": "For individuals with ASCVD or other cardiovascular risk factors on a statin with managed LDL cholesterol but elevated triglycerides (150\u2013499 mg/dL [1.7\u20135.6 mmol/L]), the addition of icosapent ethyl can be considered to reduce cardiovascular risk. B",
+      "page_number": "S226",
+      "evidence_level": "B",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "Individuals with ASCVD or other cardiovascular risk factors on a statin with managed LDL cholesterol but elevated triglycerides (150\u2013499 mg/dL [1.7\u20135.6 mmol/L])"
+    },
+    {
+      "name": "Aspirin",
+      "synonyms": [],
+      "source_text": "Use aspirin therapy (75\u2013162 mg/day) as a secondary prevention strategy in those with diabetes and a history of ASCVD. A",
+      "page_number": "S230",
+      "evidence_level": "A",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "Secondary prevention in those with diabetes and a history of ASCVD"
+    },
+    {
+      "name": "Clopidogrel",
+      "synonyms": [],
+      "source_text": "For individuals with ASCVD and documented aspirin allergy, clopidogrel (75 mg/day) should be used. B",
+      "page_number": "S230",
+      "evidence_level": "B",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "Individuals with ASCVD and documented aspirin allergy"
+    },
+    {
+      "name": "Ticagrelor",
+      "synonyms": [],
+      "source_text": "Evidence supports use of either ticagrelor or clopidogrel if a percutaneous coronary intervention was performed (187).",
+      "page_number": "S230",
+      "evidence_level": "Unknown",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "Percutaneous coronary intervention"
+    },
+    {
+      "name": "Rivaroxaban",
+      "synonyms": [],
+      "source_text": "Combination therapy with 81 mg aspirin daily plus 2.5 mg rivaroxaban twice daily should be considered for individuals with stable coronary and/or peripheral artery disease (PAD) and low bleeding risk to prevent major adverse limb and cardiovascular events. A",
+      "page_number": "S230",
+      "evidence_level": "A",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "Individuals with stable coronary and/or peripheral artery disease (PAD) and low bleeding risk"
+    },
+    {
+      "name": "Finerenone",
+      "synonyms": [],
+      "source_text": "For individuals with type 2 diabetes and CKD with albuminuria treated with maximum tolerated doses of ACE inhibitor or ARB, recommend treatment with a nonsteroidal MRA with demonstrated benefit to improve cardiovascular outcomes and reduce the risk of CKD progression. A",
+      "page_number": "S232",
+      "evidence_level": "A",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "Type 2 diabetes and CKD with albuminuria treated with maximum tolerated doses of ACE inhibitor or ARB"
+    },
+    {
+      "name": "Empagliflozin",
+      "synonyms": [],
+      "source_text": "Results of large cardiovascular outcome trials of empagliflozin (10 mg or 25 mg daily) and canagliflozin (100 or 300 mg daily) showed that treatment with either drug reduced rates of MI, stroke, or cardiovascular death.",
+      "page_number": "S233",
+      "evidence_level": "Unknown",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "To reduce rates of MI, stroke, or cardiovascular death"
+    },
+    {
+      "name": "Canagliflozin",
+      "synonyms": [],
+      "source_text": "Results of large cardiovascular outcome trials of empagliflozin (10 mg or 25 mg daily) and canagliflozin (100 or 300 mg daily) showed that treatment with either drug reduced rates of MI, stroke, or cardiovascular death.",
+      "page_number": "S233",
+      "evidence_level": "Unknown",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "To reduce rates of MI, stroke, or cardiovascular death"
+    },
+    {
+      "name": "Dapagliflozin",
+      "synonyms": [],
+      "source_text": "The major cardiovascular outcome trial of dapagliflozin (10 mg daily) did not show a reduction in the coprimary outcome of MI, stroke, or cardiovascular death but did show a significantly lower rate of the co-primary composite outcome of hospitalization for heart failure or cardiovascular death, which was driven by its effect on hospitalization for heart failure.",
+      "page_number": "S233",
+      "evidence_level": "Unknown",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "To reduce hospitalization for heart failure or cardiovascular death"
+    },
+    {
+      "name": "Ertugliflozin",
+      "synonyms": [],
+      "source_text": "Cardiovascular outcome trials of ertugliflozin and bexagliflozin have not demonstrated evidence of cardiovascular risk reduction (249,250).",
+      "page_number": "S233",
+      "evidence_level": "Unknown",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "Unknown"
+    },
+    {
+      "name": "Bexagliflozin",
+      "synonyms": [],
+      "source_text": "Cardiovascular outcome trials of ertugliflozin and bexagliflozin have not demonstrated evidence of cardiovascular risk reduction (249,250).",
+      "page_number": "S233",
+      "evidence_level": "Unknown",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "Unknown"
+    },
+    {
+      "name": "Liraglutide",
+      "synonyms": [],
+      "source_text": "Results of trials with the GLP-1 RAs liraglutide (once daily) and semaglutide, and dulaglutide.",
+      "page_number": "S233",
+      "evidence_level": "Unknown",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "Unknown"
+    },
+    {
+      "name": "Semaglutide",
+      "synonyms": [],
+      "source_text": "Results of trials with the GLP-1 RAs liraglutide (once daily) and semaglutide, and dulaglutide.",
+      "page_number": "S233",
+      "evidence_level": "Unknown",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "Unknown"
+    },
+    {
+      "name": "Dulaglutide",
+      "synonyms": [],
+      "source_text": "Results of trials with the GLP-1 RAs liraglutide (once daily) and semaglutide, and dulaglutide.",
+      "page_number": "S233",
+      "evidence_level": "Unknown",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "Unknown"
+    },
+    {
+      "name": "Tirzepatide",
+      "synonyms": [],
+      "source_text": "Cardiovascular outcome trials of the dual glucose-dependent insulinotropic polypeptide (GIP)/GLP-1 RA tirzepatide are ongoing (261).",
+      "page_number": "S233",
+      "evidence_level": "Unknown",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "Unknown"
+    },
+    {
+      "name": "Linagliptin",
+      "synonyms": [],
+      "source_text": "The CAROLINA (Cardiovascular Outcome Study of Linagliptin Versus Glimepiride in Type 2 Diabetes) study demonstrated noninferiority between a DPP-4 inhibitor, linagliptin, and a sulfonylurea, glimepiride, on cardiovascular outcomes despite lower rates of hypoglycemia in the linagliptin treatment group (267).",
+      "page_number": "S234",
+      "evidence_level": "Unknown",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "Unknown"
+    },
+    {
+      "name": "Glimepiride",
+      "synonyms": [],
+      "source_text": "The CAROLINA (Cardiovascular Outcome Study of Linagliptin Versus Glimepiride in Type 2 Diabetes) study demonstrated noninferiority between a DPP-4 inhibitor, linagliptin, and a sulfonylurea, glimepiride, on cardiovascular outcomes despite lower rates of hypoglycemia in the linagliptin treatment group (267).",
+      "page_number": "S234",
+      "evidence_level": "Unknown",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "Unknown"
+    },
+    {
+      "name": "Metformin",
+      "synonyms": [],
+      "source_text": "Metformin may be used for the management of hyperglycemia in people with stable heart failure as long as kidney function remains within the recommended range for use (310).",
+      "page_number": "S235",
+      "evidence_level": "Unknown",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "Management of hyperglycemia in people with stable heart failure, provided kidney function is within the recommended range"
+    },
+    {
+      "name": "Saxagliptin",
+      "synonyms": [],
+      "source_text": "The Saxagliptin Assessment of Vascular Outcomes Recorded in Patients With Diabetes Mellitus\u2013Thrombolysis in Myocardial Infarction 53 (SAVOR-TIMI 53).",
+      "page_number": "S235",
+      "evidence_level": "Unknown",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "Unknown"
+    },
+    {
+      "name": "Pioglitazone",
+      "synonyms": [],
+      "source_text": "Thiazolidinediones have a strong and consistent relationship with increased risk of heart failure (308,309) and should be avoided in people with heart failure.",
+      "page_number": "S235",
+      "evidence_level": "Unknown",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "Should be avoided in people with heart failure"
+    },
+    {
+      "name": "Spironolactone",
+      "synonyms": [],
+      "source_text": "Consistent with heart failure guidelines, an MRA like spironolactone or eplerenone is recommended in people with HFrEF (ejection fraction \u226440%) and type 2 diabetes (12,13).",
+      "page_number": "S236",
+      "evidence_level": "Unknown",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "People with HFrEF (ejection fraction \u226440%) and type 2 diabetes"
+    },
+    {
+      "name": "Eplerenone",
+      "synonyms": [],
+      "source_text": "Consistent with heart failure guidelines, an MRA like spironolactone or eplerenone is recommended in people with HFrEF (ejection fraction \u226440%) and type 2 diabetes (12,13).",
+      "page_number": "S236",
+      "evidence_level": "Unknown",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "People with HFrEF (ejection fraction \u226440%) and type 2 diabetes"
+    },
+    {
+      "name": "High-intensity statin therapy",
+      "synonyms": [],
+      "source_text": "For people with diabetes aged 40\u201375 years at higher cardiovascular risk, including those with one or more additional ASCVD risk factors, high-intensity statin therapy is recommended to reduce LDL cholesterol by \u226550% of baseline and to obtain an LDL cholesterol goal of <70 mg/dL (<1.8 mmol/L). A",
+      "page_number": "S222",
+      "evidence_level": "A",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "People with diabetes aged 40\u201375 years at higher cardiovascular risk"
+    },
+    {
+      "name": "Moderate-intensity statin therapy",
+      "synonyms": [],
+      "source_text": "For people with diabetes aged 40\u201375 years without ASCVD, use moderate-intensity statin therapy in addition to lifestyle therapy. A",
+      "page_number": "S222",
+      "evidence_level": "A",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "People with diabetes aged 40\u201375 years without ASCVD"
+    },
+    {
+      "name": "Atorvastatin",
+      "synonyms": [],
+      "source_text": "High-intensity statin therapy (lowers LDL cholesterol by \u226550%) Atorvastatin 40\u201380 mg",
+      "page_number": "S224",
+      "evidence_level": "Unknown",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "High-intensity statin therapy"
+    },
+    {
+      "name": "Rosuvastatin",
+      "synonyms": [],
+      "source_text": "High-intensity statin therapy (lowers LDL cholesterol by \u226550%) Atorvastatin 40\u201380 mg Rosuvastatin 20\u201340 mg",
+      "page_number": "S224",
+      "evidence_level": "Unknown",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "High-intensity statin therapy"
+    },
+    {
+      "name": "Simvastatin",
+      "synonyms": [],
+      "source_text": "Moderate-intensity statin therapy (lowers LDL cholesterol by 30\u201349%) Atorvastatin 10\u201320 mg Rosuvastatin 5\u201310 mg Simvastatin 20\u201340 mg",
+      "page_number": "S224",
+      "evidence_level": "Unknown",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "Moderate-intensity statin therapy"
+    },
+    {
+      "name": "Pravastatin",
+      "synonyms": [],
+      "source_text": "Moderate-intensity statin therapy (lowers LDL cholesterol by 30\u201349%) Atorvastatin 10\u201320 mg Rosuvastatin 5\u201310 mg Simvastatin 20\u201340 mg Pravastatin 40\u201380 mg",
+      "page_number": "S224",
+      "evidence_level": "Unknown",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "Moderate-intensity statin therapy"
+    },
+    {
+      "name": "Lovastatin",
+      "synonyms": [],
+      "source_text": "Moderate-intensity statin therapy (lowers LDL cholesterol by 30\u201349%) Atorvastatin 10\u201320 mg Rosuvastatin 5\u201310 mg Simvastatin 20\u201340 mg Pravastatin 40\u201380 mg Lovastatin 40 mg",
+      "page_number": "S224",
+      "evidence_level": "Unknown",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "Moderate-intensity statin therapy"
+    },
+    {
+      "name": "Fluvastatin XL",
+      "synonyms": [],
+      "source_text": "Moderate-intensity statin therapy (lowers LDL cholesterol by 30\u201349%) Atorvastatin 10\u201320 mg Rosuvastatin 5\u201310 mg Simvastatin 20\u201340 mg Pravastatin 40\u201380 mg Lovastatin 40 mg Fluvastatin XL 80 mg",
+      "page_number": "S224",
+      "evidence_level": "Unknown",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "Moderate-intensity statin therapy"
+    },
+    {
+      "name": "Pitavastatin",
+      "synonyms": [],
+      "source_text": "Moderate-intensity statin therapy (lowers LDL cholesterol by 30\u201349%) Atorvastatin 10\u201320 mg Rosuvastatin 5\u201310 mg Simvastatin 20\u201340 mg Pravastatin 40\u201380 mg Lovastatin 40 mg Fluvastatin XL 80 mg Pitavastatin 1\u20134 mg",
+      "page_number": "S224",
+      "evidence_level": "Unknown",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "Moderate-intensity statin therapy"
+    },
+    {
+      "name": "Dual antiplatelet therapy",
+      "synonyms": [],
+      "source_text": "The length of treatment with dual antiplatelet therapy using low-dose aspirin and a P2Y12 inhibitor in individuals with diabetes after an acute coronary syndrome, acute ischemic stroke, or transient ischemic attack should be determined by an interprofessional team approach that includes a cardiovascular or neurological specialist, respectively. E",
+      "page_number": "S230",
+      "evidence_level": "E",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "Individuals with diabetes after an acute coronary syndrome, acute ischemic stroke, or transient ischemic attack"
+    },
+    {
+      "name": "ACE inhibitors or ARBs",
+      "synonyms": [],
+      "source_text": "In individuals with diabetes and asymptomatic (stage B) heart failure, ACE inhibitors or ARBs and \u03b2-blockers are recommended to reduce the risk for progression to symptomatic (stage C) heart failure. A",
+      "page_number": "S232",
+      "evidence_level": "A",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "Individuals with diabetes and asymptomatic (stage B) heart failure"
+    },
+    {
+      "name": "\u03b2-Blockers",
+      "synonyms": [],
+      "source_text": "In individuals with diabetes and asymptomatic (stage B) heart failure, ACE inhibitors or ARBs and \u03b2-blockers are recommended to reduce the risk for progression to symptomatic (stage C) heart failure. A",
+      "page_number": "S232",
+      "evidence_level": "A",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "Individuals with diabetes and asymptomatic (stage B) heart failure"
+    },
+    {
+      "name": "SGLT inhibitor",
+      "synonyms": [
+        "SGLT2 inhibitor",
+        "SGLT1/2 inhibitor"
+      ],
+      "source_text": "In individuals with type 2 diabetes and asymptomatic (stage B) heart failure or with high risk of or established cardiovascular disease, treatment with an SGLT inhibitor with proven heart failure prevention benefit A or a GLP-1 RA with heart failure prevention benefit B is recommended to reduce the risk of hospitalization for heart failure.",
+      "page_number": "S232",
+      "evidence_level": "A",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "Individuals with type 2 diabetes and asymptomatic (stage B) heart failure or with high risk of or established cardiovascular disease"
+    },
+    {
+      "name": "GLP-1 RA",
+      "synonyms": [],
+      "source_text": "In individuals with type 2 diabetes and asymptomatic (stage B) heart failure or with high risk of or established cardiovascular disease, treatment with an SGLT inhibitor with proven heart failure prevention benefit A or a GLP-1 RA with heart failure prevention benefit B is recommended to reduce the risk of hospitalization for heart failure.",
+      "page_number": "S232",
+      "evidence_level": "B",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "Individuals with type 2 diabetes and asymptomatic (stage B) heart failure or with high risk of or established cardiovascular disease"
+    },
+    {
+      "name": "ARNI",
+      "synonyms": [
+        "angiotensin receptor neprilysin inhibitor"
+      ],
+      "source_text": "In people with type 2 diabetes and established heart failure with either preserved or reduced ejection fraction, an SGLT2 inhibitor (including SGLT1/2 inhibitor) with proven benefit in this population is recommended to reduce the risk of worsening heart failure and cardiovascular death. A",
+      "page_number": "S232",
+      "evidence_level": "A",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "People with type 2 diabetes and established heart failure with either preserved or reduced ejection fraction"
+    },
+    {
+      "name": "ACEi or ARB",
+      "synonyms": [],
+      "source_text": "In people with type 2 diabetes and established heart failure with either preserved or reduced ejection fraction, an SGLT2 inhibitor (including SGLT1/2 inhibitor) with proven benefit in this population is recommended to reduce the risk of worsening heart failure and cardiovascular death. A",
+      "page_number": "S232",
+      "evidence_level": "A",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "People with type 2 diabetes and established heart failure with either preserved or reduced ejection fraction"
+    },
+    {
+      "name": "nsMRA",
+      "synonyms": [
+        "nonsteroidal MRA"
+      ],
+      "source_text": "In people with type 2 diabetes and established heart failure with either preserved or reduced ejection fraction, an SGLT2 inhibitor (including SGLT1/2 inhibitor) with proven benefit in this population is recommended to reduce the risk of worsening heart failure and cardiovascular death. A",
+      "page_number": "S232",
+      "evidence_level": "A",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "People with type 2 diabetes and established heart failure with either preserved or reduced ejection fraction"
+    },
+    {
+      "name": "SGLT1/2i",
+      "synonyms": [],
+      "source_text": "In people with type 2 diabetes and established heart failure with either preserved or reduced ejection fraction, an SGLT2 inhibitor (including SGLT1/2 inhibitor) with proven benefit in this population is recommended to reduce the risk of worsening heart failure and cardiovascular death. A",
+      "page_number": "S232",
+      "evidence_level": "A",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "People with type 2 diabetes and established heart failure with either preserved or reduced ejection fraction"
+    },
+    {
+      "name": "SGLT2i",
+      "synonyms": [],
+      "source_text": "In people with type 2 diabetes and established heart failure with either preserved or reduced ejection fraction, an SGLT2 inhibitor (including SGLT1/2 inhibitor) with proven benefit in this population is recommended to reduce the risk of worsening heart failure and cardiovascular death. A",
+      "page_number": "S232",
+      "evidence_level": "A",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "People with type 2 diabetes and established heart failure with either preserved or reduced ejection fraction"
+    },
+    {
+      "name": "ACE inhibitors",
+      "synonyms": [],
+      "source_text": "In individuals with diabetes and symptomatic stage C heart failure with ejection fraction >40%, a nonsteroidal MRA with proven benefit in reducing worsening heart failure events is recommended. A A nonsteroidal MRA should not be used with an MRA.",
+      "page_number": "S232",
+      "evidence_level": "A",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "Individuals with diabetes and symptomatic stage C heart failure with ejection fraction >40%"
+    },
+    {
+      "name": "ARBs",
+      "synonyms": [],
+      "source_text": "In individuals with diabetes and symptomatic stage C heart failure with ejection fraction >40%, a nonsteroidal MRA with proven benefit in reducing worsening heart failure events is recommended. A A nonsteroidal MRA should not be used with an MRA.",
+      "page_number": "S232",
+      "evidence_level": "A",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "Individuals with diabetes and symptomatic stage C heart failure with ejection fraction >40%"
+    },
+    {
+      "name": "Nonsteroidal MRA",
+      "synonyms": [],
+      "source_text": "In individuals with diabetes and symptomatic stage C heart failure with ejection fraction >40%, a nonsteroidal MRA with proven benefit in reducing worsening heart failure events is recommended. A A nonsteroidal MRA should not be used with an MRA.",
+      "page_number": "S232",
+      "evidence_level": "A",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "Individuals with diabetes and symptomatic stage C heart failure with ejection fraction >40%"
+    },
+    {
+      "name": "SGLT2 inhibitor",
+      "synonyms": [],
+      "source_text": "In people with type 2 diabetes and established ASCVD or chronic kidney disease (CKD), a sodium\u2013glucose cotransporter 2 (SGLT2) inhibitor or glucagon-like peptide 1 receptor agonist (GLP-1 RA) with demonstrated cardiovascular disease benefit is recommended as part of the comprehensive cardiovascular risk reduction and/or glucose-lowering treatment plans. A",
+      "page_number": "S232",
+      "evidence_level": "A",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "People with type 2 diabetes and established ASCVD or chronic kidney disease (CKD)"
+    },
+    {
+      "name": "GLP-1 RA",
+      "synonyms": [],
+      "source_text": "In people with type 2 diabetes and established ASCVD or chronic kidney disease (CKD), a sodium\u2013glucose cotransporter 2 (SGLT2) inhibitor or glucagon-like peptide 1 receptor agonist (GLP-1 RA) with demonstrated cardiovascular disease benefit is recommended as part of the comprehensive cardiovascular risk reduction and/or glucose-lowering treatment plans. A",
+      "page_number": "S232",
+      "evidence_level": "A",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "People with type 2 diabetes and established ASCVD or chronic kidney disease (CKD)"
+    },
+    {
+      "name": "SGLT2 inhibitor",
+      "synonyms": [],
+      "source_text": "In people with type 2 diabetes and established ASCVD or multiple risk factors for ASCVD, or CKD, an SGLT2 inhibitor with demonstrated cardiovascular benefit is recommended to reduce the risk of cardiovascular events. A",
+      "page_number": "S232",
+      "evidence_level": "A",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "People with type 2 diabetes and established ASCVD or multiple risk factors for ASCVD, or CKD"
+    },
+    {
+      "name": "GLP-1 RA",
+      "synonyms": [],
+      "source_text": "In people with type 2 diabetes and established ASCVD or multiple risk factors for ASCVD, or CKD, a GLP-1 RA with demonstrated cardiovascular benefit is recommended to reduce the risk of cardiovascular events. A",
+      "page_number": "S232",
+      "evidence_level": "A",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "People with type 2 diabetes and established ASCVD or multiple risk factors for ASCVD, or CKD"
+    },
+    {
+      "name": "SGLT2 inhibitor",
+      "synonyms": [],
+      "source_text": "In people with type 2 diabetes and established ASCVD or multiple risk factors for ASCVD, combined therapy with an SGLT2 inhibitor with demonstrated cardiovascular benefit and a GLP-1 RA with demonstrated cardiovascular benefit may be considered for additive reduction of the risk of adverse cardiovascular and kidney events. B",
+      "page_number": "S232",
+      "evidence_level": "B",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "People with type 2 diabetes and established ASCVD or multiple risk factors for ASCVD"
+    },
+    {
+      "name": "GLP-1 RA",
+      "synonyms": [],
+      "source_text": "In people with type 2 diabetes and established ASCVD or multiple risk factors for ASCVD, combined therapy with an SGLT2 inhibitor with demonstrated cardiovascular benefit and a GLP-1 RA with demonstrated cardiovascular benefit may be considered for additive reduction of the risk of adverse cardiovascular and kidney events. B",
+      "page_number": "S232",
+      "evidence_level": "B",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "People with type 2 diabetes and established ASCVD or multiple risk factors for ASCVD"
+    },
+    {
+      "name": "SGLT2 inhibitor",
+      "synonyms": [],
+      "source_text": "In people with type 2 diabetes and established heart failure with either preserved or reduced ejection fraction, an SGLT2 inhibitor (including SGLT1/2 inhibitor) with proven benefit in this population is recommended to reduce the risk of worsening heart failure and cardiovascular death. A",
+      "page_number": "S232",
+      "evidence_level": "A",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "People with type 2 diabetes and established heart failure with either preserved or reduced ejection fraction"
+    },
+    {
+      "name": "SGLT1/2 inhibitor",
+      "synonyms": [],
+      "source_text": "In people with type 2 diabetes and established heart failure with either preserved or reduced ejection fraction, an SGLT2 inhibitor (including SGLT1/2 inhibitor) with proven benefit in this population is recommended to reduce the risk of worsening heart failure and cardiovascular death. A",
+      "page_number": "S232",
+      "evidence_level": "A",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "People with type 2 diabetes and established heart failure with either preserved or reduced ejection fraction"
+    },
+    {
+      "name": "ACE inhibitors",
+      "synonyms": [],
+      "source_text": "In individuals with diabetes and asymptomatic (stage B) heart failure, ACE inhibitors or ARBs and \u03b2-blockers are recommended to reduce the risk for progression to symptomatic (stage C) heart failure. A",
+      "page_number": "S232",
+      "evidence_level": "A",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "Individuals with diabetes and asymptomatic (stage B) heart failure"
+    },
+    {
+      "name": "ARBs",
+      "synonyms": [],
+      "source_text": "In individuals with diabetes and asymptomatic (stage B) heart failure, ACE inhibitors or ARBs and \u03b2-blockers are recommended to reduce the risk for progression to symptomatic (stage C) heart failure. A",
+      "page_number": "S232",
+      "evidence_level": "A",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "Individuals with diabetes and asymptomatic (stage B) heart failure"
+    },
+    {
+      "name": "\u03b2-blockers",
+      "synonyms": [],
+      "source_text": "In individuals with diabetes and asymptomatic (stage B) heart failure, ACE inhibitors or ARBs and \u03b2-blockers are recommended to reduce the risk for progression to symptomatic (stage C) heart failure. A",
+      "page_number": "S232",
+      "evidence_level": "A",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "Individuals with diabetes and asymptomatic (stage B) heart failure"
+    },
+    {
+      "name": "SGLT inhibitor",
+      "synonyms": [],
+      "source_text": "In individuals with type 2 diabetes and asymptomatic (stage B) heart failure or with high risk of or established cardiovascular disease, treatment with an SGLT inhibitor with proven heart failure prevention benefit A or a GLP-1 RA with heart failure prevention benefit B is recommended to reduce the risk of hospitalization for heart failure.",
+      "page_number": "S232",
+      "evidence_level": "A",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "Individuals with type 2 diabetes and asymptomatic (stage B) heart failure or with high risk of or established cardiovascular disease"
+    },
+    {
+      "name": "GLP-1 RA",
+      "synonyms": [],
+      "source_text": "In individuals with type 2 diabetes and asymptomatic (stage B) heart failure or with high risk of or established cardiovascular disease, treatment with an SGLT inhibitor with proven heart failure prevention benefit A or a GLP-1 RA with heart failure prevention benefit B is recommended to reduce the risk of hospitalization for heart failure.",
+      "page_number": "S232",
+      "evidence_level": "B",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "Individuals with type 2 diabetes and asymptomatic (stage B) heart failure or with high risk of or established cardiovascular disease"
+    },
+    {
+      "name": "ARNI",
+      "synonyms": [],
+      "source_text": "In individuals with type 2 diabetes and symptomatic stage C heart failure with ejection fraction >40%, a nonsteroidal MRA with proven benefit in reducing worsening heart failure events is recommended. A A nonsteroidal MRA should not be used with an MRA.",
+      "page_number": "S232",
+      "evidence_level": "A",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "Individuals with type 2 diabetes and symptomatic stage C heart failure with ejection fraction >40%"
+    },
+    {
+      "name": "ACEi or ARB",
+      "synonyms": [],
+      "source_text": "In individuals with type 2 diabetes and symptomatic stage C heart failure with ejection fraction >40%, a nonsteroidal MRA with proven benefit in reducing worsening heart failure events is recommended. A A nonsteroidal MRA should not be used with an MRA.",
+      "page_number": "S232",
+      "evidence_level": "A",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "Individuals with type 2 diabetes and symptomatic stage C heart failure with ejection fraction >40%"
+    },
+    {
+      "name": "Nonsteroidal MRA",
+      "synonyms": [],
+      "source_text": "In individuals with type 2 diabetes and symptomatic stage C heart failure with ejection fraction >40%, a nonsteroidal MRA with proven benefit in reducing worsening heart failure events is recommended. A A nonsteroidal MRA should not be used with an MRA.",
+      "page_number": "S232",
+      "evidence_level": "A",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "Individuals with type 2 diabetes and symptomatic stage C heart failure with ejection fraction >40%"
+    },
+    {
+      "name": "SGLT2 inhibitor",
+      "synonyms": [],
+      "source_text": "The SGLT2 inhibitors empagliflozin, canagliflozin, and dapagliflozin reduce the incidence of heart failure and improve heart failure\u2013related outcomes, including hospitalization for heart failure and heart failure\u2013related symptoms, in people with diabetes with preserved or reduced ejection fraction (242,247,248,281,286\u2013294).",
+      "page_number": "S236",
+      "evidence_level": "Unknown",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "People with diabetes with preserved or reduced ejection fraction"
+    },
+    {
+      "name": "Spironolactone",
+      "synonyms": [],
+      "source_text": "The selective nonsteroidal MRA finerenone was examined in the Study to Evaluate the Efficacy (Effect on Disease) and Safety of Finerenone in Participants With Heart Failure and Left Ventricular Ejection Fraction (Proportion of Blood Expelled Per Heart Stroke) Greater or Equal to 40% (FINEARTS-HF) trial of people with symptomatic HFpEF (ejection fraction \u226540%) and was found to reduce the risk of total number of worsening heart failure events or cardiovascular death by 16% (rate ratio 0.84, 95% CI 0.74\u20130.95) (303). Of the enrolled participants, 41% had type 2 diabetes. Thus, finerenone improves cardiovascular and kidney outcomes in people with type 2 diabetes. Addition of finerenone can be considered to improve heart failure outcomes in individuals with symptomatic HFpEF. In people with type 2 diabetes and CKD with albuminuria treated with maximum tolerated doses of ACE inhibitor or ARB, the addition of finerenone should be considered to improve cardiovascular outcomes, including the risk for heart failure hospitalization, and to reduce the risk of CKD progression.",
+      "page_number": "S236",
+      "evidence_level": "Unknown",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "Symptomatic HFpEF (ejection fraction \u226540%); people with type 2 diabetes and CKD with albuminuria treated with maximum tolerated doses of ACE inhibitor or ARB"
+    },
+    {
+      "name": "Eplerenone",
+      "synonyms": [],
+      "source_text": "The selective nonsteroidal MRA finerenone was examined in the Study to Evaluate the Efficacy (Effect on Disease) and Safety of Finerenone in Participants With Heart Failure and Left Ventricular Ejection Fraction (Proportion of Blood Expelled Per Heart Stroke) Greater or Equal to 40% (FINEARTS-HF) trial of people with symptomatic HFpEF (ejection fraction \u226540%) and was found to reduce the risk of total number of worsening heart failure events or cardiovascular death by 16% (rate ratio 0.84, 95% CI 0.74\u20130.95) (303). Of the enrolled participants, 41% had type 2 diabetes. Thus, finerenone improves cardiovascular and kidney outcomes in people with type 2 diabetes. Addition of finerenone can be considered to improve heart failure outcomes in individuals with symptomatic HFpEF. In people with type 2 diabetes and CKD with albuminuria treated with maximum tolerated doses of ACE inhibitor or ARB, the addition of finerenone should be considered to improve cardiovascular outcomes, including the risk for heart failure hospitalization, and to reduce the risk of CKD progression.",
+      "page_number": "S236",
+      "evidence_level": "Unknown",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "Symptomatic HFpEF (ejection fraction \u226540%); people with type 2 diabetes and CKD with albuminuria treated with maximum tolerated doses of ACE inhibitor or ARB"
+    },
+    {
+      "name": "Finerenone",
+      "synonyms": [],
+      "source_text": "The selective nonsteroidal MRA finerenone was examined in the Study to Evaluate the Efficacy (Effect on Disease) and Safety of Finerenone in Participants With Heart Failure and Left Ventricular Ejection Fraction (Proportion of Blood Expelled Per Heart Stroke) Greater or Equal to 40% (FINEARTS-HF) trial of people with symptomatic HFpEF (ejection fraction \u226540%) and was found to reduce the risk of total number of worsening heart failure events or cardiovascular death by 16% (rate ratio 0.84, 95% CI 0.74\u20130.95) (303). Of the enrolled participants, 41% had type 2 diabetes. Thus, finerenone improves cardiovascular and kidney outcomes in people with type 2 diabetes. Addition of finerenone can be considered to improve heart failure outcomes in individuals with symptomatic HFpEF. In people with type 2 diabetes and CKD with albuminuria treated with maximum tolerated doses of ACE inhibitor or ARB, the addition of finerenone should be considered to improve cardiovascular outcomes, including the risk for heart failure hospitalization, and to reduce the risk of CKD progression.",
+      "page_number": "S236",
+      "evidence_level": "Unknown",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "Symptomatic HFpEF (ejection fraction \u226540%); people with type 2 diabetes and CKD with albuminuria treated with maximum tolerated doses of ACE inhibitor or ARB"
+    },
+    {
+      "name": "Semaglutide",
+      "synonyms": [],
+      "source_text": "Increasing evidence has demonstrated the benefits of GLP-1 RA or dual GIP/GLP-1 RA on symptoms and outcomes for people with HFpEF and obesity, and while most people with HFpEF have obesity, approximately 45% have diabetes (304,305). The Semaglutide Treatment Effect in People with Obesity and HFpEF and Diabetes Mellitus (STEP-HFpEF DM) trial evaluated whether the GLP-1 RA semaglutide improves symptoms related to heart failure in people with type 2 diabetes (306).",
+      "page_number": "S236",
+      "evidence_level": "Unknown",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "People with HFpEF and obesity, and diabetes"
+    },
+    {
+      "name": "Tirzepatide",
+      "synonyms": [],
+      "source_text": "SUMMIT [A Study of Tirzepatide (LY3298176) in Participants With Heart Failure With Preserved Ejection Fraction (HFpEF) and Obesity] was a randomized, double-blind, placebo-controlled trial of tirzepatide, a dual GIP and GLP-1 RA, in individuals with established HFpEF and obesity (48% with diabetes).",
+      "page_number": "S236",
+      "evidence_level": "Unknown",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "Established HFpEF and obesity"
+    },
+    {
+      "name": "GLP-1 RA",
+      "synonyms": [],
+      "source_text": "Because of the results of these trials, treatment with a GLP-1 RA or GIP/GLP-1 RA for a reduction in heart failure events and heart failure symptoms in people with symptoms of heart failure is recommended.",
+      "page_number": "S236",
+      "evidence_level": "Unknown",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "Reduction in heart failure events and heart failure symptoms in people with symptoms of heart failure"
+    },
+    {
+      "name": "GIP/GLP-1 RA",
+      "synonyms": [],
+      "source_text": "Because of the results of these trials, treatment with a GLP-1 RA or GIP/GLP-1 RA for a reduction in heart failure events and heart failure symptoms in people with symptoms of heart failure is recommended.",
+      "page_number": "S236",
+      "evidence_level": "Unknown",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "Reduction in heart failure events and heart failure symptoms in people with symptoms of heart failure"
+    }
+  ],
+  "risk_factors": [
+    {
+      "name": "Diabetes",
+      "synonyms": [],
+      "source_text": "Diabetes itself confers independent ASCVD risk, and among people with diabetes, all major cardiovascular risk factors, including hypertension, hyperlipidemia, and obesity, are clustered and common (2).",
+      "page_number": "S216",
+      "evidence_level": "Unknown",
+      "factor_type": "Metabolic",
+      "impact_magnitude": "Independent ASCVD risk"
+    },
+    {
+      "name": "Hypertension",
+      "synonyms": [],
+      "source_text": "Diabetes itself confers independent ASCVD risk, and among people with diabetes, all major cardiovascular risk factors, including hypertension, hyperlipidemia, and obesity, are clustered and common (2).",
+      "page_number": "S216",
+      "evidence_level": "Unknown",
+      "factor_type": "Cardiovascular",
+      "impact_magnitude": "Major cardiovascular risk factor"
+    },
+    {
+      "name": "Hyperlipidemia",
+      "synonyms": [],
+      "source_text": "Diabetes itself confers independent ASCVD risk, and among people with diabetes, all major cardiovascular risk factors, including hypertension, hyperlipidemia, and obesity, are clustered and common (2).",
+      "page_number": "S216",
+      "evidence_level": "Unknown",
+      "factor_type": "Metabolic",
+      "impact_magnitude": "Major cardiovascular risk factor"
+    },
+    {
+      "name": "Obesity",
+      "synonyms": [],
+      "source_text": "Diabetes itself confers independent ASCVD risk, and among people with diabetes, all major cardiovascular risk factors, including hypertension, hyperlipidemia, and obesity, are clustered and common (2).",
+      "page_number": "S216",
+      "evidence_level": "Unknown",
+      "factor_type": "Metabolic",
+      "impact_magnitude": "Major cardiovascular risk factor"
+    },
+    {
+      "name": "Elevated blood pressure",
+      "synonyms": [],
+      "source_text": "An elevated blood pressure is defined as a systolic blood pressure 120\u2013129 mmHg with a diastolic blood pressure <80 mmHg (23).",
+      "page_number": "S216",
+      "evidence_level": "Unknown",
+      "factor_type": "Cardiovascular",
+      "impact_magnitude": "Unknown"
+    },
+    {
+      "name": "Hypertension",
+      "synonyms": [],
+      "source_text": "Hypertension is defined as a systolic blood pressure \u2265130 mmHg or a diastolic blood pressure \u226580 mmHg (23).",
+      "page_number": "S216",
+      "evidence_level": "Unknown",
+      "factor_type": "Cardiovascular",
+      "impact_magnitude": "Major risk factor for ASCVD, heart failure, and microvascular complications"
+    },
+    {
+      "name": "A1C levels",
+      "synonyms": [],
+      "source_text": "the incidence of all three conditions rises with increasing A1C levels (19).",
+      "page_number": "S216",
+      "evidence_level": "Unknown",
+      "factor_type": "Metabolic",
+      "impact_magnitude": "Increases incidence of ASCVD, heart failure, and CKD"
+    },
+    {
+      "name": "Cardiovascular risk factors",
+      "synonyms": [],
+      "source_text": "For people who are <40 years of age and/or have type 1 diabetes with other ASCVD risk factors (such as older age, hypertension, dyslipidemia, smoking, CKD, or obesity).",
+      "page_number": "S224",
+      "evidence_level": "Unknown",
+      "factor_type": "Multiple",
+      "impact_magnitude": "Increased risk"
+    },
+    {
+      "name": "Older age",
+      "synonyms": [],
+      "source_text": "For people who are <40 years of age and/or have type 1 diabetes with other ASCVD risk factors (such as older age, hypertension, dyslipidemia, smoking, CKD, or obesity).",
+      "page_number": "S224",
+      "evidence_level": "Unknown",
+      "factor_type": "Demographic",
+      "impact_magnitude": "Increased risk"
+    },
+    {
+      "name": "Hypertension",
+      "synonyms": [],
+      "source_text": "For people who are <40 years of age and/or have type 1 diabetes with other ASCVD risk factors (such as older age, hypertension, dyslipidemia, smoking, CKD, or obesity).",
+      "page_number": "S224",
+      "evidence_level": "Unknown",
+      "factor_type": "Cardiovascular",
+      "impact_magnitude": "Increased risk"
+    },
+    {
+      "name": "Dyslipidemia",
+      "synonyms": [],
+      "source_text": "For people who are <40 years of age and/or have type 1 diabetes with other ASCVD risk factors (such as older age, hypertension, dyslipidemia, smoking, CKD, or obesity).",
+      "page_number": "S224",
+      "evidence_level": "Unknown",
+      "factor_type": "Metabolic",
+      "impact_magnitude": "Increased risk"
+    },
+    {
+      "name": "Smoking",
+      "synonyms": [],
+      "source_text": "For people who are <40 years of age and/or have type 1 diabetes with other ASCVD risk factors (such as older age, hypertension, dyslipidemia, smoking, CKD, or obesity).",
+      "page_number": "S224",
+      "evidence_level": "Unknown",
+      "factor_type": "Lifestyle",
+      "impact_magnitude": "Increased risk"
+    },
+    {
+      "name": "CKD",
+      "synonyms": [
+        "Chronic kidney disease"
+      ],
+      "source_text": "For people who are <40 years of age and/or have type 1 diabetes with other ASCVD risk factors (such as older age, hypertension, dyslipidemia, smoking, CKD, or obesity).",
+      "page_number": "S224",
+      "evidence_level": "Unknown",
+      "factor_type": "Kidney",
+      "impact_magnitude": "Increased risk"
+    },
+    {
+      "name": "Obesity",
+      "synonyms": [],
+      "source_text": "For people who are <40 years of age and/or have type 1 diabetes with other ASCVD risk factors (such as older age, hypertension, dyslipidemia, smoking, CKD, or obesity).",
+      "page_number": "S224",
+      "evidence_level": "Unknown",
+      "factor_type": "Metabolic",
+      "impact_magnitude": "Increased risk"
+    },
+    {
+      "name": "Elevated triglyceride levels",
+      "synonyms": [],
+      "source_text": "Intensify lifestyle therapy and optimize glycemic management for people with diabetes with elevated triglyceride levels (\u2265150 mg/dL [\u22651.7 mmol/L]) and/or low HDL cholesterol (<40 mg/dL [<1.0 mmol/L] for men and <50 mg/dL [<1.3 mmol/L] for women). C",
+      "page_number": "S222",
+      "evidence_level": "C",
+      "factor_type": "Metabolic",
+      "impact_magnitude": "Unknown"
+    },
+    {
+      "name": "Low HDL cholesterol",
+      "synonyms": [],
+      "source_text": "Intensify lifestyle therapy and optimize glycemic management for people with diabetes with elevated triglyceride levels (\u2265150 mg/dL [\u22651.7 mmol/L]) and/or low HDL cholesterol (<40 mg/dL [<1.0 mmol/L] for men and <50 mg/dL [<1.3 mmol/L] for women). C",
+      "page_number": "S222",
+      "evidence_level": "C",
+      "factor_type": "Metabolic",
+      "impact_magnitude": "Unknown"
+    },
+    {
+      "name": "Diabetes risk factors",
+      "synonyms": [],
+      "source_text": "Several studies have reported a modestly increased risk of incident type 2 diabetes with statin use (156,157), which may be limited to those with diabetes risk factors and/or impaired glucose tolerance.",
+      "page_number": "S226",
+      "evidence_level": "Unknown",
+      "factor_type": "Multiple",
+      "impact_magnitude": "Increased risk of incident type 2 diabetes"
+    },
+    {
+      "name": "Impaired glucose tolerance",
+      "synonyms": [],
+      "source_text": "Several studies have reported a modestly increased risk of incident type 2 diabetes with statin use (156,157), which may be limited to those with diabetes risk factors and/or impaired glucose tolerance.",
+      "page_number": "S226",
+      "evidence_level": "Unknown",
+      "factor_type": "Metabolic",
+      "impact_magnitude": "Increased risk of incident type 2 diabetes"
+    },
+    {
+      "name": "History of cigarette smoking",
+      "synonyms": [],
+      "source_text": "In the PAD Awareness, Risk, and Treatment: New Resources for Survival (PARTNERS) program, 30% of people aged 50\u201369 years with a history of cigarette smoking or diabetes, or aged \u226570 years regardless of risk factors, had PAD (223).",
+      "page_number": "S230",
+      "evidence_level": "Unknown",
+      "factor_type": "Lifestyle",
+      "impact_magnitude": "Increased risk for PAD"
+    },
+    {
+      "name": "Worse glycemic management",
+      "synonyms": [],
+      "source_text": "Risk factors associated with an increased risk for PAD in people with diabetes include age, smoking, hypertension, dyslipidemia, worse glycemic management, longer duration of diabetes, neuropathy, and retinopathy as well as a prior history of CVD (226,227).",
+      "page_number": "S230",
+      "evidence_level": "Unknown",
+      "factor_type": "Metabolic",
+      "impact_magnitude": "Increased risk for PAD"
+    },
+    {
+      "name": "Longer duration of diabetes",
+      "synonyms": [],
+      "source_text": "Risk factors associated with an increased risk for PAD in people with diabetes include age, smoking, hypertension, dyslipidemia, worse glycemic management, longer duration of diabetes, neuropathy, and retinopathy as well as a prior history of CVD (226,227).",
+      "page_number": "S230",
+      "evidence_level": "Unknown",
+      "factor_type": "Demographic",
+      "impact_magnitude": "Increased risk for PAD"
+    },
+    {
+      "name": "Neuropathy",
+      "synonyms": [],
+      "source_text": "Risk factors associated with an increased risk for PAD in people with diabetes include age, smoking, hypertension, dyslipidemia, worse glycemic management, longer duration of diabetes, neuropathy, and retinopathy as well as a prior history of CVD (226,227).",
+      "page_number": "S230",
+      "evidence_level": "Unknown",
+      "factor_type": "Complication",
+      "impact_magnitude": "Increased risk for PAD"
+    },
+    {
+      "name": "Retinopathy",
+      "synonyms": [],
+      "source_text": "Risk factors associated with an increased risk for PAD in people with diabetes include age, smoking, hypertension, dyslipidemia, worse glycemic management, longer duration of diabetes, neuropathy, and retinopathy as well as a prior history of CVD (226,227).",
+      "page_number": "S230",
+      "evidence_level": "Unknown",
+      "factor_type": "Complication",
+      "impact_magnitude": "Increased risk for PAD"
+    },
+    {
+      "name": "Prior history of CVD",
+      "synonyms": [],
+      "source_text": "Risk factors associated with an increased risk for PAD in people with diabetes include age, smoking, hypertension, dyslipidemia, worse glycemic management, longer duration of diabetes, neuropathy, and retinopathy as well as a prior history of CVD (226,227).",
+      "page_number": "S230",
+      "evidence_level": "Unknown",
+      "factor_type": "Complication",
+      "impact_magnitude": "Increased risk for PAD"
+    },
+    {
+      "name": "Low bleeding risk",
+      "synonyms": [],
+      "source_text": "Combination therapy with 81 mg aspirin daily plus 2.5 mg rivaroxaban twice daily should be considered for individuals with stable coronary and/or peripheral artery disease (PAD) and low bleeding risk to prevent major adverse limb and cardiovascular events. A",
+      "page_number": "S230",
+      "evidence_level": "A",
+      "factor_type": "Unknown",
+      "impact_magnitude": "Unknown"
+    },
+    {
+      "name": "High cardiovascular risk",
+      "synonyms": [],
+      "source_text": "For people who are <40 years of age and/or have type 1 diabetes with other ASCVD risk factors (such as older age, hypertension, dyslipidemia, smoking, CKD, or obesity).",
+      "page_number": "S224",
+      "evidence_level": "Unknown",
+      "factor_type": "Unknown",
+      "impact_magnitude": "High"
+    },
+    {
+      "name": "Multiple ASCVD risk factors",
+      "synonyms": [],
+      "source_text": "For people with diabetes aged 40\u201375 years at higher cardiovascular risk, including those with one or more additional ASCVD risk factors, high-intensity statin therapy is recommended to reduce LDL cholesterol by \u226550% of baseline and to obtain an LDL cholesterol goal of <70 mg/dL (<1.8 mmol/L). A",
+      "page_number": "S222",
+      "evidence_level": "A",
+      "factor_type": "Multiple",
+      "impact_magnitude": "Higher cardiovascular risk"
+    },
+    {
+      "name": "Diabetes risk factors",
+      "synonyms": [],
+      "source_text": "In people with type 2 diabetes and established ASCVD or multiple risk factors for ASCVD, or CKD, an SGLT2 inhibitor with demonstrated cardiovascular benefit is recommended to reduce the risk of cardiovascular events. A",
+      "page_number": "S232",
+      "evidence_level": "A",
+      "factor_type": "Multiple",
+      "impact_magnitude": "Increased risk"
+    },
+    {
+      "name": "High cardiovascular risk",
+      "synonyms": [],
+      "source_text": "In people with type 2 diabetes and established ASCVD or multiple risk factors for ASCVD, or CKD, an SGLT2 inhibitor with demonstrated cardiovascular benefit is recommended to reduce the risk of cardiovascular events. A",
+      "page_number": "S232",
+      "evidence_level": "A",
+      "factor_type": "Unknown",
+      "impact_magnitude": "High"
+    },
+    {
+      "name": "High cardiovascular risk",
+      "synonyms": [],
+      "source_text": "In people with type 2 diabetes and established ASCVD or multiple risk factors for ASCVD, a GLP-1 RA with demonstrated cardiovascular benefit is recommended to reduce the risk of cardiovascular events. A",
+      "page_number": "S232",
+      "evidence_level": "A",
+      "factor_type": "Unknown",
+      "impact_magnitude": "High"
+    },
+    {
+      "name": "High cardiovascular risk",
+      "synonyms": [],
+      "source_text": "In people with type 2 diabetes and established ASCVD or multiple risk factors for ASCVD, combined therapy with an SGLT2 inhibitor with demonstrated cardiovascular benefit and a GLP-1 RA with demonstrated cardiovascular benefit may be considered for additive reduction of the risk of adverse cardiovascular and kidney events. B",
+      "page_number": "S232",
+      "evidence_level": "B",
+      "factor_type": "Unknown",
+      "impact_magnitude": "High"
+    },
+    {
+      "name": "High risk of or established cardiovascular disease",
+      "synonyms": [],
+      "source_text": "In individuals with type 2 diabetes and asymptomatic (stage B) heart failure or with high risk of or established cardiovascular disease, treatment with an SGLT inhibitor with proven heart failure prevention benefit A or a GLP-1 RA with heart failure prevention benefit B is recommended to reduce the risk of hospitalization for heart failure.",
+      "page_number": "S232",
+      "evidence_level": "Unknown",
+      "factor_type": "Unknown",
+      "impact_magnitude": "High"
+    },
+    {
+      "name": "Obesity",
+      "synonyms": [],
+      "source_text": "The Semaglutide Treatment Effect in People with Obesity and HFpEF and Diabetes Mellitus (STEP-HFpEF DM) trial evaluated whether the GLP-1 RA semaglutide improves symptoms related to heart failure in people with type 2 diabetes (306).",
+      "page_number": "S236",
+      "evidence_level": "Unknown",
+      "factor_type": "Metabolic",
+      "impact_magnitude": "Unknown"
+    },
+    {
+      "name": "Diabetes",
+      "synonyms": [],
+      "source_text": "The Semaglutide Treatment Effect in People with Obesity and HFpEF and Diabetes Mellitus (STEP-HFpEF DM) trial evaluated whether the GLP-1 RA semaglutide improves symptoms related to heart failure in people with type 2 diabetes (306).",
+      "page_number": "S236",
+      "evidence_level": "Unknown",
+      "factor_type": "Metabolic",
+      "impact_magnitude": "Unknown"
+    },
+    {
+      "name": "Obesity",
+      "synonyms": [],
+      "source_text": "SUMMIT [A Study of Tirzepatide (LY3298176) in Participants With Heart Failure With Preserved Ejection Fraction (HFpEF) and Obesity] was a randomized, double-blind, placebo-controlled trial of tirzepatide, a dual GIP and GLP-1 RA, in individuals with established HFpEF and obesity (48% with diabetes).",
+      "page_number": "S236",
+      "evidence_level": "Unknown",
+      "factor_type": "Metabolic",
+      "impact_magnitude": "Unknown"
+    },
+    {
+      "name": "Diabetes",
+      "synonyms": [],
+      "source_text": "SUMMIT [A Study of Tirzepatide (LY3298176) in Participants With Heart Failure With Preserved Ejection Fraction (HFpEF) and Obesity] was a randomized, double-blind, placebo-controlled trial of tirzepatide, a dual GIP and GLP-1 RA, in individuals with established HFpEF and obesity (48% with diabetes).",
+      "page_number": "S236",
+      "evidence_level": "Unknown",
+      "factor_type": "Metabolic",
+      "impact_magnitude": "Unknown"
+    }
+  ],
+  "referral_criteria": [
+    {
+      "name": "Referral to cardiology",
+      "synonyms": [],
+      "source_text": "\u2022 HFrEF GDMT\n\u2022 Refer to cardiology",
+      "page_number": "S234",
+      "evidence_level": "Unknown",
+      "specialist_type": "Cardiology",
+      "urgency": "Unknown",
+      "criteria": "HFrEF GDMT"
+    },
+    {
+      "name": "Referral to cardiology",
+      "synonyms": [],
+      "source_text": "\u2022 HFmrEF/HFpEF GDMT\n\u2022 Refer to cardiology",
+      "page_number": "S234",
+      "evidence_level": "Unknown",
+      "specialist_type": "Cardiology",
+      "urgency": "Unknown",
+      "criteria": "HFmrEF/HFpEF GDMT"
+    },
+    {
+      "name": "Refer to specialist with expertise in BP management",
+      "synonyms": [],
+      "source_text": "Consider addition of mineralocorticoid receptor antagonist; refer to specialist with expertise in BP management",
+      "page_number": "S220",
+      "evidence_level": "Unknown",
+      "specialist_type": "BP management specialist",
+      "urgency": "Unknown",
+      "criteria": "Not meeting goal or adverse effects using a drug from each of three classes"
+    },
+    {
+      "name": "Refer to cardiology",
+      "synonyms": [],
+      "source_text": "\u2022 \u03b2-Blocker with demonstrated benefit\n\u2022 ACEi or ARB if hypertension,\n\u2022 nsMRA, SGLT1/2i with demonstrated benefit\nNT\n\u2022 \u03b2-Blocker with demonstrated benefit\nYes\nIf CKD present, consider\n\u2022 SGLT2i or SGLT1/2i with demonstrated benefit",
+      "page_number": "S234",
+      "evidence_level": "Unknown",
+      "specialist_type": "Cardiology",
+      "urgency": "Unknown",
+      "criteria": "Individuals with diabetes and symptomatic stage C heart failure"
+    },
+    {
+      "name": "Refer to cardiology",
+      "synonyms": [],
+      "source_text": "\u2022 HFrEF GDMT\n\u2022 Refer to cardiology",
+      "page_number": "S234",
+      "evidence_level": "Unknown",
+      "specialist_type": "Cardiology",
+      "urgency": "Unknown",
+      "criteria": "HFrEF GDMT"
+    },
+    {
+      "name": "Refer to cardiology",
+      "synonyms": [],
+      "source_text": "\u2022 HFmrEF/HFpEF GDMT\n\u2022 Refer to cardiology",
+      "page_number": "S234",
+      "evidence_level": "Unknown",
+      "specialist_type": "Cardiology",
+      "urgency": "Unknown",
+      "criteria": "HFmrEF/HFpEF GDMT"
+    }
+  ],
+  "relationships": [
+    {
+      "source_entity": "Hypertension",
+      "target_entity": "Cardiovascular disease",
+      "relationship_type": "INCREASES_RISK_OF",
+      "evidence_level": "Unknown",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "Hypertension",
+      "target_entity": "Heart failure",
+      "relationship_type": "INCREASES_RISK_OF",
+      "evidence_level": "Unknown",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "Hypertension",
+      "target_entity": "Chronic kidney disease",
+      "relationship_type": "INCREASES_RISK_OF",
+      "evidence_level": "Unknown",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "Diabetes",
+      "target_entity": "Cardiovascular disease",
+      "relationship_type": "INCREASES_RISK_OF",
+      "evidence_level": "Unknown",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "Diabetes",
+      "target_entity": "Heart failure",
+      "relationship_type": "INCREASES_RISK_OF",
+      "evidence_level": "Unknown",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "Diabetes",
+      "target_entity": "Chronic kidney disease",
+      "relationship_type": "INCREASES_RISK_OF",
+      "evidence_level": "Unknown",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "A1C levels",
+      "target_entity": "Cardiovascular disease",
+      "relationship_type": "INCREASES_RISK_OF",
+      "evidence_level": "Unknown",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "A1C levels",
+      "target_entity": "Heart failure",
+      "relationship_type": "INCREASES_RISK_OF",
+      "evidence_level": "Unknown",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "A1C levels",
+      "target_entity": "Chronic kidney disease",
+      "relationship_type": "INCREASES_RISK_OF",
+      "evidence_level": "Unknown",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "Sodium\u2013glucose cotransporter (SGLT) inhibitors",
+      "target_entity": "Cardiovascular disease",
+      "relationship_type": "MANAGED_BY",
+      "evidence_level": "Unknown",
+      "conditional_context": "Type 2 diabetes"
+    },
+    {
+      "source_entity": "Sodium\u2013glucose cotransporter (SGLT) inhibitors",
+      "target_entity": "Chronic kidney disease",
+      "relationship_type": "MANAGED_BY",
+      "evidence_level": "Unknown",
+      "conditional_context": "Type 2 diabetes"
+    },
+    {
+      "source_entity": "Glucagon-like peptide 1 receptor agonists",
+      "target_entity": "Cardiovascular disease",
+      "relationship_type": "MANAGED_BY",
+      "evidence_level": "Unknown",
+      "conditional_context": "Type 2 diabetes"
+    },
+    {
+      "source_entity": "Glucagon-like peptide 1 receptor agonists",
+      "target_entity": "Chronic kidney disease",
+      "relationship_type": "MANAGED_BY",
+      "evidence_level": "Unknown",
+      "conditional_context": "Type 2 diabetes"
+    },
+    {
+      "source_entity": "ACE inhibitors",
+      "target_entity": "Hypertension",
+      "relationship_type": "MANAGED_BY",
+      "evidence_level": "Unknown",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "Angiotensin receptor blockers",
+      "target_entity": "Hypertension",
+      "relationship_type": "MANAGED_BY",
+      "evidence_level": "Unknown",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "ACE inhibitors",
+      "target_entity": "Albuminuria",
+      "relationship_type": "MANAGED_BY",
+      "evidence_level": "Unknown",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "Angiotensin receptor blockers",
+      "target_entity": "Albuminuria",
+      "relationship_type": "MANAGED_BY",
+      "evidence_level": "Unknown",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "ACE inhibitors",
+      "target_entity": "Coronary artery disease",
+      "relationship_type": "MANAGED_BY",
+      "evidence_level": "Unknown",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "Angiotensin receptor blockers",
+      "target_entity": "Coronary artery disease",
+      "relationship_type": "MANAGED_BY",
+      "evidence_level": "Unknown",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "Calcium channel blockers",
+      "target_entity": "Hypertension",
+      "relationship_type": "MANAGED_BY",
+      "evidence_level": "Unknown",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "Diuretics",
+      "target_entity": "Hypertension",
+      "relationship_type": "MANAGED_BY",
+      "evidence_level": "Unknown",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "Mineralocorticoid receptor antagonist",
+      "target_entity": "Chronic kidney disease",
+      "relationship_type": "MANAGED_BY",
+      "evidence_level": "A",
+      "conditional_context": "Type 2 diabetes and albuminuria treated with maximum tolerated doses of ACE inhibitor or ARB"
+    },
+    {
+      "source_entity": "Mineralocorticoid receptor antagonist",
+      "target_entity": "Cardiovascular disease",
+      "relationship_type": "MANAGED_BY",
+      "evidence_level": "A",
+      "conditional_context": "Type 2 diabetes and albuminuria treated with maximum tolerated doses of ACE inhibitor or ARB"
+    },
+    {
+      "source_entity": "Statin therapy",
+      "target_entity": "Cardiovascular disease",
+      "relationship_type": "MANAGED_BY",
+      "evidence_level": "A",
+      "conditional_context": "Primary prevention in people with diabetes aged 40\u201375 years without ASCVD"
+    },
+    {
+      "source_entity": "Bempedoic acid",
+      "target_entity": "Cardiovascular disease",
+      "relationship_type": "MANAGED_BY",
+      "evidence_level": "A",
+      "conditional_context": "People with diabetes intolerant to statin therapy"
+    },
+    {
+      "source_entity": "Ezetimibe",
+      "target_entity": "Cardiovascular disease",
+      "relationship_type": "MANAGED_BY",
+      "evidence_level": "B",
+      "conditional_context": "People with diabetes and ASCVD if LDL goal is not achieved on maximum tolerated statin therapy"
+    },
+    {
+      "source_entity": "PCSK9 inhibitor",
+      "target_entity": "Cardiovascular disease",
+      "relationship_type": "MANAGED_BY",
+      "evidence_level": "B",
+      "conditional_context": "People with diabetes and ASCVD if LDL goal is not achieved on maximum tolerated statin therapy"
+    },
+    {
+      "source_entity": "Icosapent ethyl",
+      "target_entity": "Cardiovascular disease",
+      "relationship_type": "MANAGED_BY",
+      "evidence_level": "B",
+      "conditional_context": "Individuals with ASCVD or other cardiovascular risk factors on a statin with managed LDL cholesterol but elevated triglycerides (150\u2013499 mg/dL [1.7\u20135.6 mmol/L])"
+    },
+    {
+      "source_entity": "Aspirin",
+      "target_entity": "Cardiovascular disease",
+      "relationship_type": "MANAGED_BY",
+      "evidence_level": "A",
+      "conditional_context": "Secondary prevention in those with diabetes and a history of ASCVD"
+    },
+    {
+      "source_entity": "Clopidogrel",
+      "target_entity": "Cardiovascular disease",
+      "relationship_type": "MANAGED_BY",
+      "evidence_level": "B",
+      "conditional_context": "Individuals with ASCVD and documented aspirin allergy"
+    },
+    {
+      "source_entity": "Rivaroxaban",
+      "target_entity": "Cardiovascular disease",
+      "relationship_type": "MANAGED_BY",
+      "evidence_level": "A",
+      "conditional_context": "Individuals with stable coronary and/or peripheral artery disease (PAD) and low bleeding risk"
+    },
+    {
+      "source_entity": "Rivaroxaban",
+      "target_entity": "Peripheral artery disease",
+      "relationship_type": "MANAGED_BY",
+      "evidence_level": "A",
+      "conditional_context": "Individuals with stable coronary and/or peripheral artery disease (PAD) and low bleeding risk"
+    },
+    {
+      "source_entity": "Finerenone",
+      "target_entity": "Chronic kidney disease",
+      "relationship_type": "MANAGED_BY",
+      "evidence_level": "A",
+      "conditional_context": "Type 2 diabetes and albuminuria treated with maximum tolerated doses of ACE inhibitor or ARB"
+    },
+    {
+      "source_entity": "Finerenone",
+      "target_entity": "Cardiovascular disease",
+      "relationship_type": "MANAGED_BY",
+      "evidence_level": "A",
+      "conditional_context": "Type 2 diabetes and albuminuria treated with maximum tolerated doses of ACE inhibitor or ARB"
+    },
+    {
+      "source_entity": "Empagliflozin",
+      "target_entity": "Cardiovascular disease",
+      "relationship_type": "MANAGED_BY",
+      "evidence_level": "Unknown",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "Canagliflozin",
+      "target_entity": "Cardiovascular disease",
+      "relationship_type": "MANAGED_BY",
+      "evidence_level": "Unknown",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "Dapagliflozin",
+      "target_entity": "Heart failure",
+      "relationship_type": "MANAGED_BY",
+      "evidence_level": "Unknown",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "SGLT2 inhibitor",
+      "target_entity": "Heart failure",
+      "relationship_type": "MANAGED_BY",
+      "evidence_level": "Unknown",
+      "conditional_context": "People with diabetes with preserved or reduced ejection fraction"
+    },
+    {
+      "source_entity": "Spironolactone",
+      "target_entity": "Heart failure with reduced ejection fraction",
+      "relationship_type": "MANAGED_BY",
+      "evidence_level": "Unknown",
+      "conditional_context": "People with HFrEF (ejection fraction \u226440%) and type 2 diabetes"
+    },
+    {
+      "source_entity": "Eplerenone",
+      "target_entity": "Heart failure with reduced ejection fraction",
+      "relationship_type": "MANAGED_BY",
+      "evidence_level": "Unknown",
+      "conditional_context": "People with HFrEF (ejection fraction \u226440%) and type 2 diabetes"
+    },
+    {
+      "source_entity": "Finerenone",
+      "target_entity": "Heart failure",
+      "relationship_type": "MANAGED_BY",
+      "evidence_level": "Unknown",
+      "conditional_context": "Symptomatic HFpEF (ejection fraction \u226540%)"
+    },
+    {
+      "source_entity": "Finerenone",
+      "target_entity": "Chronic kidney disease",
+      "relationship_type": "MANAGED_BY",
+      "evidence_level": "Unknown",
+      "conditional_context": "Type 2 diabetes and CKD with albuminuria treated with maximum tolerated doses of ACE inhibitor or ARB"
+    },
+    {
+      "source_entity": "Semaglutide",
+      "target_entity": "Heart failure",
+      "relationship_type": "MANAGED_BY",
+      "evidence_level": "Unknown",
+      "conditional_context": "People with HFpEF and obesity, and diabetes"
+    },
+    {
+      "source_entity": "Tirzepatide",
+      "target_entity": "Heart failure",
+      "relationship_type": "MANAGED_BY",
+      "evidence_level": "Unknown",
+      "conditional_context": "Established HFpEF and obesity"
+    },
+    {
+      "source_entity": "GLP-1 RA",
+      "target_entity": "Heart failure",
+      "relationship_type": "MANAGED_BY",
+      "evidence_level": "Unknown",
+      "conditional_context": "Reduction in heart failure events and heart failure symptoms in people with symptoms of heart failure"
+    },
+    {
+      "source_entity": "GIP/GLP-1 RA",
+      "target_entity": "Heart failure",
+      "relationship_type": "MANAGED_BY",
+      "evidence_level": "Unknown",
+      "conditional_context": "Reduction in heart failure events and heart failure symptoms in people with symptoms of heart failure"
+    },
+    {
+      "source_entity": "Blood pressure measurement",
+      "target_entity": "Hypertension",
+      "relationship_type": "DETECTED_BY",
+      "evidence_level": "Unknown",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "Lipid profile",
+      "target_entity": "Hyperlipidemia",
+      "relationship_type": "DETECTED_BY",
+      "evidence_level": "Unknown",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "Ankle-brachial index testing",
+      "target_entity": "Peripheral artery disease",
+      "relationship_type": "DETECTED_BY",
+      "evidence_level": "B",
+      "conditional_context": "Asymptomatic individuals with diabetes and age \u226565 years, microvascular disease in any location, or foot complications or any end-organ damage from diabetes, if a PAD diagnosis would change management"
+    },
+    {
+      "source_entity": "Natriuretic peptide measurement",
+      "target_entity": "Heart failure",
+      "relationship_type": "DETECTED_BY",
+      "evidence_level": "Unknown",
+      "conditional_context": "Adults with diabetes"
+    },
+    {
+      "source_entity": "Echocardiography",
+      "target_entity": "Heart failure",
+      "relationship_type": "DETECTED_BY",
+      "evidence_level": "A",
+      "conditional_context": "Asymptomatic individuals with diabetes and abnormal natriuretic peptide levels"
+    },
+    {
+      "source_entity": "Coronary artery calcium measurement",
+      "target_entity": "Cardiovascular disease",
+      "relationship_type": "DETECTED_BY",
+      "evidence_level": "Unknown",
+      "conditional_context": "Adults with diabetes \u226540 years of age for cardiovascular risk assessment"
+    },
+    {
+      "source_entity": "ACE inhibitors",
+      "target_entity": "Hyperkalemia",
+      "relationship_type": "REQUIRES_MONITORING",
+      "evidence_level": "Unknown",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "Angiotensin receptor blockers",
+      "target_entity": "Hyperkalemia",
+      "relationship_type": "REQUIRES_MONITORING",
+      "evidence_level": "Unknown",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "Mineralocorticoid receptor antagonist",
+      "target_entity": "Hyperkalemia",
+      "relationship_type": "REQUIRES_MONITORING",
+      "evidence_level": "Unknown",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "Diuretics",
+      "target_entity": "Hyperkalemia",
+      "relationship_type": "REQUIRES_MONITORING",
+      "evidence_level": "Unknown",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "ACE inhibitors",
+      "target_entity": "Acute kidney injury",
+      "relationship_type": "REQUIRES_MONITORING",
+      "evidence_level": "Unknown",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "Angiotensin receptor blockers",
+      "target_entity": "Acute kidney injury",
+      "relationship_type": "REQUIRES_MONITORING",
+      "evidence_level": "Unknown",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "Mineralocorticoid receptor antagonist",
+      "target_entity": "Acute kidney injury",
+      "relationship_type": "REQUIRES_MONITORING",
+      "evidence_level": "Unknown",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "Diuretics",
+      "target_entity": "Acute kidney injury",
+      "relationship_type": "REQUIRES_MONITORING",
+      "evidence_level": "Unknown",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "Referral to cardiology",
+      "target_entity": "Heart failure with reduced ejection fraction",
+      "relationship_type": "TRIGGERS_REFERRAL",
+      "evidence_level": "Unknown",
+      "conditional_context": "HFrEF GDMT"
+    },
+    {
+      "source_entity": "Referral to cardiology",
+      "target_entity": "Heart failure with mildly reduced or preserved ejection fraction",
+      "relationship_type": "TRIGGERS_REFERRAL",
+      "evidence_level": "Unknown",
+      "conditional_context": "HFmrEF/HFpEF GDMT"
+    },
+    {
+      "source_entity": "Refer to specialist with expertise in BP management",
+      "target_entity": "Hypertension",
+      "relationship_type": "TRIGGERS_REFERRAL",
+      "evidence_level": "Unknown",
+      "conditional_context": "Not meeting goal or adverse effects using a drug from each of three classes"
+    },
+    {
+      "source_entity": "Refer to cardiology",
+      "target_entity": "Heart failure",
+      "relationship_type": "TRIGGERS_REFERRAL",
+      "evidence_level": "Unknown",
+      "conditional_context": "Individuals with diabetes and symptomatic stage C heart failure"
+    }
+  ]
+}

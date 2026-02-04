@@ -1,0 +1,34 @@
+{
+  "filename": "ada_glycemic_hypoglycemia.pdf",
+  "category": "assessment_diagnosis",
+  "title": "Glycemic Goals and Hypoglycemia",
+  "focus": "A1C targets, Time in Range goals, hypoglycemia protocols",
+  "source_chapters": [
+    2,
+    4,
+    6
+  ],
+  "entity_types": [
+    "Diagnostic_Test",
+    "Condition",
+    "Metric_Value",
+    "Screening_Frequency",
+    "Target_Goal",
+    "Patient_Profile"
+  ],
+  "relationship_types": [
+    "DIAGNOSES_CONDITION_AT_VALUE",
+    "REQUIRES_SCREENING",
+    "HAS_DEFAULT_TARGET",
+    "DEFINED_BY"
+  ],
+  "extraction_priority": [
+    "Differentiate between 'Diagnosis' criteria and 'Goal' criteria",
+    "Link A1C targets to specific patient profiles",
+    "Extract exact numeric values with units",
+    "Capture screening frequencies with temporal context"
+  ],
+  "chunks_extracted": 1,
+  "total_characters": 114582,
+  "processed_at": "2026-02-04T13:58:16.766314"
+}

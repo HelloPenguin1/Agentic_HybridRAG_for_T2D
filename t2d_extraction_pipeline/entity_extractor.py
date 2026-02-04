@@ -30,12 +30,20 @@ class LLMExtractor:
     5. **No Hallucinations**: Do not use outside medical knowledge. Only extract what is present in the provided text.
     6. **No Nulls**: If you cannot find a snippet, use an empty string ""—NEVER use null or None.
     7. **Markdown Table Parsing**: The input text is in Markdown format. Pay special attention to Markdown tables (denoted by | separators) for medication dosages, screening thresholds, and diagnostic criteria, as these contain the most critical clinical data.
+    8. **OUTPUT CONSTRAINTS - CRITICAL**: 
+       - Extract a MAXIMUM of 50 entities per entity type (e.g., max 50 medications, max 50 complications)
+       - Extract a MAXIMUM of 30 relationships
+       - PRIORITIZE the most clinically significant entities (evidence level A/B, specific numeric targets, FDA-approved medications)
+       - SKIP generic/redundant entities (e.g., don't extract "Type 2 Diabetes" 10 times, extract it once)
+       - Focus on ACTIONABLE clinical knowledge (specific dosages, screening frequencies, contraindications)
 
     ### EXTRACTION WORKFLOW:
     Step 1: Scan the text for clinical entities matching the requested schema.
-    Step 2: Identify the exact 'source_text' snippet for each entity.
-    Step 3: Map the entity to the most appropriate category. If it doesn't fit a specific category, use "Other" or "Unknown" as defined in the schema.
-    Step 4: Formulate the JSON response ensuring all Pydantic types (floats, literals, lists) are strictly followed.
+    Step 2: RANK entities by clinical significance (evidence level, specificity, actionability)
+    Step 3: Select TOP entities up to the maximum limits
+    Step 4: Identify the exact 'source_text' snippet for each selected entity.
+    Step 5: Map the entity to the most appropriate category. If it doesn't fit a specific category, use "Other" or "Unknown" as defined in the schema.
+    Step 6: Formulate the JSON response ensuring all Pydantic types (floats, literals, lists) are strictly followed.
 
     ### SCHEMA ADHERENCE:
     - If a numeric 'value' is expected but only a range is given, use the 'range' comparator and specify 'upper_bound'.
@@ -57,7 +65,8 @@ class LLMExtractor:
         self.model = "gemini-2.5-flash-lite"  # 1M token context, 1000 RPD free tier
         
         # Rate limiting: 15 RPM (requests per minute)
-        self.min_request_interval = 4.0  # 60s / 15 = 4s between requests
+        # Using 6s interval to avoid burst protection (10 requests/min instead of 15)
+        self.min_request_interval = 6.0  # Conservative rate to prevent 429 errors
         self.last_request_time = 0
 
     async def _rate_limit_wait(self):
@@ -109,7 +118,8 @@ class LLMExtractor:
                     contents=full_prompt,
                     config={
                         'response_mime_type': 'application/json',
-                        'temperature': 0
+                        'temperature': 0,
+                        'max_output_tokens': 8192  # Reduced from 16384 - output now constrained by prompt limits
                     }
                 )
                 

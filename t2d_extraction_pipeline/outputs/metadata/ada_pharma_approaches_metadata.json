@@ -1,0 +1,36 @@
+{
+  "filename": "ada_pharma_approaches.pdf",
+  "category": "pharmacology_technology",
+  "title": "Pharmacologic Approaches to Glycemic Treatment",
+  "focus": "Medication selection algorithms, insulin titration, drug combinations",
+  "source_chapters": [
+    7,
+    9
+  ],
+  "entity_types": [
+    "Medication_Class",
+    "Active_Ingredient",
+    "Device",
+    "Clinical_Indication",
+    "Adverse_Event",
+    "Administration",
+    "Dosage"
+  ],
+  "relationship_types": [
+    "CONTAINS_INGREDIENT",
+    "IS_TREATED_BY_PREFERRED",
+    "HAS_RISK",
+    "REQUIRES_EDUCATION_ON",
+    "CONTRAINDICATED_WITH",
+    "TITRATED_BY"
+  ],
+  "extraction_priority": [
+    "Prioritize Comorbidity-First logic (ASCVD \u00e2\u2020\u2019 GLP-1/SGLT2)",
+    "Capture eGFR cutoffs for medication dosing",
+    "Extract injection techniques and lipohypertrophy prevention",
+    "Map CGM metrics to clinical decisions"
+  ],
+  "chunks_extracted": 1,
+  "total_characters": 193385,
+  "processed_at": "2026-02-04T13:58:16.776200"
+}
