@@ -210,6 +210,17 @@ GENERAL_EXTRACTION_INSTRUCTIONS = """
 9. **Patient Populations:** Always specify which patient population a guideline applies to when mentioned.
 
 10. **Temporal Information:** Capture timing information (e.g., "annually", "every 3-5 years", "at diagnosis").
+
+11. **Relationship Density:** Extract approximately 1 relationship per entity. If you extract 20 entities, aim for 15-25 relationships.
+
+12. **Mandatory Connections:** Before finalizing, scan your entity list:
+    - Every Test → Must link to a Condition (DETECTED_BY)
+    - Every Drug → Must link to a Condition (MANAGED_BY)
+    - Every Complication → Must link to a Test or Risk Factor
+    
+13. **Context is Mandatory:** NEVER leave conditional_context empty. Use "General population" if no specific condition is stated.
+
+14. **Interconnect Entities:** The goal is a CONNECTED graph, not isolated nodes. Force connections between related entities.
 """
 
 # ============================================================================
