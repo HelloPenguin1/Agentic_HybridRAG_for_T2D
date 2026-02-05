@@ -1,0 +1,214 @@
+# T2D Clinical Guidelines - Metadata Schema for PDF Categorization
+# Based on ADA Standards of Care Documentation
+
+categories:
+  
+  # ============================================================================
+  # CATEGORY 1: Assessment and Diagnosis  
+  # ============================================================================
+  assessment_diagnosis:
+    description: "Diagnostic criteria, screening schedules, and quantitative goals"
+    folders: ["01_Assessment_Diagnosis"]
+    source_chapters: [2, 4, 6]
+    
+    pdf_mappings:
+      - filename: "ada_chapter2.pdf"
+        title: "Diagnosis and Classification"
+        focus: "Laboratory criteria for diagnosing diabetes and prediabetes"
+        
+      - filename: "ada_chapter4.pdf"
+        title: "Comprehensive Medical Evaluation"
+        focus: "Initial/follow-up visit checklists, immunization, comorbidity screening"
+        
+      - filename: "ada_glycemic_hypoglycemia.pdf"
+        title: "Glycemic Goals and Hypoglycemia"
+        focus: "A1C targets, Time in Range goals, hypoglycemia protocols"
+    
+    entity_types:
+      - Diagnostic_Test
+      - Condition
+      - Metric_Value
+      - Screening_Frequency
+      - Target_Goal
+      - Patient_Profile
+    
+    relationship_types:
+      - DIAGNOSES_CONDITION_AT_VALUE
+      - REQUIRES_SCREENING
+      - HAS_DEFAULT_TARGET
+      - DEFINED_BY
+    
+    extraction_priority:
+      - "Differentiate between 'Diagnosis' criteria and 'Goal' criteria"
+      - "Link A1C targets to specific patient profiles"
+      - "Extract exact numeric values with units"
+      - "Capture screening frequencies with temporal context"
+
+  # ============================================================================
+  # CATEGORY 2: Patient Education and Lifestyle
+  # ============================================================================
+  patient_education_lifestyle:
+    description: "Behavioral interventions, nutrition, and social determinants"
+    folders: ["02_Education_Lifestyle"]
+    source_chapters: [1, 3, 5, 8, 17]
+    
+    pdf_mappings:
+      - filename: "ada_chapter3.pdf"
+        title: "Prevention or Delay of T2D"
+        focus: "Prediabetes management, DPP, Metformin for prevention"
+        
+      - filename: "ada_fascilitating_pos_behaviors.pdf"
+        title: "Health Behaviors and Psychosocial Care"
+        focus: "DSMES, nutrition therapy, physical activity, mental health"
+        
+      - filename: "ada_obesity_and_weight.pdf"
+        title: "Obesity and Weight Management"
+        focus: "BMI assessment, weight loss medications, bariatric surgery"
+        
+      - filename: "ada_chapter1.pdf"
+        title: "Improving Care and Social Determinants"
+        focus: "SDOH, food insecurity, health literacy, community health workers"
+        
+      - filename: "ada_chapter17.pdf"
+        title: "Diabetes Advocacy"
+        focus: "Legal rights, employment, driving regulations, school advocacy"
+    
+    entity_types:
+      - Intervention
+      - Behavior
+      - Social_Determinant
+      - Outcome
+      - Screening_Tool
+    
+    relationship_types:
+      - RECOMMENDS_BEHAVIOR
+      - IMPROVES
+      - BARRIER_TO
+      - ASSESSES
+    
+    extraction_priority:
+      - "Link Metabolic Surgery to BMI criteria"
+      - "Link DSMES to four critical times"
+      - "Capture diet types with specific recommendations"
+      - "Extract mental health screening tools and thresholds"
+
+  # ============================================================================
+  # CATEGORY 3: Pharmacology and Technology
+  # ============================================================================
+  pharmacology_technology:
+    description: "Medication algorithms, device indications, and titration protocols"
+    folders: ["03_Pharmacology_Technology"]
+    source_chapters: [7, 9]
+    
+    pdf_mappings:
+      - filename: "ada_pharma_approaches.pdf"
+        title: "Pharmacologic Approaches to Glycemic Treatment"
+        focus: "Medication selection algorithms, insulin titration, drug combinations"
+        
+      - filename: "ada_chapter7.pdf"
+        title: "Diabetes Technology"
+        focus: "CGM, insulin pumps, AID systems, connected pens"
+    
+    entity_types:
+      - Medication_Class
+      - Active_Ingredient
+      - Device
+      - Clinical_Indication
+      - Adverse_Event
+      - Administration
+      - Dosage
+    
+    relationship_types:
+      - CONTAINS_INGREDIENT
+      - IS_TREATED_BY_PREFERRED
+      - HAS_RISK
+      - REQUIRES_EDUCATION_ON
+      - CONTRAINDICATED_WITH
+      - TITRATED_BY
+    
+    extraction_priority:
+      - "Prioritize Comorbidity-First logic (ASCVD → GLP-1/SGLT2)"
+      - "Capture eGFR cutoffs for medication dosing"
+      - "Extract injection techniques and lipohypertrophy prevention"
+      - "Map CGM metrics to clinical decisions"
+
+  # ============================================================================
+  # CATEGORY 4: Complications Management
+  # ============================================================================
+  complications_management:
+    description: "CVD, CKD, retinopathy, neuropathy, and foot care protocols"
+    folders: ["04_Complications"]
+    source_chapters: [10, 11, 12]
+    
+    pdf_mappings:
+      - filename: "ada_cardio_disease_manag.pdf"
+        title: "Cardiovascular Disease and Risk Management"
+        focus: "BP targets, statin therapy, SGLT2/GLP-1 for cardio benefit"
+        
+      - filename: "ada_chronic_kidney_manag.pdf"
+        title: "Chronic Kidney Disease Management"
+        focus: "eGFR/UACR screening, renal-protective drugs, protein restriction"
+        
+      - filename: "ada_retino_neuro_footcare.pdf"
+        title: "Retinopathy, Neuropathy, and Foot Care"
+        focus: "Eye exam schedules, neuropathy treatments, foot ulcer prevention"
+    
+    entity_types:
+      - Complication
+      - Screening_Test
+      - Therapeutic_Agent
+      - Risk_Factor
+      - Referral_Criteria
+    
+    relationship_types:
+      - DETECTED_BY
+      - MANAGED_BY
+      - INCREASES_RISK_OF
+      - REQUIRES_MONITORING
+      - TRIGGERS_REFERRAL
+    
+    extraction_priority:
+      - "Map CKD Heat Map logic (eGFR + Albuminuria stages)"
+      - "Extract BP targets with patient profile context"
+      - "Capture monofilament testing and foot care protocols"
+      - "Link cardiovascular risk to medication choices"
+
+  # ============================================================================
+  # CATEGORY 5: Special Populations
+  # ============================================================================
+  special_populations:
+    description: "Exception rules for children, older adults, and pregnancy"
+    folders: ["05_Special_Populations"]
+    source_chapters: [13, 14, 15]
+    
+    pdf_mappings:
+      - filename: "ada_children_adolescents_standards.pdf"
+        title: "Children and Adolescents"
+        focus: "Pediatric A1C targets, school care plans, transition to adult care"
+        
+      - filename: "ada_chapter13.pdf"
+        title: "Older Adults"
+        focus: "Deintensification, relaxed targets, frailty assessment"
+        
+      - filename: "ada_chapter15.pdf"
+        title: "Management of Diabetes in Pregnancy"
+        focus: "GDM, strict physiological targets, safe medications"
+    
+    entity_types:
+      - Population_Segment
+      - Specific_Goal
+      - Allowed_Medication
+      - Contraindicated_Medication
+      - Age_Range
+    
+    relationship_types:
+      - HAS_TARGET_OVERRIDE
+      - CAN_USE_MEDICATION
+      - MUST_AVOID_MEDICATION
+      - REQUIRES_DEINTENSIFICATION_IF
+    
+    extraction_priority:
+      - "Identify target overrides (e.g., A1C <8.0% for elderly)"
+      - "Extract pregnancy-specific glucose targets (Fasting <95 mg/dL)"
+      - "Capture medication safety profiles by population"
+      - "Link frailty/cognitive status to treatment decisions"
