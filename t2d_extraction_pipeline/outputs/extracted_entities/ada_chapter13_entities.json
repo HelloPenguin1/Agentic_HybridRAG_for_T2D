@@ -1,0 +1,177 @@
+{
+  "population_segments": [
+    {
+      "name": "Older adults with few and stable coexisting chronic illnesses, and intact cognitive and functional status",
+      "synonyms": [],
+      "source_text": "Older adults with diabetes with few and stable coexisting chronic illnesses, and intact cognitive and functional status, should have lower glycemic goals (such as A1C <7.0\u20137.5% [53\u201358 mmol/mol]) and/or time in range [TIR] 70\u2013180 mg/dL [3.9\u201310.0 mmol/L] of \u226570% and time below range \u226470 mg/dL [\u22643.9 mmol/L] of \u22644%) if CGM is used.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "population_type": "Unknown",
+      "age_range": null,
+      "defining_characteristics": [
+        "few and stable coexisting chronic illnesses",
+        "intact cognitive and functional status"
+      ]
+    },
+    {
+      "name": "Older adults with diabetes and intermediate or complex health",
+      "synonyms": [],
+      "source_text": "Older adults with diabetes and intermediate or complex health are clinically heterogeneous with variable life expectancy. Selection of glycemic goals should be individualized and should prioritize avoidance of hypoglycemia, with less stringent goals (such as A1C <8.0% [64 mmol/mol] and/or TIR 70\u2013180 mg/dL [3.9\u201310.0 mmol/L] of \u226550% and time below range).",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "population_type": "Unknown",
+      "age_range": null,
+      "defining_characteristics": [
+        "intermediate or complex health",
+        "variable life expectancy"
+      ]
+    },
+    {
+      "name": "Older adults with shorter life expectancy, advanced diabetes complications, life-limiting comorbid illnesses, frailty, or substantial cognitive or functional impairments",
+      "synonyms": [],
+      "source_text": "Based on concepts of competing mortality and time to benefit, individuals with shorter life expectancy, advanced diabetes complications, life-limiting comorbid illnesses, frailty, or substantial cognitive or functional impairments will have less benefit from glucose lowering and should have less stringent glycemic goals (72).",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "population_type": "Unknown",
+      "age_range": null,
+      "defining_characteristics": [
+        "shorter life expectancy",
+        "advanced diabetes complications",
+        "life-limiting comorbid illnesses",
+        "frailty",
+        "substantial cognitive or functional impairments"
+      ]
+    },
+    {
+      "name": "Older adults at the end of life",
+      "synonyms": [],
+      "source_text": "For people with diabetes receiving palliative care and end-of-life care, the focus should be to avoid hypoglycemia and symptomatic hyperglycemia while reducing the burdens of glycemic management.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "population_type": "Unknown",
+      "age_range": null,
+      "defining_characteristics": [
+        "receiving palliative care",
+        "end-of-life care"
+      ]
+    },
+    {
+      "name": "Older adults with type 1 diabetes on insulin therapy",
+      "synonyms": [],
+      "source_text": "Recommend continuous glucose monitoring (CGM) for older adults with type 1 diabetes A and type 2 diabetes on insulin therapy B to improve glycemic outcomes, reduce hypoglycemia, and reduce treatment burden.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "population_type": "Unknown",
+      "age_range": null,
+      "defining_characteristics": [
+        "type 1 diabetes",
+        "on insulin therapy"
+      ]
+    },
+    {
+      "name": "Older adults with type 2 diabetes on insulin therapy",
+      "synonyms": [],
+      "source_text": "Recommend continuous glucose monitoring (CGM) for older adults with type 1 diabetes A and type 2 diabetes on insulin therapy B to improve glycemic outcomes, reduce hypoglycemia, and reduce treatment burden.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "population_type": "Unknown",
+      "age_range": null,
+      "defining_characteristics": [
+        "type 2 diabetes",
+        "on insulin therapy"
+      ]
+    },
+    {
+      "name": "Older adults with type 2 diabetes, overweight or obesity, and the capacity to exercise safely",
+      "synonyms": [],
+      "source_text": "For older adults with type 2 diabetes, overweight or obesity, and the capacity to exercise safely, an intensive lifestyle intervention focused on dietary changes, physical activity, and weight loss (e.g., 5\u20137%) should be considered for its benefits on quality of life, mobility and physical functioning, and cardiometabolic risk. A",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "population_type": "Unknown",
+      "age_range": null,
+      "defining_characteristics": [
+        "type 2 diabetes",
+        "overweight or obesity",
+        "capacity to exercise safely"
+      ]
+    },
+    {
+      "name": "Older adults with type 2 diabetes with hypoglycemia risk factors",
+      "synonyms": [],
+      "source_text": "Select medications with low risk of hypoglycemia in older adults with type 2 diabetes, specifically for those with hypoglycemia risk factors. B",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "population_type": "Unknown",
+      "age_range": null,
+      "defining_characteristics": [
+        "type 2 diabetes",
+        "hypoglycemia risk factors"
+      ]
+    },
+    {
+      "name": "Older adults with type 2 diabetes and established or high risk of atherosclerotic cardiovascular disease, heart failure, and/or chronic kidney disease",
+      "synonyms": [],
+      "source_text": "In older adults with type 2 diabetes and established or high risk of atherosclerotic cardiovascular disease, heart failure, and/or chronic kidney disease, the treatment plan should include agents that reduce cardiovascular and kidney disease risk, irrespective of glycemia. A",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "population_type": "Unknown",
+      "age_range": null,
+      "defining_characteristics": [
+        "type 2 diabetes",
+        "established or high risk of atherosclerotic cardiovascular disease",
+        "heart failure",
+        "chronic kidney disease"
+      ]
+    },
+    {
+      "name": "Older adults with diabetes in PALTC settings",
+      "synonyms": [],
+      "source_text": "Older adults with diabetes in PALTC are especially vulnerable to hypoglycemia. They have a disproportionately high number of health conditions that can increase hypoglycemia risk: impaired cognitive and renal function, slowed hormonal regulation and counter-regulation, suboptimal hydration, variable appetite and nutritional intake, requirement for feeding assistance, polypharmacy, and slowed intestinal absorption (166).",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "population_type": "Unknown",
+      "age_range": null,
+      "defining_characteristics": [
+        "residing in PALTC settings"
+      ]
+    },
+    {
+      "name": "Older adults with diabetes",
+      "synonyms": [],
+      "source_text": "Diabetes management in older adults requires regular assessment of medical, psychological, functional, and social domains.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "population_type": "Unknown",
+      "age_range": null,
+      "defining_characteristics": [
+        "older adults"
+      ]
+    },
+    {
+      "name": "Adults 65 years of age or older",
+      "synonyms": [],
+      "source_text": "Screening for early detection of mild cognitive impairment or dementia should be performed for adults 65 years of age or older at the initial visit, annually, and as appropriate. B",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "population_type": "Unknown",
+      "age_range": "65 years or older",
+      "defining_characteristics": []
+    }
+  ],
+  "specific_goals": [
+    {
+      "name": "Glycemic goals for older adults with few and stable coexisting chronic illnesses, and intact cognitive and functional status",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "goal_parameter": "A1C",
+      "target_value": "<7.0\u20137.5%",
+      "rationale": "lower glycemic goals for older adults with few and stable coexisting chronic illnesses, and intact cognitive and functional status, if CGM is used. B. ADA Evidence Level B. The ADA \"Standards of Care in Diabetes\" includes the ADA\u2019s current clinical practice recommendations and is intended to provide the components of diabetes care, general treatment goals and guidelines, and tools to evaluate quality of care. Members of the ADA Professional Practice Committee for Diabetes, an interprofessional expert committee, are responsible for updating the Standards of Care annually, or more frequently as warranted. For a detailed description of ADA standards, statements, and reports, as well as the evidence-grading system for ADA\u2019s clinical practice recommendations and a full list of Professional Practice Committee members, please refer to Introduction and Methodology. Readers who wish to comment on the Standards of Care are invited to do so at professional.diabetes.org/SOC. A complete list of members of the American Diabetes Association Professional Practice Committee for Diabetes can be found at https://doi.org/10.2337/dc26-SINT. This section has received endorsement from the American Geriatrics Society. Duality of interest information for each contributor is available at https://doi.org/10.2337/dc26-SDIS. Suggested citation: American Diabetes Association Professional Practice Committee for Diabetes. 13. Older adults: Standards of Care in Diabetes\u20142026. Diabetes Care 2026;49(Suppl. 1):S277\u2013S296 \u00a9 2025 by the American Diabetes Association. Readers may use this work for educational, noncommercial purposes if properly cited and unaltered. The version of record may be linked at https://diabetesjournals.org/care, but ADA permission is required to post this work on any third-party site or platform. This publication and its contents may not be reproduced, distributed, or used for text or data mining, machine learning, or similar technologies without prior written permission. Requests to reuse, adapt, or distribute this work may be sent to permissions@diabetes.org. More information is available at https://diabetesjournals.org/journals/pages/license. 2026 February 01 on guest by http://diabetesjournals.org/care/article-pdf/49/Supplement_1/S277/848834/dc26s013.pdf from Downloaded diabetesjournals.org/care Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume 49, Supplement 1, January 2026 Older Adults Diabetes Care Volume"
+    }
+  ],
+  "allowed_medications": [],
+  "contraindicated_medications": [],
+  "age_ranges": [],
+  "relationships": []
+}

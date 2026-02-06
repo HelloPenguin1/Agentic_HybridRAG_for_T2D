@@ -1,0 +1,413 @@
+{
+  "population_segments": [
+    {
+      "name": "Children and adolescents with diabetes",
+      "synonyms": [],
+      "source_text": "The management of diabetes in children and adolescents cannot simply be derived from care routinely provided to adults with diabetes.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "population_type": "Unknown",
+      "age_range": null,
+      "defining_characteristics": [
+        "Pediatric population"
+      ]
+    },
+    {
+      "name": "Children and adolescents with type 1 diabetes",
+      "synonyms": [],
+      "source_text": "There are also differences in recommended care for children and adolescents with type 1 diabetes, type 2 diabetes, and other forms of diabetes.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "population_type": "Unknown",
+      "age_range": null,
+      "defining_characteristics": [
+        "Pediatric population",
+        "Type 1 diabetes"
+      ]
+    },
+    {
+      "name": "Children and adolescents with type 2 diabetes",
+      "synonyms": [],
+      "source_text": "There are also differences in recommended care for children and adolescents with type 1 diabetes, type 2 diabetes, and other forms of diabetes.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "population_type": "Unknown",
+      "age_range": null,
+      "defining_characteristics": [
+        "Pediatric population",
+        "Type 2 diabetes"
+      ]
+    },
+    {
+      "name": "Children and adolescents with overweight or obesity with clinical suspicion of type 2 diabetes",
+      "synonyms": [],
+      "source_text": "New-Onset Diabetes in Children and Adolescents with Overweight or Obesity with Clinical Suspicion of Type 2 Diabetes",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "population_type": "Unknown",
+      "age_range": null,
+      "defining_characteristics": [
+        "Pediatric population",
+        "Type 2 diabetes",
+        "Overweight or obesity"
+      ]
+    },
+    {
+      "name": "Children and adolescents with diabetes who cannot articulate symptoms of hypoglycemia",
+      "synonyms": [],
+      "source_text": "Less stringent A1C goals (such as <7% [&#x3C;53 mmol/mol] or <7.5% [&#x3C;58 mmol/mol]) may be appropriate for children and adolescents with diabetes who cannot articulate symptoms of hypoglycemia; have hypoglycemia unawareness; cannot access advanced insulin delivery technology and/or CGM; cannot check blood glucose regularly; or have nonglycemic factors that increase A1C.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "population_type": "Unknown",
+      "age_range": null,
+      "defining_characteristics": [
+        "Pediatric population",
+        "Hypoglycemia unawareness"
+      ]
+    },
+    {
+      "name": "Children and adolescents with diabetes and a history of severe hypoglycemia",
+      "synonyms": [],
+      "source_text": "Even less stringent A1C goals may be appropriate for children and adolescents with diabetes and a history of severe hypoglycemia or limited life expectancy or where the harms of.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "population_type": "Unknown",
+      "age_range": null,
+      "defining_characteristics": [
+        "Pediatric population",
+        "History of severe hypoglycemia"
+      ]
+    },
+    {
+      "name": "Children and adolescents with diabetes and limited life expectancy",
+      "synonyms": [],
+      "source_text": "Even less stringent A1C goals may be appropriate for children and adolescents with diabetes and a history of severe hypoglycemia or limited life expectancy or where the harms of.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "population_type": "Unknown",
+      "age_range": null,
+      "defining_characteristics": [
+        "Pediatric population",
+        "Limited life expectancy"
+      ]
+    },
+    {
+      "name": "Young children (aged <6 years) with diabetes",
+      "synonyms": [],
+      "source_text": "special consideration should be given to the risk of hypoglycemia in young children (aged <6 years) who are often unable to recognize, articulate, and/or manage hypoglycemia.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "population_type": "Unknown",
+      "age_range": null,
+      "defining_characteristics": [
+        "Pediatric population",
+        "Age < 6 years"
+      ]
+    },
+    {
+      "name": "Adolescents with type 2 diabetes and polycystic ovary syndrome",
+      "synonyms": [],
+      "source_text": "In adolescents with type 2 diabetes and polycystic ovary syndrome, oral contraceptives are appropriate agents.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "population_type": "Unknown",
+      "age_range": null,
+      "defining_characteristics": [
+        "Pediatric population",
+        "Type 2 diabetes",
+        "Polycystic ovary syndrome"
+      ]
+    },
+    {
+      "name": "Adolescents with type 2 diabetes who have class 2 obesity or higher",
+      "synonyms": [],
+      "source_text": "Consider metabolic surgery for the treatment of adolescents with type 2 diabetes who have class 2 obesity or higher (BMI 35 to <40 kg/m\u00b2 or 120% to <140% percentile for age and sex, whichever is lower) and who have elevated A1C and/or serious co-morbidities despite lifestyle and pharmacologic intervention.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "population_type": "Unknown",
+      "age_range": null,
+      "defining_characteristics": [
+        "Pediatric population",
+        "Type 2 diabetes",
+        "Class 2 obesity or higher"
+      ]
+    },
+    {
+      "name": "Adolescents with type 2 diabetes with BMI 40 kg/m\u00b2 or higher",
+      "synonyms": [],
+      "source_text": "Metabolic surgery for adolescents with type 2 diabetes should be considered for those with BMI 40 kg/m\u00b2 or higher with or without comorbidities.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "population_type": "Unknown",
+      "age_range": null,
+      "defining_characteristics": [
+        "Pediatric population",
+        "Type 2 diabetes",
+        "BMI 40 kg/m\u00b2 or higher"
+      ]
+    },
+    {
+      "name": "Children and adolescents with diabetes using insulin therapy",
+      "synonyms": [],
+      "source_text": "Children and adolescents with diabetes using insulin therapy and their parents should monitor glucose levels before, during, and after physical activity and receive education about personalized glycemic goals.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "population_type": "Unknown",
+      "age_range": null,
+      "defining_characteristics": [
+        "Pediatric population",
+        "Insulin therapy"
+      ]
+    },
+    {
+      "name": "Children and adolescents with diabetes",
+      "synonyms": [],
+      "source_text": "For children and adolescents with all types of diabetes, providing education on healthy lifestyle behaviors is critically important, and typically this is done through DSMES.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "population_type": "Unknown",
+      "age_range": null,
+      "defining_characteristics": [
+        "Pediatric population"
+      ]
+    },
+    {
+      "name": "Children and adolescents with type 1 diabetes",
+      "synonyms": [],
+      "source_text": "For those with type 1 diabetes, insulin therapy is paramount, alongside DSMES.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "population_type": "Unknown",
+      "age_range": null,
+      "defining_characteristics": [
+        "Pediatric population",
+        "Type 1 diabetes"
+      ]
+    },
+    {
+      "name": "Children and adolescents with type 2 diabetes",
+      "synonyms": [],
+      "source_text": "For treatment of type 2 diabetes in children and adolescents, lifestyle management, also taught through DSMES, is foundational, and pharmacologic treatment with or without insulin is necessary.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "population_type": "Unknown",
+      "age_range": null,
+      "defining_characteristics": [
+        "Pediatric population",
+        "Type 2 diabetes"
+      ]
+    },
+    {
+      "name": "Children and adolescents with obesity and diabetes",
+      "synonyms": [],
+      "source_text": "For children and adolescents with obesity and diabetes, it should be noted that diabetes type is often uncertain in the first few weeks of treatment due to overlap in presentation and that a substantial percentage will present with clinically significant ketoacidosis (22).",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "population_type": "Unknown",
+      "age_range": null,
+      "defining_characteristics": [
+        "Pediatric population",
+        "Obesity",
+        "Diabetes"
+      ]
+    },
+    {
+      "name": "Children and adolescents with prediabetes",
+      "synonyms": [],
+      "source_text": "Provide individualized medical nutrition therapy for children and adolescents with prediabetes or diabetes, emphasizing key nutrition principles (i.e., more nonstarchy vegetables, whole fruits, legumes, whole grains, nuts and seeds, and low-fat dairy products and less sugar-sweetened beverages, sweets, meat, refined grains, and processed or ultraprocessed foods), B as an essential component of the overall treatment plan.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "population_type": "Unknown",
+      "age_range": null,
+      "defining_characteristics": [
+        "Pediatric population",
+        "Prediabetes"
+      ]
+    },
+    {
+      "name": "Children and adolescents with diabetes using insulin",
+      "synonyms": [],
+      "source_text": "Children and adolescents with diabetes and their parents or caregivers should be educated on strategies to prevent hypoglycemia during, after, and overnight following physical activity or exercise.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "population_type": "Unknown",
+      "age_range": null,
+      "defining_characteristics": [
+        "Pediatric population",
+        "Insulin use"
+      ]
+    },
+    {
+      "name": "Children and adolescents with type 1 diabetes",
+      "synonyms": [],
+      "source_text": "Type 1 diabetes is the most common form of diabetes in children and adolescents, although there are more adults living with and diagnosed with type 1 diabetes.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "population_type": "Unknown",
+      "age_range": null,
+      "defining_characteristics": [
+        "Pediatric population",
+        "Type 1 diabetes"
+      ]
+    },
+    {
+      "name": "Children and adolescents with type 2 diabetes",
+      "synonyms": [],
+      "source_text": "Evidence suggests that type 2 diabetes in children and adolescents is different not only from type 1 diabetes but also from type 2 diabetes in adults and has unique features, such as a more rapidly progressive decline in \u03b2-cell function and accelerated development of diabetes complications.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "population_type": "Unknown",
+      "age_range": null,
+      "defining_characteristics": [
+        "Pediatric population",
+        "Type 2 diabetes"
+      ]
+    },
+    {
+      "name": "Children and adolescents with overweight or obesity",
+      "synonyms": [],
+      "source_text": "Consider risk-based screening for prediabetes and/or type 2 diabetes after the onset of puberty or after 10 years of age, whichever occurs earlier, in children with overweight (BMI \u226585th to <95th percentile) or obesity (BMI \u226595th percentile) and who have one or more additional risk factors for diabetes (see Table 2.5 for evidence grading of other risk factors).",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "population_type": "Unknown",
+      "age_range": null,
+      "defining_characteristics": [
+        "Pediatric population",
+        "Overweight or obesity"
+      ]
+    },
+    {
+      "name": "Children and adolescents with diabetes",
+      "synonyms": [],
+      "source_text": "For children and adolescents with all types of diabetes, providing education on healthy lifestyle behaviors is critically important, and typically this is done through DSMES.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "population_type": "Unknown",
+      "age_range": null,
+      "defining_characteristics": [
+        "Pediatric population"
+      ]
+    },
+    {
+      "name": "Children and adolescents with type 1 diabetes",
+      "synonyms": [],
+      "source_text": "For those with type 1 diabetes, insulin therapy is paramount, alongside DSMES.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "population_type": "Unknown",
+      "age_range": null,
+      "defining_characteristics": [
+        "Pediatric population",
+        "Type 1 diabetes"
+      ]
+    },
+    {
+      "name": "Children and adolescents with type 2 diabetes",
+      "synonyms": [],
+      "source_text": "For treatment of type 2 diabetes in children and adolescents, lifestyle management, also taught through DSMES, is foundational, and pharmacologic treatment with or without insulin is necessary.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "population_type": "Unknown",
+      "age_range": null,
+      "defining_characteristics": [
+        "Pediatric population",
+        "Type 2 diabetes"
+      ]
+    },
+    {
+      "name": "Children and adolescents with obesity and diabetes",
+      "synonyms": [],
+      "source_text": "For children and adolescents with obesity and diabetes, it should be noted that diabetes type is often uncertain in the first few weeks of treatment due to overlap in presentation and that a substantial percentage will present with clinically significant ketoacidosis (22).",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "population_type": "Unknown",
+      "age_range": null,
+      "defining_characteristics": [
+        "Pediatric population",
+        "Obesity",
+        "Diabetes"
+      ]
+    },
+    {
+      "name": "Children and adolescents with prediabetes",
+      "synonyms": [],
+      "source_text": "Provide individualized medical nutrition therapy for children and adolescents with prediabetes or diabetes, emphasizing key nutrition principles (i.e., more nonstarchy vegetables, whole fruits, legumes, whole grains, nuts and seeds, and low-fat dairy products and less sugar-sweetened beverages, sweets, meat, refined grains, and processed or ultraprocessed foods), B as an essential component of the overall treatment plan.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "population_type": "Unknown",
+      "age_range": null,
+      "defining_characteristics": [
+        "Pediatric population",
+        "Prediabetes"
+      ]
+    },
+    {
+      "name": "Children and adolescents with diabetes using insulin",
+      "synonyms": [],
+      "source_text": "Children and adolescents with diabetes and their parents or caregivers should be educated on strategies to prevent hypoglycemia during, after, and overnight following physical activity or exercise.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "population_type": "Unknown",
+      "age_range": null,
+      "defining_characteristics": [
+        "Pediatric population",
+        "Insulin use"
+      ]
+    },
+    {
+      "name": "Children and adolescents with type 1 diabetes",
+      "synonyms": [],
+      "source_text": "Type 1 diabetes is the most common form of diabetes in children and adolescents, although there are more adults living with and diagnosed with type 1 diabetes.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "population_type": "Unknown",
+      "age_range": null,
+      "defining_characteristics": [
+        "Pediatric population",
+        "Type 1 diabetes"
+      ]
+    },
+    {
+      "name": "Children and adolescents with type 2 diabetes",
+      "synonyms": [],
+      "source_text": "Evidence suggests that type 2 diabetes in children and adolescents is different not only from type 1 diabetes but also from type 2 diabetes in adults and has unique features, such as a more rapidly progressive decline in \u03b2-cell function and accelerated development of diabetes complications.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "population_type": "Unknown",
+      "age_range": null,
+      "defining_characteristics": [
+        "Pediatric population",
+        "Type 2 diabetes"
+      ]
+    },
+    {
+      "name": "Children and adolescents with overweight or obesity",
+      "synonyms": [],
+      "source_text": "Consider risk-based screening for prediabetes and/or type 2 diabetes after the onset of puberty or after 10 years of age, whichever occurs earlier, in children with overweight (BMI \u226585th to <95th percentile) or obesity (BMI \u226595th percentile) and who have one or more additional risk factors for diabetes (see Table 2.5 for evidence grading of other risk factors).",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "population_type": "Unknown",
+      "age_range": null,
+      "defining_characteristics": [
+        "Pediatric population",
+        "Overweight or obesity"
+      ]
+    }
+  ],
+  "specific_goals": [
+    {
+      "name": "A1C goal for most children and adolescents with diabetes",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "goal_parameter": "A1C",
+      "target_value": "<7%",
+      "rationale": "appropriate for most children and adolescents with diabetes. B, 14.20 Glycemic Goals Recommendations. For children and adolescents with type 2 diabetes, glycemic status should be assessed at least every 3 months or as frequently as clinically indicated. 14.32 Consider setting an A1C goal of <6.5% (<48 mmol/mol) for most children and adolescents with type 2 diabetes who have a low risk of hypoglycemia. For those at higher risk of hypoglycemia, A1C goals should be individualized as clinically appropriate. 14.39 For children and adolescents with type 2 diabetes not meeting individualized glycemic goals, consider maximizing noninsulin therapies (metformin, GLP-1 RA, and SGLT2i) before initiating and/or intensifying the insulin therapy plan. 14.40 In individuals with type 2 diabetes initially treated with insulin and metformin and/or other glucose-lowering medications who are meeting glucose goals based on blood glucose monitoring or CGM, reducing or discontinuing insulin should be considered. 14.1\u2014Recommendations. Continuous glucose monitoring (CGM) should be offered for diabetes management at diagnosis or as soon as possible in children and adolescents with diabetes who are capable of using the device safely (either by themselves or with caregivers). The choice of device should be made based on the individual\u2019s and family\u2019s circumstances, desires, and needs. 14.17 Offer automated insulin delivery (AID) systems for diabetes management to children and adolescents with type 1 diabetes who are capable of using the device safely (either by themselves or with caregivers). Choice of device should be made based on the individual\u2019s and family\u2019s circumstances, desires, and needs. 14.18 Offer open-loop insulin pump therapy for type 1 diabetes management to children and adolescents on multiple daily injections who are capable of using the device safely (either by themselves or with caregivers) if unable to use AID systems. Choice of device should be made based on the individual\u2019s and family\u2019s circumstances, desires, and needs. 14.19 Students with diabetes must be supported at school in the use of diabetes technology, including CGM, insulin pumps, connected insulin pens, and AID systems, as prescribed by their diabetes care team. C 14.20 A1C goals must be individualized and reassessed over time. An A1C of <7% (<53 mmol/mol) is appropriate for most children and adolescents with diabetes. B 14.21 Less stringent A1C goals (such as <7% [<53 mmol/mol] or <7.5% [<58 mmol/mol]) may be appropriate for children and adolescents with diabetes who cannot articulate symptoms of hypoglycemia; have hypoglycemia unawareness; cannot access advanced insulin delivery technology and/or CGM; cannot check blood glucose regularly; or have nonglycemic factors that increase A1C. B 14.22 Even less stringent A1C goals may be appropriate for children and adolescents with diabetes and a history of severe hypoglycemia or limited life expectancy or where the harms of. Decision-making involvement with children and adolescents regarding the adoption of management plan components can improve participation in diabetes self-management, technology adoption, and glycemic outcomes (69,70). Use of well-designed decision aids can engage children and adolescents in comprehensive, unbiased conversations with their diabetes care team about treatment options (71). Creating self-care contracts (72) and integrating technology that shares glucose data with the care team may facilitate shared decision-making and enhance care (73). Importantly, health care professionals working with children and adolescents who are not yet able to provide legal consent must balance clinical oversight with promoting developmentally appropriate independence. Recommendations include a proactive, team-based approach to psychosocial screening, referral, and intervention is essential to support the health of children and adolescents with diabetes. 2026 January 29 on guest by http://diabetesjournals.org/care/article-pdf/49/Supplement_1/S297/848841/dc26s014.pdf from Downloaded diabetesjournals.org/care Children and Adolescents S303 Treatment are greater than the bene- addition, achieving lower A1C levels is likely facilitated by setting lower A1C goals (80,90). Lower goals may be possible during the honeymoon phase of type 1 diabetes and in those with access to CGM and AID. The honeymoon phase, also referred to as partial remission, refers to a transient period of increased endogenous insulin secretion shortly after diagnosis when initiation of insulin therapy resolves glucotoxicity and allows for improved insulin secretion from residual \u03b2-cells. Recent data with newer devices indicate that the risk of hypoglycemia at lower A1C is less than it was before (81,82,91\u201394). However, special consideration should be given to the risk of hypoglycemia in young children (aged <6 years) who are often unable to recognize, articulate, and/or manage hypoglycemia. Registry data indicate that lower A1C goals can be achieved in children, including those aged <6 years, without increased risk of severe hypoglycemia (91). Please refer to section 6, \u201cGlycemic Goals, Hypoglycemia, and Hyperglycemic Crisis,\u201d for more information on glycemic assessment. A strong relationship exists between the frequency of glucose monitoring and glycemic outcomes (95,96). Glucose levels for all children and adolescents with type 1 diabetes should be monitored multiple times daily using CGM whenever possible. For those who cannot access CGM and in case of inaccurate CGM readings, access to finger-stick blood glucose monitoring remains essential. Use of CGM soon after type 1 diabetes diagnosis is associated with improved A1C (97\u201399). Parents, caregivers, and children and adolescents should be offered initial and ongoing education and support for CGM use. Behavioral support may further improve ongoing CGM use (100). Metrics derived from CGM include percent time in range (TIR), time below target range (<70 mg/dL and <54 mg/dL), and time above target range (>180 mg/dL and >250 mg/dL) (101). While studies indicate a relationship between TIR and A1C (102,103), it is still uncertain what the ideal goal TIR should be for children, and further studies are needed. Though 14 days of CGM data has long been considered the gold standard, recent data indicate that 10 or more days of CGM data provides a reliable assessment of glycemia and that \u22657 days of data may be sufficient for children and adolescents attaining TIR goals (104,105). Please refer to section 7, \u201cDiabetes Technology,\u201d for more information on the use of blood glucose meters, CGM, and insulin pumps. More information on insulin injection technique can be found in section 9, \u201cPharmacologic Approaches to Glycemic Treatment.\u201d Key Concepts in Setting Glycemic Goals Glycemic goals should be individualized, and lower goals may be reasonable based on a benefit-risk assessment. Blood glucose goals should be modified in children with frequent hypoglycemia or hypoglycemia unawareness. Exercise Needs Specific to Children and Adolescents With Type 1 Diabetes Real-world data from the Type 1 Diabetes Exercise Initiative Pediatric (T1DEXIP) study reported that glucose levels tended to drop during exercise, most particularly in those with lower A1C, shorter diabetes duration, and less fear of hypoglycemia (110). Furthermore, glucose levels tended to be lowest at about 8\u201316 h postexercise in those with similar characteristics, and nocturnal hypoglycemia was more frequent when activity levels were higher and longer in duration (111). These data underscore the need for individualized management strategies for children and adolescents using insulin, including common sense precautions and understanding how to make insulin dose adjustments when undertaking exercise and physical activity. Accessible rapid-acting carbohydrates and frequent blood glucose monitoring before, during, and after exercise, with or without CGM maximize safety with exercise. As hyperglycemia can occur before, during, and after physical activity, it is important to ensure the elevated glucose level is not related to insulin deficiency, as that can lead to worsening hyperglycemia and DKA risk. 2026 January 29 on guest by http://diabetesjournals.org/care/article-pdf/49/Supplement_1/S297/848841/dc26s014.pdf from Downloaded # Children and Adolescents Diabetes Care Volume 49, Supplement 1, January 2026 Activity should be postponed with marked hyperglycemia (glucose \u2265350 mg/dL [\u226519.4 mmol/L]), moderate to large urine ketones, and/or \u03b2-hydroxybutyrate >1.5 mmol/L in the setting of insulin deficiency. Caution may be needed when \u03b2-hydroxybutyrate levels are \u22650.6 mmol/L in association with absence of insulin (112,113). Prevention and treatment of hypoglycemia associated with physical activity includes decreasing prandial insulin for the meal or snack before and after exercise, and/or increasing carbohydrate intake. Children and adolescents using insulin pumps without automated insulin delivery (AID) can lower basal rates by \u223c10\u201350% or more or suspend for 1\u20132 h during exercise (111). Decreasing basal rates or long-acting insulin doses by \u223c20% after exercise may reduce delayed exercise-induced hypoglycemia (110). Using AID systems may improve TIR (70\u2013180 mg/dL) during exercise, and children and adolescents can use device-specific settings that are more conservative or increase the glucose goal to prevent hypoglycemia with exercise (114). Blood glucose goals prior to physical activity and exercise are 126\u2013180 mg/dL (7.0\u201310.0 mmol/L) but should be individualized based on the insulin plan and type, intensity, and duration of activity (36,115). The accuracy of CGM systems varies depending on the type of exercise (116). Consider additional carbohydrate intake during and/or after exercise, depending on duration and intensity of physical activity, to prevent hypoglycemia. For low- to moderate-intensity aerobic activities (30\u201360 min), and if the child or adolescent is fasting, 10\u201315 g of carbohydrate may prevent hypoglycemia (36). The timing of carbohydrate intake before exercise is of great importance for children and adolescents using AID systems, as a rise in glucose may result in increased automated insulin delivery with a subsequent increase in the risk for hypoglycemia (113). After insulin boluses (relative hyperinsulinemia), consider 0.5\u20131.0 g of carbohydrates/kg per h of exercise (\u223c30\u201360 g), similar to carbohydrate requirements for optimizing performance in athletes without type 1 diabetes (117,118). TYPE 2 DIABETES IN CHILDREN AND ADOLESCENTS For information on risk-based screening for type 2 diabetes and prediabetes in children and adolescents, please refer to section 2, \u201cDiagnosis and Classification of Diabetes.\u201d An analysis of National Health and Nutrition Examination Survey (NHANES) data suggests using A1C for screening of high-risk children and adolescents due to association with cardiometabolic risk (125). While the ADA acknowledges there are limitations in the data supporting A1C for diagnosing type 2 diabetes in children and adolescents, the ADA continues to recommend its use in this population (121). A1C is not recommended for diagnosis of diabetes in children and adolescents with cystic fibrosis or symptoms suggestive of acute onset of type 1 diabetes, and only A1C assays without interference are appropriate for children and adolescents with hemoglobinopathies. Screening and Diagnosis of Type 2 Diabetes in Children and Adolescents Recommendations 14.25 Consider risk-based screening for prediabetes and/or type 2 diabetes after the onset of puberty or after 10 years of age, whichever occurs earlier, in children with overweight (BMI \u226585th to <95th percentile) or obesity (BMI \u226595th percentile) and who have one or more additional risk factors for diabetes (see Table 2.5 for evidence grading of other risk factors). 14.26 If screening is normal, repeat screening at a minimum of 2-year intervals E or more frequently if BMI is increasing. 14.27 Fasting plasma glucose, 2-h plasma glucose during a 75-g oral glucose tolerance test, elevated random glucose with symptoms of hyperglycemia, and/or A1C can be used to test for prediabetes or type 2 diabetes in children and adolescents. B 14.28 Children and adolescents with overweight or obesity with hyperglycemia in whom the diagnosis of type 2 diabetes is being considered should have a panel of pancreatic autoantibodies tested to exclude the possibility of autoimmune type 1 diabetes. B Diagnostic Challenges: Overlap of Type 1 and Type 2 Diabetes Given the current obesity epidemic, distinguishing between type 1 and type 2 diabetes in children can be difficult. Overweight and obesity are common in children with type 1 diabetes (126), and diabetes-associated autoantibodies and ketosis may be present in pediatric individuals with clinical features of type 2 diabetes (including obesity and acanthosis nigricans) (122). The presence of islet autoantibodies has been associated with faster progression to insulin deficiency (122). At the onset of diabetes, DKA occurs in \u223c11% of children and adolescents aged 10\u201319 years with type 2 diabetes (127). Although uncommon, type 2 diabetes has been observed in prepubertal children under the age of 10 years, thus it should be part of the differential in children with suggestive symptoms (128). Finally, obesity contributes to the development of type 1 diabetes in some individuals (129), which further blurs the lines between the two types of diabetes. 2026 January 29 on guest by http://diabetesjournals.org/care/article-pdf/49/Supplement_1/S297/848841/dc26s014.pdf from Downloaded diabetesjournals.org/care Children and Adolescents the lines between diabetes types. We must acknowledge that people with type 1 diabetes can also experience weight gain and insulin resistance. However, accurate diagnosis is critical, as treatment plans, educational approaches, nutrition advice, and outcomes differ markedly between individuals with predominantly insulin resistance versus absolute insulinopenia phenotypes. It must also be acknowledged that overlap between type 1 and type 2 diabetes can exist, and both insulin resistance and absolute insulinopenia should be treated appropriately. The significant diagnostic difficulties posed by maturity-onset diabetes of the young are discussed in section 2, \u201cDiagnosis and Classification of Diabetes.\u201d In addition, there are rare and atypical diabetes cases that represent a challenge for clinicians and researchers. Exercise Needs Specific to Children and Adolescents With Type 2 Diabetes Children and adolescents with type 2 diabetes and their families should receive education and support for physical activity, including achieving and maintaining a healthy weight. Family-based interventions have been reported to be effective on physical activity behavior. A family-centered approach to lifestyle modification, including those aspects focused on physical activity, is essential in children and adolescents with type 2 diabetes, and recommendations should be culturally appropriate and sensitive to family resources. Pharmacologic Management Recommendations 14.33 Initiate pharmacologic therapy with consideration of multiple add-on therapies early on, in addition to behavioral counseling for healthful nutrition and physical activity changes, at diagnosis of type 2 diabetes. 14.34 In individuals with incidentally diagnosed type 2 diabetes (A1C <8.5% [<69 mmol/mol] and asymptomatic), metformin is the initial pharmacologic treatment of choice unless contraindicated by kidney function. 14.35 Children and adolescents with marked hyperglycemia (A1C \u22658.5% [\u226569 mmol/mol]) without acidosis at diagnosis should be treated initially with long-acting insulin while metformin is initiated and titrated. 14.36 Initiate subcutaneous or intravenous insulin treatment in individuals with ketoacidosis to rapidly correct the hyperglycemia and the metabolic derangement. Once acidosis is resolved, metformin should be initiated while subcutaneous insulin therapy is continued. 14.37 In individuals presenting with severe hyperglycemia (blood glucose \u2265600 mg/dL [\u226533.3 mmol/mol]), consider assessment and treatment as needed for hyperglycemic hyperosmolar state. 14.38 If individualized glycemic goals are not achieved or maintained with metformin (with or without long-acting insulin), glucagon-like peptide 1 receptor agonist (GLP-1 RA) and/or sodium\u2013glucose cotransporter 2 inhibitor (SGLT2is) should be considered. Glycemic Goals Recommendations 14.31 For children and adolescents with type 2 diabetes, glycemic status should be assessed at least every 3 months or as frequently as clinically indicated. 14.32 Consider setting an A1C goal of <6.5% (<48 mmol/mol) for most children and adolescents with type 2 diabetes who have a low risk of hypoglycemia. For those at higher risk of hypoglycemia, A1C goals should be individualized as clinically appropriate. 14.39 For children and adolescents with type 2 diabetes not meeting individualized glycemic goals, consider maximizing noninsulin therapies (metformin, GLP-1 RA, and SGLT2i) before initiating and/or intensifying the insulin therapy plan. 14.40 In individuals with type 2 diabetes initially treated with insulin and metformin and/or other glucose-lowering medications who are meeting glucose goals based on blood glucose monitoring or CGM, reducing or discontinuing insulin should be considered. 2026 January 29 on guest by http://diabetesjournals.org/care/article-pdf/49/Supplement_1/S297/848841/dc26s014.pdf Downloaded from diabetesjournals.org/care Children and Adolescents between type 1 diabetes and type 2 diabe- DKA. Individuals should be counseled on the increased risk of genitourinary infections. be performed only by an experienced surgeon working as part of a well-organized and engaged interprofessional team, including a surgeon, endocrinologist, registered dietitian nutritionist, behavioral health specialist, and nurse. When initial insulin treatment is not required, initiation of metformin is recommended as first-line therapy. The TODAY study found that metformin alone provided durable glycemic management (A1C <8% [<64 mmol/mol] for 6 months) only in approximately half of the participants. The Restoring Insulin Secretion (RISE) Consortium study did not demonstrate differences in measures of glucose or \u03b2-cell function preservation between metformin and insulin, but there was more weight gain with insulin. To date, the TODAY study is the only trial combining lifestyle and metformin therapy in children and adolescents with type 2 diabetes; the combination did not perform better than metformin alone in achieving durable glycemic levels. RCTs in children and adolescents have shown that GLP-1 receptor agonists are safe and effective for decreasing A1C and promoting weight loss at higher doses approved for obesity. Use of GLP-1 receptor agonists can increase the frequency of gastrointestinal side effects and should not be used in individuals with a family history of medullary thyroid cancer. A recently published RCT of the dual glucose-dependent insulinotropic polypeptide (GIP) and GLP-1 receptor agonist tirzepatide at doses of 5 mg and 10 mg weekly demonstrated clinically meaningful and statistically significant improvements in both A1C and weight at 30 weeks in the pooled tirzepatide group versus placebo with benefits sustained at 52 weeks. The most common adverse events were gastrointestinal, as seen in adult trials. There is no regulatory approval to date for pediatric use of tirzepatide. In addition to GLP-1 receptor agonists, SGLT2is are well-studied drugs in adults with type 2 diabetes, and now empagliflozin, dapagliflozin, and canagliflozin are approved for use in children and adolescents aged 10\u201317 years with type 2 diabetes based on clinical trials showing clinically relevant decreases in A1C. These agents are well tolerated in children and adolescents with type 2 diabetes with a low risk of severe hypoglycemia. Recommendations 14.41 Consider metabolic surgery for the treatment of adolescents with type 2 diabetes who have class 2 obesity or higher (BMI 35 to <40 kg/m\u00b2 or 120% to <140% percentile for age and sex, whichever is lower) and who have elevated A1C and/or serious co-morbidities despite lifestyle and pharmacologic intervention. 14.42 Metabolic surgery for adolescents with type 2 diabetes should be considered for those with BMI 40 kg/m\u00b2 or higher with or without comorbidities. A number of groups, including the Pediatric Bariatric Study Group and Teen-LABS study, have... 2026 January 29 on guest by http://diabetesjournals.org/care/article-pdf/49/Supplement_1/S297/848841/dc26s014.pdf from Downloaded diabetesjournals.org/care Children and Adolescents S307 demonstrated the effectiveness of metabolic surgery in adolescents (159\u2013163). At the time of diagnosis, ~25% of children with type 1 diabetes have thyroid autoantibodies (172), the presence of which is predictive of thyroid dysfunction\u2014most commonly hypothyroidism, although hyperthyroidism occurs in ~0.5% of people with type 1 diabetes (173,174). For thyroid autoantibodies, a study from Sweden indicated that antithyroid peroxidase antibodies were more predictive of autoimmune thyroid disease than antithyroglobulin antibodies in multivariate analysis (175). Thyroid function tests may be misleading (nonthyroidal illness) if performed at the time of diagnosis owing to the effect of previous hyperglycemia, ketosis or ketoacidosis, weight loss, etc. Therefore, if performed at diagnosis and slightly abnormal, thyroid function tests should be repeated soon after a period of metabolic stability and achievement of glycemic goals. Subclinical hypothyroidism may be associated with an increased risk of symptomatic hypoglycemia and dyslipidemia (176,177) and a reduced linear growth rate. Hyperthyroidism alters glucose metabolism and usually causes deterioration of glycemia. Prevention and Management of Diabetes Complications Among All Children and Adolescents With Diabetes Recommendations 14.43\u201314.79, regarding type 1 and type 2 diabetes complications, are presented in Table 14.1 to facilitate direct comparison. Autoimmune Conditions Because of the increased frequency of other autoimmune diseases in type 1 diabetes, screening for thyroid dysfunction and celiac disease should be considered (165\u2013169). Periodic screening in asymptomatic individuals has been recommended, but the optimal frequency of screening is unclear. Although much less common than thyroid dysfunction and celiac disease, other autoimmune conditions, such as Addison disease (primary adrenal insufficiency), autoimmune hepatitis, autoimmune gastritis, dermatomyositis, premature ovarian failure, and myasthenia gravis, occur more commonly in the population with type 1 diabetes than in the general pediatric population and should be assessed and monitored as clinically indicated. In addition, relatives of individuals with type 1 diabetes should be offered testing for islet autoantibodies through research studies (e.g., Type 1 Diabetes TrialNet) and national programs for early diagnosis of preclinical type 1 diabetes (stages 1 and 2). Celiac Disease Celiac disease is an immune-mediated disorder that occurs with increased frequency in people with type 1 diabetes (1.6\u201316.4% of individuals compared with 0.3\u20131% in the general population) (165,168,169, 178\u2013181). Screening people with type 1 diabetes for celiac disease is further justified by its association with osteoporosis, vitamin D deficiency, iron deficiency, growth failure, erratic glucose levels due to altered food absorption, and potential increased risk of retinopathy and albuminuria (182\u2013184). Screening for celiac disease includes measuring serum levels of IgA and tissue transglutaminase (tTG) IgA antibodies, or, with IgA deficiency, screening can include measuring tTG IgG antibodies or deamidated gliadin peptide IgG antibodies. Because most cases"
+    }
+  ],
+  "allowed_medications": [],
+  "contraindicated_medications": [],
+  "age_ranges": [],
+  "relationships": []
+}

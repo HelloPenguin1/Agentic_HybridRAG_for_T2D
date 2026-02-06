@@ -1,0 +1,1033 @@
+{
+  "interventions": [
+    {
+      "name": "Metabolic Surgery",
+      "synonyms": [],
+      "source_text": "Metabolic surgery",
+      "page_number": "S168",
+      "evidence_level": "Unknown",
+      "intervention_type": "Surgical",
+      "duration": "long-term",
+      "frequency": "N/A"
+    },
+    {
+      "name": "Intensive behavioral and lifestyle counseling",
+      "synonyms": [],
+      "source_text": "intensive behavioral and lifestyle counseling",
+      "page_number": "S168",
+      "evidence_level": "Unknown",
+      "intervention_type": "Behavioral",
+      "duration": "long-term",
+      "frequency": "N/A"
+    },
+    {
+      "name": "Obesity pharmacotherapy",
+      "synonyms": [],
+      "source_text": "obesity pharmacotherapy",
+      "page_number": "S168",
+      "evidence_level": "Unknown",
+      "intervention_type": "Pharmacologic",
+      "duration": "chronic",
+      "frequency": "N/A"
+    },
+    {
+      "name": "Lifestyle and nutritional therapy",
+      "synonyms": [],
+      "source_text": "lifestyle and nutritional therapy",
+      "page_number": "S170",
+      "evidence_level": "Unknown",
+      "intervention_type": "Lifestyle",
+      "duration": "N/A",
+      "frequency": "N/A"
+    },
+    {
+      "name": "Structured lifestyle management programs",
+      "synonyms": [],
+      "source_text": "structured lifestyle management programs",
+      "page_number": "S174",
+      "evidence_level": "Unknown",
+      "intervention_type": "Lifestyle",
+      "duration": "N/A",
+      "frequency": "N/A"
+    },
+    {
+      "name": "Medical nutrition therapy",
+      "synonyms": [],
+      "source_text": "medical nutrition therapy",
+      "page_number": "S176",
+      "evidence_level": "Unknown",
+      "intervention_type": "Nutritional",
+      "duration": "N/A",
+      "frequency": "N/A"
+    },
+    {
+      "name": "GLP-1 receptor agonist",
+      "synonyms": [],
+      "source_text": "glucagon-like peptide 1 (GLP-1) receptor agonists",
+      "page_number": "S172",
+      "evidence_level": "Unknown",
+      "intervention_type": "Pharmacologic",
+      "duration": "N/A",
+      "frequency": "N/A"
+    },
+    {
+      "name": "Dual GIP and GLP-1 receptor agonist",
+      "synonyms": [],
+      "source_text": "dual glucose-dependent insulinotropic polypeptide (GIP) and GLP-1 RA",
+      "page_number": "S172",
+      "evidence_level": "Unknown",
+      "intervention_type": "Pharmacologic",
+      "duration": "N/A",
+      "frequency": "N/A"
+    },
+    {
+      "name": "Sodium\u2013glucose cotransporter 2 inhibitors",
+      "synonyms": [],
+      "source_text": "Sodium\u2013glucose cotransporter 2 inhibitors",
+      "page_number": "S172",
+      "evidence_level": "Unknown",
+      "intervention_type": "Pharmacologic",
+      "duration": "N/A",
+      "frequency": "N/A"
+    },
+    {
+      "name": "Metformin",
+      "synonyms": [],
+      "source_text": "metformin",
+      "page_number": "S172",
+      "evidence_level": "Unknown",
+      "intervention_type": "Pharmacologic",
+      "duration": "N/A",
+      "frequency": "N/A"
+    },
+    {
+      "name": "Amylin mimetics",
+      "synonyms": [],
+      "source_text": "amylin mimetics",
+      "page_number": "S172",
+      "evidence_level": "Unknown",
+      "intervention_type": "Pharmacologic",
+      "duration": "N/A",
+      "frequency": "N/A"
+    },
+    {
+      "name": "Dipeptidyl peptidase 4 inhibitors",
+      "synonyms": [],
+      "source_text": "Dipeptidyl peptidase 4 inhibitors",
+      "page_number": "S172",
+      "evidence_level": "Unknown",
+      "intervention_type": "Pharmacologic",
+      "duration": "N/A",
+      "frequency": "N/A"
+    },
+    {
+      "name": "Centrally acting dopamine agonist",
+      "synonyms": [],
+      "source_text": "centrally acting dopamine agonist",
+      "page_number": "S172",
+      "evidence_level": "Unknown",
+      "intervention_type": "Pharmacologic",
+      "duration": "N/A",
+      "frequency": "N/A"
+    },
+    {
+      "name": "\u03b1-glucosidase inhibitors",
+      "synonyms": [],
+      "source_text": "\u03b1-glucosidase inhibitors",
+      "page_number": "S172",
+      "evidence_level": "Unknown",
+      "intervention_type": "Pharmacologic",
+      "duration": "N/A",
+      "frequency": "N/A"
+    },
+    {
+      "name": "Bile acid sequestrants",
+      "synonyms": [],
+      "source_text": "bile acid sequestrants",
+      "page_number": "S172",
+      "evidence_level": "Unknown",
+      "intervention_type": "Pharmacologic",
+      "duration": "N/A",
+      "frequency": "N/A"
+    },
+    {
+      "name": "Insulin secretagogues",
+      "synonyms": [],
+      "source_text": "insulin secretagogues",
+      "page_number": "S172",
+      "evidence_level": "Unknown",
+      "intervention_type": "Pharmacologic",
+      "duration": "N/A",
+      "frequency": "N/A"
+    },
+    {
+      "name": "Thiazolidinediones",
+      "synonyms": [],
+      "source_text": "thiazolidinediones",
+      "page_number": "S172",
+      "evidence_level": "Unknown",
+      "intervention_type": "Pharmacologic",
+      "duration": "N/A",
+      "frequency": "N/A"
+    },
+    {
+      "name": "Insulin",
+      "synonyms": [],
+      "source_text": "insulin",
+      "page_number": "S172",
+      "evidence_level": "Unknown",
+      "intervention_type": "Pharmacologic",
+      "duration": "N/A",
+      "frequency": "N/A"
+    },
+    {
+      "name": "Phentermine and topiramate ER",
+      "synonyms": [],
+      "source_text": "phentermine and topiramate ER",
+      "page_number": "S174",
+      "evidence_level": "Unknown",
+      "intervention_type": "Pharmacologic",
+      "duration": "N/A",
+      "frequency": "N/A"
+    },
+    {
+      "name": "Naltrexone and bupropion",
+      "synonyms": [],
+      "source_text": "naltrexone and bupropion",
+      "page_number": "S174",
+      "evidence_level": "Unknown",
+      "intervention_type": "Pharmacologic",
+      "duration": "N/A",
+      "frequency": "N/A"
+    }
+  ],
+  "behaviors": [
+    {
+      "name": "Weight loss",
+      "synonyms": [],
+      "source_text": "weight loss",
+      "page_number": "S168",
+      "evidence_level": "Unknown",
+      "behavior_category": "Dietary",
+      "target_amount": ">5%"
+    },
+    {
+      "name": "Intentional weight loss",
+      "synonyms": [],
+      "source_text": "intentional weight loss",
+      "page_number": "S170",
+      "evidence_level": "Unknown",
+      "behavior_category": "Dietary",
+      "target_amount": "N/A"
+    },
+    {
+      "name": "Adequate nutritional intake",
+      "synonyms": [],
+      "source_text": "adequate nutritional intake",
+      "page_number": "S170",
+      "evidence_level": "Unknown",
+      "behavior_category": "Dietary",
+      "target_amount": "N/A"
+    },
+    {
+      "name": "Preventing protein insufficiency",
+      "synonyms": [],
+      "source_text": "preventing protein insufficiency",
+      "page_number": "S170",
+      "evidence_level": "Unknown",
+      "behavior_category": "Dietary",
+      "target_amount": "N/A"
+    },
+    {
+      "name": "Preventing micronutrient deficiencies",
+      "synonyms": [],
+      "source_text": "micronutrient deficiencies",
+      "page_number": "S170",
+      "evidence_level": "Unknown",
+      "behavior_category": "Dietary",
+      "target_amount": "N/A"
+    },
+    {
+      "name": "Nutrition changes",
+      "synonyms": [],
+      "source_text": "nutrition changes",
+      "page_number": "S170",
+      "evidence_level": "Unknown",
+      "behavior_category": "Dietary",
+      "target_amount": "N/A"
+    },
+    {
+      "name": "Physical activity",
+      "synonyms": [],
+      "source_text": "physical activity",
+      "page_number": "S170",
+      "evidence_level": "Unknown",
+      "behavior_category": "Physical Activity",
+      "target_amount": "150 min/week"
+    },
+    {
+      "name": "Behavioral strategies",
+      "synonyms": [],
+      "source_text": "behavioral strategies",
+      "page_number": "S170",
+      "evidence_level": "Unknown",
+      "behavior_category": "Behavioral",
+      "target_amount": "N/A"
+    },
+    {
+      "name": "Energy deficit",
+      "synonyms": [],
+      "source_text": "energy deficit",
+      "page_number": "S170",
+      "evidence_level": "Unknown",
+      "behavior_category": "Dietary",
+      "target_amount": "500\u2013750 kcal/day"
+    },
+    {
+      "name": "Reducing energy intake",
+      "synonyms": [],
+      "source_text": "reducing energy intake",
+      "page_number": "S170",
+      "evidence_level": "Unknown",
+      "behavior_category": "Dietary",
+      "target_amount": "N/A"
+    },
+    {
+      "name": "Increasing physical activity",
+      "synonyms": [],
+      "source_text": "increasing physical activity",
+      "page_number": "S170",
+      "evidence_level": "Unknown",
+      "behavior_category": "Physical Activity",
+      "target_amount": "N/A"
+    },
+    {
+      "name": "Reducing processed and ultraprocessed food intake",
+      "synonyms": [],
+      "source_text": "Reducing processed and ultraprocessed food intake",
+      "page_number": "S171",
+      "evidence_level": "Unknown",
+      "behavior_category": "Dietary",
+      "target_amount": "N/A"
+    },
+    {
+      "name": "Low carbohydrate eating patterns",
+      "synonyms": [],
+      "source_text": "low carbohydrate eating patterns",
+      "page_number": "S171",
+      "evidence_level": "Unknown",
+      "behavior_category": "Dietary",
+      "target_amount": "50 g to 150 g carbohydrate per day, or <45% of total energy intake"
+    },
+    {
+      "name": "Balanced carbohydrate eating patterns",
+      "synonyms": [],
+      "source_text": "balanced carbohydrate",
+      "page_number": "S171",
+      "evidence_level": "Unknown",
+      "behavior_category": "Dietary",
+      "target_amount": "45\u201365% of total energy intake"
+    },
+    {
+      "name": "Durable nutritional changes",
+      "synonyms": [],
+      "source_text": "durable nutritional changes",
+      "page_number": "S171",
+      "evidence_level": "Unknown",
+      "behavior_category": "Dietary",
+      "target_amount": "N/A"
+    },
+    {
+      "name": "Weight maintenance strategies",
+      "synonyms": [],
+      "source_text": "weight maintenance strategies",
+      "page_number": "S171",
+      "evidence_level": "Unknown",
+      "behavior_category": "Behavioral",
+      "target_amount": "N/A"
+    },
+    {
+      "name": "Optimizing protein intake",
+      "synonyms": [],
+      "source_text": "optimizing protein intake",
+      "page_number": "S171",
+      "evidence_level": "Unknown",
+      "behavior_category": "Dietary",
+      "target_amount": "N/A"
+    },
+    {
+      "name": "Resistance training",
+      "synonyms": [],
+      "source_text": "resistance training",
+      "page_number": "S171",
+      "evidence_level": "Unknown",
+      "behavior_category": "Physical Activity",
+      "target_amount": "N/A"
+    },
+    {
+      "name": "Adequate fiber intake",
+      "synonyms": [],
+      "source_text": "adequate fiber",
+      "page_number": "S171",
+      "evidence_level": "Unknown",
+      "behavior_category": "Dietary",
+      "target_amount": "N/A"
+    },
+    {
+      "name": "Adequate water intake",
+      "synonyms": [],
+      "source_text": "water intake",
+      "page_number": "S171",
+      "evidence_level": "Unknown",
+      "behavior_category": "Dietary",
+      "target_amount": "N/A"
+    }
+  ],
+  "social_determinants": [
+    {
+      "name": "Health disparities",
+      "synonyms": [],
+      "source_text": "Health disparities",
+      "page_number": "S172",
+      "evidence_level": "Unknown",
+      "sdoh_category": "Systemic/Structural",
+      "screening_tool": "N/A"
+    },
+    {
+      "name": "Socioeconomic factors",
+      "synonyms": [],
+      "source_text": "socioeconomic factors",
+      "page_number": "S171",
+      "evidence_level": "Unknown",
+      "sdoh_category": "Socioeconomic",
+      "screening_tool": "N/A"
+    },
+    {
+      "name": "Cultural considerations",
+      "synonyms": [],
+      "source_text": "cultural considerations",
+      "page_number": "S171",
+      "evidence_level": "Unknown",
+      "sdoh_category": "Cultural",
+      "screening_tool": "N/A"
+    },
+    {
+      "name": "Food choices",
+      "synonyms": [],
+      "source_text": "food choices",
+      "page_number": "S172",
+      "evidence_level": "Unknown",
+      "sdoh_category": "Dietary",
+      "screening_tool": "N/A"
+    },
+    {
+      "name": "Access to healthful foods",
+      "synonyms": [],
+      "source_text": "access to healthful foods",
+      "page_number": "S172",
+      "evidence_level": "Unknown",
+      "sdoh_category": "Dietary",
+      "screening_tool": "N/A"
+    },
+    {
+      "name": "Neighborhood safety",
+      "synonyms": [],
+      "source_text": "neighborhood safety",
+      "page_number": "S172",
+      "evidence_level": "Unknown",
+      "sdoh_category": "Environmental",
+      "screening_tool": "N/A"
+    },
+    {
+      "name": "Availability of safe outdoor spaces for physical activity",
+      "synonyms": [],
+      "source_text": "availability of safe outdoor spaces for physical activity",
+      "page_number": "S172",
+      "evidence_level": "Unknown",
+      "sdoh_category": "Environmental",
+      "screening_tool": "N/A"
+    },
+    {
+      "name": "Environmental exposures",
+      "synonyms": [],
+      "source_text": "environmental exposures",
+      "page_number": "S172",
+      "evidence_level": "Unknown",
+      "sdoh_category": "Environmental",
+      "screening_tool": "N/A"
+    },
+    {
+      "name": "Access to health care",
+      "synonyms": [],
+      "source_text": "access to health care",
+      "page_number": "S172",
+      "evidence_level": "Unknown",
+      "sdoh_category": "Healthcare Access",
+      "screening_tool": "N/A"
+    },
+    {
+      "name": "Social contexts",
+      "synonyms": [],
+      "source_text": "social contexts",
+      "page_number": "S172",
+      "evidence_level": "Unknown",
+      "sdoh_category": "Social",
+      "screening_tool": "N/A"
+    }
+  ],
+  "outcomes": [
+    {
+      "name": "Delay progression from prediabetes to type 2 diabetes",
+      "synonyms": [],
+      "source_text": "delay the progression from prediabetes to type 2 diabetes",
+      "page_number": "S168",
+      "evidence_level": "Unknown",
+      "outcome_type": "Disease Prevention",
+      "magnitude": "N/A"
+    },
+    {
+      "name": "Improved glycemia",
+      "synonyms": [],
+      "source_text": "improves glycemia",
+      "page_number": "S168",
+      "evidence_level": "Unknown",
+      "outcome_type": "Metabolic",
+      "magnitude": "modest weight loss"
+    },
+    {
+      "name": "Reduced need for glucose-lowering medications",
+      "synonyms": [],
+      "source_text": "reduces the need for glucose-lowering medications",
+      "page_number": "S168",
+      "evidence_level": "Unknown",
+      "outcome_type": "Medication Reduction",
+      "magnitude": "modest weight loss"
+    },
+    {
+      "name": "Sustained diabetes remission",
+      "synonyms": [],
+      "source_text": "sustained diabetes remission",
+      "page_number": "S168",
+      "evidence_level": "Unknown",
+      "outcome_type": "Disease Remission",
+      "magnitude": "greater weight loss"
+    },
+    {
+      "name": "Reduced A1C",
+      "synonyms": [],
+      "source_text": "reduces A1C",
+      "page_number": "S168",
+      "evidence_level": "Unknown",
+      "outcome_type": "Metabolic",
+      "magnitude": "greater weight loss"
+    },
+    {
+      "name": "Reduced fasting glucose",
+      "synonyms": [],
+      "source_text": "fasting glucose",
+      "page_number": "S168",
+      "evidence_level": "Unknown",
+      "outcome_type": "Metabolic",
+      "magnitude": "greater weight loss"
+    },
+    {
+      "name": "Improved quality of life",
+      "synonyms": [],
+      "source_text": "improved quality of life",
+      "page_number": "S168",
+      "evidence_level": "Unknown",
+      "outcome_type": "Quality of Life",
+      "magnitude": "Metabolic surgery"
+    },
+    {
+      "name": "Improved cardiovascular outcomes",
+      "synonyms": [],
+      "source_text": "improved cardiovascular outcomes",
+      "page_number": "S168",
+      "evidence_level": "Unknown",
+      "outcome_type": "Cardiovascular",
+      "magnitude": "Metabolic surgery"
+    },
+    {
+      "name": "Reduced mortality",
+      "synonyms": [],
+      "source_text": "reduced mortality",
+      "page_number": "S168",
+      "evidence_level": "Unknown",
+      "outcome_type": "Mortality",
+      "magnitude": "Metabolic surgery"
+    },
+    {
+      "name": "Weight loss of 5\u20137% of baseline weight",
+      "synonyms": [],
+      "source_text": "Weight loss of 5\u20137% of baseline weight",
+      "page_number": "S170",
+      "evidence_level": "Unknown",
+      "outcome_type": "Weight Management",
+      "magnitude": "5\u20137%"
+    },
+    {
+      "name": "Improved glycemia",
+      "synonyms": [],
+      "source_text": "improves glycemia",
+      "page_number": "S170",
+      "evidence_level": "Unknown",
+      "outcome_type": "Metabolic",
+      "magnitude": "Weight loss of 5\u20137% of baseline weight"
+    },
+    {
+      "name": "Improved intermediate cardiovascular risk factors",
+      "synonyms": [],
+      "source_text": "other intermediate cardiovascular risk factors",
+      "page_number": "S170",
+      "evidence_level": "Unknown",
+      "outcome_type": "Cardiovascular",
+      "magnitude": "Weight loss of 5\u20137% of baseline weight"
+    },
+    {
+      "name": "Sustained loss of >10% of body weight",
+      "synonyms": [],
+      "source_text": "sustained loss of >10% of body weight",
+      "page_number": "S170",
+      "evidence_level": "Unknown",
+      "outcome_type": "Weight Management",
+      "magnitude": ">10%"
+    },
+    {
+      "name": "Disease-modifying effects",
+      "synonyms": [],
+      "source_text": "disease-modifying effects",
+      "page_number": "S170",
+      "evidence_level": "Unknown",
+      "outcome_type": "Disease Management",
+      "magnitude": "Sustained loss of >10% of body weight"
+    },
+    {
+      "name": "Possible remission of type 2 diabetes",
+      "synonyms": [],
+      "source_text": "possible remission of type 2 diabetes",
+      "page_number": "S170",
+      "evidence_level": "Unknown",
+      "outcome_type": "Disease Remission",
+      "magnitude": "Sustained loss of >10% of body weight"
+    },
+    {
+      "name": "Improved long-term cardiovascular outcomes",
+      "synonyms": [],
+      "source_text": "improve long-term cardiovascular outcomes",
+      "page_number": "S170",
+      "evidence_level": "Unknown",
+      "outcome_type": "Cardiovascular",
+      "magnitude": "Sustained loss of >10% of body weight"
+    },
+    {
+      "name": "Reduced mortality",
+      "synonyms": [],
+      "source_text": "reduced mortality",
+      "page_number": "S170",
+      "evidence_level": "Unknown",
+      "outcome_type": "Mortality",
+      "magnitude": "Sustained loss of >10% of body weight"
+    },
+    {
+      "name": "Weight loss",
+      "synonyms": [],
+      "source_text": "weight loss",
+      "page_number": "S170",
+      "evidence_level": "Unknown",
+      "outcome_type": "Weight Management",
+      "magnitude": "N/A"
+    },
+    {
+      "name": "Reduced risk of mortality",
+      "synonyms": [],
+      "source_text": "reduced risk of mortality",
+      "page_number": "S170",
+      "evidence_level": "Unknown",
+      "outcome_type": "Mortality",
+      "magnitude": "\u226510% weight loss at 1 year"
+    },
+    {
+      "name": "Improved trunk fat loss",
+      "synonyms": [],
+      "source_text": "improved trunk fat loss",
+      "page_number": "S171",
+      "evidence_level": "Unknown",
+      "outcome_type": "Body Composition",
+      "magnitude": "N/A"
+    },
+    {
+      "name": "Improved glycemia",
+      "synonyms": [],
+      "source_text": "improve glycemia",
+      "page_number": "S171",
+      "evidence_level": "Unknown",
+      "outcome_type": "Metabolic",
+      "magnitude": "\u22655% weight loss"
+    },
+    {
+      "name": "Improved lipids",
+      "synonyms": [],
+      "source_text": "improve lipids",
+      "page_number": "S171",
+      "evidence_level": "Unknown",
+      "outcome_type": "Cardiovascular",
+      "magnitude": "\u22655% weight loss"
+    },
+    {
+      "name": "Improved blood pressure",
+      "synonyms": [],
+      "source_text": "improve blood pressure",
+      "page_number": "S171",
+      "evidence_level": "Unknown",
+      "outcome_type": "Cardiovascular",
+      "magnitude": "\u22655% weight loss"
+    },
+    {
+      "name": "Weight loss",
+      "synonyms": [],
+      "source_text": "weight loss",
+      "page_number": "S171",
+      "evidence_level": "Unknown",
+      "outcome_type": "Weight Management",
+      "magnitude": "N/A"
+    },
+    {
+      "name": "Glycemic improvements",
+      "synonyms": [],
+      "source_text": "glycemic improvements",
+      "page_number": "S171",
+      "evidence_level": "Unknown",
+      "outcome_type": "Metabolic",
+      "magnitude": "very-low-calorie eating patterns"
+    },
+    {
+      "name": "Weight recurrence",
+      "synonyms": [],
+      "source_text": "weight recurrence",
+      "page_number": "S171",
+      "evidence_level": "Unknown",
+      "outcome_type": "Weight Management",
+      "magnitude": "common"
+    },
+    {
+      "name": "Weight loss benefits",
+      "synonyms": [],
+      "source_text": "weight loss benefits",
+      "page_number": "S171",
+      "evidence_level": "Unknown",
+      "outcome_type": "Weight Management",
+      "magnitude": "progressive"
+    },
+    {
+      "name": "Improved cardiometabolic improvements",
+      "synonyms": [],
+      "source_text": "cardiometabolic improvements",
+      "page_number": "S174",
+      "evidence_level": "Unknown",
+      "outcome_type": "Cardiovascular",
+      "magnitude": "N/A"
+    },
+    {
+      "name": "Weight loss goals",
+      "synonyms": [],
+      "source_text": "weight loss goals",
+      "page_number": "S174",
+      "evidence_level": "Unknown",
+      "outcome_type": "Weight Management",
+      "magnitude": "N/A"
+    },
+    {
+      "name": "Type 2 diabetes remission",
+      "synonyms": [],
+      "source_text": "type 2 diabetes remission",
+      "page_number": "S177",
+      "evidence_level": "Unknown",
+      "outcome_type": "Disease Remission",
+      "magnitude": "86.1% after RYGB, 83.5% after VSG"
+    },
+    {
+      "name": "Substantial improvement of glycemia",
+      "synonyms": [],
+      "source_text": "substantial improvement of glycemia",
+      "page_number": "S178",
+      "evidence_level": "Unknown",
+      "outcome_type": "Metabolic",
+      "magnitude": "at least 5\u201315 years"
+    },
+    {
+      "name": "Weight loss",
+      "synonyms": [],
+      "source_text": "weight loss",
+      "page_number": "S178",
+      "evidence_level": "Unknown",
+      "outcome_type": "Weight Management",
+      "magnitude": "N/A"
+    },
+    {
+      "name": "Reduced cardiovascular disease",
+      "synonyms": [],
+      "source_text": "cardiovascular disease",
+      "page_number": "S172",
+      "evidence_level": "Unknown",
+      "outcome_type": "Cardiovascular",
+      "magnitude": "N/A"
+    },
+    {
+      "name": "Reduced microvascular complications",
+      "synonyms": [],
+      "source_text": "microvascular complications",
+      "page_number": "S172",
+      "evidence_level": "Unknown",
+      "outcome_type": "Complications",
+      "magnitude": "N/A"
+    },
+    {
+      "name": "Reduced macrovascular complications",
+      "synonyms": [],
+      "source_text": "macrovascular complications",
+      "page_number": "S172",
+      "evidence_level": "Unknown",
+      "outcome_type": "Complications",
+      "magnitude": "N/A"
+    },
+    {
+      "name": "Reduced all-cause mortality",
+      "synonyms": [],
+      "source_text": "all-cause mortality",
+      "page_number": "S168",
+      "evidence_level": "Unknown",
+      "outcome_type": "Mortality",
+      "magnitude": "N/A"
+    }
+  ],
+  "screening_tools": [
+    {
+      "name": "BMI",
+      "synonyms": [],
+      "source_text": "BMI",
+      "page_number": "S169",
+      "evidence_level": "Unknown",
+      "tool_type": "Anthropometric",
+      "threshold": "\u226530 kg/m\u00b2 or \u226527 kg/m\u00b2 with comorbidities",
+      "what_it_measures": "Overweight and obesity"
+    },
+    {
+      "name": "Waist-to-hip ratio",
+      "synonyms": [],
+      "source_text": "waist-to-hip ratio",
+      "page_number": "S169",
+      "evidence_level": "Unknown",
+      "tool_type": "Anthropometric",
+      "threshold": "N/A",
+      "what_it_measures": "Body fat distribution"
+    },
+    {
+      "name": "Dual-energy X-ray absorptiometry",
+      "synonyms": [],
+      "source_text": "dual-energy X-ray absorptiometry",
+      "page_number": "S169",
+      "evidence_level": "Unknown",
+      "tool_type": "Body Composition",
+      "threshold": "N/A",
+      "what_it_measures": "Body fat"
+    },
+    {
+      "name": "Bioelectrical impedance analysis",
+      "synonyms": [],
+      "source_text": "bioelectrical impedance analysis",
+      "page_number": "S169",
+      "evidence_level": "Unknown",
+      "tool_type": "Body Composition",
+      "threshold": "N/A",
+      "what_it_measures": "Body fat"
+    },
+    {
+      "name": "Micronutrient deficiency screening",
+      "synonyms": [],
+      "source_text": "screened for micronutrient deficiencies",
+      "page_number": "S171",
+      "evidence_level": "Unknown",
+      "tool_type": "Laboratory",
+      "threshold": "N/A",
+      "what_it_measures": "Micronutrient levels"
+    }
+  ],
+  "relationships": [
+    {
+      "source_entity": "Metabolic Surgery",
+      "target_entity": "BMI \u226530.0 kg/m\u00b2 (or \u226527.5 kg/m\u00b2 in Asian American individuals)",
+      "relationship_type": "INDICATED_FOR_BMI",
+      "evidence_level": "A",
+      "conditional_context": "People with type 2 diabetes with BMI \u226530.0 kg/m\u00b2 (or \u226527.5 kg/m\u00b2 in Asian American individuals) who are otherwise good surgical candidates."
+    },
+    {
+      "source_entity": "Metabolic Surgery",
+      "target_entity": "Weight and glycemic management",
+      "relationship_type": "TREATS",
+      "evidence_level": "A",
+      "conditional_context": "People with type 2 diabetes with BMI \u226530.0 kg/m\u00b2 (or \u226527.5 kg/m\u00b2 in Asian American individuals) who are otherwise good surgical candidates."
+    },
+    {
+      "source_entity": "Intensive behavioral and lifestyle counseling",
+      "target_entity": "Weight loss",
+      "relationship_type": "RECOMMENDS",
+      "evidence_level": "A",
+      "conditional_context": "N/A"
+    },
+    {
+      "source_entity": "Obesity pharmacotherapy",
+      "target_entity": "Weight loss",
+      "relationship_type": "RECOMMENDS",
+      "evidence_level": "A",
+      "conditional_context": "N/A"
+    },
+    {
+      "source_entity": "Weight loss of 5\u20137% of baseline weight",
+      "target_entity": "Improved glycemia",
+      "relationship_type": "IMPROVES",
+      "evidence_level": "N/A",
+      "conditional_context": "N/A"
+    },
+    {
+      "source_entity": "Sustained loss of >10% of body weight",
+      "target_entity": "Possible remission of type 2 diabetes",
+      "relationship_type": "LEADS_TO",
+      "evidence_level": "N/A",
+      "conditional_context": "N/A"
+    },
+    {
+      "source_entity": "Behavioral interventions",
+      "target_entity": "Weight loss",
+      "relationship_type": "ACHIEVES",
+      "evidence_level": "A",
+      "conditional_context": "N/A"
+    },
+    {
+      "source_entity": "Energy deficit",
+      "target_entity": "Weight loss",
+      "relationship_type": "REQUIRED_FOR",
+      "evidence_level": "A",
+      "conditional_context": "N/A"
+    },
+    {
+      "source_entity": "Low carbohydrate diets",
+      "target_entity": "Weight loss",
+      "relationship_type": "ASSOCIATED_WITH",
+      "evidence_level": "N/A",
+      "conditional_context": "No greater benefits than balanced carbohydrate diets"
+    },
+    {
+      "source_entity": "Balanced carbohydrate diets",
+      "target_entity": "Weight loss",
+      "relationship_type": "ASSOCIATED_WITH",
+      "evidence_level": "N/A",
+      "conditional_context": "N/A"
+    },
+    {
+      "source_entity": "Very-low-calorie interventions",
+      "target_entity": "Increased pace and/or magnitude of initial weight loss",
+      "relationship_type": "ACHIEVES",
+      "evidence_level": "N/A",
+      "conditional_context": "N/A"
+    },
+    {
+      "source_entity": "Very-low-calorie interventions",
+      "target_entity": "Glycemic improvements",
+      "relationship_type": "ACHIEVES",
+      "evidence_level": "N/A",
+      "conditional_context": "N/A"
+    },
+    {
+      "source_entity": "GLP-1 receptor agonists",
+      "target_entity": "Weight loss",
+      "relationship_type": "ASSOCIATED_WITH",
+      "evidence_level": "A",
+      "conditional_context": "N/A"
+    },
+    {
+      "source_entity": "Dual GIP and GLP-1 RA",
+      "target_entity": "Weight loss",
+      "relationship_type": "ASSOCIATED_WITH",
+      "evidence_level": "A",
+      "conditional_context": "N/A"
+    },
+    {
+      "source_entity": "Sodium\u2013glucose cotransporter 2 inhibitors",
+      "target_entity": "Weight loss",
+      "relationship_type": "ASSOCIATED_WITH",
+      "evidence_level": "N/A",
+      "conditional_context": "Magnitude of weight loss is much smaller (<5% body weight loss)"
+    },
+    {
+      "source_entity": "Metformin",
+      "target_entity": "Weight loss",
+      "relationship_type": "ASSOCIATED_WITH",
+      "evidence_level": "N/A",
+      "conditional_context": "Magnitude of weight loss is much smaller (<5% body weight loss)"
+    },
+    {
+      "source_entity": "BMI",
+      "target_entity": "Overweight and obesity",
+      "relationship_type": "ASSESSES",
+      "evidence_level": "N/A",
+      "conditional_context": "Annually"
+    },
+    {
+      "source_entity": "Waist-to-hip ratio",
+      "target_entity": "Excess adiposity",
+      "relationship_type": "CONFIRMS",
+      "evidence_level": "N/A",
+      "conditional_context": "Where available/feasible"
+    },
+    {
+      "source_entity": "BMI",
+      "target_entity": "Metabolic Surgery",
+      "relationship_type": "CRITERIA_FOR",
+      "evidence_level": "A",
+      "conditional_context": "\u226530 kg/m\u00b2 or \u226527 kg/m\u00b2 with one or more obesity-associated comorbid conditions"
+    },
+    {
+      "source_entity": "Health disparities",
+      "target_entity": "Obesity",
+      "relationship_type": "INCREASES_RISK_FOR",
+      "evidence_level": "N/A",
+      "conditional_context": "N/A"
+    },
+    {
+      "source_entity": "Socioeconomic factors",
+      "target_entity": "Weight management interventions",
+      "relationship_type": "CAN_IMPACT",
+      "evidence_level": "N/A",
+      "conditional_context": "N/A"
+    },
+    {
+      "source_entity": "Cultural considerations",
+      "target_entity": "Weight management interventions",
+      "relationship_type": "CAN_IMPACT",
+      "evidence_level": "N/A",
+      "conditional_context": "N/A"
+    },
+    {
+      "source_entity": "Food choices",
+      "target_entity": "Obesity",
+      "relationship_type": "INFLUENCED_BY",
+      "evidence_level": "N/A",
+      "conditional_context": "N/A"
+    },
+    {
+      "source_entity": "Access to healthful foods",
+      "target_entity": "Nutrition patterns",
+      "relationship_type": "IMPACTS",
+      "evidence_level": "N/A",
+      "conditional_context": "N/A"
+    },
+    {
+      "source_entity": "Unknown",
+      "target_entity": "Unknown",
+      "relationship_type": "Unknown",
+      "evidence_level": "Unknown",
+      "conditional_context": "None"
+    }
+  ]
+}

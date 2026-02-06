@@ -9,7 +9,9 @@ langchain_huggingface
 openai
 langchain_ollama
 neo4j 
-qdrant-client
+qdrant-client>=1.7.0
 pdfplumber
 llama-index
 llama-parse
+sentence-transformers>=2.2.2
+tiktoken>=0.5.0

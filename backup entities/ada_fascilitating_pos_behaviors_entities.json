@@ -1,0 +1,792 @@
+{
+  "interventions": [
+    {
+      "name": "Diabetes Self-Management Education and Support (DSMES)",
+      "synonyms": [
+        "DSMES"
+      ],
+      "source_text": "Essential to achieving these goals are diabetes self-management education and support (DSMES), medical nutrition therapy (MNT), routine physical activity, adequate quality sleep, support for cessation of tobacco products and vaping, health behavior counseling, and psychosocial care.",
+      "page_number": "S89",
+      "evidence_level": "Unknown",
+      "intervention_type": "Education and Support",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Medical Nutrition Therapy (MNT)",
+      "synonyms": [],
+      "source_text": "Essential to achieving these goals are diabetes self-management education and support (DSMES), medical nutrition therapy (MNT), routine physical activity, adequate quality sleep, support for cessation of tobacco products and vaping, health behavior counseling, and psychosocial care.",
+      "page_number": "S89",
+      "evidence_level": "Unknown",
+      "intervention_type": "Therapy",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Health behavior counseling",
+      "synonyms": [],
+      "source_text": "Essential to achieving these goals are diabetes self-management education and support (DSMES), medical nutrition therapy (MNT), routine physical activity, adequate quality sleep, support for cessation of tobacco products and vaping, health behavior counseling, and psychosocial care.",
+      "page_number": "S89",
+      "evidence_level": "Unknown",
+      "intervention_type": "Counseling",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Psychosocial care",
+      "synonyms": [],
+      "source_text": "Essential to achieving these goals are diabetes self-management education and support (DSMES), medical nutrition therapy (MNT), routine physical activity, adequate quality sleep, support for cessation of tobacco products and vaping, health behavior counseling, and psychosocial care.",
+      "page_number": "S89",
+      "evidence_level": "Unknown",
+      "intervention_type": "Care",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Person-centered collaborative care",
+      "synonyms": [],
+      "source_text": "Following an initial comprehensive health evaluation (see section 4, \u201cComprehensive Medical Evaluation and Assessment of Comorbidities\u201d), health care professionals should engage in person-centered collaborative care with people with diabetes (3\u20137).",
+      "page_number": "S89",
+      "evidence_level": "Unknown",
+      "intervention_type": "Care Model",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Motivational interviewing",
+      "synonyms": [
+        "MI"
+      ],
+      "source_text": "Use behavioral strategies (e.g., motivational interviewing, goal setting, problem-solving) to support DSMES and engagement in behaviors known to optimize health-related quality of life and outcomes. A",
+      "page_number": "S90",
+      "evidence_level": "A",
+      "intervention_type": "Behavioral Strategy",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Goal setting",
+      "synonyms": [],
+      "source_text": "Use behavioral strategies (e.g., motivational interviewing, goal setting, problem-solving) to support DSMES and engagement in behaviors known to optimize health-related quality of life and outcomes. A",
+      "page_number": "S90",
+      "evidence_level": "A",
+      "intervention_type": "Behavioral Strategy",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Problem-solving",
+      "synonyms": [],
+      "source_text": "Use behavioral strategies (e.g., motivational interviewing, goal setting, problem-solving) to support DSMES and engagement in behaviors known to optimize health-related quality of life and outcomes. A",
+      "page_number": "S90",
+      "evidence_level": "A",
+      "intervention_type": "Behavioral Strategy",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Telehealth DSMES",
+      "synonyms": [],
+      "source_text": "Offer DSMES via telehealth and/or digital interventions to meet individual preferences, reduce access barriers, and improve satisfaction. B",
+      "page_number": "S90",
+      "evidence_level": "B",
+      "intervention_type": "Delivery Method",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Digital interventions for DSMES",
+      "synonyms": [],
+      "source_text": "Offer DSMES via telehealth and/or digital interventions to meet individual preferences, reduce access barriers, and improve satisfaction. B",
+      "page_number": "S90",
+      "evidence_level": "B",
+      "intervention_type": "Delivery Method",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Individualized medical nutrition therapy",
+      "synonyms": [],
+      "source_text": "Provide individualized medical nutrition therapy by referring people with prediabetes or diabetes to a registered dietitian nutritionist, preferably one who has comprehensive experience in diabetes care. A",
+      "page_number": "S92",
+      "evidence_level": "A",
+      "intervention_type": "Therapy",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Overweight or obesity treatment plan",
+      "synonyms": [],
+      "source_text": "Provide an overweight or obesity treatment plan based on their nutrition, physical activity, and behavioral health status for all people with overweight or obesity, aiming for at least 5\u20137% weight loss. A",
+      "page_number": "S92",
+      "evidence_level": "A",
+      "intervention_type": "Treatment Plan",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Behavioral interventions for weight loss",
+      "synonyms": [],
+      "source_text": "Some RCTs report less than 5% weight loss in adults with diabetes and overweight or obesity following a lifestyle behavioral intervention, but this limited amount of weight loss has not been shown to improve glycemia, lipids, or blood pressure; rather, a minimum weight loss of 5% or more seems necessary to achieve metabolic improvements (184).",
+      "page_number": "S98",
+      "evidence_level": "Unknown",
+      "intervention_type": "Behavioral Intervention",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Medication-assisted weight loss",
+      "synonyms": [],
+      "source_text": "In conjunction with support for healthy lifestyle behaviors, medication-assisted weight loss can be considered for people at risk for type 2 diabetes when needed to achieve and sustain 7\u201310% weight loss (185,186) (see section 8, \u201cObesity and Weight Management for the Prevention and Treatment of Diabetes\u201d).",
+      "page_number": "S98",
+      "evidence_level": "Unknown",
+      "intervention_type": "Pharmacotherapy",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Behavioral interventions for prediabetes",
+      "synonyms": [],
+      "source_text": "People with prediabetes and healthy weight range should also be considered for behavioral interventions to help establish routine aerobic and resistance exercise (182,187,188) and healthy eating patterns.",
+      "page_number": "S98",
+      "evidence_level": "Unknown",
+      "intervention_type": "Behavioral Intervention",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "GLP-1 RAs for weight loss",
+      "synonyms": [
+        "Glucagon-like peptide 1 receptor agonists for weight loss"
+      ],
+      "source_text": "Newer medications (e.g., glucagon-like peptide 1 receptor agonists [GLP-1 RAs]) may be more viable, positively affect cardiovascular outcomes, and produce weight reduction beyond 10\u201315% (194\u2013198).",
+      "page_number": "S99",
+      "evidence_level": "Unknown",
+      "intervention_type": "Pharmacotherapy",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Combined obesity pharmacotherapy with exercise programs",
+      "synonyms": [],
+      "source_text": "In addition to metabolic surgery, combining obesity pharmacotherapy with exercise programs may lead to some synergistic benefits.",
+      "page_number": "S100",
+      "evidence_level": "Unknown",
+      "intervention_type": "Combined Therapy",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Structured exercise training plus a GLP-1 RA",
+      "synonyms": [],
+      "source_text": "Combination of structured exercise training plus a GLP-1 RA has demonstrated improvements in \u03b2-cell function, glucose tolerance, and insulin sensitivity (321,322), reductions in abdominal adiposity and inflammation (323), and more favorable effects on body composition such as fat mass loss, fat-free mass maintenance, and reduced waist circumference (321\u2013324).",
+      "page_number": "S100",
+      "evidence_level": "Unknown",
+      "intervention_type": "Combined Therapy",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Flexibility and balance training",
+      "synonyms": [],
+      "source_text": "Older adults with diabetes are encouraged to participate in flexibility and balance training 2\u20133 times/week.",
+      "page_number": "S101",
+      "evidence_level": "Unknown",
+      "intervention_type": "Exercise Training",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Tobacco and/or vape product cessation counseling",
+      "synonyms": [],
+      "source_text": "For individuals who use these products, provide or refer for combination treatment consisting of tobacco and/or vape product(s) cessation counseling and pharmacologic therapy. A",
+      "page_number": "S103",
+      "evidence_level": "A",
+      "intervention_type": "Counseling",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Pharmacologic therapy for tobacco cessation",
+      "synonyms": [],
+      "source_text": "For individuals who use these products, provide or refer for combination treatment consisting of tobacco and/or vape product(s) cessation counseling and pharmacologic therapy. A",
+      "page_number": "S103",
+      "evidence_level": "A",
+      "intervention_type": "Pharmacotherapy",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Personalized weight management programs for smoking cessation",
+      "synonyms": [],
+      "source_text": "Several approaches that may modestly reduce weight gain, including personalized weight management programs, exercise programs, nicotine replacement therapy, and fluoxetine (346).",
+      "page_number": "S103",
+      "evidence_level": "Unknown",
+      "intervention_type": "Weight Management Program",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Exercise programs for smoking cessation",
+      "synonyms": [],
+      "source_text": "Several approaches that may modestly reduce weight gain, including personalized weight management programs, exercise programs, nicotine replacement therapy, and fluoxetine (346).",
+      "page_number": "S103",
+      "evidence_level": "Unknown",
+      "intervention_type": "Exercise Program",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Nicotine replacement therapy for smoking cessation",
+      "synonyms": [],
+      "source_text": "Several approaches that may modestly reduce weight gain, including personalized weight management programs, exercise programs, nicotine replacement therapy, and fluoxetine (346).",
+      "page_number": "S103",
+      "evidence_level": "Unknown",
+      "intervention_type": "Pharmacotherapy",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Fluoxetine for smoking cessation",
+      "synonyms": [],
+      "source_text": "Several approaches that may modestly reduce weight gain, including personalized weight management programs, exercise programs, nicotine replacement therapy, and fluoxetine (346).",
+      "page_number": "S103",
+      "evidence_level": "Unknown",
+      "intervention_type": "Pharmacotherapy",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "GLP-1 RAs for smoking cessation",
+      "synonyms": [
+        "Glucagon-like peptide 1 receptor agonists for smoking cessation"
+      ],
+      "source_text": "Emerging research suggests GLP-1 RAs may improve smoking cessation, reduce cravings and withdrawal symptoms, and decrease weight gain in adults with overweight and/or prediabetes (347).",
+      "page_number": "S103",
+      "evidence_level": "Unknown",
+      "intervention_type": "Pharmacotherapy",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Behavioral strategies for health behavior change",
+      "synonyms": [],
+      "source_text": "Evidence-based behavioral strategies and multicomponent interventions, including motivational interviewing (366,367), activation (368), goal setting and action planning (367,369,370), problem-solving (8,369), tracking or self-monitoring health behaviors with or without feedback from a health care professional (367,369,370), and facilitating opportunities for social support (367,369,370), help people with diabetes and their caregivers develop health behavior routines and overcome barriers to self-management.",
+      "page_number": "S104",
+      "evidence_level": "Unknown",
+      "intervention_type": "Behavioral Strategy",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Multicomponent interventions for health behavior change",
+      "synonyms": [],
+      "source_text": "Multicomponent interventions are the most effective for improving behavior and glycemic outcomes (370,372), particularly in children and adolescents with diabetes when delivered as family-based or multisystem behavioral interventions (373).",
+      "page_number": "S104",
+      "evidence_level": "Unknown",
+      "intervention_type": "Behavioral Intervention",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Psychosocial care",
+      "synonyms": [],
+      "source_text": "5.42 Provide psychosocial care to all people with diabetes as part of routine medical care delivered by trained health care professionals using a collaborative, person-centered, culturally informed approach.",
+      "page_number": "S104",
+      "evidence_level": "Unknown",
+      "intervention_type": "Care",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Cognitive behavioral therapy (CBT)",
+      "synonyms": [],
+      "source_text": "Successful evidence-based approaches include cognitive behavioral (392,396,412) and mindfulness-based therapies (413).",
+      "page_number": "S108",
+      "evidence_level": "Unknown",
+      "intervention_type": "Therapy",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Mindfulness-based therapies",
+      "synonyms": [],
+      "source_text": "Successful evidence-based approaches include cognitive behavioral (392,396,412) and mindfulness-based therapies (413).",
+      "page_number": "S108",
+      "evidence_level": "Unknown",
+      "intervention_type": "Therapy",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "DSMES for diabetes distress",
+      "synonyms": [],
+      "source_text": "DSMES has been shown to reduce diabetes distress (6,443) and may benefit A1C.",
+      "page_number": "S109",
+      "evidence_level": "Unknown",
+      "intervention_type": "Education and Support",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Brief coping strategies",
+      "synonyms": [],
+      "source_text": "Health care professionals can introduce brief coping strategies (e.g., values affirmation, mindful breathing, cognitive reframing) and highlight past successes to reinforce resilience.",
+      "page_number": "S108",
+      "evidence_level": "Unknown",
+      "intervention_type": "Coping Strategy",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Collaborative care interventions",
+      "synonyms": [],
+      "source_text": "Collaborative care interventions and a team approach have demonstrated efficacy in diabetes self-management, depression outcomes, and psychosocial functioning (6,7).",
+      "page_number": "S110",
+      "evidence_level": "Unknown",
+      "intervention_type": "Care Model",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Integrated care approaches",
+      "synonyms": [],
+      "source_text": "Person-centered integrated care approaches have been shown to improve both depression and glycemic outcomes (5).",
+      "page_number": "S112",
+      "evidence_level": "Unknown",
+      "intervention_type": "Care Model",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Pharmacologic treatment for depression",
+      "synonyms": [],
+      "source_text": "RCTs examining pharmacologic treatment, group therapy, psychotherapy, parenting interventions, mindfulness-based approaches, or collaborative care have shown varying degrees of effectiveness.",
+      "page_number": "S112",
+      "evidence_level": "Unknown",
+      "intervention_type": "Pharmacotherapy",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Group therapy for depression",
+      "synonyms": [],
+      "source_text": "RCTs examining pharmacologic treatment, group therapy, psychotherapy, parenting interventions, mindfulness-based approaches, or collaborative care have shown varying degrees of effectiveness.",
+      "page_number": "S112",
+      "evidence_level": "Unknown",
+      "intervention_type": "Therapy",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Psychotherapy for depression",
+      "synonyms": [],
+      "source_text": "RCTs examining pharmacologic treatment, group therapy, psychotherapy, parenting interventions, mindfulness-based approaches, or collaborative care have shown varying degrees of effectiveness.",
+      "page_number": "S112",
+      "evidence_level": "Unknown",
+      "intervention_type": "Therapy",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Parenting interventions for depression",
+      "synonyms": [],
+      "source_text": "RCTs examining pharmacologic treatment, group therapy, psychotherapy, parenting interventions, mindfulness-based approaches, or collaborative care have shown varying degrees of effectiveness.",
+      "page_number": "S112",
+      "evidence_level": "Unknown",
+      "intervention_type": "Intervention",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Lifestyle interventions for depression",
+      "synonyms": [],
+      "source_text": "Lifestyle interventions targeting nutrition and/or physical activity also demonstrate benefits for depressive symptoms and A1C (251) on their own and when combined with CBT (481-483).",
+      "page_number": "S112",
+      "evidence_level": "Unknown",
+      "intervention_type": "Lifestyle Intervention",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Diabetes Eating Problem Survey-Revised (DEPS-R)",
+      "synonyms": [],
+      "source_text": "For individuals with type 1 diabetes, the Diabetes Eating Problem Survey-Revised (DEPS-R) (501) is recommended to screen for disordered eating behaviors...",
+      "page_number": "S114",
+      "evidence_level": "Unknown",
+      "intervention_type": "Screening Tool",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "mSCOFF screening questionnaire",
+      "synonyms": [],
+      "source_text": "...while the mSCOFF (502), a five-item screening questionnaire, is for eating disorders and includes a question on insulin omission.",
+      "page_number": "S114",
+      "evidence_level": "Unknown",
+      "intervention_type": "Screening Tool",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Questionnaire on Eating and Weight Patterns-5 (QEWP-5)",
+      "synonyms": [],
+      "source_text": "For type 2 diabetes, recommended screening measures include the Questionnaire on Eating and Weight Patterns-5 (QEWP-5) (503), the Binge Eating Scale (504), and the Night Eating Questionnaire (505).",
+      "page_number": "S114",
+      "evidence_level": "Unknown",
+      "intervention_type": "Screening Tool",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Binge Eating Scale",
+      "synonyms": [],
+      "source_text": "For type 2 diabetes, recommended screening measures include the Questionnaire on Eating and Weight Patterns-5 (QEWP-5) (503), the Binge Eating Scale (504), and the Night Eating Questionnaire (505).",
+      "page_number": "S114",
+      "evidence_level": "Unknown",
+      "intervention_type": "Screening Tool",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Night Eating Questionnaire",
+      "synonyms": [],
+      "source_text": "For type 2 diabetes, recommended screening measures include the Questionnaire on Eating and Weight Patterns-5 (QEWP-5) (503), the Binge Eating Scale (504), and the Night Eating Questionnaire (505).",
+      "page_number": "S114",
+      "evidence_level": "Unknown",
+      "intervention_type": "Screening Tool",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Enhanced monitoring for diabetes self-management",
+      "synonyms": [],
+      "source_text": "Provide an increased level of support for people with diabetes and serious mental illness through enhanced monitoring of and assistance with diabetes self-management behaviors. B",
+      "page_number": "S115",
+      "evidence_level": "B",
+      "intervention_type": "Monitoring",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Cognitive capacity monitoring",
+      "synonyms": [],
+      "source_text": "Monitor cognitive capacity throughout the life span for all individuals with diabetes, particularly in those who have documented cognitive disabilities, those who experience severe hypoglycemia, very young children, and older adults. B",
+      "page_number": "S115",
+      "evidence_level": "B",
+      "intervention_type": "Monitoring",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Formal assessment for cognitive capacity",
+      "synonyms": [],
+      "source_text": "Consider referral for a formal assessment if cognitive capacity changes or appears to be suboptimal for decision-making and/or behavioral self-management. E",
+      "page_number": "S115",
+      "evidence_level": "E",
+      "intervention_type": "Assessment",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Sleep health screening",
+      "synonyms": [],
+      "source_text": "Screen for sleep health in people with prediabetes or diabetes and in those at risk for diabetes, including screening for sleep disorders and diabetes-related sleep disruptions. Refer to sleep medicine specialists and/or qualified behavioral health professionals or diabetes care team as indicated.",
+      "page_number": "S116",
+      "evidence_level": "Unknown",
+      "intervention_type": "Screening",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Sleep-promoting routines and habits counseling",
+      "synonyms": [],
+      "source_text": "Counsel people with diabetes to practice sleep-promoting routines and habits.",
+      "page_number": "S116",
+      "evidence_level": "Unknown",
+      "intervention_type": "Counseling",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Continuous positive airway pressure (CPAP)",
+      "synonyms": [],
+      "source_text": "A systematic review and meta-analysis found that continuous positive airway pressure (CPAP) significantly reduced A1C by 0.24% (561).",
+      "page_number": "S116",
+      "evidence_level": "Unknown",
+      "intervention_type": "Therapy",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Sleep education (sleep hygiene)",
+      "synonyms": [],
+      "source_text": "Diabetes care professionals are encouraged to counsel people with diabetes to use sleep-promoting routines and practices, such as establishing a regular bedtime and rise time, creating a dark, quiet area for sleep with temperature and humidity control, establishing a pre-sleep routine, and putting electronic devices (except diabetes management devices) in silent/off mode, exercising during the day.",
+      "page_number": "S116",
+      "evidence_level": "Unknown",
+      "intervention_type": "Education",
+      "duration": null,
+      "frequency": null
+    }
+  ],
+  "behaviors": [
+    {
+      "name": "Diabetes self-management education and support (DSMES)",
+      "synonyms": [
+        "DSMES"
+      ],
+      "source_text": "Advise all people with diabetes to participate in developmentally and culturally appropriate diabetes self-management education and support (DSMES) to facilitate informed decision-making, self-care behaviors, problem-solving, and active collaboration with the health care team.",
+      "page_number": "S90",
+      "evidence_level": "Unknown",
+      "behavior_category": "Education and Support",
+      "target_amount": null
+    },
+    {
+      "name": "Routine physical activity",
+      "synonyms": [],
+      "source_text": "Essential to achieving these goals are diabetes self-management education and support (DSMES), medical nutrition therapy (MNT), routine physical activity, adequate quality sleep, support for cessation of tobacco products and vaping, health behavior counseling, and psychosocial care.",
+      "page_number": "S89",
+      "evidence_level": "Unknown",
+      "behavior_category": "Physical Activity",
+      "target_amount": null
+    },
+    {
+      "name": "Adequate quality sleep",
+      "synonyms": [],
+      "source_text": "Essential to achieving these goals are diabetes self-management education and support (DSMES), medical nutrition therapy (MNT), routine physical activity, adequate quality sleep, support for cessation of tobacco products and vaping, health behavior counseling, and psychosocial care.",
+      "page_number": "S89",
+      "evidence_level": "Unknown",
+      "behavior_category": "Sleep",
+      "target_amount": null
+    },
+    {
+      "name": "Cessation of tobacco products and vaping",
+      "synonyms": [],
+      "source_text": "Essential to achieving these goals are diabetes self-management education and support (DSMES), medical nutrition therapy (MNT), routine physical activity, adequate quality sleep, support for cessation of tobacco products and vaping, health behavior counseling, and psychosocial care.",
+      "page_number": "S89",
+      "evidence_level": "Unknown",
+      "behavior_category": "Substance Use Cessation",
+      "target_amount": null
+    },
+    {
+      "name": "Person-centered collaborative care",
+      "synonyms": [],
+      "source_text": "Following an initial comprehensive health evaluation (see section 4, \u201cComprehensive Medical Evaluation and Assessment of Comorbidities\u201d), health care professionals should engage in person-centered collaborative care with people with diabetes (3\u20137).",
+      "page_number": "S89",
+      "evidence_level": "Unknown",
+      "behavior_category": "Care Engagement",
+      "target_amount": null
+    },
+    {
+      "name": "Shared decision-making",
+      "synonyms": [],
+      "source_text": "Person-centered collaborative care is guided by shared decision-making in treatment plan selection; facilitating access to medical, behavioral, psychosocial, educational, and technological resources and support; and shared monitoring of agreed-upon diabetes care plans and behavioral goals (8,9).",
+      "page_number": "S89",
+      "evidence_level": "Unknown",
+      "behavior_category": "Decision Making",
+      "target_amount": null
+    },
+    {
+      "name": "Monitoring of diabetes care plans and behavioral goals",
+      "synonyms": [],
+      "source_text": "Person-centered collaborative care is guided by shared decision-making in treatment plan selection; facilitating access to medical, behavioral, psychosocial, educational, and technological resources and support; and shared monitoring of agreed-upon diabetes care plans and behavioral goals (8,9).",
+      "page_number": "S89",
+      "evidence_level": "Unknown",
+      "behavior_category": "Monitoring",
+      "target_amount": null
+    },
+    {
+      "name": "Assess clinical outcomes, health status, and well-being",
+      "synonyms": [],
+      "source_text": "Assess clinical outcomes, health status, and well-being as key goals of DSMES on an individualized timeframe. C",
+      "page_number": "S90",
+      "evidence_level": "C",
+      "behavior_category": "Assessment",
+      "target_amount": null
+    },
+    {
+      "name": "Use behavioral strategies",
+      "synonyms": [],
+      "source_text": "Use behavioral strategies (e.g., motivational interviewing, goal setting, problem-solving) to support DSMES and engagement in behaviors known to optimize health-related quality of life and outcomes. A",
+      "page_number": "S90",
+      "evidence_level": "A",
+      "behavior_category": "Behavior Change Strategy",
+      "target_amount": null
+    },
+    {
+      "name": "Culturally and socially appropriate DSMES",
+      "synonyms": [],
+      "source_text": "Provide culturally and socially appropriate DSMES responsive to personal preferences and needs in group or individual settings. A",
+      "page_number": "S90",
+      "evidence_level": "A",
+      "behavior_category": "Education and Support",
+      "target_amount": null
+    },
+    {
+      "name": "Communicate DSMES participation with the diabetes care team",
+      "synonyms": [],
+      "source_text": "Communicate DSMES participation with the diabetes care team. E",
+      "page_number": "S90",
+      "evidence_level": "E",
+      "behavior_category": "Communication",
+      "target_amount": null
+    },
+    {
+      "name": "Offer DSMES via telehealth and/or digital interventions",
+      "synonyms": [],
+      "source_text": "Offer DSMES via telehealth and/or digital interventions to meet individual preferences, reduce access barriers, and improve satisfaction. B",
+      "page_number": "S90",
+      "evidence_level": "B",
+      "behavior_category": "Delivery Method",
+      "target_amount": null
+    },
+    {
+      "name": "Address barriers to DSMES",
+      "synonyms": [],
+      "source_text": "Identify and address barriers to DSMES that exist at the payor, health system, clinic, health care professional, and individual levels. E",
+      "page_number": "S90",
+      "evidence_level": "E",
+      "behavior_category": "Problem Solving",
+      "target_amount": null
+    },
+    {
+      "name": "Assess social determinants of health (SDOH)",
+      "synonyms": [],
+      "source_text": "Assess the social determinants of health to guide and design delivery of DSMES to maximize health equity across populations. C",
+      "page_number": "S90",
+      "evidence_level": "C",
+      "behavior_category": "Assessment",
+      "target_amount": null
+    },
+    {
+      "name": "Engage in self-management behaviors",
+      "synonyms": [],
+      "source_text": "Engagement in self-management behaviors and subsequent clinical outcomes, health status, and quality of life, in addition to psychosocial factors affecting the person\u2019s ability to self-manage, should be monitored on an individualized timeframe (e.g., the four critical times listed in Recommendation 5.2).",
+      "page_number": "S90",
+      "evidence_level": "Unknown",
+      "behavior_category": "Self-Management",
+      "target_amount": null
+    },
+    {
+      "name": "Participate in DSMES",
+      "synonyms": [],
+      "source_text": "Advise all people with diabetes to participate in developmentally and culturally appropriate diabetes self-management education and support (DSMES) to facilitate informed decision-making, self-care behaviors, problem-solving, and active collaboration with the health care team.",
+      "page_number": "S90",
+      "evidence_level": "Unknown",
+      "behavior_category": "Education and Support",
+      "target_amount": null
+    },
+    {
+      "name": "Individualized meal plans",
+      "synonyms": [],
+      "source_text": "For diabetes prevention and management of people with prediabetes or diabetes, recommend individualized meal plans that keep nutrient quality, total calories, and metabolic goals in mind. B",
+      "page_number": "S92",
+      "evidence_level": "B",
+      "behavior_category": "Dietary Pattern",
+      "target_amount": null
+    },
+    {
+      "name": "Emphasize key nutrition principles",
+      "synonyms": [],
+      "source_text": "Eating patterns should emphasize key nutrition principles (inclusion of nonstarchy vegetables, whole fruits, legumes, lean proteins, whole grains, nuts and seeds, and low-fat dairy or nondairy alternatives) and minimize consumption of red meat, sugar-sweetened beverages, sweets, refined grains, processed and ultraprocessed foods in people with prediabetes and diabetes. B",
+      "page_number": "S92",
+      "evidence_level": "B",
+      "behavior_category": "Dietary Pattern",
+      "target_amount": null
+    },
+    {
+      "name": "Limit carbohydrate intake",
+      "synonyms": [],
+      "source_text": "Consider reducing carbohydrate intake for some adults with diabetes to improve glycemia. An effective way to achieve this is by limiting consumption of processed foods. B",
+      "page_number": "S92",
+      "evidence_level": "B",
+      "behavior_category": "Dietary Pattern",
+      "target_amount": null
+    },
+    {
+      "name": "Limit sodium consumption",
+      "synonyms": [],
+      "source_text": "Counsel people with diabetes to limit sodium consumption to &#x3C;2,300 mg/day, as clinically appropriate, and the best way to achieve this is through limiting consumption of processed foods. B",
+      "page_number": "S92",
+      "evidence_level": "B",
+      "behavior_category": "Dietary Pattern",
+      "target_amount": null
+    },
+    {
+      "name": "Consume water over other beverages",
+      "synonyms": [],
+      "source_text": "Encourage people with diabetes to consume water over other beverages. A",
+      "page_number": "S92",
+      "evidence_level": "A",
+      "behavior_category": "Beverage Consumption",
+      "target_amount": null
+    },
+    {
+      "name": "Use nonnutritive sweeteners in moderation",
+      "synonyms": [],
+      "source_text": "Counsel people with diabetes and those at risk for diabetes that nonnutritive sweeteners can be used in place of sugar-sweetened products if consumed in moderation and for the short term to reduce overall calorie and carbohydrate intake. B",
+      "page_number": "S92",
+      "evidence_level": "B",
+      "behavior_category": "Dietary Pattern",
+      "target_amount": null
+    },
+    {
+      "name": "Pursue intentional weight loss",
+      "synonyms": [],
+      "source_text": "Counsel and regularly monitor individuals pursuing intentional weight loss to ensure adequate nutritional intake, with particular attention to preventing protein insufficiency and micronutrient deficiencies. E",
+      "page_number": "S92",
+      "evidence_level": "E",
+      "behavior_category": "Weight Management",
+      "target_amount": null
+    },
+    {
+      "name": "Emphasize minimally processed, nutrient-dense, high-fiber sources of carbohydrate",
+      "synonyms": [],
+      "source_text": "Emphasize minimally processed, nutrient-dense, high-fiber sources of carbohydrate (at least 14 g fiber per 1,000 kcal). B",
+      "page_number": "S92",
+      "evidence_level": "B",
+      "behavior_category": "Dietary Pattern",
+      "target_amount": null
+    },
+    {
+      "name": "Replace sugar-sweetened beverages with water or low-calorie/no-calorie beverages",
+      "synonyms": [],
+      "source_text": "Advise people with diabetes and those at risk for diabetes to replace sugar-sweetened beverages (including any juices) with water or low-calorie or no-calorie beverages and minimize foods with added sugar to manage glycemia and reduce risk for cardiometabolic disease. B",
+      "page_number": "S92",
+      "evidence_level": "B",
+      "behavior_category": "Beverage Consumption",
+      "target_amount": null
+    },
+    {
+      "name": "Minimize foods with added sugar",
+      "synonyms": [],
+      "source_text": "Advise people with diabetes and those at risk for diabetes to replace sugar-sweetened beverages (including any juices) with water or low-calorie or no-calorie beverages and minimize foods with added sugar to manage glycemia and reduce risk for cardiometabolic disease. B",
+      "page_number": "S92",
+      "evidence_level": "B",
+      "behavior_category": "Dietary Pattern",
+      "target_amount": null
+    },
+    {
+      "name": "Avoid a ketogenic eating pattern",
+      "synonyms": [],
+      "source_text": "Educate individuals with diabetes who are at risk for developing diabetic ketoacidosis and who are treated with sodium\u2013glucose cotransporter inhibition on the risks and signs of ketoacidosis and methods of risk mitigation management, provide them with appropriate tools for ketone measurement (i.e., serum \u03b2-hydroxybutyrate), and discourage a ketogenic eating pattern. E",
+      "page_number": "S92",
+      "evidence_level": "E",
+      "behavior_category": "Dietary Pattern",
+      "target_amount": null
+    },
+    {
+      "name": "Provide education on the glycemic impact of carbohydrate, fat, and protein",
+      "synonyms": [],
+      "source_text": "Provide education on the glycemic impact of carbohydrate, A fat, and",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "behavior_category": "Unknown",
+      "target_amount": null
+    }
+  ],
+  "social_determinants": [],
+  "outcomes": [],
+  "screening_tools": [],
+  "relationships": []
+}

@@ -1,0 +1,1730 @@
+{
+  "interventions": [
+    {
+      "name": "Diabetes Self-Management Education and Support (DSMES)",
+      "synonyms": [
+        "DSMES"
+      ],
+      "source_text": "Advise all people with diabetes to participate in developmentally and culturally appropriate diabetes self-management education and support (DSMES) to facilitate informed decision-making, self-care behaviors, problem-solving, and active collaboration with the health care team.",
+      "page_number": "S89",
+      "evidence_level": "A",
+      "intervention_type": "Education and Support",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Medical Nutrition Therapy (MNT)",
+      "synonyms": [
+        "MNT"
+      ],
+      "source_text": "All people with diabetes should be referred for individualized MNT provided by an RDN who is experienced and skilled in providing diabetes-specific MNT (76\u201378), at diagnosis and as needed throughout the life span, like DSMES.",
+      "page_number": "S92",
+      "evidence_level": "A",
+      "intervention_type": "Therapy",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Behavioral strategies",
+      "synonyms": [],
+      "source_text": "Use behavioral strategies (e.g., motivational interviewing, goal setting, problem-solving) to support DSMES and engagement in behaviors known to optimize health-related quality of life and outcomes.",
+      "page_number": "S89",
+      "evidence_level": "A",
+      "intervention_type": "Counseling",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Telehealth DSMES",
+      "synonyms": [],
+      "source_text": "Offer DSMES via telehealth and/or digital interventions to meet individual preferences, reduce access barriers, and improve satisfaction.",
+      "page_number": "S89",
+      "evidence_level": "B",
+      "intervention_type": "Education and Support",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Metabolic Surgery",
+      "synonyms": [],
+      "source_text": "Engagement in exercise programs prior to and after metabolic surgery may support muscle mass and strength (315,316), reduce weight recurrence and promote better weight maintenance (317,318), and improve insulin sensitivity (319).",
+      "page_number": "S103",
+      "evidence_level": "Unknown",
+      "intervention_type": "Surgery",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Obesity pharmacotherapy",
+      "synonyms": [],
+      "source_text": "In addition to metabolic surgery, combining obesity pharmacotherapy with exercise programs may lead to some synergistic benefits.",
+      "page_number": "S103",
+      "evidence_level": "Unknown",
+      "intervention_type": "Pharmacotherapy",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Combination treatment for smoking cessation",
+      "synonyms": [],
+      "source_text": "For individuals who use these products, provide or refer for combination treatment consisting of tobacco and/or vape product(s) cessation counseling and pharmacologic therapy.",
+      "page_number": "S104",
+      "evidence_level": "A",
+      "intervention_type": "Treatment",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Psychosocial care",
+      "synonyms": [],
+      "source_text": "Provide psychosocial care to all people with diabetes as part of routine medical care delivered by trained health care professionals using a collaborative, person-centered, culturally informed approach.",
+      "page_number": "S110",
+      "evidence_level": "Unknown",
+      "intervention_type": "Care",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Cognitive behavioral therapy (CBT)",
+      "synonyms": [
+        "CBT"
+      ],
+      "source_text": "Successful evidence-based approaches include cognitive behavioral (392,396,412) and mindfulness-based therapies (413).",
+      "page_number": "S111",
+      "evidence_level": "Unknown",
+      "intervention_type": "Therapy",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Mindfulness-based therapies",
+      "synonyms": [],
+      "source_text": "Successful evidence-based approaches include cognitive behavioral (392,396,412) and mindfulness-based therapies (413).",
+      "page_number": "S111",
+      "evidence_level": "Unknown",
+      "intervention_type": "Therapy",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Collaborative care",
+      "synonyms": [],
+      "source_text": "Person-centered integrated care approaches have been shown to improve both depression and glycemic outcomes (5).",
+      "page_number": "S115",
+      "evidence_level": "Unknown",
+      "intervention_type": "Care",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Continuous positive airway pressure (CPAP)",
+      "synonyms": [
+        "CPAP"
+      ],
+      "source_text": "A systematic review and meta-analysis found that continuous positive airway pressure (CPAP) significantly reduced A1C by 0.24% (561).",
+      "page_number": "S116",
+      "evidence_level": "Unknown",
+      "intervention_type": "Therapy",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Nutrition Therapy",
+      "synonyms": [],
+      "source_text": "Nutrition therapy for adults with diabetes or prediabetes",
+      "page_number": "S119",
+      "evidence_level": "Unknown",
+      "intervention_type": "Therapy",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Mediterranean Diet",
+      "synonyms": [],
+      "source_text": "Mediterranean Diet",
+      "page_number": "S121",
+      "evidence_level": "Unknown",
+      "intervention_type": "Dietary",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Low-Carbohydrate Diet",
+      "synonyms": [],
+      "source_text": "low carbohydrate diets",
+      "page_number": "S121",
+      "evidence_level": "Unknown",
+      "intervention_type": "Dietary",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Low-Glycemic Index Diet",
+      "synonyms": [],
+      "source_text": "Low glycaemic index, or low glycaemic load, diets",
+      "page_number": "S121",
+      "evidence_level": "Unknown",
+      "intervention_type": "Dietary",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Time-Restricted Eating",
+      "synonyms": [],
+      "source_text": "Time-Restricted Eating",
+      "page_number": "S122",
+      "evidence_level": "Unknown",
+      "intervention_type": "Dietary",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Intermittent Energy Restriction",
+      "synonyms": [],
+      "source_text": "intermittent energy restriction",
+      "page_number": "S122",
+      "evidence_level": "Unknown",
+      "intervention_type": "Dietary",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Meal Replacement",
+      "synonyms": [],
+      "source_text": "meal replacement",
+      "page_number": "S122",
+      "evidence_level": "Unknown",
+      "intervention_type": "Dietary",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Structured Lifestyle Modification",
+      "synonyms": [],
+      "source_text": "Structured lifestyle modification",
+      "page_number": "S124",
+      "evidence_level": "Unknown",
+      "intervention_type": "Lifestyle",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Exercise Training",
+      "synonyms": [],
+      "source_text": "structured exercise training",
+      "page_number": "S124",
+      "evidence_level": "Unknown",
+      "intervention_type": "Exercise",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Resistance Training",
+      "synonyms": [],
+      "source_text": "Resistance training",
+      "page_number": "S124",
+      "evidence_level": "Unknown",
+      "intervention_type": "Exercise",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Yoga Therapy",
+      "synonyms": [],
+      "source_text": "yoga therapy",
+      "page_number": "S124",
+      "evidence_level": "Unknown",
+      "intervention_type": "Therapy",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Cognitive Behavioral Therapy (CBT)",
+      "synonyms": [
+        "CBT"
+      ],
+      "source_text": "cognitive behavioral therapy-based intervention",
+      "page_number": "S128",
+      "evidence_level": "Unknown",
+      "intervention_type": "Therapy",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Mindfulness-Based Interventions",
+      "synonyms": [],
+      "source_text": "mindfulness-based interventions",
+      "page_number": "S128",
+      "evidence_level": "Unknown",
+      "intervention_type": "Therapy",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Family-Focused Intervention",
+      "synonyms": [],
+      "source_text": "family-focused teamwork intervention",
+      "page_number": "S128",
+      "evidence_level": "Unknown",
+      "intervention_type": "Therapy",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Behavioral Family Systems Therapy for Diabetes",
+      "synonyms": [],
+      "source_text": "behavioral family systems therapy for diabetes",
+      "page_number": "S128",
+      "evidence_level": "Unknown",
+      "intervention_type": "Therapy",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Integrated Care Model",
+      "synonyms": [],
+      "source_text": "collaborative care model",
+      "page_number": "S128",
+      "evidence_level": "Unknown",
+      "intervention_type": "Care Model",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Telehealth Intervention",
+      "synonyms": [],
+      "source_text": "comprehensive telehealth intervention",
+      "page_number": "S128",
+      "evidence_level": "Unknown",
+      "intervention_type": "Technology",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "GLP-1 Receptor Agonists",
+      "synonyms": [],
+      "source_text": "GLP-1 receptor agonists",
+      "page_number": "S129",
+      "evidence_level": "Unknown",
+      "intervention_type": "Pharmacological",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Antipsychotic Drugs",
+      "synonyms": [],
+      "source_text": "antipsychotic drugs",
+      "page_number": "S129",
+      "evidence_level": "Unknown",
+      "intervention_type": "Pharmacological",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Sleep Interventions",
+      "synonyms": [],
+      "source_text": "Sleep interventions",
+      "page_number": "S130",
+      "evidence_level": "Unknown",
+      "intervention_type": "Therapy",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Cognitive Behavioral Therapy for Insomnia",
+      "synonyms": [],
+      "source_text": "cognitive behavioral therapy for insomnia",
+      "page_number": "S130",
+      "evidence_level": "Unknown",
+      "intervention_type": "Therapy",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Diabetes Technology",
+      "synonyms": [],
+      "source_text": "diabetes technologies",
+      "page_number": "S128",
+      "evidence_level": "Unknown",
+      "intervention_type": "Technology",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Automated Insulin Delivery",
+      "synonyms": [
+        "AID"
+      ],
+      "source_text": "automated insulin delivery",
+      "page_number": "S128",
+      "evidence_level": "Unknown",
+      "intervention_type": "Technology",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Continuous Glucose Monitoring",
+      "synonyms": [
+        "CGM"
+      ],
+      "source_text": "continuous glucose monitoring",
+      "page_number": "S128",
+      "evidence_level": "Unknown",
+      "intervention_type": "Technology",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Insulin Pump Therapy",
+      "synonyms": [],
+      "source_text": "insulin pump",
+      "page_number": "S130",
+      "evidence_level": "Unknown",
+      "intervention_type": "Technology",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Mindful Self-Compassion Intervention",
+      "synonyms": [],
+      "source_text": "mindful self-compassion intervention",
+      "page_number": "S128",
+      "evidence_level": "Unknown",
+      "intervention_type": "Therapy",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Lifestyle Interventions",
+      "synonyms": [],
+      "source_text": "lifestyle interventions",
+      "page_number": "S129",
+      "evidence_level": "Unknown",
+      "intervention_type": "Lifestyle",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Pharmacotherapy",
+      "synonyms": [],
+      "source_text": "pharmacotherapy",
+      "page_number": "S129",
+      "evidence_level": "Unknown",
+      "intervention_type": "Pharmacological",
+      "duration": null,
+      "frequency": null
+    }
+  ],
+  "behaviors": [
+    {
+      "name": "Diabetes Self-Management Education and Support (DSMES) participation",
+      "synonyms": [],
+      "source_text": "Advise all people with diabetes to participate in developmentally and culturally appropriate diabetes self-management education and support (DSMES) to facilitate informed decision-making, self-care behaviors, problem-solving, and active collaboration with the health care team.",
+      "page_number": "S89",
+      "evidence_level": "A",
+      "behavior_category": "Education",
+      "target_amount": "At diagnosis, annually and/or when not meeting treatment goals, when complicating factors develop, and when transitions in life and care occur."
+    },
+    {
+      "name": "Medical Nutrition Therapy (MNT) engagement",
+      "synonyms": [],
+      "source_text": "All people with diabetes should be referred for individualized MNT provided by an RDN who is experienced and skilled in providing diabetes-specific MNT (76\u201378), at diagnosis and as needed throughout the life span, like DSMES.",
+      "page_number": "S92",
+      "evidence_level": "A",
+      "behavior_category": "Nutrition",
+      "target_amount": "Individualized"
+    },
+    {
+      "name": "Mediterranean eating pattern",
+      "synonyms": [],
+      "source_text": "Counsel people with diabetes and those at risk for diabetes to consider an eating plan emphasizing elements of a Mediterranean eating pattern, which is rich in fatty fish, nuts, and seeds, to reduce cardiovascular disease risk A and improve glucose metabolism. B",
+      "page_number": "S92",
+      "evidence_level": "A",
+      "behavior_category": "Diet",
+      "target_amount": "Emphasize elements"
+    },
+    {
+      "name": "Physical activity",
+      "synonyms": [],
+      "source_text": "Routine physical activity",
+      "page_number": "S89",
+      "evidence_level": "Unknown",
+      "behavior_category": "Exercise",
+      "target_amount": "Routine"
+    },
+    {
+      "name": "Adequate quality sleep",
+      "synonyms": [],
+      "source_text": "adequate quality sleep",
+      "page_number": "S89",
+      "evidence_level": "Unknown",
+      "behavior_category": "Sleep",
+      "target_amount": "Adequate quality"
+    },
+    {
+      "name": "Cessation of tobacco products and vaping",
+      "synonyms": [],
+      "source_text": "support for cessation of tobacco products and vaping",
+      "page_number": "S89",
+      "evidence_level": "Unknown",
+      "behavior_category": "Addiction cessation",
+      "target_amount": "Complete cessation"
+    },
+    {
+      "name": "Health behavior counseling",
+      "synonyms": [],
+      "source_text": "health behavior counseling",
+      "page_number": "S89",
+      "evidence_level": "Unknown",
+      "behavior_category": "Counseling",
+      "target_amount": "Routine"
+    },
+    {
+      "name": "Psychosocial care engagement",
+      "synonyms": [],
+      "source_text": "psychosocial care",
+      "page_number": "S89",
+      "evidence_level": "Unknown",
+      "behavior_category": "Mental health",
+      "target_amount": "Routine"
+    },
+    {
+      "name": "150 min/week moderate- to vigorous-intensity aerobic activity",
+      "synonyms": [],
+      "source_text": "Counsel most adults with type 1 diabetes C and type 2 diabetes B to engage in 150 min or more of moderate- to vigorous-intensity aerobic activity per week, spread over at least 3 days/week, with no more than 2 consecutive days without activity.",
+      "page_number": "S102",
+      "evidence_level": "B",
+      "behavior_category": "Exercise",
+      "target_amount": "150 min/week"
+    },
+    {
+      "name": "Resistance exercise",
+      "synonyms": [],
+      "source_text": "Counsel most adults with type 1 diabetes C and type 2 diabetes B to engage in 2\u20133 sessions/week of resistance ex- ercise on nonconsecutive days.",
+      "page_number": "S103",
+      "evidence_level": "B",
+      "behavior_category": "Exercise",
+      "target_amount": "2-3 sessions/week"
+    },
+    {
+      "name": "Flexibility and balance training",
+      "synonyms": [],
+      "source_text": "Most older adults with diabetes are encouraged to participate in flexibility and balance training 2\u20133 times/week.",
+      "page_number": "S103",
+      "evidence_level": "C",
+      "behavior_category": "Exercise",
+      "target_amount": "2-3 times/week"
+    },
+    {
+      "name": "Smoking cessation",
+      "synonyms": [
+        "Tobacco cessation",
+        "Vaping cessation"
+      ],
+      "source_text": "Ask people with diabetes routinely about the use of tobacco or vape products. A Advise complete avoidance of tobacco and vaping. A",
+      "page_number": "S104",
+      "evidence_level": "A",
+      "behavior_category": "Addiction cessation",
+      "target_amount": "Complete avoidance"
+    },
+    {
+      "name": "Limiting sodium consumption",
+      "synonyms": [],
+      "source_text": "Counsel people with diabetes to limit sodium consumption to &#x3C;2,300 mg/day, as clinically appropriate, and the best way to achieve this is through limiting consumption of processed foods. B",
+      "page_number": "S92",
+      "evidence_level": "B",
+      "behavior_category": "Diet",
+      "target_amount": "<2,300 mg/day"
+    },
+    {
+      "name": "Consuming water",
+      "synonyms": [],
+      "source_text": "Encourage people with diabetes and those at risk for diabetes to consume water over other beverages. A",
+      "page_number": "S92",
+      "evidence_level": "A",
+      "behavior_category": "Diet",
+      "target_amount": "Primary beverage"
+    },
+    {
+      "name": "Minimizing refined carbohydrates",
+      "synonyms": [],
+      "source_text": "minimize consumption of red meat, sugar-sweetened beverages, sweets, refined grains, processed and ultraprocessed foods in people with prediabetes and diabetes. B",
+      "page_number": "S92",
+      "evidence_level": "B",
+      "behavior_category": "Diet",
+      "target_amount": "Minimize consumption"
+    },
+    {
+      "name": "Weight loss of at least 5-7%",
+      "synonyms": [],
+      "source_text": "Provide an overweight or obesity treatment plan based on their nutrition, physical activity, and behavioral health status for all people with overweight or obesity, aiming for at least 5\u20137% weight loss. A",
+      "page_number": "S92",
+      "evidence_level": "A",
+      "behavior_category": "Weight management",
+      "target_amount": "5-7%"
+    },
+    {
+      "name": "Breaking up prolonged sitting",
+      "synonyms": [],
+      "source_text": "Breaking up prolonged sitting (at least every 30 min) with short regular bouts of slow walking or simple resistance exercises can improve glucose metabolism.",
+      "page_number": "S106",
+      "evidence_level": "C",
+      "behavior_category": "Activity",
+      "target_amount": "At least every 30 min"
+    },
+    {
+      "name": "Consistent sleep schedule",
+      "synonyms": [],
+      "source_text": "Aim for consistent, uninterrupted sleep, even on weekends.",
+      "page_number": "S106",
+      "evidence_level": "Unknown",
+      "behavior_category": "Sleep",
+      "target_amount": "Consistent, uninterrupted"
+    },
+    {
+      "name": "Mediterranean Diet",
+      "synonyms": [],
+      "source_text": "Mediterranean diet",
+      "page_number": "S121",
+      "evidence_level": "Unknown",
+      "behavior_category": "Diet",
+      "target_amount": null
+    },
+    {
+      "name": "Low-Carbohydrate Diet",
+      "synonyms": [],
+      "source_text": "low carbohydrate diets",
+      "page_number": "S121",
+      "evidence_level": "Unknown",
+      "behavior_category": "Diet",
+      "target_amount": null
+    },
+    {
+      "name": "Low-Glycemic Index Diet",
+      "synonyms": [],
+      "source_text": "Low glycaemic index, or low glycaemic load, diets",
+      "page_number": "S121",
+      "evidence_level": "Unknown",
+      "behavior_category": "Diet",
+      "target_amount": null
+    },
+    {
+      "name": "Time-Restricted Eating",
+      "synonyms": [],
+      "source_text": "time-restricted eating",
+      "page_number": "S122",
+      "evidence_level": "Unknown",
+      "behavior_category": "Diet",
+      "target_amount": null
+    },
+    {
+      "name": "Intermittent Energy Restriction",
+      "synonyms": [],
+      "source_text": "intermittent energy restriction",
+      "page_number": "S122",
+      "evidence_level": "Unknown",
+      "behavior_category": "Diet",
+      "target_amount": null
+    },
+    {
+      "name": "Meal Replacement",
+      "synonyms": [],
+      "source_text": "meal replacement",
+      "page_number": "S122",
+      "evidence_level": "Unknown",
+      "behavior_category": "Diet",
+      "target_amount": null
+    },
+    {
+      "name": "Physical Activity",
+      "synonyms": [],
+      "source_text": "Physical activity",
+      "page_number": "S124",
+      "evidence_level": "Unknown",
+      "behavior_category": "Exercise",
+      "target_amount": null
+    },
+    {
+      "name": "Resistance Exercise",
+      "synonyms": [],
+      "source_text": "Resistance exercise",
+      "page_number": "S124",
+      "evidence_level": "Unknown",
+      "behavior_category": "Exercise",
+      "target_amount": null
+    },
+    {
+      "name": "Smoking Cessation",
+      "synonyms": [],
+      "source_text": "smoking cessation",
+      "page_number": "S125",
+      "evidence_level": "Unknown",
+      "behavior_category": "Lifestyle",
+      "target_amount": null
+    },
+    {
+      "name": "Alcohol Consumption",
+      "synonyms": [],
+      "source_text": "Alcohol consumption",
+      "page_number": "S123",
+      "evidence_level": "Unknown",
+      "behavior_category": "Lifestyle",
+      "target_amount": null
+    },
+    {
+      "name": "Mindfulness Practice",
+      "synonyms": [],
+      "source_text": "mindfulness",
+      "page_number": "S128",
+      "evidence_level": "Unknown",
+      "behavior_category": "Mental Health",
+      "target_amount": null
+    },
+    {
+      "name": "Yoga Practice",
+      "synonyms": [],
+      "source_text": "yoga",
+      "page_number": "S124",
+      "evidence_level": "Unknown",
+      "behavior_category": "Exercise",
+      "target_amount": null
+    },
+    {
+      "name": "Self-Management",
+      "synonyms": [],
+      "source_text": "self-management",
+      "page_number": "S128",
+      "evidence_level": "Unknown",
+      "behavior_category": "Lifestyle",
+      "target_amount": null
+    },
+    {
+      "name": "Adherence to Treatment",
+      "synonyms": [],
+      "source_text": "adherence",
+      "page_number": "S128",
+      "evidence_level": "Unknown",
+      "behavior_category": "Lifestyle",
+      "target_amount": null
+    },
+    {
+      "name": "Sleep Hygiene",
+      "synonyms": [],
+      "source_text": "Sleep",
+      "page_number": "S130",
+      "evidence_level": "Unknown",
+      "behavior_category": "Lifestyle",
+      "target_amount": null
+    }
+  ],
+  "social_determinants": [
+    {
+      "name": "Food insecurity",
+      "synonyms": [],
+      "source_text": "In 2023, 13.5% of Americans were food insecure (238), and food insecurity affects 16% of adults with diabetes compared with 9% of adults without diabetes (239).",
+      "page_number": "S102",
+      "evidence_level": "Unknown",
+      "sdoh_category": "Access to food",
+      "screening_tool": null
+    },
+    {
+      "name": "Access barriers to DSMES",
+      "synonyms": [],
+      "source_text": "Identify and address barriers to DSMES that exist at the payor, health system, clinic, health care professional, and individual levels.",
+      "page_number": "S89",
+      "evidence_level": "E",
+      "sdoh_category": "Access to care",
+      "screening_tool": null
+    },
+    {
+      "name": "Technology access",
+      "synonyms": [],
+      "source_text": "The DSMES team needs to consider characteristics such as racial identity, ethnic and cultural background, biological sex and gender identity, age, geographic location, technology access, education, literacy, and numeracy (13).",
+      "page_number": "S90",
+      "evidence_level": "Unknown",
+      "sdoh_category": "Access to technology",
+      "screening_tool": null
+    },
+    {
+      "name": "Financial barriers",
+      "synonyms": [],
+      "source_text": "These nontraditional versions of DSMES may not always be reimbursed; however, adopting reimbursement policies that increase DSMES access and use will positively affect beneficiaries\u2019 clinical outcomes, quality of life, health care use, and costs (10,58).",
+      "page_number": "S90",
+      "evidence_level": "Unknown",
+      "sdoh_category": "Financial",
+      "screening_tool": null
+    },
+    {
+      "name": "Food Insecurity",
+      "synonyms": [],
+      "source_text": "food insecurity",
+      "page_number": "S129",
+      "evidence_level": "Unknown",
+      "sdoh_category": "Access to Food",
+      "screening_tool": null
+    },
+    {
+      "name": "Financial Barriers",
+      "synonyms": [],
+      "source_text": "Financial barriers",
+      "page_number": "S119",
+      "evidence_level": "Unknown",
+      "sdoh_category": "Economic Stability",
+      "screening_tool": null
+    },
+    {
+      "name": "Housing Instability",
+      "synonyms": [],
+      "source_text": "Housing instability",
+      "page_number": "S119",
+      "evidence_level": "Unknown",
+      "sdoh_category": "Neighborhood and Built Environment",
+      "screening_tool": null
+    },
+    {
+      "name": "Access to Healthcare",
+      "synonyms": [],
+      "source_text": "Accessibility of diabetes education",
+      "page_number": "S119",
+      "evidence_level": "Unknown",
+      "sdoh_category": "Healthcare Access and Quality",
+      "screening_tool": null
+    }
+  ],
+  "outcomes": [
+    {
+      "name": "Improved glycemic outcomes",
+      "synonyms": [],
+      "source_text": "DSMES can improve outcomes and reduce costs, so reimbursement by third-party payors is recommended. B",
+      "page_number": "S89",
+      "evidence_level": "B",
+      "outcome_type": "Clinical",
+      "magnitude": null
+    },
+    {
+      "name": "Weight loss",
+      "synonyms": [],
+      "source_text": "An example of this is from an RCT that tested DSMES in a virtual environment that demonstrated greater weight loss and similar decreases in A1C, blood pressure, cholesterol, and triglycerides compared with DSMES via a standard website (57).",
+      "page_number": "S90",
+      "evidence_level": "Unknown",
+      "outcome_type": "Clinical",
+      "magnitude": null
+    },
+    {
+      "name": "Reduced A1C",
+      "synonyms": [],
+      "source_text": "found to produce a greater reduction in A1C (\u22120.30 percentage points; 95% CI \u22120.42 to \u22120.19) compared with control (42).",
+      "page_number": "S90",
+      "evidence_level": "Unknown",
+      "outcome_type": "Clinical",
+      "magnitude": null
+    },
+    {
+      "name": "Improved cardiometabolic outcomes",
+      "synonyms": [],
+      "source_text": "Diabetes medical nutrition therapy can result in cost savings B and improved cardiometabolic outcomes A and should be reimbursed by insurance. E",
+      "page_number": "S92",
+      "evidence_level": "A",
+      "outcome_type": "Clinical",
+      "magnitude": null
+    },
+    {
+      "name": "Reduced cardiovascular disease risk",
+      "synonyms": [],
+      "source_text": "Counsel people with diabetes and those at risk for diabetes to consider an eating plan emphasizing elements of a Mediterranean eating pattern, which is rich in fatty fish, nuts, and seeds, to reduce cardiovascular disease risk A and improve glucose metabolism. B",
+      "page_number": "S92",
+      "evidence_level": "A",
+      "outcome_type": "Clinical",
+      "magnitude": null
+    },
+    {
+      "name": "Improved glucose metabolism",
+      "synonyms": [],
+      "source_text": "Counsel people with diabetes and those at risk for diabetes to consider an eating plan emphasizing elements of a Mediterranean eating pattern, which is rich in fatty fish, nuts, and seeds, to reduce cardiovascular disease risk A and improve glucose metabolism. B",
+      "page_number": "S92",
+      "evidence_level": "B",
+      "outcome_type": "Clinical",
+      "magnitude": null
+    },
+    {
+      "name": "Reduced risk of hypoglycemia",
+      "synonyms": [],
+      "source_text": "Counsel people using fixed insulin doses about consistent patterns of carbohydrate intake with respect to time and amount while considering the insulin action time, as it can result in improved glycemia and reduce the risk for hypoglycemia. B",
+      "page_number": "S92",
+      "evidence_level": "B",
+      "outcome_type": "Clinical",
+      "magnitude": null
+    },
+    {
+      "name": "Improved quality of life",
+      "synonyms": [],
+      "source_text": "The overall objectives of DSMES are to support informed decision-making, self-care behaviors, problem-solving, and active collaboration with the health care team to improve clinical outcomes, health status, and well-being in a cost-effective manner (2).",
+      "page_number": "S89",
+      "evidence_level": "Unknown",
+      "outcome_type": "Psychosocial",
+      "magnitude": null
+    },
+    {
+      "name": "Reduced diabetes distress",
+      "synonyms": [],
+      "source_text": "An RCT of CBT in adults with type 2 diabetes showed a reduction in health anxiety, with CBT accounting for 77% of the reduction in health anxiety at 16 weeks of follow-up; this trial also found decreased depressive symptoms and diabetes distress (461).",
+      "page_number": "S112",
+      "evidence_level": "Unknown",
+      "outcome_type": "Psychosocial",
+      "magnitude": null
+    },
+    {
+      "name": "Reduced depressive symptoms",
+      "synonyms": [],
+      "source_text": "An RCT of CBT in adults with type 2 diabetes showed a reduction in health anxiety, with CBT accounting for 77% of the reduction in health anxiety at 16 weeks of follow-up; this trial also found decreased depressive symptoms and diabetes distress (461).",
+      "page_number": "S112",
+      "evidence_level": "Unknown",
+      "outcome_type": "Psychosocial",
+      "magnitude": null
+    },
+    {
+      "name": "Reduced risk of CVD",
+      "synonyms": [],
+      "source_text": "A systematic review and meta-analysis comparing those who quit smoking to those who smoke stratified by postcessation weight gain found smoking cessation lowered the risk of CVD and all-cause mortality regardless of postcessation weight gain (345).",
+      "page_number": "S104",
+      "evidence_level": "Unknown",
+      "outcome_type": "Clinical",
+      "magnitude": null
+    },
+    {
+      "name": "Reduced all-cause mortality",
+      "synonyms": [],
+      "source_text": "A systematic review and meta-analysis comparing those who quit smoking to those who smoke stratified by postcessation weight gain found smoking cessation lowered the risk of CVD and all-cause mortality regardless of postcessation weight gain (345).",
+      "page_number": "S104",
+      "evidence_level": "Unknown",
+      "outcome_type": "Clinical",
+      "magnitude": null
+    },
+    {
+      "name": "Improved physical function",
+      "synonyms": [],
+      "source_text": "IMPACT OF PHYSICAL BEHAVIORS ON CARDIOMETABOLIC HEALTH IN PEOPLE WITH TYPE 2 DIABETES",
+      "page_number": "S106",
+      "evidence_level": "Unknown",
+      "outcome_type": "Physical",
+      "magnitude": null
+    },
+    {
+      "name": "Improved blood pressure",
+      "synonyms": [],
+      "source_text": "IMPACT OF PHYSICAL BEHAVIORS ON CARDIOMETABOLIC HEALTH IN PEOPLE WITH TYPE 2 DIABETES",
+      "page_number": "S106",
+      "evidence_level": "Unknown",
+      "outcome_type": "Clinical",
+      "magnitude": null
+    },
+    {
+      "name": "Improved lipids",
+      "synonyms": [],
+      "source_text": "IMPACT OF PHYSICAL BEHAVIORS ON CARDIOMETABOLIC HEALTH IN PEOPLE WITH TYPE 2 DIABETES",
+      "page_number": "S106",
+      "evidence_level": "Unknown",
+      "outcome_type": "Clinical",
+      "magnitude": null
+    },
+    {
+      "name": "Weight Loss >5%",
+      "synonyms": [],
+      "source_text": "weight loss",
+      "page_number": "S122",
+      "evidence_level": "Unknown",
+      "outcome_type": "Weight Management",
+      "magnitude": null
+    },
+    {
+      "name": "A1C Reduction",
+      "synonyms": [
+        "HbA1c Reduction"
+      ],
+      "source_text": "HbA1c levels",
+      "page_number": "S119",
+      "evidence_level": "Unknown",
+      "outcome_type": "Glycemic Control",
+      "magnitude": null
+    },
+    {
+      "name": "Reduced Distress",
+      "synonyms": [],
+      "source_text": "reduces distress",
+      "page_number": "S128",
+      "evidence_level": "Unknown",
+      "outcome_type": "Mental Health",
+      "magnitude": null
+    },
+    {
+      "name": "Improved Glycemic Control",
+      "synonyms": [],
+      "source_text": "glycaemic control",
+      "page_number": "S119",
+      "evidence_level": "Unknown",
+      "outcome_type": "Glycemic Control",
+      "magnitude": null
+    },
+    {
+      "name": "Cardiovascular Risk Reduction",
+      "synonyms": [],
+      "source_text": "cardiovascular risk factors",
+      "page_number": "S119",
+      "evidence_level": "Unknown",
+      "outcome_type": "Cardiovascular Health",
+      "magnitude": null
+    },
+    {
+      "name": "Reduced Mortality",
+      "synonyms": [],
+      "source_text": "mortality",
+      "page_number": "S121",
+      "evidence_level": "Unknown",
+      "outcome_type": "Mortality",
+      "magnitude": null
+    },
+    {
+      "name": "Improved Quality of Life",
+      "synonyms": [],
+      "source_text": "quality of life",
+      "page_number": "S128",
+      "evidence_level": "Unknown",
+      "outcome_type": "Well-being",
+      "magnitude": null
+    }
+  ],
+  "screening_tools": [
+    {
+      "name": "Hunger Vital Sign",
+      "synonyms": [],
+      "source_text": "Any member of the health care team can screen for food insecurity using the Hunger Vital Sign.",
+      "page_number": "S102",
+      "evidence_level": "Unknown",
+      "tool_type": "Screening",
+      "threshold": null,
+      "what_it_measures": "Food insecurity"
+    },
+    {
+      "name": "Validated screening tool for depressive symptoms",
+      "synonyms": [],
+      "source_text": "A positive screen on a validated screening tool for depressive symptoms, diabetes distress, anxiety, fear of hypoglycemia, suicidality, or cognitive impairment",
+      "page_number": "S110",
+      "evidence_level": "Unknown",
+      "tool_type": "Screening",
+      "threshold": null,
+      "what_it_measures": "Depressive symptoms"
+    },
+    {
+      "name": "Validated screening tool for diabetes distress",
+      "synonyms": [],
+      "source_text": "A positive screen on a validated screening tool for depressive symptoms, diabetes distress, anxiety, fear of hypoglycemia, suicidality, or cognitive impairment",
+      "page_number": "S110",
+      "evidence_level": "Unknown",
+      "tool_type": "Screening",
+      "threshold": null,
+      "what_it_measures": "Diabetes distress"
+    },
+    {
+      "name": "Validated screening tool for anxiety",
+      "synonyms": [],
+      "source_text": "A positive screen on a validated screening tool for depressive symptoms, diabetes distress, anxiety, fear of hypoglycemia, suicidality, or cognitive impairment",
+      "page_number": "S110",
+      "evidence_level": "Unknown",
+      "tool_type": "Screening",
+      "threshold": null,
+      "what_it_measures": "Anxiety"
+    },
+    {
+      "name": "Validated screening tool for fear of hypoglycemia",
+      "synonyms": [],
+      "source_text": "A positive screen on a validated screening tool for depressive symptoms, diabetes distress, anxiety, fear of hypoglycemia, suicidality, or cognitive impairment",
+      "page_number": "S110",
+      "evidence_level": "Unknown",
+      "tool_type": "Screening",
+      "threshold": null,
+      "what_it_measures": "Fear of hypoglycemia"
+    },
+    {
+      "name": "Validated screening tool for suicidality",
+      "synonyms": [],
+      "source_text": "A positive screen on a validated screening tool for depressive symptoms, diabetes distress, anxiety, fear of hypoglycemia, suicidality, or cognitive impairment",
+      "page_number": "S110",
+      "evidence_level": "Unknown",
+      "tool_type": "Screening",
+      "threshold": null,
+      "what_it_measures": "Suicidality"
+    },
+    {
+      "name": "Validated screening tool for cognitive impairment",
+      "synonyms": [],
+      "source_text": "A positive screen on a validated screening tool for depressive symptoms, diabetes distress, anxiety, fear of hypoglycemia, suicidality, or cognitive impairment",
+      "page_number": "S110",
+      "evidence_level": "Unknown",
+      "tool_type": "Screening",
+      "threshold": null,
+      "what_it_measures": "Cognitive impairment"
+    },
+    {
+      "name": "Diabetes Eating Problem Survey-Revised (DEPS-R)",
+      "synonyms": [
+        "DEPS-R"
+      ],
+      "source_text": "For individuals with type 1 diabetes, the Diabetes Eating Problem Survey-Revised (DEPS-R) (501) is recommended to screen for disordered eating behaviors",
+      "page_number": "S115",
+      "evidence_level": "Unknown",
+      "tool_type": "Screening",
+      "threshold": null,
+      "what_it_measures": "Disordered eating behaviors"
+    },
+    {
+      "name": "mSCOFF",
+      "synonyms": [],
+      "source_text": "the mSCOFF (502), a five-item screening questionnaire, is for eating disorders and includes a question on insulin omission.",
+      "page_number": "S115",
+      "evidence_level": "Unknown",
+      "tool_type": "Screening",
+      "threshold": null,
+      "what_it_measures": "Eating disorders and insulin omission"
+    },
+    {
+      "name": "Questionnaire on Eating and Weight Patterns-5 (QEWP-5)",
+      "synonyms": [
+        "QEWP-5"
+      ],
+      "source_text": "For type 2 diabetes, recommended screening measures include the Questionnaire on Eating and Weight Patterns-5 (QEWP-5) (503), the Binge Eating Scale (504), and the Night Eating Questionnaire (505).",
+      "page_number": "S115",
+      "evidence_level": "Unknown",
+      "tool_type": "Screening",
+      "threshold": null,
+      "what_it_measures": "Eating patterns"
+    },
+    {
+      "name": "Binge Eating Scale",
+      "synonyms": [],
+      "source_text": "For type 2 diabetes, recommended screening measures include the Questionnaire on Eating and Weight Patterns-5 (QEWP-5) (503), the Binge Eating Scale (504), and the Night Eating Questionnaire (505).",
+      "page_number": "S115",
+      "evidence_level": "Unknown",
+      "tool_type": "Screening",
+      "threshold": null,
+      "what_it_measures": "Binge eating"
+    },
+    {
+      "name": "Night Eating Questionnaire",
+      "synonyms": [],
+      "source_text": "For type 2 diabetes, recommended screening measures include the Questionnaire on Eating and Weight Patterns-5 (QEWP-5) (503), the Binge Eating Scale (504), and the Night Eating Questionnaire (505).",
+      "page_number": "S115",
+      "evidence_level": "Unknown",
+      "tool_type": "Screening",
+      "threshold": null,
+      "what_it_measures": "Night eating"
+    },
+    {
+      "name": "Diabetes Distress Scale",
+      "synonyms": [],
+      "source_text": "Diabetes Distress Scale",
+      "page_number": "S128",
+      "evidence_level": "Unknown",
+      "tool_type": "Psychosocial",
+      "threshold": null,
+      "what_it_measures": "Diabetes distress"
+    },
+    {
+      "name": "PHQ-9",
+      "synonyms": [],
+      "source_text": "PHQ-9",
+      "page_number": "S128",
+      "evidence_level": "Unknown",
+      "tool_type": "Mental Health",
+      "threshold": null,
+      "what_it_measures": "Depression"
+    },
+    {
+      "name": "Questionnaire on Eating and Weight Patterns-5",
+      "synonyms": [
+        "QEWP-5"
+      ],
+      "source_text": "Questionnaire on Eating and Weight Patterns-5",
+      "page_number": "S129",
+      "evidence_level": "Unknown",
+      "tool_type": "Eating Disorder Screening",
+      "threshold": null,
+      "what_it_measures": "Binge eating disorder"
+    }
+  ],
+  "relationships": [
+    {
+      "source_entity": "Diabetes Self-Management Education and Support (DSMES)",
+      "target_entity": "Diabetes Self-Management Education and Support (DSMES) participation",
+      "relationship_type": "RECOMMENDS",
+      "evidence_level": "A",
+      "conditional_context": "All people with diabetes"
+    },
+    {
+      "source_entity": "Medical Nutrition Therapy (MNT)",
+      "target_entity": "Medical Nutrition Therapy (MNT) engagement",
+      "relationship_type": "RECOMMENDS",
+      "evidence_level": "A",
+      "conditional_context": "All people with diabetes"
+    },
+    {
+      "source_entity": "Behavioral strategies",
+      "target_entity": "Diabetes Self-Management Education and Support (DSMES) participation",
+      "relationship_type": "SUPPORTS",
+      "evidence_level": "A",
+      "conditional_context": "General population"
+    },
+    {
+      "source_entity": "Behavioral strategies",
+      "target_entity": "Physical activity",
+      "relationship_type": "SUPPORTS",
+      "evidence_level": "A",
+      "conditional_context": "General population"
+    },
+    {
+      "source_entity": "Telehealth DSMES",
+      "target_entity": "Diabetes Self-Management Education and Support (DSMES) participation",
+      "relationship_type": "FACILITATES",
+      "evidence_level": "B",
+      "conditional_context": "Individual preferences"
+    },
+    {
+      "source_entity": "Mediterranean eating pattern",
+      "target_entity": "Reduced cardiovascular disease risk",
+      "relationship_type": "REDUCES_RISK_OF",
+      "evidence_level": "A",
+      "conditional_context": "People with diabetes and those at risk for diabetes"
+    },
+    {
+      "source_entity": "Mediterranean eating pattern",
+      "target_entity": "Improved glucose metabolism",
+      "relationship_type": "IMPROVES",
+      "evidence_level": "B",
+      "conditional_context": "People with diabetes and those at risk for diabetes"
+    },
+    {
+      "source_entity": "Physical activity",
+      "target_entity": "Improved glycemic outcomes",
+      "relationship_type": "IMPROVES",
+      "evidence_level": "Unknown",
+      "conditional_context": "General population"
+    },
+    {
+      "source_entity": "Adequate quality sleep",
+      "target_entity": "Improved glycemic outcomes",
+      "relationship_type": "IMPROVES",
+      "evidence_level": "Unknown",
+      "conditional_context": "General population"
+    },
+    {
+      "source_entity": "Cessation of tobacco products and vaping",
+      "target_entity": "Reduced cardiovascular disease risk",
+      "relationship_type": "REDUCES_RISK_OF",
+      "evidence_level": "Unknown",
+      "conditional_context": "General population"
+    },
+    {
+      "source_entity": "Cessation of tobacco products and vaping",
+      "target_entity": "Reduced all-cause mortality",
+      "relationship_type": "REDUCES_RISK_OF",
+      "evidence_level": "Unknown",
+      "conditional_context": "General population"
+    },
+    {
+      "source_entity": "150 min/week moderate- to vigorous-intensity aerobic activity",
+      "target_entity": "Improved glycemic outcomes",
+      "relationship_type": "IMPROVES",
+      "evidence_level": "B",
+      "conditional_context": "Adults with type 1 and type 2 diabetes"
+    },
+    {
+      "source_entity": "Resistance exercise",
+      "target_entity": "Improved glycemic outcomes",
+      "relationship_type": "IMPROVES",
+      "evidence_level": "B",
+      "conditional_context": "Adults with type 1 and type 2 diabetes"
+    },
+    {
+      "source_entity": "Flexibility and balance training",
+      "target_entity": "Improved physical function",
+      "relationship_type": "IMPROVES",
+      "evidence_level": "C",
+      "conditional_context": "Older adults with diabetes"
+    },
+    {
+      "source_entity": "Smoking cessation",
+      "target_entity": "Reduced cardiovascular disease risk",
+      "relationship_type": "REDUCES_RISK_OF",
+      "evidence_level": "Unknown",
+      "conditional_context": "General population"
+    },
+    {
+      "source_entity": "Smoking cessation",
+      "target_entity": "Reduced all-cause mortality",
+      "relationship_type": "REDUCES_RISK_OF",
+      "evidence_level": "Unknown",
+      "conditional_context": "General population"
+    },
+    {
+      "source_entity": "Limiting sodium consumption",
+      "target_entity": "Improved blood pressure",
+      "relationship_type": "IMPROVES",
+      "evidence_level": "B",
+      "conditional_context": "People with diabetes"
+    },
+    {
+      "source_entity": "Consuming water",
+      "target_entity": "Improved hydration",
+      "relationship_type": "PROMOTES",
+      "evidence_level": "A",
+      "conditional_context": "People with diabetes and those at risk for diabetes"
+    },
+    {
+      "source_entity": "Minimizing refined carbohydrates",
+      "target_entity": "Improved glycemic control",
+      "relationship_type": "IMPROVES",
+      "evidence_level": "B",
+      "conditional_context": "People with prediabetes and diabetes"
+    },
+    {
+      "source_entity": "Weight loss of at least 5-7%",
+      "target_entity": "Improved cardiometabolic outcomes",
+      "relationship_type": "IMPROVES",
+      "evidence_level": "A",
+      "conditional_context": "People with overweight or obesity"
+    },
+    {
+      "source_entity": "Breaking up prolonged sitting",
+      "target_entity": "Improved glucose metabolism",
+      "relationship_type": "IMPROVES",
+      "evidence_level": "C",
+      "conditional_context": "General population"
+    },
+    {
+      "source_entity": "",
+      "target_entity": "Unknown",
+      "relationship_type": "Unknown",
+      "evidence_level": "Unknown",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "Diabetes Self-Management Education and Support (DSMES)",
+      "target_entity": "Self-Management",
+      "relationship_type": "PROMOTES",
+      "evidence_level": "Unknown",
+      "conditional_context": "General population with diabetes"
+    },
+    {
+      "source_entity": "Metabolic Surgery",
+      "target_entity": "Weight Loss >5%",
+      "relationship_type": "RESULTS_IN",
+      "evidence_level": "Unknown",
+      "conditional_context": "Patients with obesity"
+    },
+    {
+      "source_entity": "Nutrition Therapy",
+      "target_entity": "Improved Glycemic Control",
+      "relationship_type": "IMPROVES",
+      "evidence_level": "Unknown",
+      "conditional_context": "Adults with diabetes or prediabetes"
+    },
+    {
+      "source_entity": "Mediterranean Diet",
+      "target_entity": "Cardiovascular Risk Reduction",
+      "relationship_type": "REDUCES_RISK_OF",
+      "evidence_level": "Unknown",
+      "conditional_context": "General population"
+    },
+    {
+      "source_entity": "Low-Carbohydrate Diet",
+      "target_entity": "A1C Reduction",
+      "relationship_type": "IMPROVES",
+      "evidence_level": "Unknown",
+      "conditional_context": "Patients with type 2 diabetes"
+    },
+    {
+      "source_entity": "Low-Glycemic Index Diet",
+      "target_entity": "Improved Glycemic Control",
+      "relationship_type": "IMPROVES",
+      "evidence_level": "Unknown",
+      "conditional_context": "Patients with diabetes"
+    },
+    {
+      "source_entity": "Time-Restricted Eating",
+      "target_entity": "Weight Loss >5%",
+      "relationship_type": "RESULTS_IN",
+      "evidence_level": "Unknown",
+      "conditional_context": "Adults with obesity"
+    },
+    {
+      "source_entity": "Intermittent Energy Restriction",
+      "target_entity": "Weight Loss >5%",
+      "relationship_type": "RESULTS_IN",
+      "evidence_level": "Unknown",
+      "conditional_context": "Adults with obesity"
+    },
+    {
+      "source_entity": "Meal Replacement",
+      "target_entity": "Weight Loss >5%",
+      "relationship_type": "RESULTS_IN",
+      "evidence_level": "Unknown",
+      "conditional_context": "Patients with type 2 diabetes"
+    },
+    {
+      "source_entity": "Structured Lifestyle Modification",
+      "target_entity": "Weight Loss >5%",
+      "relationship_type": "PROMOTES",
+      "evidence_level": "Unknown",
+      "conditional_context": "Adults with obesity"
+    },
+    {
+      "source_entity": "Exercise Training",
+      "target_entity": "Improved Glycemic Control",
+      "relationship_type": "IMPROVES",
+      "evidence_level": "Unknown",
+      "conditional_context": "Patients with type 2 diabetes"
+    },
+    {
+      "source_entity": "Resistance Training",
+      "target_entity": "Improved Glycemic Control",
+      "relationship_type": "IMPROVES",
+      "evidence_level": "Unknown",
+      "conditional_context": "Adults with type 2 diabetes"
+    },
+    {
+      "source_entity": "Yoga Therapy",
+      "target_entity": "Reduced Distress",
+      "relationship_type": "REDUCES",
+      "evidence_level": "Unknown",
+      "conditional_context": "Adolescent girls with type 1 diabetes"
+    },
+    {
+      "source_entity": "Cognitive Behavioral Therapy (CBT)",
+      "target_entity": "Reduced Distress",
+      "relationship_type": "REDUCES",
+      "evidence_level": "Unknown",
+      "conditional_context": "Patients with diabetes"
+    },
+    {
+      "source_entity": "Mindfulness-Based Interventions",
+      "target_entity": "Reduced Distress",
+      "relationship_type": "REDUCES",
+      "evidence_level": "Unknown",
+      "conditional_context": "Patients with diabetes"
+    },
+    {
+      "source_entity": "Family-Focused Intervention",
+      "target_entity": "Improved Glycemic Control",
+      "relationship_type": "IMPROVES",
+      "evidence_level": "Unknown",
+      "conditional_context": "Youth with type 1 diabetes"
+    },
+    {
+      "source_entity": "Integrated Care Model",
+      "target_entity": "Reduced Distress",
+      "relationship_type": "REDUCES",
+      "evidence_level": "Unknown",
+      "conditional_context": "Patients with depression and diabetes"
+    },
+    {
+      "source_entity": "Telehealth Intervention",
+      "target_entity": "Improved Glycemic Control",
+      "relationship_type": "IMPROVES",
+      "evidence_level": "Unknown",
+      "conditional_context": "Patients with persistently poor type 2 diabetes control"
+    },
+    {
+      "source_entity": "GLP-1 Receptor Agonists",
+      "target_entity": "Weight Loss >5%",
+      "relationship_type": "PROMOTES",
+      "evidence_level": "Unknown",
+      "conditional_context": "Patients with obesity"
+    },
+    {
+      "source_entity": "Antipsychotic Drugs",
+      "target_entity": "Metabolic Side Effects",
+      "relationship_type": "CAUSES",
+      "evidence_level": "Unknown",
+      "conditional_context": "Patients with schizophrenia"
+    },
+    {
+      "source_entity": "Sleep Interventions",
+      "target_entity": "Improved Glycemic Control",
+      "relationship_type": "IMPROVES",
+      "evidence_level": "Unknown",
+      "conditional_context": "Patients with type 2 diabetes"
+    },
+    {
+      "source_entity": "Cognitive Behavioral Therapy for Insomnia",
+      "target_entity": "Improved Glycemic Control",
+      "relationship_type": "IMPROVES",
+      "evidence_level": "Unknown",
+      "conditional_context": "People with type 2 diabetes"
+    },
+    {
+      "source_entity": "Diabetes Technology",
+      "target_entity": "Improved Glycemic Control",
+      "relationship_type": "IMPROVES",
+      "evidence_level": "Unknown",
+      "conditional_context": "Patients with diabetes"
+    },
+    {
+      "source_entity": "Automated Insulin Delivery",
+      "target_entity": "Improved Glycemic Control",
+      "relationship_type": "IMPROVES",
+      "evidence_level": "Unknown",
+      "conditional_context": "People with type 1 diabetes"
+    },
+    {
+      "source_entity": "Continuous Glucose Monitoring",
+      "target_entity": "Improved Glycemic Control",
+      "relationship_type": "IMPROVES",
+      "evidence_level": "Unknown",
+      "conditional_context": "Patients with type 1 diabetes"
+    },
+    {
+      "source_entity": "Insulin Pump Therapy",
+      "target_entity": "Improved Glycemic Control",
+      "relationship_type": "IMPROVES",
+      "evidence_level": "Unknown",
+      "conditional_context": "Patients with type 1 diabetes"
+    },
+    {
+      "source_entity": "Mindful Self-Compassion Intervention",
+      "target_entity": "Reduced Distress",
+      "relationship_type": "REDUCES",
+      "evidence_level": "Unknown",
+      "conditional_context": "Patients with diabetes"
+    },
+    {
+      "source_entity": "Lifestyle Interventions",
+      "target_entity": "Weight Loss >5%",
+      "relationship_type": "PROMOTES",
+      "evidence_level": "Unknown",
+      "conditional_context": "Adults with obesity"
+    },
+    {
+      "source_entity": "Pharmacotherapy",
+      "target_entity": "Smoking Cessation",
+      "relationship_type": "AIDS",
+      "evidence_level": "Unknown",
+      "conditional_context": "Tobacco-dependent adults"
+    },
+    {
+      "source_entity": "Diabetes Distress Scale",
+      "target_entity": "Diabetes Distress",
+      "relationship_type": "ASSESSES",
+      "evidence_level": "Unknown",
+      "conditional_context": "General population with diabetes"
+    },
+    {
+      "source_entity": "PHQ-9",
+      "target_entity": "Depression",
+      "relationship_type": "ASSESSES",
+      "evidence_level": "Unknown",
+      "conditional_context": "General population"
+    },
+    {
+      "source_entity": "mSCOFF",
+      "target_entity": "Disordered eating",
+      "relationship_type": "ASSESSES",
+      "evidence_level": "Unknown",
+      "conditional_context": "Pediatric patients with type 1 diabetes"
+    },
+    {
+      "source_entity": "Questionnaire on Eating and Weight Patterns-5",
+      "target_entity": "Binge eating disorder",
+      "relationship_type": "ASSESSES",
+      "evidence_level": "Unknown",
+      "conditional_context": "General population"
+    },
+    {
+      "source_entity": "Night Eating Questionnaire",
+      "target_entity": "Night eating",
+      "relationship_type": "ASSESSES",
+      "evidence_level": "Unknown",
+      "conditional_context": "General population"
+    },
+    {
+      "source_entity": "Food Insecurity",
+      "target_entity": "Diabetes Self-Management Education and Support (DSMES)",
+      "relationship_type": "BARRIER_TO",
+      "evidence_level": "Unknown",
+      "conditional_context": "Patients with diabetes"
+    },
+    {
+      "source_entity": "Financial Barriers",
+      "target_entity": "Diabetes Self-Management Education and Support (DSMES)",
+      "relationship_type": "BARRIER_TO",
+      "evidence_level": "Unknown",
+      "conditional_context": "Patients with diabetes"
+    },
+    {
+      "source_entity": "Housing Instability",
+      "target_entity": "Diabetes Self-Management Education and Support (DSMES)",
+      "relationship_type": "BARRIER_TO",
+      "evidence_level": "Unknown",
+      "conditional_context": "Patients with diabetes"
+    },
+    {
+      "source_entity": "Access to Healthcare",
+      "target_entity": "Diabetes Self-Management Education and Support (DSMES)",
+      "relationship_type": "BARRIER_TO",
+      "evidence_level": "Unknown",
+      "conditional_context": "Patients with diabetes"
+    },
+    {
+      "source_entity": "Mediterranean Diet",
+      "target_entity": "Weight Loss >5%",
+      "relationship_type": "PROMOTES",
+      "evidence_level": "Unknown",
+      "conditional_context": "General population"
+    },
+    {
+      "source_entity": "Low-Carbohydrate Diet",
+      "target_entity": "Weight Loss >5%",
+      "relationship_type": "PROMOTES",
+      "evidence_level": "Unknown",
+      "conditional_context": "Patients with type 2 diabetes"
+    },
+    {
+      "source_entity": "Low-Glycemic Index Diet",
+      "target_entity": "Weight Loss >5%",
+      "relationship_type": "PROMOTES",
+      "evidence_level": "Unknown",
+      "conditional_context": "Patients with diabetes"
+    },
+    {
+      "source_entity": "Time-Restricted Eating",
+      "target_entity": "Improved Glycemic Control",
+      "relationship_type": "IMPROVES",
+      "evidence_level": "Unknown",
+      "conditional_context": "Adults with obesity"
+    },
+    {
+      "source_entity": "Intermittent Energy Restriction",
+      "target_entity": "Improved Glycemic Control",
+      "relationship_type": "IMPROVES",
+      "evidence_level": "Unknown",
+      "conditional_context": "Adults with obesity"
+    },
+    {
+      "source_entity": "Meal Replacement",
+      "target_entity": "Improved Glycemic Control",
+      "relationship_type": "IMPROVES",
+      "evidence_level": "Unknown",
+      "conditional_context": "Patients with type 2 diabetes"
+    },
+    {
+      "source_entity": "Exercise Training",
+      "target_entity": "Weight Loss >5%",
+      "relationship_type": "PROMOTES",
+      "evidence_level": "Unknown",
+      "conditional_context": "Patients with type 2 diabetes"
+    },
+    {
+      "source_entity": "Resistance Training",
+      "target_entity": "Weight Loss >5%",
+      "relationship_type": "PROMOTES",
+      "evidence_level": "Unknown",
+      "conditional_context": "Adults with type 2 diabetes"
+    },
+    {
+      "source_entity": "Yoga Therapy",
+      "target_entity": "Improved Glycemic Control",
+      "relationship_type": "IMPROVES",
+      "evidence_level": "Unknown",
+      "conditional_context": "Adolescent girls with type 1 diabetes"
+    },
+    {
+      "source_entity": "Cognitive Behavioral Therapy (CBT)",
+      "target_entity": "Improved Glycemic Control",
+      "relationship_type": "IMPROVES",
+      "evidence_level": "Unknown",
+      "conditional_context": "Patients with diabetes"
+    },
+    {
+      "source_entity": "Mindfulness-Based Interventions",
+      "target_entity": "Improved Glycemic Control",
+      "relationship_type": "IMPROVES",
+      "evidence_level": "Unknown",
+      "conditional_context": "Patients with diabetes"
+    },
+    {
+      "source_entity": "Family-Focused Intervention",
+      "target_entity": "Reduced Distress",
+      "relationship_type": "REDUCES",
+      "evidence_level": "Unknown",
+      "conditional_context": "Youth with type 1 diabetes"
+    },
+    {
+      "source_entity": "Integrated Care Model",
+      "target_entity": "Improved Glycemic Control",
+      "relationship_type": "IMPROVES",
+      "evidence_level": "Unknown",
+      "conditional_context": "Patients with depression and diabetes"
+    },
+    {
+      "source_entity": "Telehealth Intervention",
+      "target_entity": "Reduced Distress",
+      "relationship_type": "REDUCES",
+      "evidence_level": "Unknown",
+      "conditional_context": "Patients with persistently poor type 2 diabetes control"
+    },
+    {
+      "source_entity": "GLP-1 Receptor Agonists",
+      "target_entity": "Improved Glycemic Control",
+      "relationship_type": "IMPROVES",
+      "evidence_level": "Unknown",
+      "conditional_context": "Patients with type 2 diabetes"
+    },
+    {
+      "source_entity": "Antipsychotic Drugs",
+      "target_entity": "Weight Gain",
+      "relationship_type": "CAUSES",
+      "evidence_level": "Unknown",
+      "conditional_context": "Patients with schizophrenia"
+    },
+    {
+      "source_entity": "Sleep Interventions",
+      "target_entity": "Reduced Distress",
+      "relationship_type": "REDUCES",
+      "evidence_level": "Unknown",
+      "conditional_context": "Patients with type 2 diabetes"
+    },
+    {
+      "source_entity": "Cognitive Behavioral Therapy for Insomnia",
+      "target_entity": "Reduced Distress",
+      "relationship_type": "REDUCES",
+      "evidence_level": "Unknown",
+      "conditional_context": "People with type 2 diabetes"
+    },
+    {
+      "source_entity": "Diabetes Technology",
+      "target_entity": "Improved Quality of Life",
+      "relationship_type": "IMPROVES",
+      "evidence_level": "Unknown",
+      "conditional_context": "Patients with diabetes"
+    },
+    {
+      "source_entity": "Automated Insulin Delivery",
+      "target_entity": "Reduced Distress",
+      "relationship_type": "REDUCES",
+      "evidence_level": "Unknown",
+      "conditional_context": "People with type 1 diabetes"
+    },
+    {
+      "source_entity": "Continuous Glucose Monitoring",
+      "target_entity": "Reduced Distress",
+      "relationship_type": "REDUCES",
+      "evidence_level": "Unknown",
+      "conditional_context": "Patients with type 1 diabetes"
+    },
+    {
+      "source_entity": "Insulin Pump Therapy",
+      "target_entity": "Reduced Distress",
+      "relationship_type": "REDUCES",
+      "evidence_level": "Unknown",
+      "conditional_context": "Patients with type 1 diabetes"
+    }
+  ]
+}

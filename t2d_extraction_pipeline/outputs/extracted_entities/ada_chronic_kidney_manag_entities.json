@@ -1,0 +1,539 @@
+{
+  "complications": [
+    {
+      "name": "Chronic Kidney Disease (CKD)",
+      "synonyms": [
+        "CKD"
+      ],
+      "source_text": "Chronic kidney disease (CKD) is diagnosed by the persistent elevation of urinary albumin excretion (albuminuria), estimated glomerular filtration rate (eGFR) <60 mL/min/1.73 m\u00b2, or other manifestations of kidney damage (1).",
+      "page_number": "S246",
+      "evidence_level": "Unknown",
+      "complication_category": "Kidney Disease",
+      "stage": "G1-G5"
+    },
+    {
+      "name": "Albuminuria",
+      "synonyms": [
+        "urinary albumin excretion"
+      ],
+      "source_text": "Chronic kidney disease (CKD) is diagnosed by the persistent elevation of urinary albumin excretion (albuminuria), estimated glomerular filtration rate (eGFR) <60 mL/min/1.73 m\u00b2, or other manifestations of kidney damage (1).",
+      "page_number": "S246",
+      "evidence_level": "Unknown",
+      "complication_category": "Kidney Disease Marker",
+      "stage": "A1-A3"
+    },
+    {
+      "name": "Acute Kidney Injury (AKI)",
+      "synonyms": [],
+      "source_text": "Acute kidney injury (AKI) is defined as a rapid decline in kidney function, typically within a short period (hours to days), characterized by increase in serum creatinine and/or decrease in urine output (26).",
+      "page_number": "S247",
+      "evidence_level": "Unknown",
+      "complication_category": "Kidney Disease",
+      "stage": null
+    },
+    {
+      "name": "Cardiovascular disease (CVD)",
+      "synonyms": [
+        "cardiovascular events",
+        "CVD"
+      ],
+      "source_text": "In addition, among people with type 1 or type 2 diabetes, the presence of CKD markedly increases cardiovascular risk and health care costs (6).",
+      "page_number": "S246",
+      "evidence_level": "Unknown",
+      "complication_category": "Cardiovascular Disease",
+      "stage": null
+    },
+    {
+      "name": "Kidney failure",
+      "synonyms": [],
+      "source_text": "CKD can progress to kidney failure requiring dialysis or kidney transplantation and is the leading cause of kidney failure in the U.S. (5).",
+      "page_number": "S246",
+      "evidence_level": "Unknown",
+      "complication_category": "Kidney Disease",
+      "stage": null
+    },
+    {
+      "name": "Volume overload",
+      "synonyms": [],
+      "source_text": "Evaluation of elevated blood pressure and volume overload should occur at every clinical contact possible; laboratory evaluations are generally indicated every 6\u201312 months for stage G3 CKD, every 3\u20135 months for stage G4 CKD, and every 1\u20133 months for stage G5 CKD, or as indicated to evaluate symptoms or changes in therapy.",
+      "page_number": "S249",
+      "evidence_level": "Unknown",
+      "complication_category": "Fluid Balance",
+      "stage": null
+    },
+    {
+      "name": "Electrolyte abnormalities",
+      "synonyms": [],
+      "source_text": "Electrolyte abnormalities | Serum electrolytes",
+      "page_number": "S249",
+      "evidence_level": "Unknown",
+      "complication_category": "Metabolic",
+      "stage": null
+    },
+    {
+      "name": "Metabolic acidosis",
+      "synonyms": [],
+      "source_text": "Metabolic acidosis | Serum electrolytes",
+      "page_number": "S249",
+      "evidence_level": "Unknown",
+      "complication_category": "Metabolic",
+      "stage": null
+    },
+    {
+      "name": "Anemia",
+      "synonyms": [],
+      "source_text": "Anemia | Hemoglobin; iron, iron saturation, ferritin testing if indicated",
+      "page_number": "S249",
+      "evidence_level": "Unknown",
+      "complication_category": "Hematologic",
+      "stage": null
+    },
+    {
+      "name": "Metabolic bone disease",
+      "synonyms": [],
+      "source_text": "Metabolic bone disease | Serum calcium, phosphate, PTH, vitamin 25(OH)D",
+      "page_number": "S249",
+      "evidence_level": "Unknown",
+      "complication_category": "Endocrine/Metabolic",
+      "stage": null
+    },
+    {
+      "name": "Hyperkalemia",
+      "synonyms": [],
+      "source_text": "Individuals with eGFR <60 mL/min/1.73 m\u00b2 receiving ACE inhibitors, ARBs, or mineralocorticoid receptor antagonists (MRAs) should have serum potassium measured periodically to assess for hyperkalemia.",
+      "page_number": "S249",
+      "evidence_level": "Unknown",
+      "complication_category": "Electrolyte",
+      "stage": null
+    },
+    {
+      "name": "Hypokalemia",
+      "synonyms": [],
+      "source_text": "Serum potassium should also be monitored in individuals treated with diuretics because these medications can cause hypokalemia, which is associated with cardiovascular risk and mortality (38\u201340).",
+      "page_number": "S249",
+      "evidence_level": "Unknown",
+      "complication_category": "Electrolyte",
+      "stage": null
+    },
+    {
+      "name": "Diabetic Retinopathy",
+      "synonyms": [],
+      "source_text": "It is rare for people with type 1 diabetes to develop kidney disease without retinopathy.",
+      "page_number": "S247",
+      "evidence_level": "Unknown",
+      "complication_category": "Ophthalmologic",
+      "stage": null
+    }
+  ],
+  "screening_tests": [
+    {
+      "name": "Urine albumin-to-creatinine ratio (UACR)",
+      "synonyms": [
+        "UACR",
+        "spot UACR"
+      ],
+      "source_text": "Assess kidney function with random urine albumin-to-creatinine ratio (UACR) and estimated glomerular filtration rate (eGFR) at least annually in people with type 1 diabetes with duration of \u22655 years and in all people with type 2 diabetes regardless of treatment. B",
+      "page_number": "S246",
+      "evidence_level": "B",
+      "test_name": "Urine albumin-to-creatinine ratio",
+      "frequency": "at least annually",
+      "indication": "Assess kidney function in people with type 1 diabetes (duration \u22655 years) and all people with type 2 diabetes"
+    },
+    {
+      "name": "Estimated glomerular filtration rate (eGFR)",
+      "synonyms": [
+        "eGFR"
+      ],
+      "source_text": "Assess kidney function with random urine albumin-to-creatinine ratio (UACR) and estimated glomerular filtration rate (eGFR) at least annually in people with type 1 diabetes with duration of \u22655 years and in all people with type 2 diabetes regardless of treatment. B",
+      "page_number": "S246",
+      "evidence_level": "B",
+      "test_name": "Estimated glomerular filtration rate",
+      "frequency": "at least annually",
+      "indication": "Assess kidney function in people with type 1 diabetes (duration \u22655 years) and all people with type 2 diabetes"
+    },
+    {
+      "name": "Urine albumin",
+      "synonyms": [],
+      "source_text": "In people with chronic kidney disease (CKD), monitor urinary albumin (e.g., spot UACR) and eGFR 1\u20134 times per year depending on the stage of kidney disease (Fig. 11.1). B",
+      "page_number": "S246",
+      "evidence_level": "B",
+      "test_name": "Urine albumin",
+      "frequency": "1-4 times per year",
+      "indication": "Monitor in people with CKD"
+    },
+    {
+      "name": "Serum electrolytes",
+      "synonyms": [],
+      "source_text": "Electrolyte abnormalities | Serum electrolytes",
+      "page_number": "S249",
+      "evidence_level": "Unknown",
+      "test_name": "Serum electrolytes",
+      "frequency": "every 6\u201312 months for stage G3 CKD, every 3\u20135 months for stage G4 CKD, and every 1\u20133 months for stage G5 CKD",
+      "indication": "Monitor for electrolyte abnormalities and metabolic acidosis"
+    },
+    {
+      "name": "Hemoglobin testing",
+      "synonyms": [
+        "Hemoglobin"
+      ],
+      "source_text": "Anemia | Hemoglobin; iron, iron saturation, ferritin testing if indicated",
+      "page_number": "S249",
+      "evidence_level": "Unknown",
+      "test_name": "Hemoglobin testing",
+      "frequency": "every 6\u201312 months for stage G3 CKD, every 3\u20135 months for stage G4 CKD, and every 1\u20133 months for stage G5 CKD",
+      "indication": "Monitor for anemia"
+    },
+    {
+      "name": "Iron studies",
+      "synonyms": [
+        "iron, iron saturation, ferritin testing"
+      ],
+      "source_text": "Anemia | Hemoglobin; iron, iron saturation, ferritin testing if indicated",
+      "page_number": "S249",
+      "evidence_level": "Unknown",
+      "test_name": "Iron studies",
+      "frequency": "if indicated for anemia",
+      "indication": "Monitor for anemia"
+    },
+    {
+      "name": "Serum calcium",
+      "synonyms": [],
+      "source_text": "Metabolic bone disease | Serum calcium, phosphate, PTH, vitamin 25(OH)D",
+      "page_number": "S249",
+      "evidence_level": "Unknown",
+      "test_name": "Serum calcium",
+      "frequency": "every 6\u201312 months for stage G3 CKD, every 3\u20135 months for stage G4 CKD, and every 1\u20133 months for stage G5 CKD",
+      "indication": "Monitor for metabolic bone disease"
+    },
+    {
+      "name": "Serum phosphate",
+      "synonyms": [],
+      "source_text": "Metabolic bone disease | Serum calcium, phosphate, PTH, vitamin 25(OH)D",
+      "page_number": "S249",
+      "evidence_level": "Unknown",
+      "test_name": "Serum phosphate",
+      "frequency": "every 6\u201312 months for stage G3 CKD, every 3\u20135 months for stage G4 CKD, and every 1\u20133 months for stage G5 CKD",
+      "indication": "Monitor for metabolic bone disease"
+    },
+    {
+      "name": "Parathyroid hormone (PTH) testing",
+      "synonyms": [
+        "PTH"
+      ],
+      "source_text": "Metabolic bone disease | Serum calcium, phosphate, PTH, vitamin 25(OH)D",
+      "page_number": "S249",
+      "evidence_level": "Unknown",
+      "test_name": "Parathyroid hormone testing",
+      "frequency": "every 6\u201312 months for stage G3 CKD, every 3\u20135 months for stage G4 CKD, and every 1\u20133 months for stage G5 CKD",
+      "indication": "Monitor for metabolic bone disease"
+    },
+    {
+      "name": "25-hydroxyvitamin D testing",
+      "synonyms": [
+        "vitamin 25(OH)D"
+      ],
+      "source_text": "Metabolic bone disease | Serum calcium, phosphate, PTH, vitamin 25(OH)D",
+      "page_number": "S249",
+      "evidence_level": "Unknown",
+      "test_name": "25-hydroxyvitamin D testing",
+      "frequency": "every 6\u201312 months for stage G3 CKD, every 3\u20135 months for stage G4 CKD, and every 1\u20133 months for stage G5 CKD",
+      "indication": "Monitor for metabolic bone disease"
+    },
+    {
+      "name": "Serum potassium monitoring",
+      "synonyms": [],
+      "source_text": "Individuals with eGFR <60 mL/min/1.73 m\u00b2 receiving ACE inhibitors, ARBs, or mineralocorticoid receptor antagonists (MRAs) should have serum potassium measured periodically to assess for hyperkalemia.",
+      "page_number": "S249",
+      "evidence_level": "Unknown",
+      "test_name": "Serum potassium monitoring",
+      "frequency": "periodically",
+      "indication": "Assess for hyperkalemia when using ACE inhibitors, ARBs, or MRAs with eGFR <60 mL/min/1.73 m\u00b2"
+    },
+    {
+      "name": "Serum potassium monitoring",
+      "synonyms": [
+        "serum potassium measured periodically"
+      ],
+      "source_text": "Serum potassium should also be monitored in individuals treated with diuretics because these medications can cause hypokalemia, which is associated with cardiovascular risk and mortality (38\u201340).",
+      "page_number": "S249",
+      "evidence_level": "Unknown",
+      "test_name": "Serum potassium monitoring",
+      "frequency": "periodically",
+      "indication": "Monitor for hypokalemia when treated with diuretics"
+    },
+    {
+      "name": "10g Monofilament Test",
+      "synonyms": [],
+      "source_text": "monofilament testing protocols and foot care algorithms",
+      "page_number": "S246",
+      "evidence_level": "Unknown",
+      "test_name": "10g Monofilament Test",
+      "frequency": "Unknown",
+      "indication": "Foot care assessment"
+    }
+  ],
+  "therapeutic_agents": [
+    {
+      "name": "ACE inhibitors",
+      "synonyms": [
+        "ACEi"
+      ],
+      "source_text": "Accordingly, ACE inhibitors and ARBs should not be discontinued for increases in serum creatinine (<30%) in the absence of volume depletion.",
+      "page_number": "S248",
+      "evidence_level": "A",
+      "agent_type": "Antihypertensive",
+      "when_to_use": "To prevent progression of kidney disease and reduce cardiovascular events in those with moderately increased albuminuria (UACR 30\u2013299 mg/g creatinine) or severely increased albuminuria (UACR \u2265300 mg/g creatinine) and/or eGFR <60 mL/min/1.73 m2."
+    },
+    {
+      "name": "Angiotensin receptor blockers",
+      "synonyms": [
+        "ARBs"
+      ],
+      "source_text": "Accordingly, ACE inhibitors and ARBs should not be discontinued for increases in serum creatinine (<30%) in the absence of volume depletion.",
+      "page_number": "S248",
+      "evidence_level": "A",
+      "agent_type": "Antihypertensive",
+      "when_to_use": "To prevent progression of kidney disease and reduce cardiovascular events in those with moderately increased albuminuria (UACR 30\u2013299 mg/g creatinine) or severely increased albuminuria (UACR \u2265300 mg/g creatinine) and/or eGFR <60 mL/min/1.73 m2."
+    },
+    {
+      "name": "SGLT2 inhibitors",
+      "synonyms": [
+        "sodium\u2013glucose cotransporter 2 inhibitors",
+        "SGLT2i"
+      ],
+      "source_text": "SGLT2 inhibitors are recommended for people with eGFR \u226520 mL/min/1.73 m\u00b2 and type 2 diabetes, as they slow CKD progression and reduce heart failure risk independent of their effects on glucose.",
+      "page_number": "S255",
+      "evidence_level": "A",
+      "agent_type": "Glucose-lowering medication",
+      "when_to_use": "Recommended for people with type 2 diabetes and CKD (eGFR \u226520 mL/min/1.73 m\u00b2)."
+    },
+    {
+      "name": "Glucagon-like peptide 1 agonists",
+      "synonyms": [
+        "GLP-1 RA",
+        "GLP-1 RAs"
+      ],
+      "source_text": "To reduce kidney disease progression and cardiovascular risk in people with type 2 diabetes and CKD, a glucagon-like peptide 1 agonist with demonstrated benefit in this population is recommended.",
+      "page_number": "S253",
+      "evidence_level": "Unknown",
+      "agent_type": "Glucose-lowering medication",
+      "when_to_use": "Recommended for people with type 2 diabetes and CKD to reduce kidney disease progression and cardiovascular risk."
+    },
+    {
+      "name": "Finerenone",
+      "synonyms": [
+        "nsMRA"
+      ],
+      "source_text": "To reduce CKD progression and cardiovascular events in people with CKD and albuminuria, a nonsteroidal MRA that has been shown to be effective in clinical trials is recommended (if eGFR is \u226525 mL/min/1.73 m\u00b2).",
+      "page_number": "S257",
+      "evidence_level": "Unknown",
+      "agent_type": "Nonsteroidal Mineralocorticoid Receptor Antagonist",
+      "when_to_use": "Recommended to reduce CKD progression and cardiovascular events in people with CKD and albuminuria (if eGFR is \u226525 mL/min/1.73 m\u00b2)."
+    },
+    {
+      "name": "Diuretics",
+      "synonyms": [],
+      "source_text": "Serum potassium should also be monitored in individuals treated with diuretics because these medications can cause hypokalemia, which is associated with cardiovascular risk and mortality (38\u201340).",
+      "page_number": "S249",
+      "evidence_level": "Unknown",
+      "agent_type": "Antihypertensive",
+      "when_to_use": "To manage blood pressure, often needed in combination to attain BP targets."
+    },
+    {
+      "name": "Mineralocorticoid receptor antagonists",
+      "synonyms": [
+        "MRAs"
+      ],
+      "source_text": "Individuals with eGFR <60 mL/min/1.73 m\u00b2 receiving ACE inhibitors, ARBs, or mineralocorticoid receptor antagonists (MRAs) should have serum potassium measured periodically to assess for hyperkalemia.",
+      "page_number": "S249",
+      "evidence_level": "Unknown",
+      "agent_type": "Antihypertensive",
+      "when_to_use": "Considered for CKD and albuminuria to reduce progression and cardiovascular events."
+    },
+    {
+      "name": "Metformin",
+      "synonyms": [],
+      "source_text": "The U.S. Food and Drug Administration (FDA) revised its guidance for the use of metformin in CKD in 2016 (114), recommending use of eGFR instead of serum creatinine to guide treatment and expanding the pool of people with kidney disease for whom metformin treatment should be considered.",
+      "page_number": "S254",
+      "evidence_level": "Unknown",
+      "agent_type": "Glucose-lowering medication",
+      "when_to_use": "Considered for people with kidney disease, with eGFR monitoring."
+    }
+  ],
+  "risk_factors": [
+    {
+      "name": "Hypertension",
+      "synonyms": [
+        "elevated blood pressure",
+        "HTN"
+      ],
+      "source_text": "The only proven primary prevention interventions for CKD in people with diabetes are blood glucose (A1C goal of 7%) and blood pressure management (<130/80 mmHg).",
+      "page_number": "S250",
+      "evidence_level": "Unknown",
+      "factor_type": "Clinical Condition",
+      "impact_magnitude": "High"
+    },
+    {
+      "name": "Albuminuria",
+      "synonyms": [
+        "urinary albumin excretion"
+      ],
+      "source_text": "Interventions that lower albuminuria\n\u2022 Blood glucose management\n\u2022 Blood pressure management\n\u2022 Treatment with ACE inhibitors or ARBs\n\u2022 Smoking cessation\n\u2022 Weight loss\n\u2022 Changes in eating patterns (decreased salt intake and/or protein intake)\n\u2022 Physical activity\n\u2022 Treatment with SGLT2 inhibitors, MRAs, or GLP-1 RAs",
+      "page_number": "S251",
+      "evidence_level": "Unknown",
+      "factor_type": "Clinical Marker",
+      "impact_magnitude": "High"
+    },
+    {
+      "name": "eGFR <60 mL/min/1.73 m\u00b2",
+      "synonyms": [
+        "reduced eGFR"
+      ],
+      "source_text": "CKD in people with diabetes is usually a clinical diagnosis made based on the presence of albuminuria and/or reduced eGFR in the absence of signs or symptoms of other primary causes of kidney damage.",
+      "page_number": "S247",
+      "evidence_level": "Unknown",
+      "factor_type": "Clinical Condition",
+      "impact_magnitude": "High"
+    },
+    {
+      "name": "Diabetes duration",
+      "synonyms": [],
+      "source_text": "CKD in people with diabetes typically develops after a duration of 10 years in type 1 diabetes (the most common presentation is 5\u201315 years after the diagnosis of type 1 diabetes) but may be present at diagnosis of type 2 diabetes.",
+      "page_number": "S246",
+      "evidence_level": "Unknown",
+      "factor_type": "Patient Characteristic",
+      "impact_magnitude": "Moderate"
+    },
+    {
+      "name": "Type 1 diabetes",
+      "synonyms": [],
+      "source_text": "CKD in people with diabetes typically develops after a duration of 10 years in type 1 diabetes (the most common presentation is 5\u201315 years after the diagnosis of type 1 diabetes) but may be present at diagnosis of type 2 diabetes.",
+      "page_number": "S246",
+      "evidence_level": "Unknown",
+      "factor_type": "Disease",
+      "impact_magnitude": "High"
+    },
+    {
+      "name": "Type 2 diabetes",
+      "synonyms": [],
+      "source_text": "CKD in people with diabetes typically develops after a duration of 10 years in type 1 diabetes (the most common presentation is 5\u201315 years after the diagnosis of type 1 diabetes) but may be present at diagnosis of type 2 diabetes.",
+      "page_number": "S246",
+      "evidence_level": "Unknown",
+      "factor_type": "Disease",
+      "impact_magnitude": "High"
+    },
+    {
+      "name": "Use of medications that cause kidney injury",
+      "synonyms": [
+        "nephrotoxins"
+      ],
+      "source_text": "Other risk factors for AKI include preexisting CKD, the use of medications that cause kidney injury (e.g., nonsteroidal anti-inflammatory drugs), certain intravenous dyes (e.g., iodinated radiocontrast agents), and the use of medications that alter kidney blood flow and intrakidney hemodynamics.",
+      "page_number": "S247",
+      "evidence_level": "Unknown",
+      "factor_type": "Medication Related",
+      "impact_magnitude": "High"
+    },
+    {
+      "name": "Use of iodinated radiocontrast agents",
+      "synonyms": [],
+      "source_text": "Other risk factors for AKI include preexisting CKD, the use of medications that cause kidney injury (e.g., nonsteroidal anti-inflammatory drugs), certain intravenous dyes (e.g., iodinated radiocontrast agents), and the use of medications that alter kidney blood flow and intrakidney hemodynamics.",
+      "page_number": "S247",
+      "evidence_level": "Unknown",
+      "factor_type": "Medication Related",
+      "impact_magnitude": "High"
+    },
+    {
+      "name": "Smoking",
+      "synonyms": [
+        "Smoking cessation"
+      ],
+      "source_text": "Interventions that lower albuminuria\n\u2022 Blood glucose management\n\u2022 Blood pressure management\n\u2022 Treatment with ACE inhibitors or ARBs\n\u2022 Smoking cessation\n\u2022 Weight loss\n\u2022 Changes in eating patterns (decreased salt intake and/or protein intake)\n\u2022 Physical activity\n\u2022 Treatment with SGLT2 inhibitors, MRAs, or GLP-1 RAs",
+      "page_number": "S251",
+      "evidence_level": "Unknown",
+      "factor_type": "Lifestyle",
+      "impact_magnitude": "Moderate"
+    },
+    {
+      "name": "Obesity",
+      "synonyms": [
+        "Weight management"
+      ],
+      "source_text": "Interventions that lower albuminuria\n\u2022 Blood glucose management\n\u2022 Blood pressure management\n\u2022 Treatment with ACE inhibitors or ARBs\n\u2022 Smoking cessation\n\u2022 Weight loss\n\u2022 Changes in eating patterns (decreased salt intake and/or protein intake)\n\u2022 Physical activity\n\u2022 Treatment with SGLT2 inhibitors, MRAs, or GLP-1 RAs",
+      "page_number": "S251",
+      "evidence_level": "Unknown",
+      "factor_type": "Lifestyle",
+      "impact_magnitude": "Moderate"
+    }
+  ],
+  "referral_criteria": [
+    {
+      "name": "Referral to nephrologist for CKD management",
+      "synonyms": [],
+      "source_text": "For individuals with these features, referral to a nephrologist for further diagnosis, including the possibility of kidney biopsy, should be considered.",
+      "page_number": "S247",
+      "evidence_level": "Unknown",
+      "specialist_type": "Nephrologist",
+      "urgency": "Considered",
+      "criteria": "Signs of CKD may be present at diagnosis or without retinopathy in type 2 diabetes. Reduced eGFR without albuminuria has been frequently reported in type 1 and type 2 diabetes and is becoming more common over time as the prevalence of diabetes increases in the U.S. (2,3,18,20,21). An active urinary sediment (containing red or white blood cells or cellular casts), rapidly increasing albuminuria or total proteinuria, the presence of nephrotic syndrome, rapidly decreasing eGFR, or the absence of retinopathy (particularly in type 1 diabetes) suggests alternative or additional causes of kidney disease."
+    },
+    {
+      "name": "Referral to nephrologist for advanced CKD",
+      "synonyms": [],
+      "source_text": "Consultation with a nephrologist when stage G4 CKD develops (eGFR <30 mL/min/1.73 m\u00b2) has been found to reduce cost, improve quality of care, and delay the need for dialysis (159).",
+      "page_number": "S259",
+      "evidence_level": "Unknown",
+      "specialist_type": "Nephrologist",
+      "urgency": "Considered",
+      "criteria": "Stage G4 CKD (eGFR <30 mL/min/1.73 m\u00b2)"
+    },
+    {
+      "name": "Referral to nephrologist for uncertain etiology",
+      "synonyms": [],
+      "source_text": "Refer to a nephrologist for uncertainty about the etiology of kidney disease or difficult management issues.",
+      "page_number": "S259",
+      "evidence_level": "Unknown",
+      "specialist_type": "Nephrologist",
+      "urgency": "Considered",
+      "criteria": "Uncertainty about the etiology of kidney disease"
+    },
+    {
+      "name": "Referral to nephrologist for difficult management issues",
+      "synonyms": [],
+      "source_text": "Refer to a nephrologist for uncertainty about the etiology of kidney disease or difficult management issues.",
+      "page_number": "S259",
+      "evidence_level": "Unknown",
+      "specialist_type": "Nephrologist",
+      "urgency": "Considered",
+      "criteria": "Difficult management issues (anemia, secondary hyperparathyroidism, significant increases in albuminuria despite good blood pressure management, metabolic bone disease, resistant hypertension, or electrolyte disturbances)"
+    },
+    {
+      "name": "Referral to nephrologist for rapidly increasing albuminuria",
+      "synonyms": [],
+      "source_text": "Individuals should be referred for evaluation by a nephrologist if they have rapidly increasing urinary albumin levels and/or rapidly decreasing eGFR and/or if the eGFR is <30 mL/min/1.73 m\u00b2.",
+      "page_number": "S259",
+      "evidence_level": "Unknown",
+      "specialist_type": "Nephrologist",
+      "urgency": "Considered",
+      "criteria": "Rapidly increasing urinary albumin levels"
+    },
+    {
+      "name": "Referral to nephrologist for rapidly decreasing eGFR",
+      "synonyms": [],
+      "source_text": "Individuals should be referred for evaluation by a nephrologist if they have rapidly increasing urinary albumin levels and/or rapidly decreasing eGFR and/or if the eGFR is <30 mL/min/1.73 m\u00b2.",
+      "page_number": "S259",
+      "evidence_level": "Unknown",
+      "specialist_type": "Nephrologist",
+      "urgency": "Considered",
+      "criteria": "Rapidly decreasing eGFR"
+    }
+  ],
+  "relationships": [
+    {
+      "source_entity": "Chronic Kidney Disease (CKD)",
+      "target_entity": "Albuminuria",
+      "relationship_type": "DETECTED_BY",
+      "evidence_level": "Unknown",
+      "conditional_context": "General population with diabetes, eGFR <60 mL/min/1.73 m\u00b2 or other kidney damage manifestations present for diagnosis of CKD. Albuminuria categories A1-A3 are used for staging CKD risk and progression. A2 (30-299 mg/g) and A3 (\u2265300 mg/g) indicate CKD risk and progression. A3 is severely elevated albuminuria. A2 is moderately elevated albuminuria. A1 is normal to mildly elevated albuminuria (<30 mg/g). Two of three specimens of UACR collected within a 3- to 6-month period should be abnormal before considering an individual to have moderately or severely elevated albuminuria (1,13,14). Exercise within 24 h, infection, fever, heart failure, marked hyperglycemia, menstruation, and marked hypertension may elevate UACR independently of kidney damage (15). Normal to mildly increased level of urine albumin excretion is defined as <30 mg/g creatinine, moderately elevated albuminuria is defined as \u226530 to <300 mg/g creatinine, and severely elevated albuminuria is defined as \u2265300 mg/g creatinine. UACR is a continuous measurement, and differences within the normal and abnormal ranges are associated with kidney and cardiovascular outcomes (6,11,12). At any eGFR, the degree of albuminuria is associated with risk of cardiovascular disease (CVD), CKD progression, and mortality (6). Thus, based on the current classification system, both eGFR and albuminuria must be quantified to guide treatment decisions. Quantification of eGFR levels is essential for modifications of medication dosages or restrictions of use (Fig. 11.1) (23,24), and the degree of albuminuria should influence the choice of antihypertensive medications (see section 10, \u201cCardiovascular Disease and Risk Management\u201d) or glucose-lowering medications (see below). Observed history of eGFR loss (which is also associated with risk of CKD progression and other adverse health outcomes) and cause of kidney damage (including possible causes other than diabetes) may also affect these decisions (25). Interventions that lower albuminuria include blood glucose management, blood pressure management, treatment with ACE inhibitors or ARBs, smoking cessation, weight loss, changes in eating patterns (decreased salt intake and/or protein intake), physical activity, and treatment with SGLT2 inhibitors, MRAs, or GLP-1 RAs. In 2023, the Glycemia Reduction Approaches in Diabetes: A Comparative Effectiveness Study (GRADE) was published. This large prospective study compared liraglutide, sitagliptin, glimepiride, and insulin glargine with respect to achieving and maintaining A1C goals in people with type 2 diabetes treated with metformin monotherapy; kidney and cardiovascular end points were examined as secondary outcomes. A total of 5,047 participants were enrolled from July 2013 to August 2017 and were followed for an average of 5 years. Almost all participants did not have signs of kidney disease at the time of enrollment. No differences between the examined medications were observed for kidney-protective effects among these medications for prevention. Of note, SGLT2 inhibitors were not included in the study, as these medications were not routinely available at the time the study started. For people with CKD stage G3 or higher, protein intake should be 0.8 g/kg body weight per day, as for the general population. A For individuals on dialysis, protein intake of 1.0\u20131.2 g/kg/day should be considered, since protein energy wasting is a major problem for some individuals on dialysis. B For people with stage G3-G5 non\u2013dialysis-dependent CKD, protein intake should be \u223c0.8 g/kg body weight per day (the recommended daily allowance). Compared with higher levels of protein intake, this level slowed GFR decline with evidence of a greater effect over time. Higher levels of protein intake (>20% of daily calories from protein or >1.3 g/kg/day) have been associated with increased albuminuria, more rapid kidney function loss, and CVD mortality and therefore should be avoided. In people with CKD and diabetes, consuming protein below the recommended daily allowance of 0.8 g/kg/day is not recommended, because it does not alter blood glucose levels, cardiovascular risk measures, or the risk of CKD progression. If it can be safely attained, the on-treatment blood pressure goal for people with CKD is <130/80 mmHg; a systolic blood pressure goal <120 mmHg and/or reduction in blood pressure variability should be encouraged. A In nonpregnant people with diabetes and hypertension, either an ACE inhibitor or an angiotensin receptor blocker (ARB) is recommended for those with moderately increased albuminuria (UACR 30\u2013299 mg/g creatinine) B and is strongly recommended for those with severely increased albuminuria (UACR \u2265300 mg/g creatinine) and/or eGFR <60 mL/min/1.73 m2 to maximally tolerated dose to prevent the progression of kidney disease and reduce cardiovascular events. A If one class is not tolerated, the other should be substituted. B Monitor for drop in eGFR and increase in serum potassium levels at initiation and periodically as clinically appropriate when ACE inhibitors, ARBs, and mineralocorticoid receptor antagonists (MRAs) are used. B Monitor for hypokalemia when diuretics are used. 29 on guest by http://diabetesjournals.org/care/article-pdf/49/Supplement_1/S246/848818/dc26s011.pdf Downloaded diabetesjournals.org/care Chronic Kidney Disease and Risk Management at"
+    }
+  ]
+}

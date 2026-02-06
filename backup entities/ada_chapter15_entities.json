@@ -1,0 +1,511 @@
+{
+  "population_segments": [
+    {
+      "name": "Pregnant individuals with diabetes",
+      "synonyms": [
+        "pregnant people with diabetes",
+        "individuals with diabetes in pregnancy"
+      ],
+      "source_text": "Diabetes Care Volume 49, Supplement 1, January 2026 S321\n\n# 15. Management of Diabetes in Pregnancy: Standards of Care in Diabetes\u20142026",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "population_type": "Unknown",
+      "age_range": null,
+      "defining_characteristics": [
+        "diabetes",
+        "pregnancy"
+      ]
+    },
+    {
+      "name": "Individuals with a history of gestational diabetes mellitus (GDM)",
+      "synonyms": [
+        "people with a history of GDM"
+      ],
+      "source_text": "In individuals with a history of gestational diabetes mellitus (GDM) should seek preconception screening for diabetes and preconception care to identify and treat hyperglycemia and prevent congenital malformations and other adverse maternal and fetal outcomes.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "population_type": "Unknown",
+      "age_range": null,
+      "defining_characteristics": [
+        "history of gestational diabetes mellitus"
+      ]
+    },
+    {
+      "name": "Individuals with preexisting diabetes planning a pregnancy",
+      "synonyms": [
+        "people with preexisting diabetes planning a pregnancy"
+      ],
+      "source_text": "Individuals with preexisting diabetes who are planning a pregnancy should ideally begin receiving interprofessional care prior to conception",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "population_type": "Unknown",
+      "age_range": null,
+      "defining_characteristics": [
+        "preexisting diabetes",
+        "planning a pregnancy"
+      ]
+    },
+    {
+      "name": "Individuals with preexisting diabetes who have become pregnant",
+      "synonyms": [
+        "people with preexisting diabetes who have become pregnant"
+      ],
+      "source_text": "Individuals with preexisting diabetes who are planning a pregnancy or who have become pregnant should be counseled on the risk of development of diabetic embryopathy",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "population_type": "Unknown",
+      "age_range": null,
+      "defining_characteristics": [
+        "preexisting diabetes",
+        "pregnant"
+      ]
+    },
+    {
+      "name": "Pregnant individuals with type 1 diabetes",
+      "synonyms": [
+        "pregnant people with type 1 diabetes"
+      ],
+      "source_text": "15.11 Recommend CGM to pregnant individuals with type 1 diabetes. A In conjunction with aims to achieve traditional pre- and postprandial glycemic goals, CGM can reduce the risk for large-for-gestational-age infants and neonatal hypoglycemia in pregnancy complicated by type 1 diabetes. A",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "population_type": "Unknown",
+      "age_range": null,
+      "defining_characteristics": [
+        "type 1 diabetes",
+        "pregnancy"
+      ]
+    },
+    {
+      "name": "Pregnant individuals with type 2 diabetes",
+      "synonyms": [
+        "pregnant people with type 2 diabetes"
+      ],
+      "source_text": "15.17 Insulin should be used to manage type 1 diabetes in pregnancy A and is the preferred agent for the management of GDM A and type 2 diabetes in pregnancy. B",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "population_type": "Unknown",
+      "age_range": null,
+      "defining_characteristics": [
+        "type 2 diabetes",
+        "pregnancy"
+      ]
+    },
+    {
+      "name": "Individuals with diabetes and childbearing potential",
+      "synonyms": [
+        "people with diabetes and childbearing potential"
+      ],
+      "source_text": "Starting at puberty and continuing in all people with diabetes and childbearing potential, preconception counseling should be incorporated into routine diabetes care. A",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "population_type": "Unknown",
+      "age_range": null,
+      "defining_characteristics": [
+        "diabetes",
+        "childbearing potential"
+      ]
+    },
+    {
+      "name": "Pregnant individuals with GDM",
+      "synonyms": [
+        "pregnant people with GDM"
+      ],
+      "source_text": "15.15 Lifestyle behavior change is an essential component of management of GDM and may suffice as treatment for many individuals. Insulin should be added if needed to achieve glycemic goals. A",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "population_type": "Unknown",
+      "age_range": null,
+      "defining_characteristics": [
+        "gestational diabetes mellitus",
+        "pregnancy"
+      ]
+    },
+    {
+      "name": "Pregnant individuals with diabetes and chronic hypertension",
+      "synonyms": [
+        "pregnant people with diabetes and chronic hypertension"
+      ],
+      "source_text": "15.24 In pregnant individuals with diabetes and chronic hypertension, a blood pressure threshold <140/90 mmHg is recommended for initiation and titration of therapy for better pregnancy outcomes. A Therapy should be deintensified if blood pressure is <90/60 mmHg. E",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "population_type": "Unknown",
+      "age_range": null,
+      "defining_characteristics": [
+        "diabetes",
+        "chronic hypertension",
+        "pregnancy"
+      ]
+    }
+  ],
+  "specific_goals": [
+    {
+      "name": "Preconception A1C goal",
+      "synonyms": [
+        "preconception glucose goal"
+      ],
+      "source_text": "Preconception counseling should address the importance of achieving glucose levels as close to normal as is safely possible without excessive hypoglycemia, ideally A1C <6.5% (<48 mmol/mol), to reduce the risk of congenital anomalies, preeclampsia, macrosomia, preterm birth, and other complications. A",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "goal_parameter": "A1C",
+      "target_value": "<6.5% (<48 mmol/mol)",
+      "rationale": "to reduce the risk of congenital anomalies, preeclampsia, macrosomia, preterm birth, and other complications"
+    },
+    {
+      "name": "Preconception glucose goals",
+      "synonyms": [
+        "preconception glucose targets"
+      ],
+      "source_text": "The following preconception glucose goals have been advised: preprandial glucose 80\u2013110 mg/dL (4.4\u20136.1 mmol/L) and 2 h postprandial glucose <155 mg/dL (<8.6 mmol/L) (31).",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "goal_parameter": "glucose",
+      "target_value": "preprandial glucose 80\u2013110 mg/dL (4.4\u20136.1 mmol/L) and 2 h postprandial glucose <155 mg/dL (<8.6 mmol/L)",
+      "rationale": "Setting preconception glucose goals is helpful in guiding insulin dose adjustments."
+    },
+    {
+      "name": "Pregnancy glucose goals",
+      "synonyms": [
+        "glucose goals in pregnancy"
+      ],
+      "source_text": "15.8 Fasting, preprandial, and postprandial blood glucose monitoring are recommended in individuals with diabetes in pregnancy to achieve optimal glucose levels. Glucose goals are fasting plasma glucose <95 mg/dL (<5.3 mmol/L) and either 1-h postprandial glucose <140 mg/dL (<7.8 mmol/mol) or 2-h postprandial glucose <120 mg/dL (<6.7 mmol/L). B",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "goal_parameter": "glucose",
+      "target_value": "fasting plasma glucose <95 mg/dL (<5.3 mmol/L) and either 1-h postprandial glucose <140 mg/dL (<7.8 mmol/mol) or 2-h postprandial glucose <120 mg/dL (<6.7 mmol/L)",
+      "rationale": "to achieve optimal glucose levels"
+    },
+    {
+      "name": "Pregnancy A1C goal",
+      "synonyms": [
+        "A1C goal in pregnancy"
+      ],
+      "source_text": "15.9 Due to increased red blood cell turnover, A1C is slightly lower during pregnancy in people with and without diabetes. Ideally, the A1C goal in pregnancy is <6% (<42 mmol/mol) if this can be achieved without significant hypoglycemia, but the goal may be relaxed to <7% (<53 mmol/mol) if necessary to prevent hypoglycemia. B",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "goal_parameter": "A1C",
+      "target_value": "<6% (<42 mmol/mol) or <7% (<53 mmol/mol) if necessary to prevent hypoglycemia",
+      "rationale": "if this can be achieved without significant hypoglycemia"
+    },
+    {
+      "name": "Pregnancy sensor glucose range",
+      "synonyms": [
+        "sensor glucose goals in pregnancy"
+      ],
+      "source_text": "Goals for sensor glucose ranges in pregnancy are:\n\n\u2022 Goal sensor glucose range 63\u2013140 mg/dL may not be sufficient to achieve glycemic goals. B\n\n\u2022 (3.5\u20137.8 mmol/L): TIR, goal >70% Time below range (TBR) (<63 mg/dL [<3.5 mmol/L]): level 1 TBR, goal <4% TBR (<54 mg/dL [<3.0 mmol/L]): level 2 TBR, goal <1% TAR (>140 mg/dL [>7.8 mmol/L]): TAR, goal <25%",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "goal_parameter": "sensor glucose",
+      "target_value": "range 63\u2013140 mg/dL (3.5\u20137.8 mmol/L): TIR, goal >70%; TBR (<63 mg/dL [<3.5 mmol/L]): level 1 TBR, goal <4%; TBR (<54 mg/dL [<3.0 mmol/L]): level 2 TBR, goal <1%; TAR (>140 mg/dL [>7.8 mmol/L]): TAR, goal <25%",
+      "rationale": "to achieve glycemic goals"
+    },
+    {
+      "name": "Blood pressure goal in pregnant individuals with diabetes and chronic hypertension",
+      "synonyms": [
+        "BP goal in pregnant individuals with diabetes and chronic hypertension"
+      ],
+      "source_text": "15.24 In pregnant individuals with diabetes and chronic hypertension, a blood pressure threshold <140/90 mmHg is recommended for initiation and titration of therapy for better pregnancy outcomes. A Therapy should be deintensified if blood pressure is <90/60 mmHg. E",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "goal_parameter": "blood pressure",
+      "target_value": "<140/90 mmHg",
+      "rationale": "for better pregnancy outcomes"
+    },
+    {
+      "name": "Blood pressure deintensification threshold in pregnant individuals with diabetes and chronic hypertension",
+      "synonyms": [
+        "BP deintensification threshold in pregnant individuals with diabetes and chronic hypertension"
+      ],
+      "source_text": "15.24 In pregnant individuals with diabetes and chronic hypertension, a blood pressure threshold <140/90 mmHg is recommended for initiation and titration of therapy for better pregnancy outcomes. A Therapy should be deintensified if blood pressure is <90/60 mmHg. E",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "goal_parameter": "blood pressure",
+      "target_value": "<90/60 mmHg",
+      "rationale": "Therapy should be deintensified"
+    }
+  ],
+  "allowed_medications": [
+    {
+      "name": "Insulin",
+      "synonyms": [],
+      "source_text": "15.17 Insulin should be used to manage type 1 diabetes in pregnancy A and is the preferred agent for the management of GDM A and type 2 diabetes in pregnancy. B",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "medication_name": "Insulin",
+      "safety_level": "Unknown",
+      "special_instructions": "Preferred agent for management of GDM and type 2 diabetes in pregnancy."
+    },
+    {
+      "name": "Metformin in pregnancy",
+      "synonyms": [],
+      "source_text": "When prepregnancy metformin use is continued in early pregnancy, it can be discontinued at the end of the first trimester (after organogenesis) to avoid sudden deterioration of glycemia and an associated increased risk of malformations due to hyperglycemia. Continuation of metformin in early pregnancy is considered safe, as first-trimester metformin use has not been associated with increased risk of major congenital malformations, and there is minimal maternal-to-fetal transfer of metformin in early gestation.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "medication_name": "Metformin",
+      "safety_level": "Unknown",
+      "special_instructions": "Can be discontinued at the end of the first trimester. Considered safe in first-trimester use."
+    },
+    {
+      "name": "Low-dose aspirin for preeclampsia prevention",
+      "synonyms": [],
+      "source_text": "15.23 Pregnant individuals with type 1 or type 2 diabetes should be prescribed low-dose aspirin 100\u2013150 mg/day starting at 12\u201316 weeks of gestation to lower the risk of preeclampsia. A dosage of 162 mg/day may be acceptable; currently, in the U.S., low-dose aspirin is available in 81-mg tablets.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "medication_name": "low-dose aspirin",
+      "safety_level": "Unknown",
+      "special_instructions": "100\u2013150 mg/day starting at 12\u201316 weeks of gestation to lower the risk of preeclampsia."
+    }
+  ],
+  "contraindicated_medications": [
+    {
+      "name": "ACE inhibitors in pregnancy",
+      "synonyms": [],
+      "source_text": "15.25a Potentially harmful medications in pregnancy (e.g., ACE inhibitors, angiotensin receptor blockers, mineralocorticoid receptor antagonists) should be stopped prior to conception and avoided in sexually active individuals of childbearing potential who are not using reliable contraception. B",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "medication_name": "ACE inhibitors",
+      "reason": "Potentially harmful in pregnancy",
+      "alternative": null
+    },
+    {
+      "name": "Angiotensin receptor blockers in pregnancy",
+      "synonyms": [],
+      "source_text": "15.25a Potentially harmful medications in pregnancy (e.g., ACE inhibitors, angiotensin receptor blockers, mineralocorticoid receptor antagonists) should be stopped prior to conception and avoided in sexually active individuals of childbearing potential who are not using reliable contraception. B",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "medication_name": "Angiotensin receptor blockers",
+      "reason": "Potentially harmful in pregnancy",
+      "alternative": null
+    },
+    {
+      "name": "Mineralocorticoid receptor antagonists in pregnancy",
+      "synonyms": [],
+      "source_text": "15.25a Potentially harmful medications in pregnancy (e.g., ACE inhibitors, angiotensin receptor blockers, mineralocorticoid receptor antagonists) should be stopped prior to conception and avoided in sexually active individuals of childbearing potential who are not using reliable contraception. B",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "medication_name": "Mineralocorticoid receptor antagonists",
+      "reason": "Potentially harmful in pregnancy",
+      "alternative": null
+    },
+    {
+      "name": "Lipid-lowering medications in pregnancy",
+      "synonyms": [],
+      "source_text": "15.25b In most circumstances, lipid-lowering medications should be stopped prior to conception and avoided in sexually active individuals of childbearing potential with diabetes who are not using reliable contraception. B",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "medication_name": "Lipid-lowering medications",
+      "reason": "Should be stopped prior to conception and avoided in sexually active individuals of childbearing potential with diabetes who are not using reliable contraception.",
+      "alternative": null
+    },
+    {
+      "name": "GLP-1 RAs in pregnancy",
+      "synonyms": [],
+      "source_text": "Glucagon-like peptide 1 receptor agonists (GLP-1 RAs) and dual glucose-dependent insulinotropic polypeptide (GIP) and GLP-1 RAs should be discontinued prior to pregnancy, and contraception should be used while taking them (see section 9, \u201cPharmacologic Approaches to Glycemic Treatment\u201d).",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "medication_name": "Glucagon-like peptide 1 receptor agonists (GLP-1 RAs)",
+      "reason": "Should be discontinued prior to pregnancy, and contraception should be used while taking them.",
+      "alternative": null
+    },
+    {
+      "name": "Dual GIP and GLP-1 RAs in pregnancy",
+      "synonyms": [],
+      "source_text": "Glucagon-like peptide 1 receptor agonists (GLP-1 RAs) and dual glucose-dependent insulinotropic polypeptide (GIP) and GLP-1 RAs should be discontinued prior to pregnancy, and contraception should be used while taking them (see section 9, \u201cPharmacologic Approaches to Glycemic Treatment\u201d).",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "medication_name": "Dual GIP and GLP-1 RAs",
+      "reason": "Should be discontinued prior to pregnancy, and contraception should be used while taking them.",
+      "alternative": null
+    },
+    {
+      "name": "Metformin in pregnant individuals with hypertension or preeclampsia",
+      "synonyms": [],
+      "source_text": "However, due to the potential for growth restriction or acidosis in the setting of placental insufficiency, metformin should not be used in pregnant people with hypertension or preeclampsia or those at risk for intrauterine growth restriction.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "medication_name": "Metformin",
+      "reason": "Due to the potential for growth restriction or acidosis in the setting of placental insufficiency.",
+      "alternative": null
+    },
+    {
+      "name": "Glyburide in pregnancy",
+      "synonyms": [],
+      "source_text": "Metformin and glyburide, individually or in combination, should not be used as first-line agents for management of diabetes in pregnancy, as both cross the placenta to the fetus A and.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "medication_name": "Glyburide",
+      "reason": "Crosses the placenta to the fetus.",
+      "alternative": null
+    }
+  ],
+  "age_ranges": [],
+  "relationships": [
+    {
+      "source_entity": "Pregnant individuals with diabetes",
+      "target_entity": "Pregnancy glucose goals",
+      "relationship_type": "HAS_TARGET_OVERRIDE",
+      "evidence_level": "B",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "Pregnant individuals with type 1 diabetes",
+      "target_entity": "Pregnancy A1C goal",
+      "relationship_type": "HAS_TARGET_OVERRIDE",
+      "evidence_level": "B",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "Pregnant individuals with type 1 diabetes",
+      "target_entity": "Pregnancy sensor glucose range",
+      "relationship_type": "HAS_TARGET_OVERRIDE",
+      "evidence_level": "B",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "Pregnant individuals with type 2 diabetes",
+      "target_entity": "Pregnancy glucose goals",
+      "relationship_type": "HAS_TARGET_OVERRIDE",
+      "evidence_level": "B",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "Pregnant individuals with type 2 diabetes",
+      "target_entity": "Insulin",
+      "relationship_type": "CAN_USE_MEDICATION",
+      "evidence_level": "B",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "Pregnant individuals with GDM",
+      "target_entity": "Insulin",
+      "relationship_type": "CAN_USE_MEDICATION",
+      "evidence_level": "A",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "Pregnant individuals with GDM",
+      "target_entity": "Pregnancy glucose goals",
+      "relationship_type": "HAS_TARGET_OVERRIDE",
+      "evidence_level": "B",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "Individuals with preexisting diabetes planning a pregnancy",
+      "target_entity": "Preconception A1C goal",
+      "relationship_type": "HAS_TARGET_OVERRIDE",
+      "evidence_level": "A",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "Individuals with preexisting diabetes planning a pregnancy",
+      "target_entity": "Preconception glucose goals",
+      "relationship_type": "HAS_TARGET_OVERRIDE",
+      "evidence_level": "Unknown",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "Individuals with preexisting diabetes who have become pregnant",
+      "target_entity": "Pregnancy A1C goal",
+      "relationship_type": "HAS_TARGET_OVERRIDE",
+      "evidence_level": "B",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "Individuals with preexisting diabetes who have become pregnant",
+      "target_entity": "Pregnancy glucose goals",
+      "relationship_type": "HAS_TARGET_OVERRIDE",
+      "evidence_level": "B",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "Individuals with diabetes and childbearing potential",
+      "target_entity": "Preconception A1C goal",
+      "relationship_type": "HAS_TARGET_OVERRIDE",
+      "evidence_level": "A",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "Pregnant individuals with diabetes and chronic hypertension",
+      "target_entity": "Blood pressure goal in pregnant individuals with diabetes and chronic hypertension",
+      "relationship_type": "HAS_TARGET_OVERRIDE",
+      "evidence_level": "A",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "Pregnant individuals with diabetes and chronic hypertension",
+      "target_entity": "Blood pressure deintensification threshold in pregnant individuals with diabetes and chronic hypertension",
+      "relationship_type": "HAS_TARGET_OVERRIDE",
+      "evidence_level": "E",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "Pregnant individuals with type 1 or type 2 diabetes",
+      "target_entity": "Low-dose aspirin for preeclampsia prevention",
+      "relationship_type": "CAN_USE_MEDICATION",
+      "evidence_level": "A",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "Individuals with preexisting diabetes",
+      "target_entity": "ACE inhibitors in pregnancy",
+      "relationship_type": "MUST_AVOID_MEDICATION",
+      "evidence_level": "B",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "Individuals with preexisting diabetes",
+      "target_entity": "Angiotensin receptor blockers in pregnancy",
+      "relationship_type": "MUST_AVOID_MEDICATION",
+      "evidence_level": "B",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "Individuals with preexisting diabetes",
+      "target_entity": "Mineralocorticoid receptor antagonists in pregnancy",
+      "relationship_type": "MUST_AVOID_MEDICATION",
+      "evidence_level": "B",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "Individuals with preexisting diabetes",
+      "target_entity": "Lipid-lowering medications in pregnancy",
+      "relationship_type": "MUST_AVOID_MEDICATION",
+      "evidence_level": "B",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "Individuals with diabetes and childbearing potential",
+      "target_entity": "GLP-1 RAs in pregnancy",
+      "relationship_type": "MUST_AVOID_MEDICATION",
+      "evidence_level": "Unknown",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "Individuals with diabetes and childbearing potential",
+      "target_entity": "Dual GIP and GLP-1 RAs in pregnancy",
+      "relationship_type": "MUST_AVOID_MEDICATION",
+      "evidence_level": "Unknown",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "Pregnant individuals with hypertension or preeclampsia",
+      "target_entity": "Metformin in pregnant individuals with hypertension or preeclampsia",
+      "relationship_type": "MUST_AVOID_MEDICATION",
+      "evidence_level": "Unknown",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "Pregnant individuals with GDM",
+      "target_entity": "Glyburide in pregnancy",
+      "relationship_type": "MUST_AVOID_MEDICATION",
+      "evidence_level": "A",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "Pregnant individuals with GDM",
+      "target_entity": "Metformin and glyburide in pregnancy",
+      "relationship_type": "MUST_AVOID_MEDICATION",
+      "evidence_level": "A",
+      "conditional_context": "None"
+    }
+  ]
+}

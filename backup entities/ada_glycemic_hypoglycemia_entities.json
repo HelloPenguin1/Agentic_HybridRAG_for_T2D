@@ -1,0 +1,920 @@
+{
+  "diagnostic_tests": [
+    {
+      "name": "A1C",
+      "synonyms": [
+        "HbA1c",
+        "Hemoglobin A1C"
+      ],
+      "source_text": "Assess glycemic status by A1C A and/or continuous glucose monitoring (CGM) metrics such as time in range, time above range, and time below range.",
+      "page_number": null,
+      "evidence_level": "A",
+      "test_type": "Unknown",
+      "normal_range": null,
+      "units": null
+    },
+    {
+      "name": "continuous glucose monitoring (CGM) metrics",
+      "synonyms": [
+        "CGM metrics"
+      ],
+      "source_text": "Assess glycemic status by A1C A and/or continuous glucose monitoring (CGM) metrics such as time in range, time above range, and time below range.",
+      "page_number": null,
+      "evidence_level": "A",
+      "test_type": "Unknown",
+      "normal_range": null,
+      "units": null
+    },
+    {
+      "name": "Fructosamine",
+      "synonyms": [],
+      "source_text": "Fructosamine or CGM can be used for glycemic monitoring when an alternative to A1C is required. B",
+      "page_number": null,
+      "evidence_level": "B",
+      "test_type": "Unknown",
+      "normal_range": null,
+      "units": null
+    },
+    {
+      "name": "blood glucose monitoring (BGM)",
+      "synonyms": [
+        "BGM"
+      ],
+      "source_text": "Glucose monitoring via CGM or BGM (discussed in detail in section 7, \u201cDiabetes Technology\u201d) is useful for diabetes self-management, can provide nuanced information on glucose responses to meals, physical activity, and medication changes, and is particularly useful for optimal medication management and safety in individuals taking insulin.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "test_type": "Unknown",
+      "normal_range": null,
+      "units": null
+    },
+    {
+      "name": "ketone measurement",
+      "synonyms": [
+        "urine ketone monitoring",
+        "blood ketone tests"
+      ],
+      "source_text": "Individuals at risk for DKA should be counseled on the early signs and symptoms of DKA, provided with appropriate tools for ketone measurement (urine and/or blood ketone tests), and educated on timely self-management of hyperglycemia and hyperketonemia (\u201csick day advice\u201d) (176\u2013178) to prevent clinical deterioration and need for acute care.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "test_type": "Unknown",
+      "normal_range": null,
+      "units": null
+    }
+  ],
+  "conditions": [
+    {
+      "name": "Type 2 Diabetes",
+      "synonyms": [
+        "T2D"
+      ],
+      "source_text": "CGM serves an increasingly important role in optimizing the effectiveness and safety of treatment in many people with type 1 diabetes, type 2 diabetes, diabetes in pregnancy, and other forms of diabetes (e.g., cystic fibrosis\u2013related diabetes).",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "icd10_code": null,
+      "classification": "Diabetes Mellitus"
+    },
+    {
+      "name": "Type 1 Diabetes",
+      "synonyms": [],
+      "source_text": "CGM serves an increasingly important role in optimizing the effectiveness and safety of treatment in many people with type 1 diabetes, type 2 diabetes, diabetes in pregnancy, and other forms of diabetes (e.g., cystic fibrosis\u2013related diabetes).",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "icd10_code": null,
+      "classification": "Diabetes Mellitus"
+    },
+    {
+      "name": "Diabetes in pregnancy",
+      "synonyms": [],
+      "source_text": "CGM serves an increasingly important role in optimizing the effectiveness and safety of treatment in many people with type 1 diabetes, type 2 diabetes, diabetes in pregnancy, and other forms of diabetes (e.g., cystic fibrosis\u2013related diabetes).",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "icd10_code": null,
+      "classification": "Diabetes Mellitus"
+    },
+    {
+      "name": "Diabetic ketoacidosis",
+      "synonyms": [
+        "DKA"
+      ],
+      "source_text": "Diabetic ketoacidosis (DKA) and the hyperglycemic hyperosmolar state (HHS) are serious, acute, and life-threatening hyperglycemic emergencies (162).",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "icd10_code": null,
+      "classification": "Hyperglycemic Crisis"
+    },
+    {
+      "name": "Hyperglycemic hyperosmolar state",
+      "synonyms": [
+        "HHS"
+      ],
+      "source_text": "Diabetic ketoacidosis (DKA) and the hyperglycemic hyperosmolar state (HHS) are serious, acute, and life-threatening hyperglycemic emergencies (162).",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "icd10_code": null,
+      "classification": "Hyperglycemic Crisis"
+    }
+  ],
+  "metric_values": [
+    {
+      "name": "A1C",
+      "synonyms": [],
+      "source_text": "A1C goal of <7% (53 mmol/mol) is appropriate for many nonpregnant adults without severe hypoglycemia or hypoglycemia affecting health or quality of life.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "<7",
+      "unit": "%",
+      "comparator": "<",
+      "upper_bound": null
+    },
+    {
+      "name": "A1C",
+      "synonyms": [],
+      "source_text": "A1C goal of <7% (53 mmol/mol) is appropriate for many nonpregnant adults without severe hypoglycemia or hypoglycemia affecting health or quality of life.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "<53",
+      "unit": "mmol/mol",
+      "comparator": "<",
+      "upper_bound": null
+    },
+    {
+      "name": "Time in Range (TIR)",
+      "synonyms": [],
+      "source_text": "A goal time in range of >70% in people using CGM is appropriate for many nonpregnant adults. B",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": ">70",
+      "unit": "%",
+      "comparator": ">",
+      "upper_bound": null
+    },
+    {
+      "name": "Time Below Range (TBR)",
+      "synonyms": [],
+      "source_text": "A goal percent time <70 mg/dL (<3.9 mmol/L) of <4% (or <1% for older adults) and a goal percent time <54 mg/dL (<3.0 mmol/L) of <1% are recommended in people using CGM to prevent hypoglycemia. Deintensify or modify therapy if these goals are not met. B",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "<4",
+      "unit": "%",
+      "comparator": "<",
+      "upper_bound": null
+    },
+    {
+      "name": "Time Below Range (TBR)",
+      "synonyms": [],
+      "source_text": "A goal percent time <70 mg/dL (<3.9 mmol/L) of <4% (or <1% for older adults) and a goal percent time <54 mg/dL (<3.0 mmol/L) of <1% are recommended in people using CGM to prevent hypoglycemia. Deintensify or modify therapy if these goals are not met. B",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "<1",
+      "unit": "%",
+      "comparator": "<",
+      "upper_bound": null
+    },
+    {
+      "name": "Time Below Range (TBR)",
+      "synonyms": [],
+      "source_text": "A goal percent time <70 mg/dL (<3.9 mmol/L) of <4% (or <1% for older adults) and a goal percent time <54 mg/dL (<3.0 mmol/L) of <1% are recommended in people using CGM to prevent hypoglycemia. Deintensify or modify therapy if these goals are not met. B",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "<1",
+      "unit": "%",
+      "comparator": "<",
+      "upper_bound": null
+    },
+    {
+      "name": "A1C",
+      "synonyms": [],
+      "source_text": "Lower A1C goals (e.g., <6.5% (<48 mmol/mol)) may be appropriate for individuals with diabetes with good health and function and low treatment risks (e.g., hypoglycemia) and burdens (see Fig. 6.1). B",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "<6.5",
+      "unit": "%",
+      "comparator": "<",
+      "upper_bound": null
+    },
+    {
+      "name": "A1C",
+      "synonyms": [],
+      "source_text": "Lower A1C goals (e.g., <6.5% (<48 mmol/mol)) may be appropriate for individuals with diabetes with good health and function and low treatment risks (e.g., hypoglycemia) and burdens (see Fig. 6.1). B",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "<48",
+      "unit": "mmol/mol",
+      "comparator": "<",
+      "upper_bound": null
+    },
+    {
+      "name": "Time in Range (TIR)",
+      "synonyms": [],
+      "source_text": "For older adults with complex or intermediate health using CGM, the recommended percent time spent in goal range of 70\u2013180 mg/dL is 50% (or 12 h per day) and the recommended time spent in hypoglycemia of less than 70 mg/dL should not be more than 1%, or 15 min per day, to minimize hypoglycemia risk.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "50",
+      "unit": "%",
+      "comparator": ">=",
+      "upper_bound": "70"
+    },
+    {
+      "name": "Time Below Range (TBR)",
+      "synonyms": [],
+      "source_text": "For older adults with complex or intermediate health using CGM, the recommended percent time spent in goal range of 70\u2013180 mg/dL is 50% (or 12 h per day) and the recommended time spent in hypoglycemia of less than 70 mg/dL should not be more than 1%, or 15 min per day, to minimize hypoglycemia risk.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "<1",
+      "unit": "%",
+      "comparator": "<",
+      "upper_bound": null
+    },
+    {
+      "name": "Time Below Range (TBR)",
+      "synonyms": [],
+      "source_text": "For older adults with complex or intermediate health using CGM, the recommended percent time spent in goal range of 70\u2013180 mg/dL is 50% (or 12 h per day) and the recommended time spent in hypoglycemia of less than 70 mg/dL should not be more than 1%, or 15 min per day, to minimize hypoglycemia risk.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "<15",
+      "unit": "min",
+      "comparator": "<",
+      "upper_bound": null
+    },
+    {
+      "name": "Time Above Range (TAR)",
+      "synonyms": [],
+      "source_text": "In this population, more permissive hyperglycemia is allowed (up to 50% of the time in 24 h) if required to prevent hypoglycemia.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "<50",
+      "unit": "%",
+      "comparator": "<",
+      "upper_bound": null
+    },
+    {
+      "name": "A1C",
+      "synonyms": [],
+      "source_text": "Table 6.3\u2014Summary of glycemic goals for many nonpregnant adults with diabetes",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "<7.0",
+      "unit": "%",
+      "comparator": "<",
+      "upper_bound": null
+    },
+    {
+      "name": "Preprandial capillary plasma glucose",
+      "synonyms": [],
+      "source_text": "Table 6.3\u2014Summary of glycemic goals for many nonpregnant adults with diabetes",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "80\u2013130",
+      "unit": "mg/dL",
+      "comparator": ">=",
+      "upper_bound": "130"
+    },
+    {
+      "name": "Preprandial capillary plasma glucose",
+      "synonyms": [],
+      "source_text": "Table 6.3\u2014Summary of glycemic goals for many nonpregnant adults with diabetes",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "4.4\u20137.2",
+      "unit": "mmol/L",
+      "comparator": ">=",
+      "upper_bound": "7.2"
+    },
+    {
+      "name": "Peak postprandial capillary plasma glucose",
+      "synonyms": [],
+      "source_text": "Table 6.3\u2014Summary of glycemic goals for many nonpregnant adults with diabetes",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "<180",
+      "unit": "mg/dL",
+      "comparator": "<",
+      "upper_bound": null
+    },
+    {
+      "name": "Peak postprandial capillary plasma glucose",
+      "synonyms": [],
+      "source_text": "Table 6.3\u2014Summary of glycemic goals for many nonpregnant adults with diabetes",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "<10.0",
+      "unit": "mmol/L",
+      "comparator": "<",
+      "upper_bound": null
+    },
+    {
+      "name": "A1C",
+      "synonyms": [],
+      "source_text": "Good health and function, low treatment risks and burdens",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "7.0",
+      "unit": "%",
+      "comparator": "<=",
+      "upper_bound": null
+    },
+    {
+      "name": "Time Below Range (TBR)",
+      "synonyms": [],
+      "source_text": "Good health and function, low treatment risks and burdens",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "1",
+      "unit": "%",
+      "comparator": "<=",
+      "upper_bound": null
+    },
+    {
+      "name": "Time Below Range (TBR)",
+      "synonyms": [],
+      "source_text": "Good health and function, low treatment risks and burdens",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "1",
+      "unit": "%",
+      "comparator": "<=",
+      "upper_bound": null
+    }
+  ],
+  "screening_frequencies": [
+    {
+      "name": "glycemic status",
+      "synonyms": [],
+      "source_text": "6.2 Assess glycemic status at least two times a year, and more frequently (e.g., every 3 months) for individuals not meeting glycemic goals or with recent treatment changes, frequent or severe hypoglycemia or hyperglycemia, or changes in health status, or during periods of rapid growth and development in children and adolescents. E",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "frequency": "at least two times a year",
+      "applies_to": "all individuals"
+    },
+    {
+      "name": "glycemic status",
+      "synonyms": [],
+      "source_text": "6.2 Assess glycemic status at least two times a year, and more frequently (e.g., every 3 months) for individuals not meeting glycemic goals or with recent treatment changes, frequent or severe hypoglycemia or hyperglycemia, or changes in health status, or during periods of rapid growth and development in children and adolescents. E",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "frequency": "every 3 months",
+      "applies_to": "individuals not meeting glycemic goals or with recent treatment changes, frequent or severe hypoglycemia or hyperglycemia, or changes in health status, or during periods of rapid growth and development in children and adolescents"
+    },
+    {
+      "name": "A1C",
+      "synonyms": [],
+      "source_text": "Measurement approximately every 3 months determines whether glycemic goals have been reached and maintained.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "frequency": "every 3 months",
+      "applies_to": "individuals not meeting glycemic goals or with recent treatment changes, frequent or severe hypoglycemia or hyperglycemia, or changes in health status"
+    },
+    {
+      "name": "A1C",
+      "synonyms": [],
+      "source_text": "Adults with type 1 or type 2 diabetes who have achieved and are maintaining glucose levels within their goal range may only need A1C testing twice a year.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "frequency": "twice a year",
+      "applies_to": "Adults with type 1 or type 2 diabetes who have achieved and are maintaining glucose levels within their goal range"
+    },
+    {
+      "name": "A1C",
+      "synonyms": [],
+      "source_text": "Individuals with less stable glucose levels, those with intensive care plans, or those not meeting their treatment goals may require more frequent testing, typically every 3 months, with additional assessments as needed.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "frequency": "every 3 months",
+      "applies_to": "Individuals with less stable glucose levels, those with intensive care plans, or those not meeting their treatment goals"
+    },
+    {
+      "name": "hypoglycemia awareness",
+      "synonyms": [],
+      "source_text": "Screen individuals at risk for hypoglycemia for impaired hypoglycemia awareness at least annually and when clinically appropriate. Refer to a trained health care professional for evidence-based intervention to improve hypoglycemia awareness.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "frequency": "at least annually",
+      "applies_to": "individuals at risk for hypoglycemia"
+    },
+    {
+      "name": "fear of hypoglycemia",
+      "synonyms": [],
+      "source_text": "Screen individuals at high risk for hypoglycemia or with severe and/or frequent hypoglycemia for fear of hypoglycemia at least annually and when clinically appropriate. Refer to a trained health care professional for evidence-based intervention.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "frequency": "at least annually",
+      "applies_to": "individuals at high risk for hypoglycemia or with severe and/or frequent hypoglycemia"
+    },
+    {
+      "name": "hyperglycemic crises",
+      "synonyms": [],
+      "source_text": "6.21 Review history of hyperglycemic crises (i.e., diabetic ketoacidosis and hyperglycemic hyperosmolar state) at every clinical encounter for all individuals with diabetes at risk for these events. C",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "frequency": "at every clinical encounter",
+      "applies_to": "all individuals with diabetes at risk for these events"
+    }
+  ],
+  "target_goals": [
+    {
+      "name": "A1C goal",
+      "synonyms": [],
+      "source_text": "6.3a An A1C goal of <7% (53 mmol/mol) is appropriate for many nonpregnant adults without severe hypoglycemia or hypoglycemia affecting health or quality of life. A",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "goal_type": "glycemic",
+      "target_value": "<7% (<53 mmol/mol)",
+      "patient_population": "many nonpregnant adults without severe hypoglycemia or hypoglycemia affecting health or quality of life"
+    },
+    {
+      "name": "Time in Range (TIR) goal",
+      "synonyms": [],
+      "source_text": "6.3b A goal time in range of >70% in people using CGM is appropriate for many nonpregnant adults. B",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "goal_type": "glycemic",
+      "target_value": ">70%",
+      "patient_population": "many nonpregnant adults using CGM"
+    },
+    {
+      "name": "Time Below Range (TBR) goal",
+      "synonyms": [],
+      "source_text": "6.3c A goal percent time <70 mg/dL (<3.9 mmol/L) of <4% (or <1% for older adults) and a goal percent time <54 mg/dL (<3.0 mmol/L) of <1% are recommended in people using CGM to prevent hypoglycemia. Deintensify or modify therapy if these goals are not met. B",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "goal_type": "hypoglycemia prevention",
+      "target_value": "<4% (<70 mg/dL)",
+      "patient_population": "people using CGM"
+    },
+    {
+      "name": "Time Below Range (TBR) goal",
+      "synonyms": [],
+      "source_text": "6.3c A goal percent time <70 mg/dL (<3.9 mmol/L) of <4% (or <1% for older adults) and a goal percent time <54 mg/dL (<3.0 mmol/L) of <1% are recommended in people using CGM to prevent hypoglycemia. Deintensify or modify therapy if these goals are not met. B",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "goal_type": "hypoglycemia prevention",
+      "target_value": "<1% (<54 mg/dL)",
+      "patient_population": "older adults using CGM"
+    },
+    {
+      "name": "A1C goal",
+      "synonyms": [],
+      "source_text": "6.4 Lower A1C goals (e.g., <6.5% (<48 mmol/mol)) may be appropriate for individuals with diabetes with good health and function and low treatment risks (e.g., hypoglycemia) and burdens (see Fig. 6.1). B",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "goal_type": "glycemic",
+      "target_value": "<6.5% (<48 mmol/mol)",
+      "patient_population": "individuals with diabetes with good health and function and low treatment risks and burdens"
+    },
+    {
+      "name": "glycemic goals",
+      "synonyms": [],
+      "source_text": "6.5 Less stringent glycemic goals may be appropriate for individuals with significant cognitive and/or functional limitations, frailty, or severe comorbidities or where the harms of treatment, including hypoglycemia, are greater than the benefits. B",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "goal_type": "glycemic",
+      "target_value": "Less stringent",
+      "patient_population": "individuals with significant cognitive and/or functional limitations, frailty, or severe comorbidities or where the harms of treatment, including hypoglycemia, are greater than the benefits"
+    },
+    {
+      "name": "glycemic goals",
+      "synonyms": [],
+      "source_text": "6.8 Reassess glycemic goals based on the individualized criteria shown in Fig. 6.1. E",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "goal_type": "glycemic",
+      "target_value": "Individualized",
+      "patient_population": "all individuals"
+    },
+    {
+      "name": "Time in Range (TIR) goal",
+      "synonyms": [],
+      "source_text": "For older adults with complex or intermediate health using CGM, the recommended percent time spent in goal range of 70\u2013180 mg/dL is 50% (or 12 h per day) and the recommended time spent in hypoglycemia of less than 70 mg/dL should not be more than 1%, or 15 min per day, to minimize hypoglycemia risk.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "goal_type": "glycemic",
+      "target_value": "50% (or 12 h per day)",
+      "patient_population": "older adults with complex or intermediate health using CGM"
+    },
+    {
+      "name": "Time Below Range (TBR) goal",
+      "synonyms": [],
+      "source_text": "For older adults with complex or intermediate health using CGM, the recommended percent time spent in goal range of 70\u2013180 mg/dL is 50% (or 12 h per day) and the recommended time spent in hypoglycemia of less than 70 mg/dL should not be more than 1%, or 15 min per day, to minimize hypoglycemia risk.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "goal_type": "hypoglycemia prevention",
+      "target_value": "not be more than 1% (or 15 min per day)",
+      "patient_population": "older adults with complex or intermediate health using CGM"
+    },
+    {
+      "name": "glycemic goals",
+      "synonyms": [],
+      "source_text": "In this population, more permissive hyperglycemia is allowed (up to 50% of the time in 24 h) if required to prevent hypoglycemia.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "goal_type": "glycemic",
+      "target_value": "up to 50% of the time in 24 h",
+      "patient_population": "older adults with complex or intermediate health using CGM"
+    },
+    {
+      "name": "glycemic goals",
+      "synonyms": [],
+      "source_text": "Less stringent goals (e.g., A1C up to 8% [64 mmol/mol]) may be recommended for individuals with complex health status and/or limited life expectancy where benefits of more intensive treatment may not be realized or if the expected risks and burdens of treatment outweigh the potential benefits.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "goal_type": "glycemic",
+      "target_value": "up to 8% (64 mmol/mol)",
+      "patient_population": "individuals with complex health status and/or limited life expectancy"
+    },
+    {
+      "name": "A1C goal",
+      "synonyms": [],
+      "source_text": "Table 6.3\u2014Summary of glycemic goals for many nonpregnant adults with diabetes",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "goal_type": "glycemic",
+      "target_value": "<7.0%",
+      "patient_population": "many nonpregnant adults"
+    },
+    {
+      "name": "Preprandial capillary plasma glucose goal",
+      "synonyms": [],
+      "source_text": "Table 6.3\u2014Summary of glycemic goals for many nonpregnant adults with diabetes",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "goal_type": "glycemic",
+      "target_value": "80\u2013130 mg/dL",
+      "patient_population": "many nonpregnant adults"
+    },
+    {
+      "name": "Peak postprandial capillary plasma glucose goal",
+      "synonyms": [],
+      "source_text": "Table 6.3\u2014Summary of glycemic goals for many nonpregnant adults with diabetes",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "goal_type": "glycemic",
+      "target_value": "<180 mg/dL",
+      "patient_population": "many nonpregnant adults"
+    },
+    {
+      "name": "A1C goal",
+      "synonyms": [],
+      "source_text": "Good health and function, low treatment risks and burdens",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "goal_type": "glycemic",
+      "target_value": "7.0%",
+      "patient_population": "Most adults"
+    },
+    {
+      "name": "Time Below Range (TBR) goal",
+      "synonyms": [],
+      "source_text": "Good health and function, low treatment risks and burdens",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "goal_type": "hypoglycemia prevention",
+      "target_value": "1%",
+      "patient_population": "Older adults with complex/intermediate health"
+    },
+    {
+      "name": "Time Below Range (TBR) goal",
+      "synonyms": [],
+      "source_text": "Good health and function, low treatment risks and burdens",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "goal_type": "hypoglycemia prevention",
+      "target_value": "1%",
+      "patient_population": "Older adults with very complex/poor health"
+    },
+    {
+      "name": "Time Above Range (TAR) goal",
+      "synonyms": [],
+      "source_text": "Good health and function, low treatment risks and burdens",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "goal_type": "hyperglycemia prevention",
+      "target_value": "Avoid symptomatic hyperglycemia",
+      "patient_population": "Older adults with very complex/poor health"
+    }
+  ],
+  "patient_profiles": [
+    {
+      "name": "nonpregnant adults",
+      "synonyms": [],
+      "source_text": "6.3a An A1C goal of <7% (53 mmol/mol) is appropriate for many nonpregnant adults without severe hypoglycemia or hypoglycemia affecting health or quality of life. A",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "age_range": null,
+      "bmi_range": null,
+      "comorbidities": [],
+      "special_status": "without severe hypoglycemia or hypoglycemia affecting health or quality of life"
+    },
+    {
+      "name": "people using CGM",
+      "synonyms": [],
+      "source_text": "6.3b A goal time in range of >70% in people using CGM is appropriate for many nonpregnant adults. B",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "age_range": null,
+      "bmi_range": null,
+      "comorbidities": [],
+      "special_status": "using CGM"
+    },
+    {
+      "name": "people using CGM",
+      "synonyms": [],
+      "source_text": "6.3c A goal percent time <70 mg/dL (<3.9 mmol/L) of <4% (or <1% for older adults) and a goal percent time <54 mg/dL (<3.0 mmol/L) of <1% are recommended in people using CGM to prevent hypoglycemia. Deintensify or modify therapy if these goals are not met. B",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "age_range": null,
+      "bmi_range": null,
+      "comorbidities": [],
+      "special_status": "using CGM"
+    },
+    {
+      "name": "older adults",
+      "synonyms": [],
+      "source_text": "6.3c A goal percent time <70 mg/dL (<3.9 mmol/L) of <4% (or <1% for older adults) and a goal percent time <54 mg/dL (<3.0 mmol/L) of <1% are recommended in people using CGM to prevent hypoglycemia. Deintensify or modify therapy if these goals are not met. B",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "age_range": null,
+      "bmi_range": null,
+      "comorbidities": [],
+      "special_status": "older adults"
+    },
+    {
+      "name": "individuals with diabetes with good health and function and low treatment risks and burdens",
+      "synonyms": [],
+      "source_text": "6.4 Lower A1C goals (e.g., <6.5% (<48 mmol/mol)) may be appropriate for individuals with diabetes with good health and function and low treatment risks (e.g., hypoglycemia) and burdens (see Fig. 6.1). B",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "age_range": null,
+      "bmi_range": null,
+      "comorbidities": [],
+      "special_status": "good health and function and low treatment risks and burdens"
+    },
+    {
+      "name": "individuals with significant cognitive and/or functional limitations, frailty, or severe comorbidities or where the harms of treatment, including hypoglycemia, are greater than the benefits",
+      "synonyms": [],
+      "source_text": "6.5 Less stringent glycemic goals may be appropriate for individuals with significant cognitive and/or functional limitations, frailty, or severe comorbidities or where the harms of treatment, including hypoglycemia, are greater than the benefits. B",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "age_range": null,
+      "bmi_range": null,
+      "comorbidities": [
+        "significant cognitive and/or functional limitations",
+        "frailty",
+        "severe comorbidities"
+      ],
+      "special_status": null
+    },
+    {
+      "name": "older adults with complex or intermediate health using CGM",
+      "synonyms": [],
+      "source_text": "For older adults with complex or intermediate health using CGM, the recommended percent time spent in goal range of 70\u2013180 mg/dL is 50% (or 12 h per day) and the recommended time spent in hypoglycemia of less than 70 mg/dL should not be more than 1%, or 15 min per day, to minimize hypoglycemia risk.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "age_range": null,
+      "bmi_range": null,
+      "comorbidities": [],
+      "special_status": "complex or intermediate health using CGM"
+    },
+    {
+      "name": "Most adults",
+      "synonyms": [],
+      "source_text": "Good health and function, low treatment risks and burdens",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "age_range": null,
+      "bmi_range": null,
+      "comorbidities": [],
+      "special_status": "good health and function, low treatment risks and burdens"
+    },
+    {
+      "name": "Older adults with complex/intermediate health",
+      "synonyms": [],
+      "source_text": "Good health and function, low treatment risks and burdens",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "age_range": null,
+      "bmi_range": null,
+      "comorbidities": [],
+      "special_status": "complex/intermediate health"
+    },
+    {
+      "name": "Older adults with very complex/poor health",
+      "synonyms": [],
+      "source_text": "Good health and function, low treatment risks and burdens",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "age_range": null,
+      "bmi_range": null,
+      "comorbidities": [],
+      "special_status": "very complex/poor health"
+    },
+    {
+      "name": "Any adults with limited life expectancy",
+      "synonyms": [],
+      "source_text": "Good health and function, low treatment risks and burdens",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "age_range": null,
+      "bmi_range": null,
+      "comorbidities": [],
+      "special_status": "limited life expectancy"
+    }
+  ],
+  "relationships": [
+    {
+      "source_entity": "A1C",
+      "target_entity": "A1C goal of <7% (<53 mmol/mol)",
+      "relationship_type": "has_target",
+      "evidence_level": "Unknown",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "A1C",
+      "target_entity": "A1C goal of <6.5% (<48 mmol/mol)",
+      "relationship_type": "has_target",
+      "evidence_level": "Unknown",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "Time in Range (TIR)",
+      "target_entity": "Time in Range (TIR) goal of >70%",
+      "relationship_type": "has_target",
+      "evidence_level": "Unknown",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "Time Below Range (TBR)",
+      "target_entity": "Time Below Range (TBR) goal of <4%",
+      "relationship_type": "has_target",
+      "evidence_level": "Unknown",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "Time Below Range (TBR)",
+      "target_entity": "Time Below Range (TBR) goal of <1%",
+      "relationship_type": "has_target",
+      "evidence_level": "Unknown",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "glycemic status",
+      "target_entity": "at least two times a year",
+      "relationship_type": "screening_frequency",
+      "evidence_level": "Unknown",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "glycemic status",
+      "target_entity": "every 3 months",
+      "relationship_type": "screening_frequency",
+      "evidence_level": "Unknown",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "A1C",
+      "target_entity": "every 3 months",
+      "relationship_type": "screening_frequency",
+      "evidence_level": "Unknown",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "A1C",
+      "target_entity": "twice a year",
+      "relationship_type": "screening_frequency",
+      "evidence_level": "Unknown",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "A1C",
+      "target_entity": "every 3 months",
+      "relationship_type": "screening_frequency",
+      "evidence_level": "Unknown",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "hypoglycemia awareness",
+      "target_entity": "at least annually",
+      "relationship_type": "screening_frequency",
+      "evidence_level": "Unknown",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "fear of hypoglycemia",
+      "target_entity": "at least annually",
+      "relationship_type": "screening_frequency",
+      "evidence_level": "Unknown",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "hyperglycemic crises",
+      "target_entity": "at every clinical encounter",
+      "relationship_type": "screening_frequency",
+      "evidence_level": "Unknown",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "nonpregnant adults",
+      "target_entity": "A1C goal of <7% (<53 mmol/mol)",
+      "relationship_type": "has_goal",
+      "evidence_level": "Unknown",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "people using CGM",
+      "target_entity": "Time in Range (TIR) goal of >70%",
+      "relationship_type": "has_goal",
+      "evidence_level": "Unknown",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "people using CGM",
+      "target_entity": "Time Below Range (TBR) goal of <4%",
+      "relationship_type": "has_goal",
+      "evidence_level": "Unknown",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "older adults",
+      "target_entity": "Time Below Range (TBR) goal of <1%",
+      "relationship_type": "has_goal",
+      "evidence_level": "Unknown",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "individuals with diabetes with good health and function and low treatment risks and burdens",
+      "target_entity": "A1C goal of <6.5% (<48 mmol/mol)",
+      "relationship_type": "has_goal",
+      "evidence_level": "Unknown",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "individuals with significant cognitive and/or functional limitations, frailty, or severe comorbidities or where the harms of treatment, including hypoglycemia, are greater than the benefits",
+      "target_entity": "Less stringent glycemic goals",
+      "relationship_type": "has_goal",
+      "evidence_level": "Unknown",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "older adults with complex or intermediate health using CGM",
+      "target_entity": "Time in Range (TIR) goal of 50% (or 12 h per day)",
+      "relationship_type": "has_goal",
+      "evidence_level": "Unknown",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "older adults with complex or intermediate health using CGM",
+      "target_entity": "Time Below Range (TBR) goal of not be more than 1% (or 15 min per day)",
+      "relationship_type": "has_goal",
+      "evidence_level": "Unknown",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "older adults with complex or intermediate health using CGM",
+      "target_entity": "glycemic goals of up to 50% of the time in 24 h",
+      "relationship_type": "has_goal",
+      "evidence_level": "Unknown",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "Type 2 Diabetes",
+      "target_entity": "A1C goal of <7% (<53 mmol/mol)",
+      "relationship_type": "has_default_target",
+      "evidence_level": "Unknown",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "Type 1 Diabetes",
+      "target_entity": "A1C goal of <7% (<53 mmol/mol)",
+      "relationship_type": "has_default_target",
+      "evidence_level": "Unknown",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "Type 2 Diabetes",
+      "target_entity": "Time in Range (TIR) goal of >70%",
+      "relationship_type": "has_default_target",
+      "evidence_level": "Unknown",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "Type 1 Diabetes",
+      "target_entity": "Time in Range (TIR) goal of >70%",
+      "relationship_type": "has_default_target",
+      "evidence_level": "Unknown",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "A1C",
+      "target_entity": "A1C goal of <7% (<53 mmol/mol)",
+      "relationship_type": "DIAGNOSES_CONDITION_AT_VALUE",
+      "evidence_level": "Unknown",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "A1C",
+      "target_entity": "A1C goal of <6.5% (<48 mmol/mol)",
+      "relationship_type": "Unknown",
+      "evidence_level": "Unknown",
+      "conditional_context": "None"
+    }
+  ]
+}

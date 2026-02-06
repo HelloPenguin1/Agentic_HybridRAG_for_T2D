@@ -1,0 +1,1018 @@
+{
+  "diagnostic_tests": [
+    {
+      "name": "A1C",
+      "synonyms": [
+        "HbA1c",
+        "Hemoglobin A1C"
+      ],
+      "source_text": "Diabetes can be diagnosed by demonstrating increased concentrations of glucose in venous plasma or increased A1C in the blood.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "test_type": "blood test",
+      "normal_range": null,
+      "units": null
+    },
+    {
+      "name": "Fasting Plasma Glucose",
+      "synonyms": [
+        "FPG"
+      ],
+      "source_text": "Plasma glucose criteria include either the fasting plasma glucose (FPG), 2-h plasma glucose (2-h PG) during a 75-g oral glucose tolerance test (OGTT), or random glucose accompanied by classic symptoms of hyperglycemia (e.g., polyuria, polydipsia, and unexplained weight loss) or hyperglycemic crises (i.e., diabetic ketoacidosis [DKA] and/or hyperglycemic hyperosmolar state [HHS]) (Table 2.1).",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "test_type": "blood test",
+      "normal_range": null,
+      "units": null
+    },
+    {
+      "name": "2-h plasma glucose",
+      "synonyms": [
+        "2-h PG"
+      ],
+      "source_text": "Plasma glucose criteria include either the fasting plasma glucose (FPG), 2-h plasma glucose (2-h PG) during a 75-g oral glucose tolerance test (OGTT), or random glucose accompanied by classic symptoms of hyperglycemia (e.g., polyuria, polydipsia, and unexplained weight loss) or hyperglycemic crises (i.e., diabetic ketoacidosis [DKA] and/or hyperglycemic hyperosmolar state [HHS]) (Table 2.1).",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "test_type": "blood test",
+      "normal_range": null,
+      "units": null
+    },
+    {
+      "name": "Oral Glucose Tolerance Test",
+      "synonyms": [
+        "OGTT"
+      ],
+      "source_text": "Plasma glucose criteria include either the fasting plasma glucose (FPG), 2-h plasma glucose (2-h PG) during a 75-g oral glucose tolerance test (OGTT), or random glucose accompanied by classic symptoms of hyperglycemia (e.g., polyuria, polydipsia, and unexplained weight loss) or hyperglycemic crises (i.e., diabetic ketoacidosis [DKA] and/or hyperglycemic hyperosmolar state [HHS]) (Table 2.1).",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "test_type": "blood test",
+      "normal_range": null,
+      "units": null
+    },
+    {
+      "name": "Random plasma glucose",
+      "synonyms": [
+        "random glucose"
+      ],
+      "source_text": "In an individual with classic symptoms of hyperglycemia or hyperglycemic crisis, a random plasma glucose \u2265200 mg/dL (\u226511.1 mmol/L).",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "test_type": "blood test",
+      "normal_range": null,
+      "units": null
+    },
+    {
+      "name": "Islet autoantibodies",
+      "synonyms": [
+        "autoantibodies against insulin (IA)",
+        "glutamic acid decarboxylase (GAD)",
+        "islet antigen 2 (IA-2)",
+        "zinc transporter 8 (ZnT8)"
+      ],
+      "source_text": "Screen for presymptomatic type 1 diabetes by testing autoantibodies against insulin (IA), glutamic acid decarboxylase (GAD), islet antigen 2 (IA-2), or zinc transporter 8 (ZnT8). B",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "test_type": "blood test",
+      "normal_range": null,
+      "units": null
+    },
+    {
+      "name": "C-peptide test",
+      "synonyms": [],
+      "source_text": "A C-peptide test is only indicated in people receiving insulin treatment.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "test_type": "blood test",
+      "normal_range": null,
+      "units": null
+    },
+    {
+      "name": "Genetic testing for monogenic diabetes",
+      "synonyms": [],
+      "source_text": "Genetic testing for monogenic diabetes where available6",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "test_type": "genetic test",
+      "normal_range": null,
+      "units": null
+    },
+    {
+      "name": "Urinalysis",
+      "synonyms": [],
+      "source_text": "Individuals with screening results positive for one or more islet autoantibodies should be evaluated for stage 3 (overt) type 1 diabetes (using A1C, urinalysis, and/or plasma glucose), which would require prompt clinical management and education. B",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "test_type": "urine test",
+      "normal_range": null,
+      "units": null
+    }
+  ],
+  "conditions": [
+    {
+      "name": "Diabetes Mellitus",
+      "synonyms": [
+        "diabetes"
+      ],
+      "source_text": "Diabetes mellitus is a group of metabolic disorders of carbohydrate metabolism in which glucose is both underutilized as an energy source and overproduced due to inappropriate gluconeogenesis and glycogenolysis, resulting in hyperglycemia (1).",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "icd10_code": null,
+      "classification": "metabolic disorder"
+    },
+    {
+      "name": "Type 1 diabetes",
+      "synonyms": [],
+      "source_text": "Diabetes is classified conventionally into several clinical categories (e.g., type 1 or type 2 diabetes, gestational diabetes mellitus, and other specific types derived from other causes, such as monogenic diabetes, exocrine pancreatic disorders, and high-risk medications) (2).",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "icd10_code": null,
+      "classification": "autoimmune"
+    },
+    {
+      "name": "Type 2 diabetes",
+      "synonyms": [],
+      "source_text": "Diabetes is classified conventionally into several clinical categories (e.g., type 1 or type 2 diabetes, gestational diabetes mellitus, and other specific types derived from other causes, such as monogenic diabetes, exocrine pancreatic disorders, and high-risk medications) (2).",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "icd10_code": null,
+      "classification": "insulin resistance and relative insulin deficiency"
+    },
+    {
+      "name": "Gestational diabetes mellitus",
+      "synonyms": [
+        "GDM"
+      ],
+      "source_text": "Diabetes is classified conventionally into several clinical categories (e.g., type 1 or type 2 diabetes, gestational diabetes mellitus, and other specific types derived from other causes, such as monogenic diabetes, exocrine pancreatic disorders, and high-risk medications) (2).",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "icd10_code": null,
+      "classification": "pregnancy-related"
+    },
+    {
+      "name": "Monogenic diabetes",
+      "synonyms": [],
+      "source_text": "Specific types of diabetes due to other causes, e.g., monogenic diabetes syndromes, diseases of the exocrine pancreas, and drug- or chemical-induced diabetes",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "icd10_code": null,
+      "classification": "genetic"
+    },
+    {
+      "name": "Prediabetes",
+      "synonyms": [],
+      "source_text": "Prediabetes is the term used to identify glucose or A1C levels that do not meet the criteria for diabetes yet fall in an intermediate range between normoglycemia and diabetes (25,83).",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "icd10_code": null,
+      "classification": "intermediate hyperglycemia"
+    },
+    {
+      "name": "Impaired fasting glucose",
+      "synonyms": [
+        "IFG"
+      ],
+      "source_text": "FPG 100 mg/dL (5.6 mmol/L) to 125 mg/dL (6.9 mmol/L) (IFG)",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "icd10_code": null,
+      "classification": "prediabetes"
+    },
+    {
+      "name": "Impaired glucose tolerance",
+      "synonyms": [
+        "IGT"
+      ],
+      "source_text": "2-h PG during 75-g OGTT 140 mg/dL (7.8 mmol/L) to 199 mg/dL (11.0 mmol/L) (IGT)",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "icd10_code": null,
+      "classification": "prediabetes"
+    },
+    {
+      "name": "Diabetic ketoacidosis",
+      "synonyms": [
+        "DKA"
+      ],
+      "source_text": "Plasma glucose criteria include either the fasting plasma glucose (FPG), 2-h plasma glucose (2-h PG) during a 75-g oral glucose tolerance test (OGTT), or random glucose accompanied by classic symptoms of hyperglycemia (e.g., polyuria, polydipsia, and unexplained weight loss) or hyperglycemic crises (i.e., diabetic ketoacidosis [DKA] and/or hyperglycemic hyperosmolar state [HHS]) (Table 2.1).",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "icd10_code": null,
+      "classification": "hyperglycemic crisis"
+    },
+    {
+      "name": "Hyperglycemic hyperosmolar state",
+      "synonyms": [
+        "HHS"
+      ],
+      "source_text": "Plasma glucose criteria include either the fasting plasma glucose (FPG), 2-h plasma glucose (2-h PG) during a 75-g oral glucose tolerance test (OGTT), or random glucose accompanied by classic symptoms of hyperglycemia (e.g., polyuria, polydipsia, and unexplained weight loss) or hyperglycemic crises (i.e., diabetic ketoacidosis [DKA] and/or hyperglycemic hyperosmolar state [HHS]) (Table 2.1).",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "icd10_code": null,
+      "classification": "hyperglycemic crisis"
+    },
+    {
+      "name": "Cystic fibrosis\u2013related diabetes",
+      "synonyms": [
+        "CFRD"
+      ],
+      "source_text": "Cystic fibrosis\u2013related diabetes (CFRD) is a common comorbidity in people living with cystic fibrosis that is distinct from type 1 or type 2 diabetes and is often accompanied by pancreatic exocrine insufficiency (144).",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "icd10_code": null,
+      "classification": "diabetes secondary to exocrine pancreatic disease"
+    },
+    {
+      "name": "Post-transplantation diabetes mellitus",
+      "synonyms": [
+        "PTDM",
+        "New-onset diabetes after transplant",
+        "NODAT"
+      ],
+      "source_text": "Several terms are used in the literature to describe the presence of diabetes following organ transplantation (157). New-onset diabetes after transplantation (NODAT) is one such designation that describes individuals who develop new-onset diabetes following transplant.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "icd10_code": null,
+      "classification": "diabetes secondary to medical intervention"
+    },
+    {
+      "name": "Neonatal diabetes",
+      "synonyms": [],
+      "source_text": "Diabetes occurring under 6 months of age is termed neonatal diabetes, and about 80\u201385% of cases can be found to have an underlying monogenic cause (32,172\u2013175).",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "icd10_code": null,
+      "classification": "monogenic diabetes"
+    },
+    {
+      "name": "Maturity-onset diabetes of the young",
+      "synonyms": [
+        "MODY"
+      ],
+      "source_text": "MODY is frequently characterized by onset of hyperglycemia at an early age (classically before age 25 years, although diagnosis may occur at older ages).",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "icd10_code": null,
+      "classification": "monogenic diabetes"
+    },
+    {
+      "name": "Immune checkpoint inhibitor\u2013induced autoimmune diabetes",
+      "synonyms": [],
+      "source_text": "Fulminant onset of autoimmune diabetes can occur with DKA and low or undetectable levels of C-peptide as a marker of endogenous \u03b2-cell function (64,65).",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "icd10_code": null,
+      "classification": "autoimmune diabetes"
+    }
+  ],
+  "metric_values": [
+    {
+      "name": "A1C diagnostic criterion",
+      "synonyms": [],
+      "source_text": "A1C \u22656.5% (\u226548 mmol/mol).",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "6.5",
+      "unit": "%",
+      "comparator": ">=",
+      "upper_bound": null
+    },
+    {
+      "name": "A1C diagnostic criterion",
+      "synonyms": [],
+      "source_text": "A1C \u22656.5% (\u226548 mmol/mol).",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "48",
+      "unit": "mmol/mol",
+      "comparator": ">=",
+      "upper_bound": null
+    },
+    {
+      "name": "Fasting plasma glucose diagnostic criterion",
+      "synonyms": [],
+      "source_text": "FPG \u2265126 mg/dL (\u22657.0 mmol/L).",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "126",
+      "unit": "mg/dL",
+      "comparator": ">=",
+      "upper_bound": null
+    },
+    {
+      "name": "Fasting plasma glucose diagnostic criterion",
+      "synonyms": [],
+      "source_text": "FPG \u2265126 mg/dL (\u22657.0 mmol/L).",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "7.0",
+      "unit": "mmol/L",
+      "comparator": ">=",
+      "upper_bound": null
+    },
+    {
+      "name": "2-h plasma glucose diagnostic criterion",
+      "synonyms": [],
+      "source_text": "2-h PG \u2265200 mg/dL (\u226511.1 mmol/L) during OGTT.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "200",
+      "unit": "mg/dL",
+      "comparator": ">=",
+      "upper_bound": null
+    },
+    {
+      "name": "2-h plasma glucose diagnostic criterion",
+      "synonyms": [],
+      "source_text": "2-h PG \u2265200 mg/dL (\u226511.1 mmol/L) during OGTT.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "11.1",
+      "unit": "mmol/L",
+      "comparator": ">=",
+      "upper_bound": null
+    },
+    {
+      "name": "Random plasma glucose diagnostic criterion",
+      "synonyms": [],
+      "source_text": "In an individual with classic symptoms of hyperglycemia or hyperglycemic crisis, a random plasma glucose \u2265200 mg/dL (\u226511.1 mmol/L).",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "200",
+      "unit": "mg/dL",
+      "comparator": ">=",
+      "upper_bound": null
+    },
+    {
+      "name": "Random plasma glucose diagnostic criterion",
+      "synonyms": [],
+      "source_text": "In an individual with classic symptoms of hyperglycemia or hyperglycemic crisis, a random plasma glucose \u2265200 mg/dL (\u226511.1 mmol/L).",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "11.1",
+      "unit": "mmol/L",
+      "comparator": ">=",
+      "upper_bound": null
+    },
+    {
+      "name": "A1C prediabetes criterion",
+      "synonyms": [],
+      "source_text": "A1C 5.7\u20136.4% (39\u201347 mmol/mol)",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "5.7",
+      "unit": "%",
+      "comparator": ">=",
+      "upper_bound": null
+    },
+    {
+      "name": "A1C prediabetes criterion",
+      "synonyms": [],
+      "source_text": "A1C 5.7\u20136.4% (39\u201347 mmol/mol)",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "39",
+      "unit": "mmol/mol",
+      "comparator": ">=",
+      "upper_bound": null
+    },
+    {
+      "name": "A1C prediabetes criterion",
+      "synonyms": [],
+      "source_text": "A1C 5.7\u20136.4% (39\u201347 mmol/mol)",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "6.4",
+      "unit": "%",
+      "comparator": "<=",
+      "upper_bound": null
+    },
+    {
+      "name": "A1C prediabetes criterion",
+      "synonyms": [],
+      "source_text": "A1C 5.7\u20136.4% (39\u201347 mmol/mol)",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "47",
+      "unit": "mmol/mol",
+      "comparator": "<=",
+      "upper_bound": null
+    },
+    {
+      "name": "Fasting plasma glucose prediabetes criterion",
+      "synonyms": [],
+      "source_text": "FPG 100 mg/dL (5.6 mmol/L) to 125 mg/dL (6.9 mmol/L) (IFG)",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "100",
+      "unit": "mg/dL",
+      "comparator": ">=",
+      "upper_bound": null
+    },
+    {
+      "name": "Fasting plasma glucose prediabetes criterion",
+      "synonyms": [],
+      "source_text": "FPG 100 mg/dL (5.6 mmol/L) to 125 mg/dL (6.9 mmol/L) (IFG)",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "5.6",
+      "unit": "mmol/L",
+      "comparator": ">=",
+      "upper_bound": null
+    },
+    {
+      "name": "Fasting plasma glucose prediabetes criterion",
+      "synonyms": [],
+      "source_text": "FPG 100 mg/dL (5.6 mmol/L) to 125 mg/dL (6.9 mmol/L) (IFG)",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "125",
+      "unit": "mg/dL",
+      "comparator": "<=",
+      "upper_bound": null
+    },
+    {
+      "name": "Fasting plasma glucose prediabetes criterion",
+      "synonyms": [],
+      "source_text": "FPG 100 mg/dL (5.6 mmol/L) to 125 mg/dL (6.9 mmol/L) (IFG)",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "6.9",
+      "unit": "mmol/L",
+      "comparator": "<=",
+      "upper_bound": null
+    },
+    {
+      "name": "2-h PG prediabetes criterion",
+      "synonyms": [],
+      "source_text": "2-h PG during 75-g OGTT 140 mg/dL (7.8 mmol/L) to 199 mg/dL (11.0 mmol/L) (IGT)",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "140",
+      "unit": "mg/dL",
+      "comparator": ">=",
+      "upper_bound": null
+    },
+    {
+      "name": "2-h PG prediabetes criterion",
+      "synonyms": [],
+      "source_text": "2-h PG during 75-g OGTT 140 mg/dL (7.8 mmol/L) to 199 mg/dL (11.0 mmol/L) (IGT)",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "7.8",
+      "unit": "mmol/L",
+      "comparator": ">=",
+      "upper_bound": null
+    },
+    {
+      "name": "2-h PG prediabetes criterion",
+      "synonyms": [],
+      "source_text": "2-h PG during 75-g OGTT 140 mg/dL (7.8 mmol/L) to 199 mg/dL (11.0 mmol/L) (IGT)",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "199",
+      "unit": "mg/dL",
+      "comparator": "<=",
+      "upper_bound": null
+    },
+    {
+      "name": "2-h PG prediabetes criterion",
+      "synonyms": [],
+      "source_text": "2-h PG during 75-g OGTT 140 mg/dL (7.8 mmol/L) to 199 mg/dL (11.0 mmol/L) (IGT)",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "11.0",
+      "unit": "mmol/L",
+      "comparator": "<=",
+      "upper_bound": null
+    },
+    {
+      "name": "A1C diagnostic criterion for CFRD",
+      "synonyms": [],
+      "source_text": "An A1C value of \u22656.5% (\u226548 mmol/mol) is consistent with a diagnosis of CFRD.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "6.5",
+      "unit": "%",
+      "comparator": ">=",
+      "upper_bound": null
+    },
+    {
+      "name": "A1C diagnostic criterion for CFRD",
+      "synonyms": [],
+      "source_text": "An A1C value of \u22656.5% (\u226548 mmol/mol) is consistent with a diagnosis of CFRD.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "48",
+      "unit": "mmol/mol",
+      "comparator": ">=",
+      "upper_bound": null
+    },
+    {
+      "name": "A1C screening criterion for CFRD",
+      "synonyms": [],
+      "source_text": "Individuals with A1C values between 5.5% and 6.4% (37 and 47 mmol/mol, respectively) should undergo an OGTT within 3 months.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "5.5",
+      "unit": "%",
+      "comparator": ">=",
+      "upper_bound": null
+    },
+    {
+      "name": "A1C screening criterion for CFRD",
+      "synonyms": [],
+      "source_text": "Individuals with A1C values between 5.5% and 6.4% (37 and 47 mmol/mol, respectively) should undergo an OGTT within 3 months.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "37",
+      "unit": "mmol/mol",
+      "comparator": ">=",
+      "upper_bound": null
+    },
+    {
+      "name": "A1C screening criterion for CFRD",
+      "synonyms": [],
+      "source_text": "Individuals with A1C values between 5.5% and 6.4% (37 and 47 mmol/mol, respectively) should undergo an OGTT within 3 months.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "6.4",
+      "unit": "%",
+      "comparator": "<=",
+      "upper_bound": null
+    },
+    {
+      "name": "A1C screening criterion for CFRD",
+      "synonyms": [],
+      "source_text": "Individuals with A1C values between 5.5% and 6.4% (37 and 47 mmol/mol, respectively) should undergo an OGTT within 3 months.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "47",
+      "unit": "mmol/mol",
+      "comparator": "<=",
+      "upper_bound": null
+    },
+    {
+      "name": "GDM diagnostic criterion (one-step strategy, fasting)",
+      "synonyms": [],
+      "source_text": "Fasting: 92 mg/dL (5.1 mmol/L)",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "92",
+      "unit": "mg/dL",
+      "comparator": ">=",
+      "upper_bound": null
+    },
+    {
+      "name": "GDM diagnostic criterion (one-step strategy, fasting)",
+      "synonyms": [],
+      "source_text": "Fasting: 92 mg/dL (5.1 mmol/L)",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "5.1",
+      "unit": "mmol/L",
+      "comparator": ">=",
+      "upper_bound": null
+    },
+    {
+      "name": "GDM diagnostic criterion (one-step strategy, 1-h)",
+      "synonyms": [],
+      "source_text": "1 h: 180 mg/dL (10.0 mmol/L)",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "180",
+      "unit": "mg/dL",
+      "comparator": ">=",
+      "upper_bound": null
+    },
+    {
+      "name": "GDM diagnostic criterion (one-step strategy, 1-h)",
+      "synonyms": [],
+      "source_text": "1 h: 180 mg/dL (10.0 mmol/L)",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "10.0",
+      "unit": "mmol/L",
+      "comparator": ">=",
+      "upper_bound": null
+    },
+    {
+      "name": "GDM diagnostic criterion (one-step strategy, 2-h)",
+      "synonyms": [],
+      "source_text": "2 h: 153 mg/dL (8.5 mmol/L)",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "153",
+      "unit": "mg/dL",
+      "comparator": ">=",
+      "upper_bound": null
+    },
+    {
+      "name": "GDM diagnostic criterion (one-step strategy, 2-h)",
+      "synonyms": [],
+      "source_text": "2 h: 153 mg/dL (8.5 mmol/L)",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "8.5",
+      "unit": "mmol/L",
+      "comparator": ">=",
+      "upper_bound": null
+    },
+    {
+      "name": "Early abnormal glucose metabolism criterion (A1C)",
+      "synonyms": [],
+      "source_text": "early abnormal glucose metabolism (defined as a fasting glucose threshold of 110 mg/dL (6.1 mmol/L) or an A1C of 5.9% (41 mmol/mol))",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "5.9",
+      "unit": "%",
+      "comparator": ">=",
+      "upper_bound": null
+    },
+    {
+      "name": "Early abnormal glucose metabolism criterion (A1C)",
+      "synonyms": [],
+      "source_text": "early abnormal glucose metabolism (defined as a fasting glucose threshold of 110 mg/dL (6.1 mmol/L) or an A1C of 5.9% (41 mmol/mol))",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "41",
+      "unit": "mmol/mol",
+      "comparator": ">=",
+      "upper_bound": null
+    },
+    {
+      "name": "Early abnormal glucose metabolism criterion (FPG)",
+      "synonyms": [],
+      "source_text": "early abnormal glucose metabolism (defined as a fasting glucose threshold of 110 mg/dL (6.1 mmol/L) or an A1C of 5.9% (41 mmol/mol))",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "110",
+      "unit": "mg/dL",
+      "comparator": ">=",
+      "upper_bound": null
+    },
+    {
+      "name": "Early abnormal glucose metabolism criterion (FPG)",
+      "synonyms": [],
+      "source_text": "early abnormal glucose metabolism (defined as a fasting glucose threshold of 110 mg/dL (6.1 mmol/L) or an A1C of 5.9% (41 mmol/mol))",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "6.1",
+      "unit": "mmol/L",
+      "comparator": ">=",
+      "upper_bound": null
+    },
+    {
+      "name": "C-peptide level indicating type 1 diabetes",
+      "synonyms": [],
+      "source_text": "If the result is \u2265600 pmol/L (\u22651.8 ng/mL), the circumstances of testing do not matter.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "600",
+      "unit": "pmol/L",
+      "comparator": ">=",
+      "upper_bound": null
+    },
+    {
+      "name": "C-peptide level indicating type 1 diabetes",
+      "synonyms": [],
+      "source_text": "If the result is \u2265600 pmol/L (\u22651.8 ng/mL), the circumstances of testing do not matter.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "1.8",
+      "unit": "ng/mL",
+      "comparator": ">=",
+      "upper_bound": null
+    },
+    {
+      "name": "C-peptide level indicating possible type 1 or MODY",
+      "synonyms": [],
+      "source_text": "C-peptide values 200\u2013600 pmol/L (0.6\u20131.8 ng/mL) are usually consistent with type 1 diabetes or maturity-onset diabetes of the young but may occur in insulin-treated type 2 diabetes, particularly in people with normal or low BMI or after long duration.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "200",
+      "unit": "pmol/L",
+      "comparator": ">=",
+      "upper_bound": null
+    },
+    {
+      "name": "C-peptide level indicating possible type 1 or MODY",
+      "synonyms": [],
+      "source_text": "C-peptide values 200\u2013600 pmol/L (0.6\u20131.8 ng/mL) are usually consistent with type 1 diabetes or maturity-onset diabetes of the young but may occur in insulin-treated type 2 diabetes, particularly in people with normal or low BMI or after long duration.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "0.6",
+      "unit": "ng/mL",
+      "comparator": ">=",
+      "upper_bound": null
+    },
+    {
+      "name": "C-peptide level indicating possible type 1 or MODY",
+      "synonyms": [],
+      "source_text": "C-peptide values 200\u2013600 pmol/L (0.6\u20131.8 ng/mL) are usually consistent with type 1 diabetes or maturity-onset diabetes of the young but may occur in insulin-treated type 2 diabetes, particularly in people with normal or low BMI or after long duration.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "600",
+      "unit": "pmol/L",
+      "comparator": "<=",
+      "upper_bound": null
+    },
+    {
+      "name": "C-peptide level indicating possible type 1 or MODY",
+      "synonyms": [],
+      "source_text": "C-peptide values 200\u2013600 pmol/L (0.6\u20131.8 ng/mL) are usually consistent with type 1 diabetes or maturity-onset diabetes of the young but may occur in insulin-treated type 2 diabetes, particularly in people with normal or low BMI or after long duration.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "1.8",
+      "unit": "ng/mL",
+      "comparator": "<=",
+      "upper_bound": null
+    },
+    {
+      "name": "C-peptide level indicating severe insulin deficiency",
+      "synonyms": [],
+      "source_text": "Results showing very low levels (e.g., <80 pmol/L [<0.24 ng/mL]) do not need to be repeated.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "80",
+      "unit": "pmol/L",
+      "comparator": "<",
+      "upper_bound": null
+    },
+    {
+      "name": "C-peptide level indicating severe insulin deficiency",
+      "synonyms": [],
+      "source_text": "Results showing very low levels (e.g., <80 pmol/L [<0.24 ng/mL]) do not need to be repeated.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "0.24",
+      "unit": "ng/mL",
+      "comparator": "<",
+      "upper_bound": null
+    }
+  ],
+  "screening_frequencies": [
+    {
+      "name": "Prediabetes or type 2 diabetes screening",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "frequency": "at a minimum of 3-year intervals",
+      "applies_to": "people without prediabetes or diabetes after screening"
+    },
+    {
+      "name": "Prediabetes or type 2 diabetes screening",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "frequency": "annually",
+      "applies_to": "people with prediabetes"
+    },
+    {
+      "name": "Diabetes screening",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "frequency": "annually",
+      "applies_to": "people with chronic pancreatitis"
+    },
+    {
+      "name": "Cystic fibrosis\u2013related diabetes screening",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "frequency": "annually",
+      "applies_to": "all people with cystic fibrosis, starting by age 10 years"
+    },
+    {
+      "name": "Complications monitoring for CFRD",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "frequency": "annually",
+      "applies_to": "individuals with CFRD, beginning 5 years after diagnosis"
+    },
+    {
+      "name": "Gestational diabetes mellitus screening",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "frequency": "at 24\u201328 weeks of gestation",
+      "applies_to": "pregnant individuals not previously found to have diabetes or high-risk abnormal glucose metabolism"
+    },
+    {
+      "name": "Prediabetes or diabetes screening postpartum",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "frequency": "at 4\u201312 weeks postpartum",
+      "applies_to": "individuals with GDM"
+    },
+    {
+      "name": "Prediabetes or diabetes screening",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "frequency": "every 1\u20133 years",
+      "applies_to": "individuals with a history of GDM"
+    },
+    {
+      "name": "Islet autoantibody testing",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "frequency": "every 6 months to 3 years",
+      "applies_to": "individuals with a single confirmed islet autoantibody"
+    },
+    {
+      "name": "Prediabetes or type 2 diabetes screening",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "frequency": "annually thereafter",
+      "applies_to": "people following an episode of acute pancreatitis"
+    },
+    {
+      "name": "Diabetes screening",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "frequency": "within 3\u20136 months following an episode of acute pancreatitis",
+      "applies_to": "people with pancreatitis"
+    },
+    {
+      "name": "Prediabetes or type 2 diabetes screening",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "frequency": "annually",
+      "applies_to": "people treated with second-generation antipsychotic medications, after initial screening"
+    },
+    {
+      "name": "Prediabetes or diabetes screening",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "frequency": "annually",
+      "applies_to": "people with HIV, if initial screening results are normal"
+    },
+    {
+      "name": "Prediabetes or diabetes screening",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "frequency": "before starting antiretroviral therapy, at the time of switching antiretroviral therapy, and 3\u20136 months after starting or switching antiretroviral therapy",
+      "applies_to": "People with HIV"
+    }
+  ],
+  "target_goals": [
+    {
+      "name": "A1C goal for nonpregnant adults",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "goal_type": "glycemic control",
+      "target_value": "<7.0%",
+      "patient_population": "nonpregnant adults"
+    },
+    {
+      "name": "A1C goal for healthy older adults",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "goal_type": "glycemic control",
+      "target_value": "<7.0%",
+      "patient_population": "healthy older adults"
+    },
+    {
+      "name": "A1C goal for older adults with multiple comorbidities",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "goal_type": "glycemic control",
+      "target_value": "<8.0%",
+      "patient_population": "older adults with multiple comorbidities"
+    },
+    {
+      "name": "A1C goal for older adults with limited life expectancy",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "goal_type": "glycemic control",
+      "target_value": "<8.5%",
+      "patient_population": "older adults with limited life expectancy"
+    }
+  ],
+  "patient_profiles": [
+    {
+      "name": "Adults with overweight or obesity and one or more risk factors",
+      "synonyms": [],
+      "source_text": "Testing for prediabetes or type 2 diabetes in asymptomatic people should be considered in adults of any age with overweight or obesity who have one or more risk factors (Table 2.5). B",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "age_range": "any age",
+      "bmi_range": "overweight or obesity",
+      "comorbidities": [
+        "one or more risk factors"
+      ],
+      "special_status": null
+    },
+    {
+      "name": "Asymptomatic adults without overweight or obesity",
+      "synonyms": [],
+      "source_text": "For all other people, screening should begin at age 35 years. B",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "age_range": "\u226535 years",
+      "bmi_range": null,
+      "comorbidities": [],
+      "special_status": null
+    },
+    {
+      "name": "Children and adolescents with overweight or obesity and one or more risk factors",
+      "synonyms": [],
+      "source_text": "Risk-based screening for prediabetes or type 2 diabetes should be considered after the onset of puberty or after 10 years of age, whichever occurs earlier, in children and adolescents with overweight (BMI \u226585th percentile) or obesity (BMI \u226595th percentile) and who have one or more risk factors for diabetes. (See Table 2.6 for evidence grading of risk factors.) B",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "age_range": "after onset of puberty or after 10 years of age, whichever occurs earlier",
+      "bmi_range": "overweight (\u226585th percentile) or obesity (\u226595th percentile)",
+      "comorbidities": [
+        "one or more risk factors"
+      ],
+      "special_status": null
+    },
+    {
+      "name": "Individuals with a history of GDM",
+      "synonyms": [],
+      "source_text": "Individuals with a history of GDM should have lifelong screening for the development of prediabetes or diabetes every 1\u20133 years.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "age_range": null,
+      "bmi_range": null,
+      "comorbidities": [],
+      "special_status": "history of GDM"
+    },
+    {
+      "name": "Individuals with one or more islet autoantibodies and without overt type 1 diabetes",
+      "synonyms": [],
+      "source_text": "Individuals with screening results positive for one or more islet autoantibodies should be evaluated for stage 3 (overt) type 1 diabetes (using A1C, urinalysis, and/or plasma glucose), which would require prompt clinical management and education. B",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "age_range": null,
+      "bmi_range": null,
+      "comorbidities": [],
+      "special_status": "positive for one or more islet autoantibodies"
+    },
+    {
+      "name": "Individuals with a single confirmed islet autoantibody",
+      "synonyms": [],
+      "source_text": "Individuals with a single confirmed islet autoantibody should undergo repeat antibody testing every 6 months to 3 years (depending on age) to assess for persistence or seroconversion. E",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "age_range": null,
+      "bmi_range": null,
+      "comorbidities": [],
+      "special_status": "single confirmed islet autoantibody"
+    },
+    {
+      "name": "People with HIV",
+      "synonyms": [],
+      "source_text": "People living with HIV are at higher risk for developing prediabetes and diabetes. In addition, some antiretroviral (ARV) therapies may further increase the risk.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "age_range": null,
+      "bmi_range": null,
+      "comorbidities": [],
+      "special_status": "living with HIV"
+    },
+    {
+      "name": "People treated with certain medications",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "age_range": null,
+      "bmi_range": null,
+      "comorbidities": [],
+      "special_status": null
+    }
+  ],
+  "relationships": []
+}

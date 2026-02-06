@@ -1,0 +1,170 @@
+{
+  "interventions": [
+    {
+      "name": "Metabolic Surgery",
+      "synonyms": [],
+      "source_text": "Metabolic Surgery",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "intervention_type": "Surgery",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "DSMES",
+      "synonyms": [],
+      "source_text": "DSMES",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "intervention_type": "Education",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Diabetes management in detention facilities",
+      "synonyms": [],
+      "source_text": "Diabetes Management in Detention Facilities",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "intervention_type": "Management Program",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Diabetes care in the school setting",
+      "synonyms": [],
+      "source_text": "Diabetes Care in the School Setting",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "intervention_type": "Management Program",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Care of young children with diabetes in the childcare and community setting",
+      "synonyms": [],
+      "source_text": "Care of Young Children With Diabetes in the Childcare and Community Setting",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "intervention_type": "Management Program",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Diabetes and driving",
+      "synonyms": [],
+      "source_text": "Diabetes and Driving",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "intervention_type": "Guideline",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Insulin Access and Affordability",
+      "synonyms": [],
+      "source_text": "Insulin Access and Affordability",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "intervention_type": "Advocacy",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Diabetes and employment",
+      "synonyms": [],
+      "source_text": "Diabetes and Employment",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "intervention_type": "Guideline",
+      "duration": null,
+      "frequency": null
+    }
+  ],
+  "behaviors": [],
+  "social_determinants": [
+    {
+      "name": "Discrimination",
+      "synonyms": [],
+      "source_text": "face discrimination due to diabetes",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "sdoh_category": "Social Exclusion",
+      "screening_tool": null
+    },
+    {
+      "name": "Cost",
+      "synonyms": [],
+      "source_text": "cost is not a barrier to successful diabetes management",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "sdoh_category": "Financial Barriers",
+      "screening_tool": null
+    }
+  ],
+  "outcomes": [
+    {
+      "name": "Healthy and productive life",
+      "synonyms": [],
+      "source_text": "live a healthy and productive life",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "outcome_type": "Quality of Life",
+      "magnitude": null
+    },
+    {
+      "name": "Freedom from discrimination",
+      "synonyms": [],
+      "source_text": "live free from the burden of discrimination",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "outcome_type": "Social Well-being",
+      "magnitude": null
+    }
+  ],
+  "screening_tools": [],
+  "relationships": [
+    {
+      "source_entity": "Metabolic Surgery",
+      "target_entity": "Unknown",
+      "relationship_type": "RECOMMENDS_CRITERIA",
+      "evidence_level": "Unknown",
+      "conditional_context": "BMI criteria"
+    },
+    {
+      "source_entity": "DSMES",
+      "target_entity": "Unknown",
+      "relationship_type": "RECOMMENDS_TIMING",
+      "evidence_level": "Unknown",
+      "conditional_context": "four critical times"
+    },
+    {
+      "source_entity": "Discrimination",
+      "target_entity": "Intervention",
+      "relationship_type": "BARRIER_TO",
+      "evidence_level": "Unknown",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "Cost",
+      "target_entity": "Intervention",
+      "relationship_type": "BARRIER_TO",
+      "evidence_level": "Unknown",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "Diabetes Advocacy",
+      "target_entity": "Healthy and productive life",
+      "relationship_type": "PROMOTES",
+      "evidence_level": "Unknown",
+      "conditional_context": "None"
+    },
+    {
+      "source_entity": "Diabetes Advocacy",
+      "target_entity": "Freedom from discrimination",
+      "relationship_type": "PROMOTES",
+      "evidence_level": "Unknown",
+      "conditional_context": "None"
+    }
+  ]
+}
