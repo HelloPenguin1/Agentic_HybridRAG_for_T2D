@@ -1,0 +1,1144 @@
+{
+  "diagnostic_tests": [
+    {
+      "name": "A1C measurement",
+      "synonyms": [
+        "A1C"
+      ],
+      "source_text": "Glycemic status is assessed by A1C measurement, blood glucose monitoring (BGM) by capillary (finger-stick) devices, and different continuous glucose monitoring (CGM) metrics such as time in range (TIR), time below range (TBR), time above range (TAR), glucose management indicator (GMI), coefficient of variation, and mean glucose.",
+      "page_number": "S132",
+      "evidence_level": "Unknown",
+      "test_type": "Unknown",
+      "normal_range": null,
+      "units": null
+    },
+    {
+      "name": "continuous glucose monitoring (CGM) metrics",
+      "synonyms": [
+        "CGM metrics"
+      ],
+      "source_text": "Glycemic status is assessed by A1C measurement, blood glucose monitoring (BGM) by capillary (finger-stick) devices, and different continuous glucose monitoring (CGM) metrics such as time in range (TIR), time below range (TBR), time above range (TAR), glucose management indicator (GMI), coefficient of variation, and mean glucose.",
+      "page_number": "S132",
+      "evidence_level": "Unknown",
+      "test_type": "Unknown",
+      "normal_range": null,
+      "units": null
+    },
+    {
+      "name": "blood glucose monitoring (BGM)",
+      "synonyms": [
+        "BGM"
+      ],
+      "source_text": "Glycemic status is assessed by A1C measurement, blood glucose monitoring (BGM) by capillary (finger-stick) devices, and different continuous glucose monitoring (CGM) metrics such as time in range (TIR), time below range (TBR), time above range (TAR), glucose management indicator (GMI), coefficient of variation, and mean glucose.",
+      "page_number": "S132",
+      "evidence_level": "Unknown",
+      "test_type": "Unknown",
+      "normal_range": null,
+      "units": null
+    },
+    {
+      "name": "Fructosamine",
+      "synonyms": [],
+      "source_text": "Fructosamine or CGM can be used for glycemic monitoring when an alternative to A1C is required. B",
+      "page_number": "S132",
+      "evidence_level": "Unknown",
+      "test_type": "Unknown",
+      "normal_range": null,
+      "units": null
+    },
+    {
+      "name": "glycated albumin",
+      "synonyms": [],
+      "source_text": "Fructosamine and glycated albumin are alternative measures of glycemia that are approved for clinical use for monitoring glycemic status in people with diabetes.",
+      "page_number": "S134",
+      "evidence_level": "Unknown",
+      "test_type": "Unknown",
+      "normal_range": null,
+      "units": null
+    },
+    {
+      "name": "ketone measurement",
+      "synonyms": [
+        "urine or blood ketone tests"
+      ],
+      "source_text": "Individuals at risk for DKA should be counseled on the early signs and symptoms of DKA, provided with appropriate tools for ketone measurement (urine and/or blood ketone tests), and educated on timely self-management of hyperglycemia and hyperketonemia (\u201csick day advice\u201d) (176\u2013178) to prevent clinical deterioration and need for acute care.",
+      "page_number": "S146",
+      "evidence_level": "Unknown",
+      "test_type": "Unknown",
+      "normal_range": null,
+      "units": null
+    }
+  ],
+  "conditions": [
+    {
+      "name": "Type 1 diabetes",
+      "synonyms": [],
+      "source_text": "CGM serves an increasingly important role in optimizing the effectiveness and safety of treatment in many people with type 1 diabetes, type 2 diabetes, diabetes in pregnancy, and other forms of diabetes (e.g., cystic fibrosis\u2013related diabetes).",
+      "page_number": "S132",
+      "evidence_level": "Unknown",
+      "icd10_code": null,
+      "classification": "Unknown"
+    },
+    {
+      "name": "Type 2 diabetes",
+      "synonyms": [],
+      "source_text": "CGM serves an increasingly important role in optimizing the effectiveness and safety of treatment in many people with type 1 diabetes, type 2 diabetes, diabetes in pregnancy, and other forms of diabetes (e.g., cystic fibrosis\u2013related diabetes).",
+      "page_number": "S132",
+      "evidence_level": "Unknown",
+      "icd10_code": null,
+      "classification": "Unknown"
+    },
+    {
+      "name": "diabetes in pregnancy",
+      "synonyms": [],
+      "source_text": "CGM serves an increasingly important role in optimizing the effectiveness and safety of treatment in many people with type 1 diabetes, type 2 diabetes, diabetes in pregnancy, and other forms of diabetes (e.g., cystic fibrosis\u2013related diabetes).",
+      "page_number": "S132",
+      "evidence_level": "Unknown",
+      "icd10_code": null,
+      "classification": "Unknown"
+    },
+    {
+      "name": "cystic fibrosis\u2013related diabetes",
+      "synonyms": [],
+      "source_text": "CGM serves an increasingly important role in optimizing the effectiveness and safety of treatment in many people with type 1 diabetes, type 2 diabetes, diabetes in pregnancy, and other forms of diabetes (e.g., cystic fibrosis\u2013related diabetes).",
+      "page_number": "S132",
+      "evidence_level": "Unknown",
+      "icd10_code": null,
+      "classification": "Unknown"
+    },
+    {
+      "name": "hypoglycemia",
+      "synonyms": [
+        "hypoglycemic events",
+        "severe hypoglycemia",
+        "frequent hypoglycemia"
+      ],
+      "source_text": "Hypoglycemia is often the major limiting factor in the glycemic management of type 1 and type 2 diabetes.",
+      "page_number": "S142",
+      "evidence_level": "Unknown",
+      "icd10_code": null,
+      "classification": "Unknown"
+    },
+    {
+      "name": "diabetic ketoacidosis (DKA)",
+      "synonyms": [
+        "DKA"
+      ],
+      "source_text": "Diabetic ketoacidosis (DKA) and the hyperglycemic hyperosmolar state (HHS) are serious, acute, and life-threatening hyperglycemic emergencies (162).",
+      "page_number": "S146",
+      "evidence_level": "Unknown",
+      "icd10_code": null,
+      "classification": "Unknown"
+    },
+    {
+      "name": "hyperglycemic hyperosmolar state (HHS)",
+      "synonyms": [
+        "HHS"
+      ],
+      "source_text": "Diabetic ketoacidosis (DKA) and the hyperglycemic hyperosmolar state (HHS) are serious, acute, and life-threatening hyperglycemic emergencies (162).",
+      "page_number": "S146",
+      "evidence_level": "Unknown",
+      "icd10_code": null,
+      "classification": "Unknown"
+    },
+    {
+      "name": "impaired hypoglycemia awareness",
+      "synonyms": [
+        "hypoglycemia unawareness",
+        "hypoglycemia-associated autonomic failure"
+      ],
+      "source_text": "Individuals at risk for hypoglycemia should also be screened for impaired hypoglycemia awareness (also called hypoglycemia unawareness or hypoglycemia-associated autonomic failure) at least yearly.",
+      "page_number": "S144",
+      "evidence_level": "Unknown",
+      "icd10_code": null,
+      "classification": "Unknown"
+    },
+    {
+      "name": "euglycemic DKA",
+      "synonyms": [],
+      "source_text": "Pregnant individuals may present with euglycemic DKA (glucose <200 mg/dL [11.1 mmol/L]), and the diagnosis of DKA may be hindered by the presence of mixed acid-based disturbances, particularly in the setting of hyperemesis.",
+      "page_number": "S146",
+      "evidence_level": "Unknown",
+      "icd10_code": null,
+      "classification": "Unknown"
+    }
+  ],
+  "metric_values": [
+    {
+      "name": "Time in range (TIR)",
+      "synonyms": [
+        "TIR"
+      ],
+      "source_text": "CGM metrics such as time in range (TIR), time below range (TBR), time above range (TAR), glucose management indicator (GMI), coefficient of variation, and mean glucose.",
+      "page_number": "S132",
+      "evidence_level": "Unknown",
+      "value": ">70%",
+      "unit": "%",
+      "comparator": ">",
+      "upper_bound": null
+    },
+    {
+      "name": "Time above range (TAR) >250 mg/dL",
+      "synonyms": [
+        "TAR >250 mg/dL"
+      ],
+      "source_text": "TAR >250 mg/dL (>13.9 mmol/L) | Percent of time in level 2 hyperglycemia | <5% (most adults); <10% (older adults with complex/intermediate health)",
+      "page_number": "S134",
+      "evidence_level": "Unknown",
+      "value": "<5%",
+      "unit": "%",
+      "comparator": "<",
+      "upper_bound": null
+    },
+    {
+      "name": "Time above range (TAR) >180 mg/dL",
+      "synonyms": [
+        "TAR >180 mg/dL"
+      ],
+      "source_text": "TAR >180 mg/dL (>10 mmol/L) | Percent of time in level 1 hyperglycemia | <25% (most adults); <50% (older adults with complex/intermediate health)\u2021",
+      "page_number": "S134",
+      "evidence_level": "Unknown",
+      "value": "<25%",
+      "unit": "%",
+      "comparator": "<",
+      "upper_bound": null
+    },
+    {
+      "name": "Time in range (TIR) 70\u2013180 mg/dL",
+      "synonyms": [
+        "TIR 70\u2013180 mg/dL"
+      ],
+      "source_text": "TIR 70\u2013180 mg/dL (3.9\u201310.0 mmol/L) | Percent of time in range | >70% (most adults); >50% (older adults with complex/intermediate health)",
+      "page_number": "S134",
+      "evidence_level": "Unknown",
+      "value": ">70%",
+      "unit": "%",
+      "comparator": ">",
+      "upper_bound": null
+    },
+    {
+      "name": "Time below range (TBR) <70 mg/dL",
+      "synonyms": [
+        "TBR <70 mg/dL"
+      ],
+      "source_text": "TBR <70 mg/dL (<3.9 mmol/L) | Percent of time in level 1 hypoglycemia | <4% (most adults); <1% (older adults with complex/intermediate health)\u00a7",
+      "page_number": "S134",
+      "evidence_level": "Unknown",
+      "value": "<4%",
+      "unit": "%",
+      "comparator": "<",
+      "upper_bound": null
+    },
+    {
+      "name": "Time below range (TBR) <54 mg/dL",
+      "synonyms": [
+        "TBR <54 mg/dL"
+      ],
+      "source_text": "TBR <54 mg/dL (<3.0 mmol/L) | Percent of time in level 2 hypoglycemia | <1%",
+      "page_number": "S134",
+      "evidence_level": "Unknown",
+      "value": "<1%",
+      "unit": "%",
+      "comparator": "<",
+      "upper_bound": null
+    },
+    {
+      "name": "Glucose coefficient of variation (CV)",
+      "synonyms": [
+        "CV"
+      ],
+      "source_text": "Glucose coefficient of variation (CV) | Spread of glucose values | \u226436%\u2020",
+      "page_number": "S134",
+      "evidence_level": "Unknown",
+      "value": "\u226436%",
+      "unit": "%",
+      "comparator": "\u2264",
+      "upper_bound": null
+    },
+    {
+      "name": "A1C",
+      "synonyms": [
+        "Hemoglobin A1C"
+      ],
+      "source_text": "A1C (%) | 5 | 31 | 97 (76\u2013120) | 5.4 (4.2\u20136.7)",
+      "page_number": "S134",
+      "evidence_level": "Unknown",
+      "value": "5",
+      "unit": "%",
+      "comparator": null,
+      "upper_bound": null
+    },
+    {
+      "name": "A1C",
+      "synonyms": [
+        "Hemoglobin A1C"
+      ],
+      "source_text": "A1C (%) | 6 | 42 | 126 (100\u2013152) | 7.0 (5.5\u20138.5)",
+      "page_number": "S134",
+      "evidence_level": "Unknown",
+      "value": "6",
+      "unit": "%",
+      "comparator": null,
+      "upper_bound": null
+    },
+    {
+      "name": "A1C",
+      "synonyms": [
+        "Hemoglobin A1C"
+      ],
+      "source_text": "A1C (%) | 7 | 53 | 154 (123\u2013185) | 8.6 (6.8\u201310.3)",
+      "page_number": "S134",
+      "evidence_level": "Unknown",
+      "value": "7",
+      "unit": "%",
+      "comparator": null,
+      "upper_bound": null
+    },
+    {
+      "name": "A1C",
+      "synonyms": [
+        "Hemoglobin A1C"
+      ],
+      "source_text": "A1C (%) | 8 | 64 | 183 (147\u2013217) | 10.2 (8.1\u201312.1)",
+      "page_number": "S134",
+      "evidence_level": "Unknown",
+      "value": "8",
+      "unit": "%",
+      "comparator": null,
+      "upper_bound": null
+    },
+    {
+      "name": "A1C",
+      "synonyms": [
+        "Hemoglobin A1C"
+      ],
+      "source_text": "A1C (%) | 9 | 75 | 212 (170\u2013249) | 11.8 (9.4\u201313.9)",
+      "page_number": "S134",
+      "evidence_level": "Unknown",
+      "value": "9",
+      "unit": "%",
+      "comparator": null,
+      "upper_bound": null
+    },
+    {
+      "name": "A1C",
+      "synonyms": [
+        "Hemoglobin A1C"
+      ],
+      "source_text": "A1C (%) | 10 | 86 | 240 (193\u2013282) | 13.4 (10.7\u201315.7)",
+      "page_number": "S134",
+      "evidence_level": "Unknown",
+      "value": "10",
+      "unit": "%",
+      "comparator": null,
+      "upper_bound": null
+    },
+    {
+      "name": "A1C",
+      "synonyms": [
+        "Hemoglobin A1C"
+      ],
+      "source_text": "A1C (%) | 11 | 97 | 269 (217\u2013314) | 14.9 (12.0\u201317.5)",
+      "page_number": "S134",
+      "evidence_level": "Unknown",
+      "value": "11",
+      "unit": "%",
+      "comparator": null,
+      "upper_bound": null
+    },
+    {
+      "name": "A1C",
+      "synonyms": [
+        "Hemoglobin A1C"
+      ],
+      "source_text": "A1C (%) | 12 | 108 | 298 (240\u2013347) | 16.5 (13.3\u201319.3)",
+      "page_number": "S134",
+      "evidence_level": "Unknown",
+      "value": "12",
+      "unit": "%",
+      "comparator": null,
+      "upper_bound": null
+    },
+    {
+      "name": "Preprandial capillary plasma glucose",
+      "synonyms": [],
+      "source_text": "Preprandial capillary plasma glucose | 80\u2013130 mg/dL* (4.4\u20137.2 mmol/L)",
+      "page_number": "S136",
+      "evidence_level": "Unknown",
+      "value": "80\u2013130",
+      "unit": "mg/dL",
+      "comparator": null,
+      "upper_bound": "130"
+    },
+    {
+      "name": "Peak postprandial capillary plasma glucose",
+      "synonyms": [],
+      "source_text": "Peak postprandial capillary plasma glucose\u2021 | <180 mg/dL* (<10.0 mmol/L)",
+      "page_number": "S136",
+      "evidence_level": "Unknown",
+      "value": "<180",
+      "unit": "mg/dL",
+      "comparator": "<",
+      "upper_bound": null
+    },
+    {
+      "name": "Level 1 hypoglycemia",
+      "synonyms": [
+        "hypoglycemia"
+      ],
+      "source_text": "Level 1 hypoglycemia is defined as a measurable glucose concentration <70 mg/dL (<3.9 mmol/L) and \u226554 mg/dL (\u22653.0 mmol/L).",
+      "page_number": "S142",
+      "evidence_level": "Unknown",
+      "value": "<70 mg/dL and \u226554 mg/dL",
+      "unit": "mg/dL",
+      "comparator": null,
+      "upper_bound": null
+    },
+    {
+      "name": "Level 2 hypoglycemia",
+      "synonyms": [
+        "hypoglycemia"
+      ],
+      "source_text": "Level 2 hypoglycemia (defined as a blood glucose concentration <54 mg/dL [<3.0 mmol/L]) is the threshold at which neuroglycopenic symptoms begin to occur and requires immediate action to resolve the hypoglycemic event.",
+      "page_number": "S142",
+      "evidence_level": "Unknown",
+      "value": "<54",
+      "unit": "mg/dL",
+      "comparator": "<",
+      "upper_bound": null
+    },
+    {
+      "name": "Glucose level",
+      "synonyms": [],
+      "source_text": "Glucose is the preferred treatment for the conscious individual with glucose <70 mg/dL (<3.9 mmol/L), although any form of carbohydrate that contains glucose may be used.",
+      "page_number": "S140",
+      "evidence_level": "Unknown",
+      "value": "<70",
+      "unit": "mg/dL",
+      "comparator": "<",
+      "upper_bound": null
+    }
+  ],
+  "screening_frequencies": [
+    {
+      "name": "Assess glycemic status",
+      "synonyms": [],
+      "source_text": "Assess glycemic status at least two times a year, and more frequently (e.g., every 3 months) for individuals not meeting glycemic goals or with recent treatment changes, frequent or severe hypoglycemia or hyperglycemia, or changes in health status, or during periods of rapid growth and development in children and adolescents. E",
+      "page_number": "S132",
+      "evidence_level": "Unknown",
+      "frequency": "at least two times a year",
+      "applies_to": "General population"
+    },
+    {
+      "name": "Assess glycemic status",
+      "synonyms": [],
+      "source_text": "Assess glycemic status at least two times a year, and more frequently (e.g., every 3 months) for individuals not meeting glycemic goals or with recent treatment changes, frequent or severe hypoglycemia or hyperglycemia, or changes in health status, or during periods of rapid growth and development in children and adolescents. E",
+      "page_number": "S132",
+      "evidence_level": "Unknown",
+      "frequency": "every 3 months",
+      "applies_to": "Individuals not meeting glycemic goals or with recent treatment changes, frequent or severe hypoglycemia or hyperglycemia, or changes in health status, or during periods of rapid growth and development in children and adolescents"
+    },
+    {
+      "name": "A1C testing",
+      "synonyms": [],
+      "source_text": "Measurement approximately every 3 months determines whether glycemic goals have been reached and maintained.",
+      "page_number": "S132",
+      "evidence_level": "Unknown",
+      "frequency": "every 3 months",
+      "applies_to": "Individuals not meeting glycemic goals or with recent treatment changes, frequent or severe hypoglycemia or hyperglycemia, or changes in health status"
+    },
+    {
+      "name": "A1C testing",
+      "synonyms": [],
+      "source_text": "Adults with type 1 or type 2 diabetes who have achieved and are maintaining glucose levels within their goal range may only need A1C testing twice a year.",
+      "page_number": "S132",
+      "evidence_level": "Unknown",
+      "frequency": "twice a year",
+      "applies_to": "Adults with type 1 or type 2 diabetes who have achieved and are maintaining glucose levels within their goal range"
+    },
+    {
+      "name": "A1C testing",
+      "synonyms": [],
+      "source_text": "Individuals with less stable glucose levels, those with intensive care plans, or those not meeting their treatment goals may require more frequent testing, typically every 3 months, with additional assessments as needed.",
+      "page_number": "S132",
+      "evidence_level": "Unknown",
+      "frequency": "every 3 months",
+      "applies_to": "Individuals with less stable glucose levels, those with intensive care plans, or those not meeting their treatment goals"
+    },
+    {
+      "name": "Screen for impaired hypoglycemia awareness",
+      "synonyms": [],
+      "source_text": "Screen individuals at risk for hypoglycemia for impaired hypoglycemia awareness at least annually and when clinically appropriate.",
+      "page_number": "S140",
+      "evidence_level": "Unknown",
+      "frequency": "at least annually",
+      "applies_to": "Individuals at risk for hypoglycemia"
+    },
+    {
+      "name": "Screen for fear of hypoglycemia",
+      "synonyms": [],
+      "source_text": "Screen individuals at high risk for hypoglycemia or with severe and/or frequent hypoglycemia for fear of hypoglycemia at least annually and when clinically appropriate.",
+      "page_number": "S140",
+      "evidence_level": "Unknown",
+      "frequency": "at least annually",
+      "applies_to": "Individuals at high risk for hypoglycemia or with severe and/or frequent hypoglycemia"
+    },
+    {
+      "name": "Review history of hypoglycemia",
+      "synonyms": [],
+      "source_text": "Review history of hypoglycemia.",
+      "page_number": "S140",
+      "evidence_level": "Unknown",
+      "frequency": "at every clinical encounter",
+      "applies_to": "General population"
+    },
+    {
+      "name": "Hypoglycemia history assessment",
+      "synonyms": [],
+      "source_text": "Hypoglycemia history assessment",
+      "page_number": "S148",
+      "evidence_level": "Unknown",
+      "frequency": "Initial visit",
+      "applies_to": "General population"
+    },
+    {
+      "name": "Hypoglycemia history assessment",
+      "synonyms": [],
+      "source_text": "Hypoglycemia history assessment",
+      "page_number": "S148",
+      "evidence_level": "Unknown",
+      "frequency": "Every follow-up visit",
+      "applies_to": "General population"
+    },
+    {
+      "name": "Hypoglycemia history assessment",
+      "synonyms": [],
+      "source_text": "Hypoglycemia history assessment",
+      "page_number": "S148",
+      "evidence_level": "Unknown",
+      "frequency": "Annual visit",
+      "applies_to": "General population"
+    },
+    {
+      "name": "Hypoglycemia awareness assessment",
+      "synonyms": [],
+      "source_text": "Hypoglycemia awareness assessment",
+      "page_number": "S148",
+      "evidence_level": "Unknown",
+      "frequency": "Initial visit",
+      "applies_to": "General population"
+    },
+    {
+      "name": "Hypoglycemia awareness assessment",
+      "synonyms": [],
+      "source_text": "Hypoglycemia awareness assessment",
+      "page_number": "S148",
+      "evidence_level": "Unknown",
+      "frequency": "Annual visit",
+      "applies_to": "General population"
+    },
+    {
+      "name": "Cognitive function and other hypoglycemia risk factor assessment",
+      "synonyms": [],
+      "source_text": "Cognitive function and other hypoglycemia risk factor assessment",
+      "page_number": "S148",
+      "evidence_level": "Unknown",
+      "frequency": "Initial visit",
+      "applies_to": "General population"
+    },
+    {
+      "name": "Cognitive function and other hypoglycemia risk factor assessment",
+      "synonyms": [],
+      "source_text": "Cognitive function and other hypoglycemia risk factor assessment",
+      "page_number": "S148",
+      "evidence_level": "Unknown",
+      "frequency": "Annual visit",
+      "applies_to": "General population"
+    },
+    {
+      "name": "Structured individual education for hypoglycemia prevention and treatment",
+      "synonyms": [],
+      "source_text": "Structured individual education for hypoglycemia prevention and treatment",
+      "page_number": "S148",
+      "evidence_level": "Unknown",
+      "frequency": "Initial visit",
+      "applies_to": "General population"
+    },
+    {
+      "name": "Structured individual education for hypoglycemia prevention and treatment",
+      "synonyms": [],
+      "source_text": "Structured individual education for hypoglycemia prevention and treatment",
+      "page_number": "S148",
+      "evidence_level": "Unknown",
+      "frequency": "Every follow-up visit",
+      "applies_to": "General population"
+    },
+    {
+      "name": "Structured individual education for hypoglycemia prevention and treatment",
+      "synonyms": [],
+      "source_text": "Structured individual education for hypoglycemia prevention and treatment",
+      "page_number": "S148",
+      "evidence_level": "Unknown",
+      "frequency": "Annual visit",
+      "applies_to": "General population"
+    },
+    {
+      "name": "Consideration of diabetes technology needs",
+      "synonyms": [],
+      "source_text": "Consideration of diabetes technology needs",
+      "page_number": "S148",
+      "evidence_level": "Unknown",
+      "frequency": "Initial visit",
+      "applies_to": "General population"
+    },
+    {
+      "name": "Consideration of diabetes technology needs",
+      "synonyms": [],
+      "source_text": "Consideration of diabetes technology needs",
+      "page_number": "S148",
+      "evidence_level": "Unknown",
+      "frequency": "Every follow-up visit",
+      "applies_to": "General population"
+    },
+    {
+      "name": "Consideration of diabetes technology needs",
+      "synonyms": [],
+      "source_text": "Consideration of diabetes technology needs",
+      "page_number": "S148",
+      "evidence_level": "Unknown",
+      "frequency": "Annual visit",
+      "applies_to": "General population"
+    },
+    {
+      "name": "Reevaluation of diabetes treatment plan",
+      "synonyms": [],
+      "source_text": "Reevaluation of diabetes treatment plan with deintensification, simplification, or agent modification as appropriate",
+      "page_number": "S148",
+      "evidence_level": "Unknown",
+      "frequency": "Initial visit",
+      "applies_to": "General population"
+    },
+    {
+      "name": "Reevaluation of diabetes treatment plan",
+      "synonyms": [],
+      "source_text": "Reevaluation of diabetes treatment plan with deintensification, simplification, or agent modification as appropriate",
+      "page_number": "S148",
+      "evidence_level": "Unknown",
+      "frequency": "Every follow-up visit",
+      "applies_to": "General population"
+    },
+    {
+      "name": "Reevaluation of diabetes treatment plan",
+      "synonyms": [],
+      "source_text": "Reevaluation of diabetes treatment plan with deintensification, simplification, or agent modification as appropriate",
+      "page_number": "S148",
+      "evidence_level": "Unknown",
+      "frequency": "Annual visit",
+      "applies_to": "General population"
+    },
+    {
+      "name": "Glucagon prescription and training for close contacts",
+      "synonyms": [],
+      "source_text": "Glucagon prescription and training for close contacts for insulin-treated individuals or those at high hypoglycemic risk",
+      "page_number": "S148",
+      "evidence_level": "Unknown",
+      "frequency": "Initial visit",
+      "applies_to": "Insulin-treated individuals or those at high hypoglycemic risk"
+    },
+    {
+      "name": "Glucagon prescription and training for close contacts",
+      "synonyms": [],
+      "source_text": "Glucagon prescription and training for close contacts for insulin-treated individuals or those at high hypoglycemic risk",
+      "page_number": "S148",
+      "evidence_level": "Unknown",
+      "frequency": "Annual visit",
+      "applies_to": "Insulin-treated individuals or those at high hypoglycemic risk"
+    },
+    {
+      "name": "Training to improve hypoglycemia awareness",
+      "synonyms": [],
+      "source_text": "Training to improve hypoglycemia awareness",
+      "page_number": "S148",
+      "evidence_level": "Unknown",
+      "frequency": "Initial visit",
+      "applies_to": "General population"
+    },
+    {
+      "name": "Training to improve hypoglycemia awareness",
+      "synonyms": [],
+      "source_text": "Training to improve hypoglycemia awareness",
+      "page_number": "S148",
+      "evidence_level": "Unknown",
+      "frequency": "Annual visit",
+      "applies_to": "General population"
+    },
+    {
+      "name": "Review history of hyperglycemic crises",
+      "synonyms": [],
+      "source_text": "Review history of hyperglycemic crises (i.e., diabetic ketoacidosis and hyperglycemic hyperosmolar state) at every clinical encounter for all individuals with diabetes at risk for these events. C",
+      "page_number": "S146",
+      "evidence_level": "Unknown",
+      "frequency": "at every clinical encounter",
+      "applies_to": "All individuals with diabetes at risk for hyperglycemic crises"
+    }
+  ],
+  "target_goals": [
+    {
+      "name": "A1C goal",
+      "synonyms": [],
+      "source_text": "An A1C goal of <7% (<53 mmol/mol) is appropriate for many nonpregnant adults without severe hypoglycemia or hypoglycemia affecting health or quality of life. A",
+      "page_number": "S136",
+      "evidence_level": "Unknown",
+      "goal_type": "A1C",
+      "target_value": "<7%",
+      "patient_population": "many nonpregnant adults without severe hypoglycemia or hypoglycemia affecting health or quality of life"
+    },
+    {
+      "name": "Time in range (TIR) goal",
+      "synonyms": [],
+      "source_text": "A goal time in range of >70% in people using CGM is appropriate for many nonpregnant adults. B",
+      "page_number": "S136",
+      "evidence_level": "Unknown",
+      "goal_type": "Time in range (TIR)",
+      "target_value": ">70%",
+      "patient_population": "many nonpregnant adults using CGM"
+    },
+    {
+      "name": "Time below range (TBR) goal",
+      "synonyms": [],
+      "source_text": "A goal percent time <70 mg/dL (<3.9 mmol/L) of <4% (or <1% for older adults) and a goal percent time <54 mg/dL (<3.0 mmol/L) of <1% are recommended in people using CGM to prevent hypoglycemia. Deintensify or modify therapy if these goals are not met. B",
+      "page_number": "S136",
+      "evidence_level": "Unknown",
+      "goal_type": "Time below range (TBR)",
+      "target_value": "<4%",
+      "patient_population": "people using CGM"
+    },
+    {
+      "name": "Time below range (TBR) goal",
+      "synonyms": [
+        "hypoglycemia goal"
+      ],
+      "source_text": "A goal percent time <70 mg/dL (<3.9 mmol/L) of <4% (or <1% for older adults) and a goal percent time <54 mg/dL (<3.0 mmol/L) of <1% are recommended in people using CGM to prevent hypoglycemia. Deintensify or modify therapy if these goals are not met. B",
+      "page_number": "S136",
+      "evidence_level": "Unknown",
+      "goal_type": "Time below range (TBR)",
+      "target_value": "<1%",
+      "patient_population": "older adults using CGM"
+    },
+    {
+      "name": "Time below range (TBR) goal",
+      "synonyms": [
+        "hypoglycemia goal"
+      ],
+      "source_text": "A goal percent time <70 mg/dL (<3.9 mmol/L) of <4% (or <1% for older adults) and a goal percent time <54 mg/dL (<3.0 mmol/L) of <1% are recommended in people using CGM to prevent hypoglycemia. Deintensify or modify therapy if these goals are not met. B",
+      "page_number": "S136",
+      "evidence_level": "Unknown",
+      "goal_type": "Time below range (TBR)",
+      "target_value": "<1%",
+      "patient_population": "people using CGM"
+    },
+    {
+      "name": "Lower A1C goal",
+      "synonyms": [],
+      "source_text": "Lower A1C goals (e.g., <6.5% [<48 mmol/mol]) may be appropriate for individuals with diabetes with good health and function and low treatment risks (e.g., hypoglycemia) and burdens (see Fig. 6.1). B",
+      "page_number": "S136",
+      "evidence_level": "Unknown",
+      "goal_type": "A1C",
+      "target_value": "<6.5%",
+      "patient_population": "individuals with diabetes with good health and function and low treatment risks and burdens"
+    },
+    {
+      "name": "Less stringent glycemic goals",
+      "synonyms": [],
+      "source_text": "Less stringent glycemic goals may be appropriate for individuals with significant cognitive and/or functional limitations, frailty, or severe comorbidities or where the harms of treatment, including hypoglycemia, are greater than the benefits. B",
+      "page_number": "S136",
+      "evidence_level": "Unknown",
+      "goal_type": "Glycemic goals",
+      "target_value": "Less stringent",
+      "patient_population": "individuals with significant cognitive and/or functional limitations, frailty, or severe comorbidities or where the harms of treatment, including hypoglycemia, are greater than the benefits"
+    },
+    {
+      "name": "A1C goal",
+      "synonyms": [],
+      "source_text": "A1C goals | 7.0% | 0 | 1% | 1% | 50% | 10%",
+      "page_number": "S138",
+      "evidence_level": "Unknown",
+      "goal_type": "A1C",
+      "target_value": "7.0%",
+      "patient_population": "Most adults"
+    },
+    {
+      "name": "A1C goal",
+      "synonyms": [],
+      "source_text": "A1C goals | 7.0% | 0 | 1% | 1% | 50% | 10%",
+      "page_number": "S138",
+      "evidence_level": "Unknown",
+      "goal_type": "A1C",
+      "target_value": "1%",
+      "patient_population": "Older adults with complex/intermediate health"
+    },
+    {
+      "name": "A1C goal",
+      "synonyms": [],
+      "source_text": "A1C goals | 7.0% | 0 | 1% | 1% | 50% | 10%",
+      "page_number": "S138",
+      "evidence_level": "Unknown",
+      "goal_type": "A1C",
+      "target_value": "1%",
+      "patient_population": "Older adults with very complex/poor health"
+    },
+    {
+      "name": "Time in range (TIR) goal",
+      "synonyms": [],
+      "source_text": "A1C goals | 7.0% | 0 | 1% | 1% | 50% | 10%",
+      "page_number": "S138",
+      "evidence_level": "Unknown",
+      "goal_type": "Time in range (TIR)",
+      "target_value": "50%",
+      "patient_population": "Older adults with complex/intermediate health"
+    },
+    {
+      "name": "Time below range (TBR) goal",
+      "synonyms": [],
+      "source_text": "A1C goals | 7.0% | 0 | 1% | 1% | 50% | 10%",
+      "page_number": "S138",
+      "evidence_level": "Unknown",
+      "goal_type": "Time below range (TBR)",
+      "target_value": "10%",
+      "patient_population": "Older adults with complex/intermediate health"
+    },
+    {
+      "name": "A1C goal",
+      "synonyms": [],
+      "source_text": "A1C goals | 7.0% | 0 | 1% | 1% | 50% | 10%",
+      "page_number": "S138",
+      "evidence_level": "Unknown",
+      "goal_type": "A1C",
+      "target_value": "Avoid symptomatic hyperglycemia",
+      "patient_population": "Older adults with very complex/poor health"
+    },
+    {
+      "name": "A1C goal",
+      "synonyms": [],
+      "source_text": "A1C goals | 7.0% | 0 | 1% | 1% | 50% | 10%",
+      "page_number": "S138",
+      "evidence_level": "Unknown",
+      "goal_type": "A1C",
+      "target_value": "No A1C goal",
+      "patient_population": "Any adults with limited life expectancy"
+    },
+    {
+      "name": "Glycemic goals",
+      "synonyms": [],
+      "source_text": "Setting specific glycemic (and other) treatment goals during clinical consultations has been demonstrated to improve glycemic outcomes for individuals with diabetes.",
+      "page_number": "S136",
+      "evidence_level": "Unknown",
+      "goal_type": "Glycemic goals",
+      "target_value": "Individualized",
+      "patient_population": "individuals with diabetes"
+    },
+    {
+      "name": "A1C goal",
+      "synonyms": [],
+      "source_text": "A1C goals between 6% and 7% are appropriate, and treatment does not necessarily need to be deintensified, in the setting of low hypoglycemia risk, low treatment risks and burdens, and long life expectancy (i.e., sufficient time horizon to derive benefit from glucose lowering).",
+      "page_number": "S138",
+      "evidence_level": "Unknown",
+      "goal_type": "A1C",
+      "target_value": "6% to 7%",
+      "patient_population": "individuals with low hypoglycemia risk, low treatment risks and burdens, and long life expectancy"
+    },
+    {
+      "name": "Glycemic goals",
+      "synonyms": [],
+      "source_text": "Less stringent goals (e.g., A1C up to 8% [64 mmol/mol]) may be recommended for individuals with complex health status and/or limited life expectancy where benefits of more intensive treatment may not be realized or if the expected risks and burdens of treatment outweigh the potential benefits.",
+      "page_number": "S140",
+      "evidence_level": "Unknown",
+      "goal_type": "Glycemic goals",
+      "target_value": "up to 8%",
+      "patient_population": "individuals with complex health status and/or limited life expectancy"
+    },
+    {
+      "name": "A1C goal",
+      "synonyms": [],
+      "source_text": "A1C | <7.0% (<53 mmol/mol)*\u2020",
+      "page_number": "S136",
+      "evidence_level": "Unknown",
+      "goal_type": "A1C",
+      "target_value": "<7.0%",
+      "patient_population": "many nonpregnant adults with diabetes"
+    },
+    {
+      "name": "Preprandial capillary plasma glucose goal",
+      "synonyms": [],
+      "source_text": "Preprandial capillary plasma glucose | 80\u2013130 mg/dL* (4.4\u20137.2 mmol/L)",
+      "page_number": "S136",
+      "evidence_level": "Unknown",
+      "goal_type": "Preprandial capillary plasma glucose",
+      "target_value": "80\u2013130 mg/dL",
+      "patient_population": "many nonpregnant adults with diabetes"
+    },
+    {
+      "name": "Peak postprandial capillary plasma glucose goal",
+      "synonyms": [],
+      "source_text": "Peak postprandial capillary plasma glucose\u2021 | <180 mg/dL* (<10.0 mmol/L)",
+      "page_number": "S136",
+      "evidence_level": "Unknown",
+      "goal_type": "Peak postprandial capillary plasma glucose",
+      "target_value": "<180 mg/dL",
+      "patient_population": "many nonpregnant adults with diabetes"
+    }
+  ],
+  "patient_profiles": [
+    {
+      "name": "Nonpregnant adults",
+      "synonyms": [],
+      "source_text": "An A1C goal of <7% (<53 mmol/mol) is appropriate for many nonpregnant adults without severe hypoglycemia or hypoglycemia affecting health or quality of life. A",
+      "page_number": "S136",
+      "evidence_level": "Unknown",
+      "age_range": null,
+      "bmi_range": null,
+      "comorbidities": [],
+      "special_status": null
+    },
+    {
+      "name": "Adults with type 1 or type 2 diabetes who have achieved and are maintaining glucose levels within their goal range",
+      "synonyms": [],
+      "source_text": "Adults with type 1 or type 2 diabetes who have achieved and are maintaining glucose levels within their goal range may only need A1C testing twice a year.",
+      "page_number": "S132",
+      "evidence_level": "Unknown",
+      "age_range": null,
+      "bmi_range": null,
+      "comorbidities": [],
+      "special_status": null
+    },
+    {
+      "name": "Individuals with less stable glucose levels",
+      "synonyms": [],
+      "source_text": "Individuals with less stable glucose levels, those with intensive care plans, or those not meeting their treatment goals may require more frequent testing, typically every 3 months, with additional assessments as needed.",
+      "page_number": "S132",
+      "evidence_level": "Unknown",
+      "age_range": null,
+      "bmi_range": null,
+      "comorbidities": [],
+      "special_status": null
+    },
+    {
+      "name": "Individuals at risk for hypoglycemia",
+      "synonyms": [],
+      "source_text": "Screen individuals at risk for hypoglycemia for impaired hypoglycemia awareness at least annually and when clinically appropriate.",
+      "page_number": "S140",
+      "evidence_level": "Unknown",
+      "age_range": null,
+      "bmi_range": null,
+      "comorbidities": [],
+      "special_status": null
+    },
+    {
+      "name": "Individuals at high risk for hypoglycemia or with severe and/or frequent hypoglycemia",
+      "synonyms": [],
+      "source_text": "Screen individuals at high risk for hypoglycemia or with severe and/or frequent hypoglycemia for fear of hypoglycemia at least annually and when clinically appropriate.",
+      "page_number": "S140",
+      "evidence_level": "Unknown",
+      "age_range": null,
+      "bmi_range": null,
+      "comorbidities": [],
+      "special_status": null
+    },
+    {
+      "name": "Older adults with complex/intermediate health",
+      "synonyms": [],
+      "source_text": "TIR 70\u2013180 mg/dL (3.9\u201310.0 mmol/L) | Percent of time in range | >70% (most adults); >50% (older adults with complex/intermediate health)",
+      "page_number": "S134",
+      "evidence_level": "Unknown",
+      "age_range": null,
+      "bmi_range": null,
+      "comorbidities": [],
+      "special_status": null
+    },
+    {
+      "name": "Older adults with complex/intermediate health",
+      "synonyms": [],
+      "source_text": "TAR >180 mg/dL (>10 mmol/L) | Percent of time in level 1 hyperglycemia | <25% (most adults); <50% (older adults with complex/intermediate health)\u2021",
+      "page_number": "S134",
+      "evidence_level": "Unknown",
+      "age_range": null,
+      "bmi_range": null,
+      "comorbidities": [],
+      "special_status": null
+    },
+    {
+      "name": "Older adults with complex/intermediate health",
+      "synonyms": [],
+      "source_text": "TBR <70 mg/dL (<3.9 mmol/L) | Percent of time in level 1 hypoglycemia | <4% (most adults); <1% (older adults with complex/intermediate health)\u00a7",
+      "page_number": "S134",
+      "evidence_level": "Unknown",
+      "age_range": null,
+      "bmi_range": null,
+      "comorbidities": [],
+      "special_status": null
+    },
+    {
+      "name": "Individuals with significant cognitive and/or functional limitations, frailty, or severe comorbidities",
+      "synonyms": [],
+      "source_text": "Less stringent glycemic goals may be appropriate for individuals with significant cognitive and/or functional limitations, frailty, or severe comorbidities or where the harms of treatment, including hypoglycemia, are greater than the benefits. B",
+      "page_number": "S136",
+      "evidence_level": "Unknown",
+      "age_range": null,
+      "bmi_range": null,
+      "comorbidities": [],
+      "special_status": null
+    },
+    {
+      "name": "Individuals with diabetes with good health and function and low treatment risks and burdens",
+      "synonyms": [],
+      "source_text": "Lower A1C goals (e.g., <6.5% [<48 mmol/mol]) may be appropriate for individuals with diabetes with good health and function and low treatment risks (e.g., hypoglycemia) and burdens (see Fig. 6.1). B",
+      "page_number": "S136",
+      "evidence_level": "Unknown",
+      "age_range": null,
+      "bmi_range": null,
+      "comorbidities": [],
+      "special_status": null
+    },
+    {
+      "name": "Most adults",
+      "synonyms": [],
+      "source_text": "TAR >250 mg/dL (>13.9 mmol/L) | Percent of time in level 2 hyperglycemia | <5% (most adults); <10% (older adults with complex/intermediate health)",
+      "page_number": "S134",
+      "evidence_level": "Unknown",
+      "age_range": null,
+      "bmi_range": null,
+      "comorbidities": [],
+      "special_status": null
+    },
+    {
+      "name": "Most adults",
+      "synonyms": [],
+      "source_text": "TIR 70\u2013180 mg/dL (3.9\u201310.0 mmol/L) | Percent of time in range | >70% (most adults); >50% (older adults with complex/intermediate health)",
+      "page_number": "S134",
+      "evidence_level": "Unknown",
+      "age_range": null,
+      "bmi_range": null,
+      "comorbidities": [],
+      "special_status": null
+    },
+    {
+      "name": "Most adults",
+      "synonyms": [],
+      "source_text": "TBR <70 mg/dL (<3.9 mmol/L) | Percent of time in level 1 hypoglycemia | <4% (most adults); <1% (older adults with complex/intermediate health)\u00a7",
+      "page_number": "S134",
+      "evidence_level": "Unknown",
+      "age_range": null,
+      "bmi_range": null,
+      "comorbidities": [],
+      "special_status": null
+    },
+    {
+      "name": "Older adults with very complex/poor health",
+      "synonyms": [],
+      "source_text": "A1C goals | 7.0% | 0 | 1% | 1% | 50% | 10%",
+      "page_number": "S138",
+      "evidence_level": "Unknown",
+      "age_range": null,
+      "bmi_range": null,
+      "comorbidities": [],
+      "special_status": null
+    },
+    {
+      "name": "Any adults with limited life expectancy",
+      "synonyms": [],
+      "source_text": "A1C goals | 7.0% | 0 | 1% | 1% | 50% | 10%",
+      "page_number": "S138",
+      "evidence_level": "Unknown",
+      "age_range": null,
+      "bmi_range": null,
+      "comorbidities": [],
+      "special_status": null
+    },
+    {
+      "name": "Individuals with low hypoglycemia risk, low treatment risks and burdens, and long life expectancy",
+      "synonyms": [],
+      "source_text": "A1C goals between 6% and 7% are appropriate, and treatment does not necessarily need to be deintensified, in the setting of low hypoglycemia risk, low treatment risks and burdens, and long life expectancy (i.e., sufficient time horizon to derive benefit from glucose lowering).",
+      "page_number": "S138",
+      "evidence_level": "Unknown",
+      "age_range": null,
+      "bmi_range": null,
+      "comorbidities": [],
+      "special_status": null
+    },
+    {
+      "name": "Individuals with complex health status and/or limited life expectancy",
+      "synonyms": [],
+      "source_text": "Less stringent goals (e.g., A1C up to 8% [64 mmol/mol]) may be recommended for individuals with complex health status and/or limited life expectancy where benefits of more intensive treatment may not be realized or if the expected risks and burdens of treatment outweigh the potential benefits.",
+      "page_number": "S140",
+      "evidence_level": "Unknown",
+      "age_range": null,
+      "bmi_range": null,
+      "comorbidities": [],
+      "special_status": null
+    },
+    {
+      "name": "Individuals treated with insulin, sulfonylureas, or meglitinides",
+      "synonyms": [],
+      "source_text": "Individuals at risk for hypoglycemia are those treated with insulin, sulfonylureas, or meglitinides; clinically significant hypoglycemia is rare among individuals taking other diabetes medication classes.",
+      "page_number": "S144",
+      "evidence_level": "Unknown",
+      "age_range": null,
+      "bmi_range": null,
+      "comorbidities": [],
+      "special_status": null
+    },
+    {
+      "name": "Individuals at high risk for hypoglycemia",
+      "synonyms": [],
+      "source_text": "Individuals at high risk for hypoglycemia are the subset of individuals at risk for hypoglycemia who either have a major hypoglycemia risk factor or have multiple other risk factors (determined by the health care professional incorporating clinical judgment).",
+      "page_number": "S144",
+      "evidence_level": "Unknown",
+      "age_range": null,
+      "bmi_range": null,
+      "comorbidities": [],
+      "special_status": null
+    },
+    {
+      "name": "People with type 1 diabetes",
+      "synonyms": [],
+      "source_text": "Provide structured education on the recognition, prevention, and management of hyperglycemic crisis to all individuals with type 1 diabetes, those with type 2 diabetes who have experienced these events, and people at high risk for these events. B",
+      "page_number": "S146",
+      "evidence_level": "Unknown",
+      "age_range": null,
+      "bmi_range": null,
+      "comorbidities": [],
+      "special_status": null
+    },
+    {
+      "name": "Individuals with type 2 diabetes who have experienced hyperglycemic crises",
+      "synonyms": [],
+      "source_text": "Provide structured education on the recognition, prevention, and management of hyperglycemic crisis to all individuals with type 1 diabetes, those with type 2 diabetes who have experienced these events, and people at high risk for these events. B",
+      "page_number": "S146",
+      "evidence_level": "Unknown",
+      "age_range": null,
+      "bmi_range": null,
+      "comorbidities": [],
+      "special_status": null
+    },
+    {
+      "name": "People at high risk for hyperglycemic crises",
+      "synonyms": [],
+      "source_text": "Provide structured education on the recognition, prevention, and management of hyperglycemic crisis to all individuals with type 1 diabetes, those with type 2 diabetes who have experienced these events, and people at high risk for these events. B",
+      "page_number": "S146",
+      "evidence_level": "Unknown",
+      "age_range": null,
+      "bmi_range": null,
+      "comorbidities": [],
+      "special_status": null
+    }
+  ],
+  "relationships": [
+    {
+      "source_entity": "A1C measurement",
+      "target_entity": "Type 2 diabetes",
+      "relationship_type": "ASSESSES_CONDITION",
+      "evidence_level": "A",
+      "conditional_context": "initial assessment and as part of continuing care. Measurement approximately every 3 months determines whether glycemic goals have been reached and maintained. Adults with type 1 or type 2 diabetes who have achieved and are maintaining glucose levels within their goal range may only need A1C testing twice a year. Individuals with less stable glucose levels, those with intensive care plans, or those not meeting their treatment goals may require more frequent testing, typically every 3 months, with additional assessments as needed. Point-of-care A1C testing can offer timely opportunities for treatment adjustments during appointments with health care professionals, although point-of-care tests may be less accurate than laboratory A1C assays (5). The A1C test is an indirect measure of average glycemia. Factors that affect hemoglobin or red blood cells may affect A1C; see section 2, \u201cDiagnosis and Classification of Diabetes,\u201d for details. For example, conditions that affect red blood cell turnover (e.g., hemolytic anemia and other anemias, glucose-6-phosphate dehydrogenase deficiency, recent blood transfusion, use of drugs that stimulate erythropoiesis, kidney failure, and pregnancy) can interfere with the accuracy of A1C (6). Some hemoglobin variants can interfere with some A1C assays; however, most assays in use in the U.S. are accurate in individuals who are heterozygous for the most common variants (7). A1C cannot be measured in individuals with sickle cell disease (HbSS) or other homozygous hemoglobin variants (e.g., HbEE), since these individuals lack HbA (8). In individuals with conditions that interfere with the interpretation of A1C, alternative approaches to monitoring glycemic status should be used, including self-monitoring of blood glucose, CGM, and/or the use of glycated serum protein assays (discussed below). A1C does not provide a measure of glycemic variability, real-time glucose levels, or hypoglycemia. For individuals prone to glycemic variability, especially people with type 1 diabetes or type 2 diabetes with insulin deficiency and/or treatment with intensive insulin therapy, glycemic status is best evaluated by the combination of results from BGM or CGM and A1C. Discordant results between A1C and BGM or CGM can occur due to high glycemic variability, inaccurate BGM or CGM measurement, or inaccurate A1C due to the factors discussed above. As discussed in section 2, \u201cDiagnosis and Classification of Diabetes,\u201d there is controversy regarding the clinical significance of differences in A1C by self-reported race and ethnicity (9\u201312). There is an emerging understanding of genetic determinants that may modify the association between A1C and glucose levels (13). However, race and ethnicity are not good proxies for these genetic differences that are likely present in a small fraction of individuals of all racial groups. Therefore, race and ethnicity should not be considerations for how A1C is used clinically for glycemic monitoring. Limitations of laboratory tests and within-person variability in glucose and A1C underscore the importance of using multiple approaches to glycemic monitoring and further evaluation of discordant results in all racial or ethnic groups. The A1C test is the primary tool for assessing glycemic status in both clinical practice and clinical trials, and it is strongly linked to diabetes complications (2\u20134). A1C reflects average glycemia over approximately 2\u20133 months. The performance of laboratory tests for A1C is generally excellent for National Glycohemoglobin Standardization Program (NGSP)-certified assays (ngsp.org). Thus, A1C testing should be performed routinely in all people with diabetes at initial assessment and as part of continuing care. Measurement approximately every 3 months determines whether glycemic goals have been reached and maintained. Adults with type 1 or type 2 diabetes who have achieved and are maintaining glucose levels within their goal range may only need A1C testing twice a year. Individuals with less stable glucose levels, those with intensive care plans, or those not meeting their treatment goals may require more frequent testing, typically every 3 months, with additional assessments as needed. Point-of-care A1C testing can offer timely opportunities for treatment adjustments during appointments with health care professionals, although point-of-care tests may be less accurate than laboratory A1C assays (5). The A1C test is an indirect measure of average glycemia. Factors that affect hemoglobin or red blood cells may affect A1C; see section 2, \u201cDiagnosis and Classification of Diabetes,\u201d for details. For example, conditions that affect red blood cell turnover (e.g., hemolytic anemia and other anemias, glucose-6-phosphate dehydrogenase deficiency, recent blood transfusion, use of drugs that stimulate erythropoiesis, kidney failure, and pregnancy) can interfere with the accuracy of A1C (6). Some hemoglobin variants can interfere with some A1C assays; however, most assays in use in the U.S. are accurate in individuals who are heterozygous for the most common variants (7). A1C cannot be measured in individuals with sickle cell disease (HbSS) or other homozygous hemoglobin variants (e.g., HbEE), since these individuals lack HbA (8). In individuals with conditions that interfere with the interpretation of A1C, alternative approaches to monitoring glycemic status should be used, including self-monitoring of blood glucose, CGM, and/or the use of glycated serum protein assays (discussed below). A1C does not provide a measure of glycemic variability, real-time glucose levels, or hypoglycemia. For individuals prone to glycemic variability, especially people with type 1 diabetes or type 2 diabetes with insulin deficiency and/or treatment with intensive insulin therapy, glycemic status is best evaluated by the combination of results from BGM or CGM and A1C. Discordant results between A1C and BGM or CGM can occur due to high glycemic variability, inaccurate BGM or CGM measurement, or inaccurate A1C due to the factors discussed above. As discussed in section 2, \u201cDiagnosis and Classification of Diabetes,\u201d there is controversy regarding the clinical significance of differences in A1C by self-reported race and ethnicity (9\u201312). There is an emerging understanding of genetic determinants that may modify the association between A1C and glucose levels (13). However, race and ethnicity are not good proxies for these genetic differences that are likely present in a small fraction of individuals of all racial groups. Therefore, race and ethnicity should not be considerations for how A1C is used clinically for glycemic monitoring. Limitations of laboratory tests and within-person variability in glucose and A1C underscore the importance of using multiple approaches to glycemic monitoring and further evaluation of discordant results in all racial or ethnic groups. The A1C test is the primary tool for assessing glycemic status in both clinical practice and clinical trials, and it is strongly linked to diabetes complications (2\u20134). A1C reflects average glycemia over approximately 2\u20133 months. The performance of laboratory tests for A1C is generally excellent for National Glycohemoglobin Standardization Program (NGSP)-certified assays (ngsp.org). Thus, A1C testing should be performed routinely in all people with diabetes at initial assessment and as part of continuing care. Measurement approximately every 3 months determines whether glycemic goals have been reached and maintained. Adults with type 1 or type 2 diabetes who have achieved and are maintaining glucose levels within their goal range may only need A1C testing twice a year. Individuals with less stable glucose levels, those with intensive care plans, or those not meeting their treatment goals may require more frequent testing, typically every 3 months, with additional assessments as needed. Point-of-care A1C testing can offer timely opportunities for treatment adjustments during appointments with health care professionals, although point-of-care tests may be less accurate than laboratory A1C assays (5). The A1C test is an indirect measure of average glycemia. Factors that affect hemoglobin or red blood cells may affect A1C; see section 2, \u201cDiagnosis and Classification of Diabetes,\u201d for details. For example, conditions that affect red blood cell turnover (e.g., hemolytic anemia and other anemias, glucose-6-phosphate dehydrogenase deficiency, recent blood transfusion, use of drugs that stimulate erythropoiesis, kidney failure, and pregnancy) can interfere with the accuracy of A1C (6). Some hemoglobin variants can interfere with some A1C assays; however, most assays in use in the U.S. are accurate in individuals who are heterozygous for the most common variants (7). A1C cannot be measured in individuals with sickle cell disease (HbSS) or other homozygous hemoglobin variants (e.g., HbEE), since these individuals lack HbA (8). In individuals with conditions that interfere with the interpretation of A1C, alternative approaches to monitoring glycemic status should be used, including self-monitoring of blood glucose, CGM, and/or the use of glycated serum protein assays (discussed below). A1C does not provide a measure of glycemic variability, real-time glucose levels, or hypoglycemia. For individuals prone to glycemic variability, especially people with type 1 diabetes or type 2 diabetes with insulin deficiency and/or treatment with intensive insulin therapy, glycemic status is best evaluated by the combination of results from BGM or CGM and A1C. Discordant results between A1C and BGM or CGM can occur due to high glycemic variability, inaccurate BGM or CGM measurement, or inaccurate A1C due to the factors discussed above. As discussed in section 2, \u201cDiagnosis and Classification of Diabetes,\u201d there is controversy regarding the clinical significance of differences in A1C by self-reported race and ethnicity (9\u201312). There is an emerging understanding of genetic determinants that may modify the association between A1C and glucose levels (13). However, race and ethnicity are not good proxies for these genetic differences that are likely present in a small fraction of individuals of all racial groups. Therefore, race and ethnicity should not be considerations for how A1C is used clinically for glycemic monitoring. Limitations of laboratory tests and within-person variability in glucose and A1C underscore the importance of using multiple approaches to glycemic monitoring and further evaluation of discordant results in all racial or ethnic groups. The A1C test is the primary tool for assessing glycemic status in both clinical practice and clinical trials, and it is strongly linked to diabetes complications (2\u20134). A1C reflects average glycemia over approximately 2\u20133 months. The performance of laboratory tests for A1C is generally excellent for National Glycohemoglobin Standardization Program (NGSP)-certified assays (ngsp.org). Thus, A1C testing should be performed routinely in all people with diabetes at initial assessment and as part of continuing care. Measurement approximately every 3 months determines whether glycemic goals have been reached and maintained. Adults with type 1 or type 2 diabetes who have achieved and are maintaining glucose levels within their goal range may only need A1C testing twice a year. Individuals with less stable glucose levels, those with intensive care plans, or those not meeting their treatment goals may require more frequent testing, typically every 3 months, with additional assessments as needed. Point-of-care A1C testing can offer timely opportunities for treatment adjustments during appointments with health care professionals, although point-of-care tests may be less accurate than laboratory A1C assays (5). The A1C test is an indirect measure of average glycemia. Factors that affect hemoglobin or red blood cells may affect A1C; see section 2, \u201cDiagnosis and Classification of Diabetes,\u201d for details. For example, conditions that affect red blood cell turnover (e.g., hemolytic anemia and other anemias, glucose-6-phosphate dehydrogenase deficiency, recent blood transfusion, use of drugs that stimulate erythropoiesis, kidney failure, and pregnancy) can interfere with the accuracy of A1C (6). Some hemoglobin variants can interfere with some A1C assays; however, most assays in use in the U.S. are accurate in individuals who are heterozygous for the most common variants (7). A1C cannot be measured in individuals with sickle cell disease (HbSS) or other homozygous hemoglobin variants (e.g., HbEE), since these individuals lack HbA (8). In individuals with conditions that interfere with the interpretation of A1C, alternative approaches to monitoring glycemic status should be used, including self-monitoring of blood glucose, CGM, and/or the use of glycated serum protein assays (discussed below). A1C does not provide a measure of glycemic variability, real-time glucose levels, or hypoglycemia. For individuals prone to glycemic variability, especially people with type 1 diabetes or type 2 diabetes with insulin deficiency and/or treatment with intensive insulin therapy, glycemic status is best evaluated by the combination of results from BGM or CGM and A1C. Discordant results between A1C and BGM or CGM can occur due to high glycemic variability, inaccurate BGM or CGM measurement, or inaccurate A1C due to the factors discussed above. As discussed in section 2, \u201cDiagnosis and Classification of Diabetes,\u201d there is controversy regarding the clinical significance of differences in A1C by self-reported race and ethnicity (9\u201312). There is an emerging understanding of genetic determinants that may modify the association between A1C and glucose levels (13). However, race and ethnicity are not good proxies for these genetic differences that are likely present in a small fraction of individuals of all racial groups. Therefore, race and ethnicity should not be considerations for how A1C is used clinically for glycemic monitoring. Limitations of laboratory tests and within-person variability in glucose and A1C underscore the importance of using multiple approaches to glycemic monitoring and further evaluation of discordant results in all racial or ethnic groups. The A1C test is the primary tool for assessing glycemic status in both clinical practice and clinical trials, and it is strongly linked to diabetes complications (2\u20134). A1C reflects average glycemia over approximately 2\u20133 months. The performance of laboratory tests for A1C is generally excellent for National Glycohemoglobin Standardization Program (NGSP)-certified assays (ngsp.org). Thus, A1C testing should be performed routinely in all people with diabetes at initial assessment and as part of continuing care. Measurement approximately every 3 months determines whether glycemic goals have been reached and maintained. Adults with type 1 or type 2 diabetes who have achieved and are maintaining glucose levels within their goal range may only need A1C testing twice a year. Individuals with less stable glucose levels, those with intensive care plans, or those not meeting their treatment goals may require more frequent testing, typically every 3 months, with additional assessments as needed. Point-of-care A1C testing can offer timely opportunities for treatment adjustments during appointments with health care professionals, although point-of-care tests may be less accurate than laboratory A1C assays (5). The A1C test is an indirect measure of average glycemia. Factors that affect hemoglobin or red blood cells may affect A1C; see section 2, \u201cDiagnosis and Classification of Diabetes,\u201d for details. For example, conditions that affect red blood cell turnover (e.g., hemolytic anemia and other anemias, glucose-6-phosphate dehydrogenase deficiency, recent blood transfusion, use of drugs that stimulate erythropoiesis, kidney failure, and pregnancy) can interfere with the accuracy of A1C (6). Some hemoglobin variants can interfere with some A1C assays; however, most assays in use in the U.S. are accurate in individuals who are heterozygous for the most common variants (7). A1C cannot be measured in individuals with sickle cell disease (HbSS) or other homozygous hemoglobin variants (e.g., HbEE), since these individuals lack HbA (8). In individuals with conditions that interfere with the interpretation of A1C, alternative approaches to monitoring glycemic status should be used, including self-monitoring of blood glucose, CGM, and/or the use of glycated serum protein assays (discussed below). A1C does not provide a measure of glycemic variability, real-time glucose levels, or hypoglycemia. For individuals prone to glycemic variability, especially people with type 1 diabetes or type 2 diabetes with insulin deficiency and/or treatment with intensive insulin therapy, glycemic status is best evaluated by the combination of results from BGM or CGM and A1C. Discordant results between A1C and BGM or CGM can occur due to high glycemic variability, inaccurate BGM or CGM measurement, or inaccurate A1C due to the factors discussed above. As discussed in section 2, \u201cDiagnosis and Classification of Diabetes,\u201d there is controversy regarding the clinical significance of differences in A1C by self-reported race and ethnicity (9\u201312). There is an emerging understanding of genetic determinants that may modify the association between A1C and glucose levels (13). However, race and ethnicity are not good proxies for these genetic differences that are likely present in a small fraction of individuals of all racial groups. Therefore, race and ethnicity should not be considerations for how A1C is used clinically for glycemic monitoring. Limitations of laboratory tests and within-person variability in glucose and A1C underscore the importance of using multiple approaches to glycemic monitoring and further evaluation of discordant results in all racial or ethnic groups. The A1C test is the primary tool for assessing glycemic status in both clinical practice and clinical trials, and it is strongly linked to diabetes complications (2\u20134). A1C reflects average glycemia over approximately 2\u20133 months. The performance of laboratory tests for A1C is generally excellent for National Glycohemoglobin Standardization Program (NGSP)-certified assays (ngsp.org). Thus, A1C testing should be performed routinely in all people with diabetes at initial assessment and as part of continuing care. Measurement approximately every 3 months determines whether glycemic goals have been reached and maintained. Adults with type 1 or type 2 diabetes who have achieved and are maintaining glucose levels within their goal range may only need A1C testing twice a year. Individuals with less stable glucose levels, those with intensive care plans, or those not meeting their treatment goals may require more frequent testing, typically every 3 months, with additional assessments as needed. Point-of-care A1C testing can offer timely opportunities for treatment adjustments during appointments with health care professionals, although point-of-care tests may be less accurate than laboratory A1C assays (5). The A1C test is an indirect measure of average glycemia. Factors that affect hemoglobin or red blood cells may affect A1C; see section 2, \u201cDiagnosis and Classification of Diabetes,\u201d for details. For example, conditions that affect red blood cell turnover (e.g., hemolytic anemia and other anemias, glucose-6-phosphate dehydrogenase deficiency, recent blood transfusion, use of drugs that stimulate erythropoiesis, kidney failure, and pregnancy) can interfere with the accuracy of A1C (6). Some hemoglobin variants can interfere with some A1C assays; however, most assays in use in the U.S. are accurate in individuals who are heterozygous for the most common variants (7). A1C cannot be measured in individuals with sickle cell disease (HbSS) or other homozygous hemoglobin variants (e.g., HbEE), since these individuals lack HbA (8). In individuals with conditions that interfere with the interpretation of A1C, alternative approaches to monitoring glycemic status should be used, including self-monitoring of blood glucose, CGM, and/or the use of glycated serum protein assays (discussed below). A1C does not provide a measure of glycemic variability, real-time glucose levels, or hypoglycemia. For individuals prone to glycemic variability, especially people with type 1 diabetes or type 2 diabetes with insulin deficiency and/or treatment with intensive insulin therapy, glycemic status is best evaluated by the combination of results from BGM or CGM and A1C. Discordant results between A1C and BGM or CGM can occur due to high glycemic variability, inaccurate BGM or CGM measurement, or inaccurate A1C due to the factors discussed above. As discussed in section 2, \u201cDiagnosis and Classification of Diabetes,\u201d there is controversy regarding the clinical significance of differences in A1C by self-reported race and ethnicity (9\u201312). There is an emerging understanding of genetic determinants that may modify the association between A1C and glucose levels (13). However, race and ethnicity are not good proxies for these genetic differences that are likely present in a small fraction of individuals of all racial groups. Therefore, race and ethnicity should not be considerations for how A1C is used clinically for glycemic monitoring. Limitations of laboratory tests and within-person variability in glucose and A1C underscore the importance of using multiple approaches to glycemic monitoring and further evaluation of discordant results in all racial or ethnic groups. The A1C test is the primary tool for assessing glycemic status in both clinical practice and clinical trials, and it is strongly linked to diabetes complications (2\u20134). A1C reflects average glycemia over approximately 2\u20133 months. The performance of laboratory tests for A1C is generally excellent for National Glycohemoglobin Standardization Program (NGSP)-certified assays (ngsp.org). Thus, A1C testing should be performed routinely in all people with diabetes at initial assessment and as part of continuing care. Measurement approximately every 3 months determines whether glycemic goals have been reached and maintained. Adults with type 1 or type 2 diabetes who have achieved and are maintaining glucose levels within their goal range may only need A1C testing twice a year. Individuals with less stable glucose levels, those with intensive care plans, or those not meeting their treatment goals may require more frequent testing, typically every 3 months, with additional assessments as needed. Point-of-care A1C testing can offer timely opportunities for treatment adjustments during appointments with health care professionals, although point-of-care tests may be less accurate than laboratory A1C assays (5). The A1C test is an indirect measure of average glycemia. Factors that affect hemoglobin or red blood cells may affect A1C; see section 2, \u201cDiagnosis and Classification of Diabetes,\u201d for details. For example, conditions that affect red blood cell turnover (e.g., hemolytic anemia and other anemias, glucose-6-phosphate dehydrogenase deficiency, recent blood transfusion, use of drugs that stimulate erythropoiesis, kidney failure, and pregnancy) can interfere with the accuracy of A1C (6). Some hemoglobin variants can interfere with some A1C assays; however, most assays in use in the U.S. are accurate in individuals who are heterozygous for the most common variants (7). A1C cannot be measured in individuals with sickle cell disease (HbSS) or other homozygous hemoglobin variants (e.g., HbEE), since these individuals lack HbA (8). In individuals with conditions that interfere with the interpretation of A1C, alternative approaches to monitoring glycemic status should be used, including self-monitoring of blood glucose, CGM, and/or the use of glycated serum protein assays (discussed below). A1C does not provide a measure of glycemic variability, real-time glucose levels, or hypoglycemia. For individuals prone to glycemic variability, especially people with type 1 diabetes or type 2 diabetes with insulin deficiency and/or treatment with intensive insulin therapy, glycemic status is best evaluated by the combination of results from BGM or CGM and A1C. Discordant results between A1C and BGM or CGM can occur due to high glycemic variability, inaccurate BGM or CGM measurement, or inaccurate A1C due to the factors discussed above. As discussed in section 2, \u201cDiagnosis and Classification of Diabetes,\u201d there is controversy regarding the clinical significance of differences in A1C by self-reported race and ethnicity (9\u201312). There is an emerging understanding of genetic determinants that may modify the association between A1C and glucose levels (13). However, race and ethnicity are not good proxies for these genetic differences that are likely present in a small fraction of individuals of all racial groups. Therefore, race and ethnicity should not be considerations for how A1C is used clinically for glycemic monitoring. Limitations of laboratory tests and within-person variability in glucose and A1C underscore the importance of using multiple approaches to glycemic monitoring and further evaluation of discordant results in all racial or ethnic groups. The A1C test is the primary tool for assessing glycemic status in both clinical practice and clinical trials, and it is strongly linked to diabetes complications (2\u20134). A1C reflects average glycemia over approximately 2\u20133 months. The performance of laboratory tests for A1C is generally excellent for National Glycohemoglobin Standardization Program (NGSP)-certified assays (ngsp.org). Thus, A1C testing should be performed routinely in all people with diabetes at initial assessment and as part of continuing care. Measurement approximately every 3 months determines whether glycemic goals have been reached and maintained. Adults with type 1 or type 2 diabetes who have achieved and are maintaining glucose levels within their goal range may only need A1C testing twice a year. Individuals with less stable glucose levels, those with intensive care plans, or those not meeting their treatment goals may require more frequent testing, typically every 3 months, with additional assessments as needed. Point-of-care A1C testing can offer timely opportunities for treatment adjustments during appointments with health care professionals, although point-of-care tests may be less accurate than laboratory A1C assays (5). The A1C test is an indirect measure of average glycemia. Factors that affect hemoglobin or red blood cells may affect A1C; see section 2, \u201cDiagnosis and Classification of Diabetes,\u201d for details. For example, conditions that affect red blood cell turnover (e.g., hemolytic anemia and other anemias, glucose-6-phosphate dehydrogenase deficiency, recent blood transfusion, use of drugs that stimulate erythropoiesis, kidney failure, and pregnancy) can interfere with the accuracy of A1C (6). Some hemoglobin variants can interfere with some A1C assays; however, most assays in use in the U.S. are accurate in individuals who are heterozygous for the most common variants (7). A1C cannot be measured in individuals with sickle cell disease (HbSS) or other homozygous hemoglobin variants (e.g., HbEE), since these individuals lack HbA (8). In individuals with conditions that interfere with the interpretation of A1C, alternative approaches to monitoring glycemic status should be used, including self-monitoring of blood glucose, CGM, and/or the use of glycated serum protein assays (discussed below). A1C does not provide a measure of glycemic variability, real-"
+    }
+  ]
+}
