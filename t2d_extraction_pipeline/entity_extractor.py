@@ -203,7 +203,7 @@ The extracted entities and relationships will populate a Neo4j knowledge graph f
                         'response_mime_type': 'application/json',
                         'response_schema': model.model_json_schema(),
                         'temperature': 0,
-                        'max_output_tokens': 16384   
+                        'max_output_tokens': 32768  # Increased for complex schemas (assessment_diagnosis requires ~10.5K tokens/chunk)
                     }
                 )
                 return model.model_validate_json(self._surgical_json_repair(response.text))
