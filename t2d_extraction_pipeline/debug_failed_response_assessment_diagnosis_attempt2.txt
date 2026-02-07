@@ -1,0 +1,205 @@
+=== ERROR ===
+1 validation error for AssessmentDiagnosisExtraction
+  Invalid JSON: expected `:` at line 7514 column 13 [type=json_invalid, input_value='{\n  "diagnostic_tests":... null,\n      "unit"}]}', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/json_invalid
+
+=== RAW RESPONSE (154884 chars) ===
+{
+  "diagnostic_tests": [
+    {
+      "name": "Hemoglobin A1c",
+      "synonyms": [
+        "A1C",
+        "HbA1c"
+      ],
+      "source_text": "A meta-analysis of mostly observational studies found a mean reduction in A1C levels of 0.45% (95% CI −0.60 to −0.30) and reduced requirement for glucose-lowering medication use following successful eradication of HCV infection (148).",
+      "test_type": "Blood test"
+    },
+    {
+      "name": "Morning serum total testosterone level",
+      "source_text": "If symptoms and/or signs of hypogonadism are detected, screen with a morning serum total testosterone level. B",
+      "test_type": "Blood test"
+    },
+    {
+      "name": "Glycemic assessment",
+      "source_text": "Glycemic assessment in men not previously diagnosed with diabetes, lipid profile, and morning total and free testosterone should be considered mandatory in all men newly presenting with ED (157).",
+      "test_type": "Blood test"
+    },
+    {
+      "name": "Lipid profile",
+      "source_text": "Glycemic assessment in men not previously diagnosed with diabetes, lipid profile, and morning total and free testosterone should be considered mandatory in all men newly presenting with ED (157).",
+      "test_type": "Blood test"
+    },
+    {
+      "name": "Morning total and free testosterone",
+      "source_text": "Glycemic assessment in men not previously diagnosed with diabetes, lipid profile, and morning total and free testosterone should be considered mandatory in all men newly presenting with ED (157).",
+      "test_type": "Blood test"
+    },
+    {
+      "name": "FIB-4",
+      "source_text": "The fibrosis-4 index (FIB-4) is the most cost-effective strategy for the initial screening of people with prediabetes and cardiometabolic risk factors or with type 2 diabetes for at-risk MASH in primary care and diabetes clinical settings (181,192,197,205–208).",
+      "test_type": "Blood test"
+    },
+    {
+      "name": "Liver stiffness measurement",
+      "synonyms": [
+        "LSM",
+        "transient elastography"
+      ],
+      "source_text": "Adults with type 2 diabetes or prediabetes with a FIB-4 ≥ 1.3 should have additional risk stratification by liver stiffness measurement with transient elastography, or, if unavailable, the enhanced liver fibrosis (ELF) test. B",
+      "test_type": "Imaging"
+    },
+    {
+      "name": "Enhanced Liver Fibrosis (ELF) test",
+      "synonyms": [
+        "ELF test"
+      ],
+      "source_text": "Adults with type 2 diabetes or prediabetes with a FIB-4 ≥ 1.3 should have additional risk stratification by liver stiffness measurement with transient elastography, or, if unavailable, the enhanced liver fibrosis (ELF) test. B",
+      "test_type": "Blood test"
+    },
+    {
+      "name": "Plasma aminotransferase levels",
+      "synonyms": [
+        "AST",
+        "ALT"
+      ],
+      "source_text": "Adults with diabetes or prediabetes with persistently elevated plasma aminotransferase levels for >6 months and low FIB-4 should be evaluated for other causes of liver disease. B",
+      "test_type": "Blood test"
+    }
+  ],
+  "conditions": [
+    {
+      "name": "Type 2 Diabetes",
+      "synonyms": [
+        "T2D"
+      ],
+      "source_text": "Rates of diabetes-related major amputations are higher in individuals who are from racial and ethnic minoritized groups (144), live in rural areas, and are from regions with the lowest socioeconomic levels (145).",
+      "classification": "Diabetes Type"
+    },
+    {
+      "name": "Prediabetes",
+      "source_text": "In men with diabetes or prediabetes, screen for erectile dysfunction (ED), particularly in those with high cardiovascular risk, retinopathy, cardiovascular disease, chronic kidney disease, peripheral or autonomic neuropathy, longer duration of diabetes, depression, and hypogonadism and in those who are not meeting glycemic goals. B",
+      "classification": "Diabetes Type"
+    },
+    {
+      "name": "Erectile Dysfunction",
+      "synonyms": [
+        "ED"
+      ],
+      "source_text": "In men with diabetes or prediabetes, screen for erectile dysfunction (ED), particularly in those with high cardiovascular risk, retinopathy, cardiovascular disease, chronic kidney disease, peripheral or autonomic neuropathy, longer duration of diabetes, depression, and hypogonadism and in those who are not meeting glycemic goals. B",
+      "classification": "Complication"
+    },
+    {
+      "name": "Hypogonadism",
+      "source_text": "In men with diabetes or prediabetes, screen for erectile dysfunction (ED), particularly in those with high cardiovascular risk, retinopathy, cardiovascular disease, chronic kidney disease, peripheral or autonomic neuropathy, longer duration of diabetes, depression, and hypogonadism and in those who are not meeting glycemic goals. B",
+      "classification": "Complication"
+    },
+    {
+      "name": "Cardiovascular disease",
+      "synonyms": [
+        "CVD"
+      ],
+      "source_text": "Men with diabetes are at increased ris
+
+=== LAST 2000 CHARS ===
+t": null,
+      "comparator": null,
+      "upper_bound": null
+    },
+    {
+      "name": "Adverse liver outcomes",
+      "value": null,
+      "unit": null,
+      "comparator": null,
+      "upper_bound": null
+    },
+    {
+      "name": "Liver fibrosis",
+      "value": null,
+      "unit": null,
+      "comparator": null,
+      "upper_bound": null
+    },
+    {
+      "name": "Plasma aminotransferase levels",
+      "value": null,
+      "unit": null,
+      "comparator": null,
+      "upper_bound": null
+    },
+    {
+      "name": "ALT levels",
+      "value": null,
+      "unit": null,
+      "comparator": null,
+      "upper_bound": null
+    },
+    {
+      "name": "Liver stiffness measurement",
+      "synonyms": [
+        "LSM"
+      ],
+      "value": null,
+      "unit": null,
+      "comparator": null,
+      "upper_bound": null
+    },
+    {
+      "name": "Enhanced Liver Fibrosis (ELF) test",
+      "synonyms": [
+        "ELF"
+      ],
+      "value": null,
+      "unit": null,
+      "comparator": null,
+      "upper_bound": null
+    },
+    {
+      "name": "Liver fibrosis",
+      "value": null,
+      "unit": null,
+      "comparator": null,
+      "upper_bound": null
+    },
+    {
+      "name": "Cirrhosis",
+      "value": null,
+      "unit": null,
+      "comparator": null,
+      "upper_bound": null
+    },
+    {
+      "name": "Liver-related mortality",
+      "value": null,
+      "unit": null,
+      "comparator": null,
+      "upper_bound": null
+    },
+    {
+      "name": "Hepatic cirrhosis",
+      "value": null,
+      "unit": null,
+      "comparator": null,
+      "upper_bound": null
+    },
+    {
+      "name": "Liver stiffness measurement",
+      "synonyms": [
+        "LSM"
+      ],
+      "value": null,
+      "unit": null,
+      "comparator": null,
+      "upper_bound": null
+    },
+    {
+      "name": "Fibrosis",
+      "value": null,
+      "unit": null,
+      "comparator": null,
+      "upper_bound": null
+    },
+    {
+      "name": "Liver-related morbidity",
+      "value": null,
+      "unit

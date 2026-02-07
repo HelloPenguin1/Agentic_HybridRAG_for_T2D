@@ -203,20 +203,44 @@ The extracted entities and relationships will populate a Neo4j knowledge graph f
                         'response_mime_type': 'application/json',
                         'response_schema': model.model_json_schema(),
                         'temperature': 0,
-                        'max_output_tokens': 32768  # Increased for complex schemas (assessment_diagnosis requires ~10.5K tokens/chunk)
+                        'max_output_tokens': 49152  # Increased for complex schemas
                     }
                 )
-                return model.model_validate_json(self._surgical_json_repair(response.text))
+                
+                # Debug: Log response size
+                response_text = response.text
+                print(f"  📊 Response size: {len(response_text):,} chars")
+                
+                # Try to repair and validate
+                repaired = self._surgical_json_repair(response_text)
+                return model.model_validate_json(repaired)
                 
             except Exception as e:
-                if "429" in str(e) or "quota" in str(e).lower():
+                error_msg = str(e)
+                
+                # Save failed response for debugging
+                if "Invalid JSON" in error_msg or "EOF" in error_msg:
+                    debug_file = f"debug_failed_response_{cat}_attempt{attempt+1}.txt"
+                    try:
+                        with open(debug_file, 'w', encoding='utf-8') as f:
+                            f.write(f"=== ERROR ===\n{error_msg}\n\n")
+                            f.write(f"=== RAW RESPONSE ({len(response_text)} chars) ===\n")
+                            f.write(response_text[:5000])  # First 5K chars
+                            f.write("\n\n=== LAST 2000 CHARS ===\n")
+                            f.write(response_text[-2000:])  # Last 2K chars
+                        print(f"  💾 Saved debug info to: {debug_file}")
+                    except:
+                        pass
+                
+                if "429" in error_msg or "quota" in error_msg.lower():
                     wait = 60 * (attempt + 1)
                     print(f"⏳ Quota hit. Sleeping {wait}s...")
                     await asyncio.sleep(wait)
                 elif attempt < retries - 1:
-                    print(f"⚠️ Error: {str(e)[:80]}... Retrying.")
+                    print(f"⚠️ Error: {error_msg[:120]}... Retrying.")
                     await asyncio.sleep(10)
                 else:
                     print(f"❌ Max retries reached for {cat}.")
+                    print(f"   Last error: {error_msg[:200]}")
                     return None
         return None
