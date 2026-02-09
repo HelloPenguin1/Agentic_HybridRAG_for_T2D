@@ -201,7 +201,7 @@ GENERAL_EXTRACTION_INSTRUCTIONS = """
 
 5. **Source Tracking:** Always include the source_text field with the exact snippet you extracted from.
 
-6. **Relationships:** For every entity, try to identify at least one relationship with another entity.
+6. **Relationships ARE MANDATORY:** For EVERY entity extracted, you MUST identify at least one relationship. Entities without relationships will be rejected. I would rather have you not extract entities than hallucinate relatoonships.
 
 7. **Avoid Hallucination:** Only extract information explicitly stated in the text. Do not infer or add information not present.
 
@@ -211,16 +211,30 @@ GENERAL_EXTRACTION_INSTRUCTIONS = """
 
 10. **Temporal Information:** Capture timing information (e.g., "annually", "every 3-5 years", "at diagnosis").
 
-11. **Relationship Density:** Extract approximately 1 relationship per entity. If you extract 20 entities, aim for 15-25 relationships.
+11. **MINIMUM Relationship Density:** Extract AT LEAST 1 relationship per entity. If you extract 20 entities, you MUST extract a MINIMUM of 20 relationships. Target 25-30 relationships for better graph connectivity.
 
-12. **Mandatory Connections:** Before finalizing, scan your entity list:
-    - Every Test → Must link to a Condition (DETECTED_BY)
-    - Every Drug → Must link to a Condition (MANAGED_BY)
-    - Every Complication → Must link to a Test or Risk Factor
+12. **Mandatory Connections (STRICT ENFORCEMENT):** Before finalizing, validate:
+    - Every Test → MUST link to a Condition (DETECTED_BY, DIAGNOSES, ASSESSES)
+    - Every Drug/Medication → MUST link to a Condition or Indication (TREATS, MANAGES, INDICATED_FOR)
+    - Every Complication → MUST link to a Test (DETECTED_BY) AND a Risk Factor (CAUSED_BY, INCREASED_BY)
+    - Every Intervention → MUST link to an Outcome (IMPROVES, REDUCES, PREVENTS)
+    Refer to the category based extraction prompts.
     
 13. **Context is Mandatory:** NEVER leave conditional_context empty. Use "General population" if no specific condition is stated.
 
 14. **Interconnect Entities:** The goal is a CONNECTED graph, not isolated nodes. Force connections between related entities.
+
+15. **⚠️ CRITICAL VALIDATION:** Before returning your JSON:
+    - Count your entities
+    - Count your relationships
+    - If relationships < entities, you have FAILED the extraction
+    - Review each entity and add missing relationships
+    - A sparse graph with few relationships is UNACCEPTABLE
+
+16. **Relationship Quality Over Quantity:** While you need many relationships, ensure they are:
+    - Semantically meaningful (not just random connections)
+    - Explicitly stated or strongly implied in the text
+    - Using the correct relationship types from the schema
 """
 
 # ============================================================================

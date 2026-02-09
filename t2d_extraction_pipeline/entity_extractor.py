@@ -36,7 +36,7 @@ Your goal is to extract structured knowledge (entities and respective relationsh
 ### EXTRACTION WORKFLOW:
 Step 1: Scan the text for clinical entities matching the requested schema.
 Step 2: RANK entities by clinical significance (evidence level, specificity, actionability)
-Step 3: Select TOP entities up to the maximum limits.
+Step 3: Select TOP entities up to the 30.
 Step 4: **RELATIONSHIP EXTRACTION (EVIDENCE-BASED ONLY)**:
     a) For each pair of extracted entities, scan the source text for EXPLICIT connections
     b) Valid relationship evidence includes:

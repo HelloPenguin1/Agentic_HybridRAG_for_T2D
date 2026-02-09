@@ -288,3 +288,5 @@ class SpecialPopulationsExtraction(BaseModel):
     contraindicated_medications: List[ContraindicatedMedication] = Field(default_factory=list)
     age_ranges: List[AgeRange] = Field(default_factory=list)
     relationships: List[SpecialPopulationsRelationship] = Field(default_factory=list)
+
+    

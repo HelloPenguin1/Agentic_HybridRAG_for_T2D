@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 
 from extraction_pipeline import ExtractionPipeline
 from entity_extractor import LLMExtractor
-from post_processor import PostProcessor
+from category_linker import CategoryLinker
 from pydantic_models import (
     AssessmentDiagnosisExtraction, EducationLifestyleExtraction,
     PharmacologyExtraction, ComplicationsExtraction, SpecialPopulationsExtraction
@@ -56,27 +56,21 @@ async def run_pipeline():
             with open(save_path, 'w') as f:
                 json.dump(result.model_dump(), f, indent=2)
 
-    # 3. Global Reduction (only if all files processed)
-    # TEMPORARILY DISABLED: Review post_processor.py before running
-    print("\n" + "=" * 60)
-    print("⏸️  POST-PROCESSING SKIPPED")
-    print("=" * 60)
-    print(f"All {len(meta_files)} PDFs have been extracted successfully!")
-    print(f"\nTo run post-processing (map-reduce operation):")
-    print(f"  1. Review the logic in 'post_processor.py'")
-    print(f"  2. Uncomment lines 72-81 in 'run_pipeline.py'")
-    print(f"  3. Re-run: python run_pipeline.py")
-    
-    # if len(list(ENT_DIR.glob("*_entities.json"))) == len(meta_files):
-    #     print("\n" + "=" * 60)
-    #     print("STEP 3: Post-processing and reduction")
-    #     print("=" * 60)
-    #     post = PostProcessor(ENT_DIR, OUT_DIR)
-    #     post.process_and_reduce()
-    #     print("✅ Pipeline complete!")
-    # else:
-    #     print("\n⚠️ Not all files processed. Skipping post-processing.")
-    #     print("Run the pipeline again to resume.")
+    # 3. Category-Based Entity Linking and Neo4j Export
+    if len(list(ENT_DIR.glob("*_entities.json"))) == len(meta_files):
+        print("\n" + "=" * 60)
+        print("STEP 3: Category-based entity linking and Neo4j CSV export")
+        print("=" * 60)
+        
+        config_dir = PKG_DIR / "config"
+        linker = CategoryLinker(ENT_DIR, OUT_DIR, config_dir)
+        linker.process_and_export()
+        
+        print("\n✅ Pipeline complete!")
+        print(f"Neo4j CSV files generated in: {OUT_DIR / 'neo4j_category_imports'}")
+    else:
+        print("\nNot all files processed. Skipping post-processing.")
+        print("Run the pipeline again to resume.")
 
 if __name__ == "__main__":
     asyncio.run(run_pipeline())
