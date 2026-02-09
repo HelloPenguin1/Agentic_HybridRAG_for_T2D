@@ -72,6 +72,10 @@ categories:
       - filename: "ada_chapter17.pdf"
         title: "Diabetes Advocacy"
         focus: "Legal rights, employment, driving regulations, school advocacy"
+
+      - filename: "ada_improv_care.pdf"
+        title: "Improving Care and Promoting Health"
+        focus: "Quality improvement, care coordination, health equity"
     
     entity_types:
       - Intervention

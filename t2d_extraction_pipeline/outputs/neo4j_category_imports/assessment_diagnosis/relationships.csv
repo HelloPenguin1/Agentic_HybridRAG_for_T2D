@@ -1,0 +1,239 @@
+:START_ID,:END_ID,type:TYPE,evidence,context,origin
+a88f1d3a5fbec6cf4763333481fa8842,223102c3849b4420e678493a61b75767,DIAGNOSES_CONDITION_AT_VALUE,B,"General population, nonpregnant individuals, A1C ≥6.5% (≥48 mmol/mol). B",ada_chapter2
+86f82a241267577df68ead43f733c5c7,223102c3849b4420e678493a61b75767,DIAGNOSES_CONDITION_AT_VALUE,B,"General population, nonpregnant individuals, FPG ≥126 mg/dL (≥7.0 mmol/L). B",ada_chapter2
+c98b3456452ca3c8cf0aed7833b29036,223102c3849b4420e678493a61b75767,DIAGNOSES_CONDITION_AT_VALUE,B,"General population, nonpregnant individuals, 2-h PG ≥200 mg/dL (≥11.1 mmol/L) during OGTT. B",ada_chapter2
+a226326e8bd6f769f400bb933fc9725b,223102c3849b4420e678493a61b75767,DIAGNOSES_CONDITION_AT_VALUE,B,"In an individual with classic symptoms of hyperglycemia or hyperglycemic crisis, random plasma glucose ≥200 mg/dL (≥11.1 mmol/L). B",ada_chapter2
+a88f1d3a5fbec6cf4763333481fa8842,34f3fc3dd2a81f1e820bc21ea7229e5f,DIAGNOSES_CONDITION_AT_VALUE,B,"Nonpregnant individuals, A1C 5.7–6.4% (39–47 mmol/mol). B",ada_chapter2
+86f82a241267577df68ead43f733c5c7,34f3fc3dd2a81f1e820bc21ea7229e5f,DIAGNOSES_CONDITION_AT_VALUE,B,"Nonpregnant individuals, FPG 100 mg/dL (5.6 mmol/L) to 125 mg/dL (6.9 mmol/L) (IFG). B",ada_chapter2
+c98b3456452ca3c8cf0aed7833b29036,34f3fc3dd2a81f1e820bc21ea7229e5f,DIAGNOSES_CONDITION_AT_VALUE,B,"Nonpregnant individuals, 2-h PG during 75-g OGTT 140 mg/dL (7.8 mmol/L) to 199 mg/dL (11.0 mmol/L) (IGT). B",ada_chapter2
+a88f1d3a5fbec6cf4763333481fa8842,2485cb97bc04270a7fcd83b84e6f0d2b,DIAGNOSES_CONDITION_AT_VALUE,E,"Pregnant individuals, A1C 5.9–6.4% (41–47 mmol/mol) before 15 weeks of gestation.",ada_chapter2
+86f82a241267577df68ead43f733c5c7,2485cb97bc04270a7fcd83b84e6f0d2b,DIAGNOSES_CONDITION_AT_VALUE,E,"Pregnant individuals, FPG 110–125 mg/dL (6.1–6.9 mmol/L) before 15 weeks of gestation.",ada_chapter2
+c4556f04b35045a1a0f71698f69dd939,2485cb97bc04270a7fcd83b84e6f0d2b,DIAGNOSES_CONDITION_AT_VALUE,A,"Pregnant individuals at 24–28 weeks of gestation, one-step strategy: Fasting: 92 mg/dL (5.1 mmol/L), 1 h: 180 mg/dL (10.0 mmol/L), 2 h: 153 mg/dL (8.5 mmol/L). A",ada_chapter2
+c4556f04b35045a1a0f71698f69dd939,2485cb97bc04270a7fcd83b84e6f0d2b,DIAGNOSES_CONDITION_AT_VALUE,A,"Pregnant individuals at 24–28 weeks of gestation, two-step strategy: 1-h screen ≥130, 135, or 140 mg/dL. A",ada_chapter2
+a88f1d3a5fbec6cf4763333481fa8842,39fe0689ab286cbc61d7a96cd74695ee,DIAGNOSES_CONDITION_AT_VALUE,B,"People with cystic fibrosis, A1C ≥6.5% (≥48 mmol/mol). B",ada_chapter2
+c4556f04b35045a1a0f71698f69dd939,39fe0689ab286cbc61d7a96cd74695ee,DIAGNOSES_CONDITION_AT_VALUE,B,"People with cystic fibrosis, annual screening using OGTT. B",ada_chapter2
+a88f1d3a5fbec6cf4763333481fa8842,39fe0689ab286cbc61d7a96cd74695ee,DIAGNOSES_CONDITION_AT_VALUE,C,"People with cystic fibrosis, A1C 5.5–6.4% (37 and 47 mmol/mol, respectively) as part of a two-step screening strategy, followed by OGTT within 3 months. C",ada_chapter2
+8fd989ab287f98724b685d960d07c6a7,3ba06bdaa06b87ba066b39932b28ac03,DETECTED_BY,B,Screen for presymptomatic type 1 diabetes. B,ada_chapter2
+a88f1d3a5fbec6cf4763333481fa8842,3ba06bdaa06b87ba066b39932b28ac03,DETECTED_BY,B,Individuals with screening results positive for one or more islet autoantibodies should be evaluated for stage 3 (overt) type 1 diabetes using A1C. B,ada_chapter2
+e71cdd6f66f8236da9a07baeca263fc4,3ba06bdaa06b87ba066b39932b28ac03,DETECTED_BY,B,Individuals with screening results positive for one or more islet autoantibodies should be evaluated for stage 3 (overt) type 1 diabetes using urinalysis. B,ada_chapter2
+a226326e8bd6f769f400bb933fc9725b,3ba06bdaa06b87ba066b39932b28ac03,DETECTED_BY,B,Individuals with screening results positive for one or more islet autoantibodies should be evaluated for stage 3 (overt) type 1 diabetes using plasma glucose. B,ada_chapter2
+8fd989ab287f98724b685d960d07c6a7,3ba06bdaa06b87ba066b39932b28ac03,INDICATES_RISK_FOR,B,Screen for presymptomatic type 1 diabetes by testing autoantibodies. B,ada_chapter2
+8fd989ab287f98724b685d960d07c6a7,3ba06bdaa06b87ba066b39932b28ac03,INDICATES_RISK_FOR,B,Individuals with screening results positive for one or more islet autoantibodies have a high risk for progression to stage 3 type 1 diabetes. B,ada_chapter2
+b4f2d1bf3a6b3f12f20d5615f2f9f263,3ba06bdaa06b87ba066b39932b28ac03,INDICATES_RISK_FOR,B,"Individuals with a single confirmed IA-2 autoantibody should be monitored similarly to individuals with multiple islet autoantibodies, as IA-2 autoantibody positivity is an independent risk factor for progression. B",ada_chapter2
+8fd989ab287f98724b685d960d07c6a7,3ba06bdaa06b87ba066b39932b28ac03,MONITORED_FOR,E,Individuals with a single confirmed islet autoantibody should undergo repeat antibody testing every 6 months to 3 years (depending on age) to assess for persistence or seroconversion. E,ada_chapter2
+8fd989ab287f98724b685d960d07c6a7,3ba06bdaa06b87ba066b39932b28ac03,SCREENED_BY,E,Standardized islet autoantibody tests are recommended for classification of diabetes in adults who have phenotypic risk factors that overlap with those for type 1 diabetes. E,ada_chapter2
+9ed9214b5fcf5d6cec9f538190ce9124,3ba06bdaa06b87ba066b39932b28ac03,ASSESSES,Unknown,A C-peptide test is only indicated in people receiving insulin treatment.,ada_chapter2
+e10a77b7c08c28bba4c823980831892f,86f82a241267577df68ead43f733c5c7,REQUIRES_SCREENING,Unknown,"General population, adults with overweight or obesity who have one or more risk factors (Table 2.5). B",ada_chapter2
+b7e6cb3a263933d4c6f8657db9812271,86f82a241267577df68ead43f733c5c7,REQUIRES_SCREENING,Unknown,"For all other people, screening should begin at age 35 years. B",ada_chapter2
+205e8a55c7b4122edd21d645723bc201,86f82a241267577df68ead43f733c5c7,REQUIRES_SCREENING,Unknown,"Risk-based screening for prediabetes or type 2 diabetes should be considered after the onset of puberty or after 10 years of age, whichever occurs earlier, in children and adolescents with overweight (BMI ≥ 85th percentile) or obesity (BMI ≥ 95th percentile) and who have one or more risk factors for diabetes. B",ada_chapter2
+0396f4b74e6320f08e20d8d62e74627a,8fd989ab287f98724b685d960d07c6a7,REQUIRES_SCREENING,Unknown,Autoantibody-based screening for presymptomatic type 1 diabetes should be offered to those with a family history of type 1 diabetes or otherwise known elevated genetic risk. B,ada_chapter2
+20448e46cd9bbc9c4072934efab07270,3ba06bdaa06b87ba066b39932b28ac03,REQUIRES_EVALUATION_FOR,Unknown,Individuals with screening results positive for one or more islet autoantibodies should be evaluated for stage 3 (overt) type 1 diabetes. B,ada_chapter2
+819e267228fd88d1b1a8602acedb98c9,3ba06bdaa06b87ba066b39932b28ac03,REQUIRES_MONITORING_FOR,Unknown,"Individuals with a single confirmed IA-2 autoantibody should be monitored similarly to individuals with multiple islet autoantibodies, as IA-2 autoantibody positivity is an independent risk factor for progression. B",ada_chapter2
+810e32e5c81a3a333da832210c5dd978,3ba06bdaa06b87ba066b39932b28ac03,REQUIRES_MONITORING_FOR,Unknown,Individuals with a single confirmed islet autoantibody should undergo repeat antibody testing every 6 months to 3 years (depending on age) to assess for persistence or seroconversion. E,ada_chapter2
+98ede57a3c5e35c964b2d4161844271b,8fd989ab287f98724b685d960d07c6a7,REQUIRES_TESTING_OF,E,Standardized islet autoantibody tests are recommended for classification of diabetes in adults who have phenotypic risk factors that overlap with those for type 1 diabetes. E,ada_chapter2
+20a1527313c32d77560c5cf9d4ab2dbc,3ba06bdaa06b87ba066b39932b28ac03,INDICATES_RISK_FOR,B,"In The Environmental Determinants of Diabetes in the Young (TEDDY) study, type 1 diabetes developed in 21% of 363 subjects with at least one autoantibody at 3 years of age (74).",ada_chapter2
+320a9490063d15f80853974e01417b66,3ba06bdaa06b87ba066b39932b28ac03,INDICATES_RISK_FOR,Unknown,"In several cohort studies, up to 50% of children with only a single autoantibody revert to being islet autoantibody negative during follow-up (77,78).",ada_chapter2
+ce5ae69fe4d6d9cf0f2fa6ea9f8aa178,34f3fc3dd2a81f1e820bc21ea7229e5f,REQUIRES_SCREENING_FOR,C,"Consider screening people for prediabetes or diabetes if they are on certain medications, such as statins, thiazide diuretics, and some HIV medications, as these agents are known to increase the risk of these conditions. C",ada_chapter2
+540118d173c07208b28f77aab03aa9cf,34f3fc3dd2a81f1e820bc21ea7229e5f,REQUIRES_SCREENING_FOR,E,"People with HIV should be screened for diabetes and prediabetes with an FPG test before starting antiretroviral therapy, at the time of switching antiretroviral therapy, and 3–6 months after starting or switching antiretroviral therapy. If initial screening results are normal, FPG should be checked annually. E",ada_chapter2
+00231da5473b636e39f86388a5297176,34f3fc3dd2a81f1e820bc21ea7229e5f,REQUIRES_SCREENING_FOR,B,"Risk-based screening for prediabetes or type 2 diabetes should be considered after the onset of puberty or after 10 years of age, whichever occurs earlier, in children and adolescents with overweight (BMI ≥ 85th percentile) or obesity (BMI ≥ 95th percentile) and who have one or more risk factors for diabetes. B",ada_chapter2
+6e799ae656d8eb2ba1c7ec873850a71a,39fe0689ab286cbc61d7a96cd74695ee,REQUIRES_SCREENING_FOR,B,"Annual screening for cystic fibrosis–related diabetes (CFRD) should begin by age 10 years in all people with cystic fibrosis, preferably using OGTT. B",ada_chapter2
+8ef40ed61d13a7d35c61e6f78e861a4c,34f3fc3dd2a81f1e820bc21ea7229e5f,REQUIRES_LIFELONG_SCREENING_FOR,Unknown,Individuals with a history of GDM should have lifelong screening for the development of prediabetes or diabetes every 1–3 years.,ada_chapter2
+1440a2c850bb6d36f74b91843d38422a,34f3fc3dd2a81f1e820bc21ea7229e5f,REQUIRES_SCREENING_FOR,E,"In individuals who are planning pregnancy, screen those with risk factors (Table 2.5) B and consider testing all individuals of childbearing potential for undiagnosed prediabetes or diabetes. E",ada_chapter2
+0e95a74987ac2ce2e32e4747df167f37,34f3fc3dd2a81f1e820bc21ea7229e5f,REQUIRES_SCREENING_FOR,B,"In individuals who are planning pregnancy, screen those with risk factors (Table 2.5) B and consider testing all individuals of childbearing potential for undiagnosed prediabetes or diabetes. E",ada_chapter2
+27f215aaf94ed9d83d5d0048087646f1,2485cb97bc04270a7fcd83b84e6f0d2b,REQUIRES_SCREENING_FOR,Unknown,Screen for GDM at 24–28 weeks of gestation in pregnant individuals not previously found to have diabetes or high-risk abnormal glucose metabolism detected earlier in the current pregnancy.,ada_chapter2
+77fa7028492d08585f5aa5a62e07d5dc,3f2d1994d8c26baf4cfbade59a8908b8,REQUIRES_GENETIC_TESTING_FOR,Unknown,"Regardless of current age, all people diagnosed with diabetes in the first 6 months of life should have genetic testing for neonatal diabetes.",ada_chapter2
+ecca6f30d88e04846a4ddb3073f21206,2d5561c0b509e07718f8589258b4c7ec,REQUIRES_GENETIC_TESTING_FOR,Unknown,Children and young adults who do not have typical characteristics of type 1 or type 2 diabetes and have a family history of diabetes in successive generations (suggestive of an autosomal-dominant pattern of inheritance) should have genetic testing for maturity-onset diabetes of the young (MODY).,ada_chapter2
+55182a7e198575a3254aa132afd88f5a,3f2d1994d8c26baf4cfbade59a8908b8,CONSIDER_DIAGNOSIS_OF,Unknown,"The diagnosis of monogenic diabetes should be considered in children and adults diagnosed with diabetes in early adulthood with the following findings: Diabetes diagnosed within the first 6 months of life (170,172)",ada_chapter2
+f96db07603905e76a03f3618967a8e85,3f2d1994d8c26baf4cfbade59a8908b8,CONSIDER_DIAGNOSIS_OF,Unknown,"The diagnosis of monogenic diabetes should be considered in children and adults diagnosed with diabetes in early adulthood with the following findings: Diabetes without typical features of type 1 or type 2 diabetes (negative autoantibodies for type 1 diabetes precludes further testing for monogenic diabetes, but the presence of autoantibodies in people with monogenic diabetes has been reported.)",ada_chapter2
+d73c1309dd32a55defc6d97bcbddb60f,a88f1d3a5fbec6cf4763333481fa8842,REQUIRES_USE_OF_HEMOGLOBIN_VARIANTS_FOR,Unknown,Hemoglobin variants should be used in individuals with sickle cell trait.,ada_chapter2
+3ba06bdaa06b87ba066b39932b28ac03,61cb32e793dde56ab48eb376800002ce,IS_A_FORM_OF,Unknown,"Type 1 diabetes (due to autoimmune β-cell destruction, usually leading to absolute insulin deficiency, including latent autoimmune diabetes in adults)",ada_chapter2
+223102c3849b4420e678493a61b75767,61cb32e793dde56ab48eb376800002ce,IS_A_FORM_OF,Unknown,"Type 2 diabetes (due to a nonautoimmune progressive loss of adequate β-cell insulin secretion, frequently on the background of insulin resistance)",ada_chapter2
+2485cb97bc04270a7fcd83b84e6f0d2b,61cb32e793dde56ab48eb376800002ce,IS_A_FORM_OF,Unknown,"Gestational diabetes mellitus (diabetes diagnosed in the second or third trimester of pregnancy that was not clearly overt diabetes prior to gestation or other types of diabetes occurring throughout pregnancy, such as type 1 diabetes)",ada_chapter2
+34f3fc3dd2a81f1e820bc21ea7229e5f,61cb32e793dde56ab48eb376800002ce,IS_A_FORM_OF,Unknown,"Prediabetes is the term used to identify glucose or A1C levels that do not meet the criteria for diabetes yet fall in an intermediate range between normoglycemia and diabetes (25,83).",ada_chapter2
+fbea695ba0eabcbd1e150e102f83e7c0,34f3fc3dd2a81f1e820bc21ea7229e5f,IS_A_FORM_OF,Unknown,FPG 100 mg/dL (5.6 mmol/L) to 125 mg/dL (6.9 mmol/L) (IFG),ada_chapter2
+ce6a55b2390fa538d5b3ec9d03fea551,34f3fc3dd2a81f1e820bc21ea7229e5f,IS_A_FORM_OF,Unknown,2-h PG during 75-g OGTT 140 mg/dL (7.8 mmol/L) to 199 mg/dL (11.0 mmol/L) (IGT),ada_chapter2
+bc5f9c5f3eaf2273a6e3d24fba522935,61cb32e793dde56ab48eb376800002ce,IS_A_FORM_OF,Unknown,"hyperglycemic crises (i.e., diabetic ketoacidosis [DKA] and/or hyperglycemic hyperosmolar state [HHS]) (Table 2.1).",ada_chapter2
+2f64b724cc0366184fb934e13725909e,61cb32e793dde56ab48eb376800002ce,IS_A_FORM_OF,Unknown,"hyperglycemic crises (i.e., diabetic ketoacidosis [DKA] and/or hyperglycemic hyperosmolar state [HHS]) (Table 2.1).",ada_chapter2
+39fe0689ab286cbc61d7a96cd74695ee,bbc48747b62347c54a2a845ca7f772f4,IS_A_FORM_OF,Unknown,"Pancreatic diabetes (also termed pancreatogenic diabetes or type 3c diabetes) includes both structural (e.g., destruction or removal of normal pancreatic tissue) and functional loss of insulin secretion in the context of exocrine pancreatic insufficiency and is commonly misdiagnosed as type 2 diabetes. The diverse set of etiologies includes pancreatitis (acute and chronic pancreatic inflammation and associated fibrosis leading to loss of functional exocrine and endocrine pancreatic function), cystic fibrosis, trauma or pancreatectomy, neoplasia, cystic fibrosis (addressed later in this section), hemochromatosis, fibrocalculous pancreatopathy, rare genetic disorders, and idiopathic forms (2); as such, pancreatic diabetes is the preferred umbrella term (136).",ada_chapter2
+b4d356180c1d98fbf30dfa3e6ed44379,94d4416bd96c7ea185b1149e2b7a2858,IS_A_FORM_OF,Unknown,Several terms are used in the literature to describe the presence of diabetes following organ transplantation (157). New-onset diabetes after transplantation (NODAT) is one such designation that describes individuals who develop new-onset diabetes following transplant.,ada_chapter2
+3f2d1994d8c26baf4cfbade59a8908b8,94d4416bd96c7ea185b1149e2b7a2858,IS_A_FORM_OF,Unknown,"Specific types of diabetes due to other causes, e.g., monogenic diabetes syndromes, diseases of the exocrine pancreas, and drug- or chemical-induced diabetes",ada_chapter2
+2d5561c0b509e07718f8589258b4c7ec,3f2d1994d8c26baf4cfbade59a8908b8,IS_A_FORM_OF,Unknown,"MODY is frequently characterized by onset of hyperglycemia at an early age (classically before age 25 years, although diagnosis may occur at older ages).",ada_chapter2
+a6759e292f7d2f9b28a7c3ea4946570e,94d4416bd96c7ea185b1149e2b7a2858,IS_A_FORM_OF,Unknown,"The introduction of immunotherapy, specifically immune checkpoint inhibitors (ICIs), for cancer treatment has led to unexpected adverse events, including immune system activation precipitating autoimmune disease. Fulminant onset of autoimmune diabetes can occur with DKA and low or undetectable levels of C-peptide as a marker of endogenous β-cell function (64,65).",ada_chapter2
+a88f1d3a5fbec6cf4763333481fa8842,94d4416bd96c7ea185b1149e2b7a2858,ASSESSES,A,"General population, if results not available within past 3 months or earlier assessment necessary",ada_chapter4
+86f82a241267577df68ead43f733c5c7,94d4416bd96c7ea185b1149e2b7a2858,ASSESSES,A,General population,ada_chapter4
+c4556f04b35045a1a0f71698f69dd939,94d4416bd96c7ea185b1149e2b7a2858,ASSESSES,A,General population,ada_chapter4
+84ef6a1b5c09c36d0efccda9643862a4,94d4416bd96c7ea185b1149e2b7a2858,ASSESSES,Unknown,Initial visit,ada_chapter4
+d95133e964ac34bd1978c3f1d91f0a8e,94d4416bd96c7ea185b1149e2b7a2858,ASSESSES,Unknown,Initial visit,ada_chapter4
+fb2072eeaf727d8561bf2ce7eefbcd67,94d4416bd96c7ea185b1149e2b7a2858,ASSESSES,Unknown,Initial visit,ada_chapter4
+4714f576ac86fd875506b97452c555e6,94d4416bd96c7ea185b1149e2b7a2858,ASSESSES,Unknown,Initial visit,ada_chapter4
+240f01c68fbcb67966dd98e0e06f84ed,94d4416bd96c7ea185b1149e2b7a2858,ASSESSES,Unknown,Initial visit,ada_chapter4
+02370bf0af57769eb72e2b848efe5bb1,3ba06bdaa06b87ba066b39932b28ac03,ASSESSES,Unknown,Initial visit,ada_chapter4
+b73e71fd64bf7743d42a35e9bdf25674,3ba06bdaa06b87ba066b39932b28ac03,ASSESSES,Unknown,Initial visit,ada_chapter4
+ab54f420121ddf07955d7f29dffff58b,94d4416bd96c7ea185b1149e2b7a2858,ASSESSES,Unknown,People taking metformin for >5 years,ada_chapter4
+b1ddb4fac04e82fe9315cd0d65f7be65,94d4416bd96c7ea185b1149e2b7a2858,ASSESSES,Unknown,Initial visit,ada_chapter4
+6e464e41c91aa990d7303a32ae94fb3b,94d4416bd96c7ea185b1149e2b7a2858,ASSESSES,Unknown,"People treated with ACE inhibitors, ARBs, or diuretics",ada_chapter4
+00061f1dec0d33a6f843d2bc25af560a,94d4416bd96c7ea185b1149e2b7a2858,ASSESSES,Unknown,Initial visit,ada_chapter4
+2f2304f063a88d71e97d2be8c6e7e9a7,94d4416bd96c7ea185b1149e2b7a2858,ASSESSES,Unknown,Initial visit,ada_chapter4
+f18ca1d859e762a95242a820fe34ddc4,94d4416bd96c7ea185b1149e2b7a2858,ASSESSES,Unknown,Initial visit,ada_chapter4
+64f922042dbd8fd58456b2d9e238f024,94d4416bd96c7ea185b1149e2b7a2858,ASSESSES,Unknown,Initial visit,ada_chapter4
+5fbb2a852276a891f942d69968cbb090,94d4416bd96c7ea185b1149e2b7a2858,ASSESSES,Unknown,Initial visit,ada_chapter4
+6642f37e915ce2b2db433fbec28c2d3b,94d4416bd96c7ea185b1149e2b7a2858,ASSESSES,Unknown,Initial visit,ada_chapter4
+d8dc6d0907c33d48f44762940043223a,6059d960d1159c6ed98cbae8b599e62c,SCREENS_FOR,Unknown,If PAD diagnosis would change management,ada_chapter4
+80e2c199e5915e009ea8c1d2f3035ccc,94d4416bd96c7ea185b1149e2b7a2858,ASSESSES,Unknown,Annual visit,ada_chapter4
+9ba9b368e0f51ec274098132d69186b3,94d4416bd96c7ea185b1149e2b7a2858,ASSESSES,Unknown,Annual visit,ada_chapter4
+336f5a50a105a07311a58e2b2ed191ac,94d4416bd96c7ea185b1149e2b7a2858,ASSESSES,Unknown,Annual visit,ada_chapter4
+967da34dd4740a5167eac8fabea0c32a,94d4416bd96c7ea185b1149e2b7a2858,ASSESSES,Unknown,Annual visit,ada_chapter4
+6cb5a1ed66aadb0e0332d99f6ef3a550,94d4416bd96c7ea185b1149e2b7a2858,ASSESSES,Unknown,Annual visit,ada_chapter4
+bb8a2e2c5eca8eb0f3e5fc1e5cca4100,94d4416bd96c7ea185b1149e2b7a2858,ASSESSES,Unknown,If indicated,ada_chapter4
+8ed5f1b9e15571948247665456f55305,94d4416bd96c7ea185b1149e2b7a2858,ASSESSES,Unknown,If indicated,ada_chapter4
+dd0fe1969a89930870ae798bc616aabd,94d4416bd96c7ea185b1149e2b7a2858,ASSESSES,Unknown,Annual visit,ada_chapter4
+8bdcb5ec96aa31c4779e746d35d78cda,63f92353e8262bf7c80a2507ea3226ca,MONITORS,A,Older adults with diabetes (aged ≥65 years) and younger individuals with diabetes and multiple risk factors,ada_chapter4
+3ba06bdaa06b87ba066b39932b28ac03,731e508a150ce9aab05721c1beafbb94,SCREENED_FOR,B,Soon after diagnosis and thereafter at repeated intervals if clinically indicated,ada_chapter4
+3ba06bdaa06b87ba066b39932b28ac03,c674b79aad1092763b04e9a991beb194,SCREENED_FOR,B,"In adults with gastrointestinal symptoms, signs, laboratory manifestations, or clinical suspicion",ada_chapter4
+3ba06bdaa06b87ba066b39932b28ac03,ea4e56f7580457c63ee189efb518d949,ASSOCIATED_WITH,Unknown,General population,ada_chapter4
+3ba06bdaa06b87ba066b39932b28ac03,da84fa01b8640b187cc59481140a1578,ASSOCIATED_WITH,Unknown,General population,ada_chapter4
+3ba06bdaa06b87ba066b39932b28ac03,d3d911e113bf6a56797ed8f5efc808bb,ASSOCIATED_WITH,Unknown,General population,ada_chapter4
+3ba06bdaa06b87ba066b39932b28ac03,7aa3a96a0158055674376de976c720dd,ASSOCIATED_WITH,Unknown,General population,ada_chapter4
+3ba06bdaa06b87ba066b39932b28ac03,7e3a75449226164ccc2a1dc40b521c41,ASSOCIATED_WITH,Unknown,General population,ada_chapter4
+3ba06bdaa06b87ba066b39932b28ac03,8e6eba96a737e0de425162da9c149b86,ASSOCIATED_WITH,Unknown,General population,ada_chapter4
+3ba06bdaa06b87ba066b39932b28ac03,937c867d2f8ae42443ab5d95ff132e55,ASSOCIATED_WITH,Unknown,General population,ada_chapter4
+4fa46b2c0c96db99d7fdb2bf0e427aef,8d528642a6ab322f0a0ab602da7711a2,ASSESS_RISK_FOR,A,General population,ada_chapter4
+4c09b62d4c526d34bd4aeee79ed5941e,8d528642a6ab322f0a0ab602da7711a2,REDUCE_RISK_OF,C,General population,ada_chapter4
+9cbe477432f5230df02f450587200e26,8d528642a6ab322f0a0ab602da7711a2,CONSIDER_TREATMENT_FOR,C,In the presence of additional risk factors for fracture,ada_chapter4
+4af6c281900839678892192cdb0ac0e0,94d4416bd96c7ea185b1149e2b7a2858,RECOMMENDED_FOR,Unknown,"People with underlying medical conditions, including diabetes",ada_chapter4
+3be9962ec5d4ec2598867d76e6a7849a,94d4416bd96c7ea185b1149e2b7a2858,RECOMMENDED_FOR,Unknown,Adults with diabetes aged <60 years,ada_chapter4
+a4ddeaf7d7199b12d8cb38484af90b05,94d4416bd96c7ea185b1149e2b7a2858,RECOMMENDED_FOR,Unknown,All people with diabetes,ada_chapter4
+2515d8e4f2048cf4daed2b44020a2f86,94d4416bd96c7ea185b1149e2b7a2858,RECOMMENDED_FOR,Unknown,19–64 years of age,ada_chapter4
+2515d8e4f2048cf4daed2b44020a2f86,94d4416bd96c7ea185b1149e2b7a2858,RECOMMENDED_FOR,Unknown,≥65 years of age,ada_chapter4
+a0c800d665b7b20107dfa175335a31d1,94d4416bd96c7ea185b1149e2b7a2858,RECOMMENDED_FOR,Unknown,Adults 19–64 years of age with an immunocompromising condition,ada_chapter4
+a0c800d665b7b20107dfa175335a31d1,94d4416bd96c7ea185b1149e2b7a2858,RECOMMENDED_FOR,Unknown,"Adults 19–64 years of age, immunocompetent",ada_chapter4
+a0c800d665b7b20107dfa175335a31d1,94d4416bd96c7ea185b1149e2b7a2858,RECOMMENDED_FOR,Unknown,"≥65 years of age, immunocompetent, have shared decision-making",ada_chapter4
+4a9416fbb7b1e9e87d2be441cc790bb7,94d4416bd96c7ea185b1149e2b7a2858,RECOMMENDED_FOR,Unknown,Older adults ≥60 years of age,ada_chapter4
+7a0f764c2004b16ef84fb203b3327a5e,94d4416bd96c7ea185b1149e2b7a2858,RECOMMENDED_FOR,Unknown,Adults aged ≥75 years and those aged ≥60 years and at high risk,ada_chapter4
+6acbdf5c8b3edd010a1997612ed0cfee,94d4416bd96c7ea185b1149e2b7a2858,RECOMMENDED_FOR,Unknown,All adults,ada_chapter4
+43a3f22d4d702a9811badaf43d4c0e6b,94d4416bd96c7ea185b1149e2b7a2858,RECOMMENDED_FOR,Unknown,≥50 years of age,ada_chapter4
+94d4416bd96c7ea185b1149e2b7a2858,d2304890d0543abebcc4d1dce24655dd,HAS_COMORBIDITY,Unknown,General population,ada_chapter4
+94d4416bd96c7ea185b1149e2b7a2858,07caa235a94b3797b03f673689aab3c4,HAS_COMORBIDITY,Unknown,General population,ada_chapter4
+94d4416bd96c7ea185b1149e2b7a2858,fe6d02b906f88bdcc671a6765a980506,HAS_COMORBIDITY,Unknown,General population,ada_chapter4
+94d4416bd96c7ea185b1149e2b7a2858,ffadd2cd3d6c61667cb4c6c99dae7b72,HAS_COMORBIDITY,Unknown,General population,ada_chapter4
+94d4416bd96c7ea185b1149e2b7a2858,1c7ec33f26180630e1df6723615abd11,HAS_COMORBIDITY,Unknown,General population,ada_chapter4
+94d4416bd96c7ea185b1149e2b7a2858,0a5860e69decbbe8949738dde593b13f,HAS_COMORBIDITY,Unknown,General population,ada_chapter4
+94d4416bd96c7ea185b1149e2b7a2858,6692733b55934398e33f71cfaf0270e7,HAS_COMORBIDITY,Unknown,General population,ada_chapter4
+94d4416bd96c7ea185b1149e2b7a2858,12d563ea1c2d4f465429bc16c3fc3a57,HAS_COMORBIDITY,Unknown,General population,ada_chapter4
+94d4416bd96c7ea185b1149e2b7a2858,225e2dfb287a9bcdd65a29a78703e73a,HAS_COMPLICATION,Unknown,General population,ada_chapter4
+94d4416bd96c7ea185b1149e2b7a2858,1510a12ca250b36a82b7a3cfb53dc411,HAS_COMPLICATION,Unknown,General population,ada_chapter4
+94d4416bd96c7ea185b1149e2b7a2858,6059d960d1159c6ed98cbae8b599e62c,HAS_COMPLICATION,Unknown,General population,ada_chapter4
+94d4416bd96c7ea185b1149e2b7a2858,3b1f354affe36ec8b9b8773824a70216,HAS_COMPLICATION,Unknown,General population,ada_chapter4
+3ba06bdaa06b87ba066b39932b28ac03,dbb9cfd69c653d2c789616e249fc0de7,MAY_HAVE,B,General population,ada_chapter4
+3ba06bdaa06b87ba066b39932b28ac03,63f92353e8262bf7c80a2507ea3226ca,MAY_HAVE,B,General population,ada_chapter4
+3ba06bdaa06b87ba066b39932b28ac03,c93e0ebf95d685ada66cab1a5865a2e5,MAY_HAVE,B,General population,ada_chapter4
+3ba06bdaa06b87ba066b39932b28ac03,9e98cec8937180690d1d31b42ea6726d,MAY_HAVE,B,General population,ada_chapter4
+3ba06bdaa06b87ba066b39932b28ac03,efcd8e871fa711d7bea7593872a98a8a,MAY_HAVE,Unknown,General population,ada_chapter4
+3ba06bdaa06b87ba066b39932b28ac03,eda50421f0b48d6b7ce1a428647fc9fc,MAY_HAVE,Unknown,General population,ada_chapter4
+4fa46b2c0c96db99d7fdb2bf0e427aef,18fb4084f78bad378bb7ed758796e611,MAY_HAVE,Unknown,General population,ada_chapter4
+4fa46b2c0c96db99d7fdb2bf0e427aef,33ac5191f6929437d0febf758d87dcc1,MAY_HAVE,Unknown,General population,ada_chapter4
+4fa46b2c0c96db99d7fdb2bf0e427aef,9fb5943f62ff25a465986ca13e38b7c8,DIAGNOSTIC_OF,A,≥65 years,ada_chapter4
+4fa46b2c0c96db99d7fdb2bf0e427aef,63f92353e8262bf7c80a2507ea3226ca,DIAGNOSTIC_OF,A,≥65 years,ada_chapter4
+4fa46b2c0c96db99d7fdb2bf0e427aef,051243d1c47c8831a7a589f2af6a12a3,HAS_CRITERIA_FOR,B,General population,ada_chapter4
+4fa46b2c0c96db99d7fdb2bf0e427aef,f401f4445d50106260a6bb4cc8f9708b,HAS_CRITERIA_FOR,B,General population,ada_chapter4
+9cbe477432f5230df02f450587200e26,8d528642a6ab322f0a0ab602da7711a2,INCREASED_RISK_OF,C,In the presence of additional risk factors for fracture,ada_chapter4
+94d4416bd96c7ea185b1149e2b7a2858,45aac58db863ca256706d941331cef1d,HAS_TARGET,Unknown,General population,ada_chapter4
+94d4416bd96c7ea185b1149e2b7a2858,9ef4dff71abba33f043ff3baf86b56c4,HAS_TARGET,Unknown,General population,ada_chapter4
+94d4416bd96c7ea185b1149e2b7a2858,9f217896794ce5cefe5d75d171f54963,HAS_TARGET,Unknown,General population,ada_chapter4
+94d4416bd96c7ea185b1149e2b7a2858,65fa91047cce3edb3e8500f252931f42,HAS_TARGET,Unknown,General population,ada_chapter4
+d2304890d0543abebcc4d1dce24655dd,649a31259b50b2c43f08757a4c722504,HAS_TARGET,Unknown,General population,ada_chapter4
+94d4416bd96c7ea185b1149e2b7a2858,a4bcec20a8d13c09b9491125e5bf5997,HAS_TARGET,Unknown,General population,ada_chapter4
+94d4416bd96c7ea185b1149e2b7a2858,5d35a40cd2b8ca793a820a5972a23355,HAS_TARGET,Unknown,General population,ada_chapter4
+94d4416bd96c7ea185b1149e2b7a2858,7fb14832e9ba334d34c06b95bb4ccacc,HAS_TARGET,Unknown,General population,ada_chapter4
+4fa46b2c0c96db99d7fdb2bf0e427aef,305654d9342d15d35aabf96b8cf9e3d1,CONSIDER_FOR,B,At increased risk of fracture,ada_chapter4
+9cbe477432f5230df02f450587200e26,305654d9342d15d35aabf96b8cf9e3d1,CONSIDER_FOR,C,In the presence of additional risk factors for fracture,ada_chapter4
+7823d1d0a2b73d383e61c3cc65556bac,94d4416bd96c7ea185b1149e2b7a2858,RECOMMENDED_FOR,B,People at risk for fracture,ada_chapter4
+1a737d22e0aa69c68b0d5df688c7f703,94d4416bd96c7ea185b1149e2b7a2858,RECOMMENDED_FOR,B,People at risk for fracture,ada_chapter4
+bfc1cc2504324b4fac95b12f0df91a18,223102c3849b4420e678493a61b75767,ASSESSES,A,General population,ada_glycemic_hypoglycemia
+55a98f2c3b8fd527abc53225b27087bd,223102c3849b4420e678493a61b75767,ASSESSES,A,General population,ada_glycemic_hypoglycemia
+100645bee70e72c15f360c4ba88da969,223102c3849b4420e678493a61b75767,ASSESSES,A,General population,ada_glycemic_hypoglycemia
+4e08b9b3cba55b9a09019b01ce7a38e3,223102c3849b4420e678493a61b75767,ASSESSES,B,When an alternative to A1C is required,ada_glycemic_hypoglycemia
+084f3051e7d3b4979f82047ee20dedc5,223102c3849b4420e678493a61b75767,ASSESSES,B,When an alternative to A1C is required,ada_glycemic_hypoglycemia
+bfc1cc2504324b4fac95b12f0df91a18,3ba06bdaa06b87ba066b39932b28ac03,ASSESSES,A,General population,ada_glycemic_hypoglycemia
+55a98f2c3b8fd527abc53225b27087bd,3ba06bdaa06b87ba066b39932b28ac03,ASSESSES,A,General population,ada_glycemic_hypoglycemia
+100645bee70e72c15f360c4ba88da969,3ba06bdaa06b87ba066b39932b28ac03,ASSESSES,A,General population,ada_glycemic_hypoglycemia
+bfc1cc2504324b4fac95b12f0df91a18,956b8ce4543d7ca4dd66db50aa67f856,ASSESSES,A,General population,ada_glycemic_hypoglycemia
+bfc1cc2504324b4fac95b12f0df91a18,39fe0689ab286cbc61d7a96cd74695ee,ASSESSES,A,General population,ada_glycemic_hypoglycemia
+bfc1cc2504324b4fac95b12f0df91a18,3b1f354affe36ec8b9b8773824a70216,MONITORS,Unknown,"A1C does not provide a measure of glycemic variability, real-time glucose levels, or hypoglycemia.",ada_glycemic_hypoglycemia
+bfc1cc2504324b4fac95b12f0df91a18,8037b1249ceda8d78eb4df85c3530498,IS_AFFECTED_BY,Unknown,Factors that affect hemoglobin or red blood cells may affect A1C,ada_glycemic_hypoglycemia
+bfc1cc2504324b4fac95b12f0df91a18,98475e5640b00ca8c5dfcd61385dbbe8,INDICATES,C,"Individuals at risk for DKA should measure ketones in the presence of symptoms and potential precipitating factors (e.g., illness, missed insulin doses, eating disorders), particularly if glucose levels exceed 200 mg/dL (11.1 mmol/L).",ada_glycemic_hypoglycemia
+6129dc1d8c99f020f7c4ca6783a6c0cc,98475e5640b00ca8c5dfcd61385dbbe8,DETECTS,B,"Individuals at risk for DKA should be counseled on the early signs and symptoms of DKA, provided with appropriate tools for ketone measurement (urine and/or blood ketone tests), and educated on timely self-management of hyperglycemia and hyperketonemia (“sick day advice”) (176–178) to prevent clinical deterioration and need for acute care.",ada_glycemic_hypoglycemia
+7c4d7e4311a20967cae0e4ea97734789,a88f1d3a5fbec6cf4763333481fa8842,HAS_TARGET_VALUE,A,many nonpregnant adults without severe hypoglycemia or hypoglycemia affecting health or quality of life,ada_glycemic_hypoglycemia
+7c4d7e4311a20967cae0e4ea97734789,5ed50bb945461c37e39362bb31a56f5f,HAS_TARGET_VALUE,B,many nonpregnant adults using CGM,ada_glycemic_hypoglycemia
+7c4d7e4311a20967cae0e4ea97734789,b60928ef26dbfff5430a7a3c5242721e,HAS_TARGET_VALUE,B,people using CGM,ada_glycemic_hypoglycemia
+7c4d7e4311a20967cae0e4ea97734789,b60928ef26dbfff5430a7a3c5242721e,HAS_TARGET_VALUE,B,older adults using CGM,ada_glycemic_hypoglycemia
+7c4d7e4311a20967cae0e4ea97734789,a88f1d3a5fbec6cf4763333481fa8842,HAS_TARGET_VALUE,B,"individuals with diabetes with good health and function and low treatment risks (e.g., hypoglycemia) and burdens",ada_glycemic_hypoglycemia
+7c4d7e4311a20967cae0e4ea97734789,f4d8abcdcea91ba4386a2bde2993f256,HAS_TARGET_VALUE,B,"individuals with significant cognitive and/or functional limitations, frailty, or severe comorbidities or where the harms of treatment, including hypoglycemia, are greater than the benefits",ada_glycemic_hypoglycemia
+7c4d7e4311a20967cae0e4ea97734789,8d8b1019e2999b0628d2ae595dfcdd0b,HAS_TARGET_VALUE,Unknown,many nonpregnant adults with diabetes,ada_glycemic_hypoglycemia
+7c4d7e4311a20967cae0e4ea97734789,3a43f8c27ebfc096efd241b2cf86036b,HAS_TARGET_VALUE,Unknown,many nonpregnant adults with diabetes,ada_glycemic_hypoglycemia
+7c4d7e4311a20967cae0e4ea97734789,a88f1d3a5fbec6cf4763333481fa8842,HAS_TARGET_VALUE,Unknown,Older adults with complex/intermediate health,ada_glycemic_hypoglycemia
+7c4d7e4311a20967cae0e4ea97734789,5ed50bb945461c37e39362bb31a56f5f,HAS_TARGET_VALUE,Unknown,Older adults with complex/intermediate health,ada_glycemic_hypoglycemia
+7c4d7e4311a20967cae0e4ea97734789,b60928ef26dbfff5430a7a3c5242721e,HAS_TARGET_VALUE,Unknown,Older adults with complex/intermediate health,ada_glycemic_hypoglycemia
+7c4d7e4311a20967cae0e4ea97734789,6c413477797ad84e5a9f34018f08c27a,HAS_TARGET_VALUE,Unknown,Older adults with very complex/poor health,ada_glycemic_hypoglycemia
+7c4d7e4311a20967cae0e4ea97734789,f4d8abcdcea91ba4386a2bde2993f256,HAS_TARGET_VALUE,Unknown,all individuals,ada_glycemic_hypoglycemia
+d414e1b611af28fa2a28143e8f8efe8f,bfc1cc2504324b4fac95b12f0df91a18,REQUIRES_SCREENING,A,at least two times a year,ada_glycemic_hypoglycemia
+d414e1b611af28fa2a28143e8f8efe8f,bfc1cc2504324b4fac95b12f0df91a18,REQUIRES_SCREENING,E,"more frequently (e.g., every 3 months) for individuals not meeting glycemic goals or with recent treatment changes, frequent or severe hypoglycemia or hyperglycemia, or changes in health status, or during periods of rapid growth and development in children and adolescents",ada_glycemic_hypoglycemia
+d414e1b611af28fa2a28143e8f8efe8f,4e08b9b3cba55b9a09019b01ce7a38e3,REQUIRES_SCREENING,B,when an alternative to A1C is required,ada_glycemic_hypoglycemia
+d414e1b611af28fa2a28143e8f8efe8f,084f3051e7d3b4979f82047ee20dedc5,REQUIRES_SCREENING,B,when an alternative to A1C is required,ada_glycemic_hypoglycemia
+d414e1b611af28fa2a28143e8f8efe8f,6129dc1d8c99f020f7c4ca6783a6c0cc,REQUIRES_SCREENING,B,Individuals at risk for DKA,ada_glycemic_hypoglycemia
+d414e1b611af28fa2a28143e8f8efe8f,8037b1249ceda8d78eb4df85c3530498,REQUIRES_SCREENING,Unknown,at least annually,ada_glycemic_hypoglycemia
+d414e1b611af28fa2a28143e8f8efe8f,9a57c5df81229e2ecb4ae007901f6701,REQUIRES_SCREENING,Unknown,at least annually,ada_glycemic_hypoglycemia
+d414e1b611af28fa2a28143e8f8efe8f,3b1f354affe36ec8b9b8773824a70216,REQUIRES_ASSESSMENT,Unknown,every clinical encounter,ada_glycemic_hypoglycemia
+d414e1b611af28fa2a28143e8f8efe8f,9f17f51eb7f96724adc0bb794d4e8d9e,REQUIRES_ASSESSMENT,C,every clinical encounter,ada_glycemic_hypoglycemia
+d414e1b611af28fa2a28143e8f8efe8f,bfc1cc2504324b4fac95b12f0df91a18,REQUIRES_SCREENING,Unknown,approximately every 3 months,ada_glycemic_hypoglycemia
+d414e1b611af28fa2a28143e8f8efe8f,bfc1cc2504324b4fac95b12f0df91a18,REQUIRES_SCREENING,Unknown,twice a year,ada_glycemic_hypoglycemia
+d414e1b611af28fa2a28143e8f8efe8f,bfc1cc2504324b4fac95b12f0df91a18,REQUIRES_SCREENING,Unknown,"typically every 3 months, with additional assessments as needed",ada_glycemic_hypoglycemia
+d414e1b611af28fa2a28143e8f8efe8f,db4ed87d5240792b8b4d4fc613cfe42b,BENEFICIAL_FOR,Unknown,individuals at high risk for hypoglycemia,ada_glycemic_hypoglycemia
+d414e1b611af28fa2a28143e8f8efe8f,db4ed87d5240792b8b4d4fc613cfe42b,RECOMMENDED_FOR,Unknown,insulin-treated individuals,ada_glycemic_hypoglycemia
+d414e1b611af28fa2a28143e8f8efe8f,3b1f354affe36ec8b9b8773824a70216,IS_A_LIMITING_FACTOR_FOR,Unknown,type 1 and type 2 diabetes,ada_glycemic_hypoglycemia
+d414e1b611af28fa2a28143e8f8efe8f,a88f1d3a5fbec6cf4763333481fa8842,IS_AFFECTED_BY,Unknown,Factors that affect hemoglobin or red blood cells,ada_glycemic_hypoglycemia
+d414e1b611af28fa2a28143e8f8efe8f,98475e5640b00ca8c5dfcd61385dbbe8,HAS_RISK_FACTOR,Unknown,Type 1 diabetes/absolute insulin deficiency,ada_glycemic_hypoglycemia
+d414e1b611af28fa2a28143e8f8efe8f,98475e5640b00ca8c5dfcd61385dbbe8,HAS_RISK_FACTOR,Unknown,Type 2 diabetes,ada_glycemic_hypoglycemia
+d414e1b611af28fa2a28143e8f8efe8f,9f17f51eb7f96724adc0bb794d4e8d9e,HAS_RISK_FACTOR,Unknown,Type 1 diabetes,ada_glycemic_hypoglycemia
+d414e1b611af28fa2a28143e8f8efe8f,9f17f51eb7f96724adc0bb794d4e8d9e,HAS_RISK_FACTOR,Unknown,Type 2 diabetes,ada_glycemic_hypoglycemia
+d414e1b611af28fa2a28143e8f8efe8f,3b1f354affe36ec8b9b8773824a70216,HAS_RISK_FACTOR,Unknown,"treated with insulin, sulfonylureas, or meglitinides",ada_glycemic_hypoglycemia
+d414e1b611af28fa2a28143e8f8efe8f,3b1f354affe36ec8b9b8773824a70216,HAS_MAJOR_RISK_FACTOR,Unknown,Recent (within the past 3–6 months) level 2 or 3 hypoglycemia,ada_glycemic_hypoglycemia
+d414e1b611af28fa2a28143e8f8efe8f,3b1f354affe36ec8b9b8773824a70216,HAS_MAJOR_RISK_FACTOR,Unknown,Intensive insulin therapy,ada_glycemic_hypoglycemia
+d414e1b611af28fa2a28143e8f8efe8f,3b1f354affe36ec8b9b8773824a70216,HAS_MAJOR_RISK_FACTOR,Unknown,Impaired hypoglycemia awareness,ada_glycemic_hypoglycemia
+d414e1b611af28fa2a28143e8f8efe8f,3b1f354affe36ec8b9b8773824a70216,HAS_MAJOR_RISK_FACTOR,Unknown,Kidney failure,ada_glycemic_hypoglycemia
+d414e1b611af28fa2a28143e8f8efe8f,3b1f354affe36ec8b9b8773824a70216,HAS_MAJOR_RISK_FACTOR,Unknown,Cognitive impairment or dementia,ada_glycemic_hypoglycemia
+d414e1b611af28fa2a28143e8f8efe8f,3b1f354affe36ec8b9b8773824a70216,HAS_MAJOR_RISK_FACTOR,Unknown,History of metabolic surgery,ada_glycemic_hypoglycemia
+d414e1b611af28fa2a28143e8f8efe8f,3b1f354affe36ec8b9b8773824a70216,HAS_MAJOR_RISK_FACTOR,Unknown,Food insecurity,ada_glycemic_hypoglycemia
+d414e1b611af28fa2a28143e8f8efe8f,3b1f354affe36ec8b9b8773824a70216,HAS_MAJOR_RISK_FACTOR,Unknown,Low-income status,ada_glycemic_hypoglycemia
+d414e1b611af28fa2a28143e8f8efe8f,3b1f354affe36ec8b9b8773824a70216,HAS_MAJOR_RISK_FACTOR,Unknown,Housing insecurity,ada_glycemic_hypoglycemia
+d414e1b611af28fa2a28143e8f8efe8f,3b1f354affe36ec8b9b8773824a70216,HAS_MAJOR_RISK_FACTOR,Unknown,Fasting for religious or cultural reasons,ada_glycemic_hypoglycemia
+d414e1b611af28fa2a28143e8f8efe8f,3b1f354affe36ec8b9b8773824a70216,HAS_MAJOR_RISK_FACTOR,Unknown,Underinsurance,ada_glycemic_hypoglycemia
+d414e1b611af28fa2a28143e8f8efe8f,3b1f354affe36ec8b9b8773824a70216,HAS_OTHER_RISK_FACTOR,Unknown,Multiple recent episodes of level 1 hypoglycemia,ada_glycemic_hypoglycemia
+d414e1b611af28fa2a28143e8f8efe8f,3b1f354affe36ec8b9b8773824a70216,HAS_OTHER_RISK_FACTOR,Unknown,Basal insulin therapy,ada_glycemic_hypoglycemia
+d414e1b611af28fa2a28143e8f8efe8f,3b1f354affe36ec8b9b8773824a70216,HAS_OTHER_RISK_FACTOR,Unknown,Age ≥75 years,ada_glycemic_hypoglycemia
+d414e1b611af28fa2a28143e8f8efe8f,3b1f354affe36ec8b9b8773824a70216,HAS_OTHER_RISK_FACTOR,Unknown,Female sex,ada_glycemic_hypoglycemia
+d414e1b611af28fa2a28143e8f8efe8f,3b1f354affe36ec8b9b8773824a70216,HAS_OTHER_RISK_FACTOR,Unknown,High glycemic variability,ada_glycemic_hypoglycemia
+d414e1b611af28fa2a28143e8f8efe8f,3b1f354affe36ec8b9b8773824a70216,HAS_OTHER_RISK_FACTOR,Unknown,Polypharmacy,ada_glycemic_hypoglycemia
+d414e1b611af28fa2a28143e8f8efe8f,3b1f354affe36ec8b9b8773824a70216,HAS_OTHER_RISK_FACTOR,Unknown,Cardiovascular disease,ada_glycemic_hypoglycemia
+d414e1b611af28fa2a28143e8f8efe8f,3b1f354affe36ec8b9b8773824a70216,HAS_OTHER_RISK_FACTOR,Unknown,Chronic kidney disease (eGFR <60 mL/min/1.73 m2 or albuminuria),ada_glycemic_hypoglycemia
+d414e1b611af28fa2a28143e8f8efe8f,3b1f354affe36ec8b9b8773824a70216,HAS_OTHER_RISK_FACTOR,Unknown,Neuropathy,ada_glycemic_hypoglycemia
+d414e1b611af28fa2a28143e8f8efe8f,3b1f354affe36ec8b9b8773824a70216,HAS_OTHER_RISK_FACTOR,Unknown,Retinopathy,ada_glycemic_hypoglycemia
+d414e1b611af28fa2a28143e8f8efe8f,3b1f354affe36ec8b9b8773824a70216,HAS_OTHER_RISK_FACTOR,Unknown,Major depressive disorder,ada_glycemic_hypoglycemia
+d414e1b611af28fa2a28143e8f8efe8f,3b1f354affe36ec8b9b8773824a70216,HAS_OTHER_RISK_FACTOR,Unknown,Severe mental illness,ada_glycemic_hypoglycemia
+d414e1b611af28fa2a28143e8f8efe8f,3b1f354affe36ec8b9b8773824a70216,HAS_OTHER_RISK_FACTOR,Unknown,Gastroparesis,ada_glycemic_hypoglycemia
+d414e1b611af28fa2a28143e8f8efe8f,3b1f354affe36ec8b9b8773824a70216,HAS_OTHER_RISK_FACTOR,Unknown,β-Blocker therapy,ada_glycemic_hypoglycemia
+d414e1b611af28fa2a28143e8f8efe8f,3b1f354affe36ec8b9b8773824a70216,HAS_OTHER_RISK_FACTOR,Unknown,Low health literacy,ada_glycemic_hypoglycemia
+d414e1b611af28fa2a28143e8f8efe8f,3b1f354affe36ec8b9b8773824a70216,HAS_OTHER_RISK_FACTOR,Unknown,Alcohol or substance use disorder,ada_glycemic_hypoglycemia
+d414e1b611af28fa2a28143e8f8efe8f,3b1f354affe36ec8b9b8773824a70216,HAS_RISK_FACTOR,Unknown,High A1C level,ada_glycemic_hypoglycemia
+d414e1b611af28fa2a28143e8f8efe8f,3b1f354affe36ec8b9b8773824a70216,HAS_RISK_FACTOR,Unknown,Insulin rationing,ada_glycemic_hypoglycemia
+d414e1b611af28fa2a28143e8f8efe8f,3b1f354affe36ec8b9b8773824a70216,HAS_RISK_FACTOR,Unknown,SGLT2 (SGLT1/2) inhibitor use,ada_glycemic_hypoglycemia
+d414e1b611af28fa2a28143e8f8efe8f,3b1f354affe36ec8b9b8773824a70216,HAS_RISK_FACTOR,Unknown,Social determinants of health,ada_glycemic_hypoglycemia
+d414e1b611af28fa2a28143e8f8efe8f,3b1f354affe36ec8b9b8773824a70216,HAS_RISK_FACTOR,Unknown,Younger age,ada_glycemic_hypoglycemia
+d414e1b611af28fa2a28143e8f8efe8f,3b1f354affe36ec8b9b8773824a70216,HAS_RISK_FACTOR,Unknown,Prior history of hyperglycemic crises,ada_glycemic_hypoglycemia
+d414e1b611af28fa2a28143e8f8efe8f,3b1f354affe36ec8b9b8773824a70216,HAS_RISK_FACTOR,Unknown,Prior history of hypoglycemic crises,ada_glycemic_hypoglycemia
+d414e1b611af28fa2a28143e8f8efe8f,3b1f354affe36ec8b9b8773824a70216,HAS_RISK_FACTOR,Unknown,Presence of other diabetes complications,ada_glycemic_hypoglycemia
+d414e1b611af28fa2a28143e8f8efe8f,3b1f354affe36ec8b9b8773824a70216,HAS_RISK_FACTOR,Unknown,Presence of other chronic health conditions,ada_glycemic_hypoglycemia
+d414e1b611af28fa2a28143e8f8efe8f,3b1f354affe36ec8b9b8773824a70216,HAS_RISK_FACTOR,Unknown,Presence of behavioral health conditions,ada_glycemic_hypoglycemia
+d414e1b611af28fa2a28143e8f8efe8f,3b1f354affe36ec8b9b8773824a70216,HAS_RISK_FACTOR,Unknown,Alcohol and/or substance use,ada_glycemic_hypoglycemia
+d414e1b611af28fa2a28143e8f8efe8f,3b1f354affe36ec8b9b8773824a70216,HAS_RISK_FACTOR,Unknown,Type 1 diabetes,ada_glycemic_hypoglycemia
+d414e1b611af28fa2a28143e8f8efe8f,3b1f354affe36ec8b9b8773824a70216,HAS_RISK_FACTOR,Unknown,Type 2 diabetes,ada_glycemic_hypoglycemia

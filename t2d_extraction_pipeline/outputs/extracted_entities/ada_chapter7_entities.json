@@ -1,0 +1,942 @@
+{
+  "medication_classes": [
+    {
+      "name": "SGLT2 inhibitors",
+      "synonyms": [
+        "SGLT2i"
+      ],
+      "source_text": "SGLT2 inhibitors reduce cardiovascular events in patients with established ASCVD",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "class_name": "SGLT2 inhibitor",
+      "mechanism_of_action": null,
+      "route": "Unknown"
+    },
+    {
+      "name": "GLP-1 receptor agonists",
+      "synonyms": [
+        "GLP-1 RA"
+      ],
+      "source_text": "glucagon-like peptide 1 receptor agonists",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "class_name": "GLP-1 receptor agonist",
+      "mechanism_of_action": null,
+      "route": "Unknown"
+    }
+  ],
+  "active_ingredients": [],
+  "devices": [
+    {
+      "name": "Continuous Glucose Monitoring (CGM)",
+      "synonyms": [
+        "CGM"
+      ],
+      "source_text": "continuous glucose monitoring (CGM)",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "device_type": "Glucose Monitoring",
+      "brand": null,
+      "features": [
+        "real-time data",
+        "alarms",
+        "alerts"
+      ]
+    },
+    {
+      "name": "Automated Insulin Delivery (AID) system",
+      "synonyms": [
+        "AID system"
+      ],
+      "source_text": "automated insulin delivery (AID) systems",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "device_type": "Insulin Delivery",
+      "brand": null,
+      "features": [
+        "CGM-informed algorithms",
+        "modulate insulin delivery",
+        "adjustable glucose targets"
+      ]
+    },
+    {
+      "name": "Insulin pump",
+      "synonyms": [
+        "CSII",
+        "continuous subcutaneous insulin infusion"
+      ],
+      "source_text": "continuous subcutaneous insulin infusion (CSII)",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "device_type": "Insulin Delivery",
+      "brand": null,
+      "features": [
+        "tubing",
+        "cannula",
+        "patch pumps"
+      ]
+    },
+    {
+      "name": "Connected insulin pen",
+      "synonyms": [
+        "connected insulin pens"
+      ],
+      "source_text": "connected insulin pens",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "device_type": "Insulin Delivery",
+      "brand": null,
+      "features": [
+        "record and/or transmit insulin dose data",
+        "calculate insulin doses",
+        "synced with CGM systems",
+        "downloadable data reports"
+      ]
+    },
+    {
+      "name": "Blood Glucose Monitoring (BGM)",
+      "synonyms": [
+        "BGM"
+      ],
+      "source_text": "blood glucose monitoring (BGM)",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "device_type": "Glucose Monitoring",
+      "brand": null,
+      "features": []
+    },
+    {
+      "name": "Insulin pen",
+      "synonyms": [
+        "insulin pens"
+      ],
+      "source_text": "insulin pens",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "device_type": "Insulin Delivery",
+      "brand": null,
+      "features": []
+    },
+    {
+      "name": "Insulin syringe",
+      "synonyms": [
+        "insulin syringes"
+      ],
+      "source_text": "insulin syringes",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "device_type": "Insulin Delivery",
+      "brand": null,
+      "features": []
+    },
+    {
+      "name": "Insulin injection aids",
+      "synonyms": [
+        "insulin injection aids"
+      ],
+      "source_text": "insulin injection aids",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "device_type": "Insulin Delivery",
+      "brand": null,
+      "features": []
+    },
+    {
+      "name": "Open-source AID system",
+      "synonyms": [
+        "OS-AID"
+      ],
+      "source_text": "open-source automated insulin dosing (OS-AID) algorithms",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "device_type": "Insulin Delivery",
+      "brand": null,
+      "features": [
+        "precise code for operation",
+        "designed, maintained, and curated by people with diabetes and their caregivers"
+      ]
+    },
+    {
+      "name": "Loop algorithm",
+      "synonyms": [],
+      "source_text": "the Loop algorithm",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "device_type": "Algorithm",
+      "brand": null,
+      "features": []
+    },
+    {
+      "name": "OpenAPS algorithm",
+      "synonyms": [],
+      "source_text": "The OpenAPS heuristic algorithm",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "device_type": "Algorithm",
+      "brand": null,
+      "features": []
+    }
+  ],
+  "clinical_indications": [
+    {
+      "name": "Diabetes",
+      "synonyms": [
+        "diabetes"
+      ],
+      "source_text": "people with diabetes",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "indication_type": "Unknown",
+      "condition": "Diabetes",
+      "priority": null
+    },
+    {
+      "name": "Type 1 Diabetes",
+      "synonyms": [
+        "type 1 diabetes"
+      ],
+      "source_text": "type 1 diabetes",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "indication_type": "Unknown",
+      "condition": "Type 1 Diabetes",
+      "priority": null
+    },
+    {
+      "name": "Type 2 Diabetes",
+      "synonyms": [
+        "type 2 diabetes"
+      ],
+      "source_text": "type 2 diabetes",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "indication_type": "Unknown",
+      "condition": "Type 2 Diabetes",
+      "priority": null
+    },
+    {
+      "name": "Insulin-deficient diabetes",
+      "synonyms": [
+        "insulin-deficient diabetes"
+      ],
+      "source_text": "insulin-deficient diabetes",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "indication_type": "Unknown",
+      "condition": "Insulin-deficient diabetes",
+      "priority": null
+    },
+    {
+      "name": "Diabetes requiring insulin",
+      "synonyms": [
+        "require insulin for management"
+      ],
+      "source_text": "people who require insulin for management",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "indication_type": "Unknown",
+      "condition": "Diabetes requiring insulin",
+      "priority": null
+    },
+    {
+      "name": "Diabetes on multiple daily injections (MDI)",
+      "synonyms": [
+        "MDI"
+      ],
+      "source_text": "type 2 diabetes on multiple daily injections (MDI)",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "indication_type": "Unknown",
+      "condition": "Diabetes on multiple daily injections (MDI)",
+      "priority": null
+    },
+    {
+      "name": "Diabetes on basal insulin",
+      "synonyms": [
+        "basal insulin"
+      ],
+      "source_text": "people on basal insulin",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "indication_type": "Unknown",
+      "condition": "Diabetes on basal insulin",
+      "priority": null
+    },
+    {
+      "name": "Diabetes on basal insulin with or without oral agents and/or noninsulin injectables",
+      "synonyms": [],
+      "source_text": "type 2 diabetes taking basal insulin with or without oral agents and/or noninsulin injectables",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "indication_type": "Unknown",
+      "condition": "Diabetes on basal insulin with or without oral agents and/or noninsulin injectables",
+      "priority": null
+    },
+    {
+      "name": "Diabetes on noninsulin therapies that can cause hypoglycemia",
+      "synonyms": [],
+      "source_text": "on noninsulin therapies that can cause hypoglycemia",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "indication_type": "Unknown",
+      "condition": "Diabetes on noninsulin therapies that can cause hypoglycemia",
+      "priority": null
+    },
+    {
+      "name": "Diabetes on any diabetes treatment where CGM helps in management",
+      "synonyms": [],
+      "source_text": "on any diabetes treatment where CGM helps in management",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "indication_type": "Unknown",
+      "condition": "Diabetes on any diabetes treatment where CGM helps in management",
+      "priority": null
+    },
+    {
+      "name": "Diabetes with established ASCVD",
+      "synonyms": [
+        "established ASCVD"
+      ],
+      "source_text": "patients with established ASCVD",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "indication_type": "Unknown",
+      "condition": "Diabetes with established ASCVD",
+      "priority": null
+    },
+    {
+      "name": "Prediabetes",
+      "synonyms": [
+        "prediabetes"
+      ],
+      "source_text": "individuals with diabetes or prediabetes",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "indication_type": "Unknown",
+      "condition": "Prediabetes",
+      "priority": null
+    },
+    {
+      "name": "Diabetes in pregnancy",
+      "synonyms": [
+        "diabetes and pregnancy"
+      ],
+      "source_text": "diabetes and pregnancy",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "indication_type": "Unknown",
+      "condition": "Diabetes in pregnancy",
+      "priority": null
+    }
+  ],
+  "adverse_events": [
+    {
+      "name": "Hypoglycemia",
+      "synonyms": [],
+      "source_text": "hypoglycemia",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "severity": "level 3 hypoglycemia",
+      "frequency": "episodes of hypoglycemia"
+    },
+    {
+      "name": "Hyperglycemia",
+      "synonyms": [],
+      "source_text": "hyperglycemia",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "severity": "Unknown",
+      "frequency": "episodes of hyperglycemia"
+    },
+    {
+      "name": "Diabetic ketoacidosis",
+      "synonyms": [
+        "DKA"
+      ],
+      "source_text": "diabetic ketoacidosis (DKA)",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "severity": "ketosis and DKA",
+      "frequency": null
+    },
+    {
+      "name": "Lipohypertrophy",
+      "synonyms": [],
+      "source_text": "lipohypertrophy",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "severity": "pump skin issues",
+      "frequency": null
+    },
+    {
+      "name": "Lipoatrophy",
+      "synonyms": [],
+      "source_text": "lipoatrophy",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "severity": "pump skin issues",
+      "frequency": null
+    },
+    {
+      "name": "Pump site infection",
+      "synonyms": [],
+      "source_text": "pump site infection",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "severity": "pump skin issues",
+      "frequency": null
+    },
+    {
+      "name": "Alarm fatigue",
+      "synonyms": [
+        "alarm fatigue or overload"
+      ],
+      "source_text": "alarm fatigue or overload",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "severity": "Training on alarm and alert settings when initiating CGM is crucial to avoid alarm fatigue or overload.",
+      "frequency": null
+    },
+    {
+      "name": "Contact dermatitis",
+      "synonyms": [
+        "irritant and allergic"
+      ],
+      "source_text": "Contact dermatitis (both irritant and allergic)",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "severity": "allergic reaction",
+      "frequency": null
+    },
+    {
+      "name": "Genital mycotic infection",
+      "synonyms": [],
+      "source_text": "Genital mycotic infection",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "severity": "mild to moderate",
+      "frequency": null
+    }
+  ],
+  "administrations": [
+    {
+      "name": "Syringe injection",
+      "synonyms": [
+        "given by syringe"
+      ],
+      "source_text": "insulin given by syringe",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "route": "Injection",
+      "site": null,
+      "technique": null
+    },
+    {
+      "name": "Pen injection",
+      "synonyms": [
+        "given by pen"
+      ],
+      "source_text": "insulin given by pen",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "route": "Injection",
+      "site": null,
+      "technique": null
+    },
+    {
+      "name": "Inhalation",
+      "synonyms": [],
+      "source_text": "inhalation",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "route": "Inhalation",
+      "site": null,
+      "technique": null
+    },
+    {
+      "name": "Patch device",
+      "synonyms": [
+        "patch devices"
+      ],
+      "source_text": "patch devices",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "route": "Transdermal",
+      "site": null,
+      "technique": null
+    },
+    {
+      "name": "Pump infusion",
+      "synonyms": [
+        "pump"
+      ],
+      "source_text": "pump",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "route": "Subcutaneous Infusion",
+      "site": null,
+      "technique": null
+    },
+    {
+      "name": "Continuous subcutaneous insulin infusion (CSII)",
+      "synonyms": [],
+      "source_text": "continuous subcutaneous insulin infusion (CSII)",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "route": "Subcutaneous Infusion",
+      "site": null,
+      "technique": null
+    },
+    {
+      "name": "Automated insulin delivery (AID)",
+      "synonyms": [],
+      "source_text": "automated insulin delivery (AID) systems",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "route": "Subcutaneous Infusion",
+      "site": null,
+      "technique": null
+    },
+    {
+      "name": "Oral",
+      "synonyms": [],
+      "source_text": "oral agents",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "route": "Oral",
+      "site": null,
+      "technique": null
+    },
+    {
+      "name": "Subcutaneous injection",
+      "synonyms": [
+        "subcutaneous"
+      ],
+      "source_text": "subcutaneous insulin injection",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "route": "Subcutaneous",
+      "site": null,
+      "technique": null
+    }
+  ],
+  "dosages": [
+    {
+      "name": "Basal insulin dose adjustment",
+      "synonyms": [],
+      "source_text": "assessing fasting glucose with BGM to inform dose adjustments to achieve blood glucose goals",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "starting_dose": "Not specified",
+      "max_dose": "Not specified",
+      "titration_schedule": "Based on fasting glucose assessment",
+      "adjustments": null
+    },
+    {
+      "name": "Prandial insulin dose adjustment",
+      "synonyms": [],
+      "source_text": "adjusting medications (particularly prandial insulin doses or correction bolus doses)",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "starting_dose": "Not specified",
+      "max_dose": "Not specified",
+      "titration_schedule": "Based on glucose monitoring results",
+      "adjustments": null
+    },
+    {
+      "name": "Correction bolus dose adjustment",
+      "synonyms": [],
+      "source_text": "adjusting medications (particularly prandial insulin doses or correction bolus doses)",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "starting_dose": "Not specified",
+      "max_dose": "Not specified",
+      "titration_schedule": "Based on glucose monitoring results",
+      "adjustments": null
+    },
+    {
+      "name": "AID system glucose target",
+      "synonyms": [],
+      "source_text": "adjustable glucose targets, ranging from 87 to 180 mg/dL (4.8 to 10 mmol/L)",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "starting_dose": "87 mg/dL (4.8 mmol/L)",
+      "max_dose": "180 mg/dL (10 mmol/L)",
+      "titration_schedule": "Can be adjusted with up to eight segments per day",
+      "adjustments": null
+    }
+  ],
+  "relationships": [
+    {
+      "source_entity": "Continuous Glucose Monitoring (CGM)",
+      "target_entity": "Diabetes",
+      "relationship_type": "RECOMMENDED_FOR",
+      "evidence_level": "A",
+      "conditional_context": "children, adolescents, and adults with diabetes who are on insulin therapy, on noninsulin therapies that can cause hypoglycemia, and on any diabetes treatment where CGM helps in management. The specific CGM device and method for use should be made based on the individual\u2019s circumstances, preferences, and needs. E"
+    },
+    {
+      "source_entity": "Continuous Glucose Monitoring (CGM)",
+      "target_entity": "Diabetes",
+      "relationship_type": "SHOULD_BE_USED_DAILY",
+      "evidence_level": "A",
+      "conditional_context": "In people with diabetes on insulin therapy, CGM devices should be used as close to daily as possible for maximal benefit."
+    },
+    {
+      "source_entity": "Automated Insulin Delivery (AID) system",
+      "target_entity": "Type 1 Diabetes",
+      "relationship_type": "PREFERRED_METHOD_FOR",
+      "evidence_level": "A",
+      "conditional_context": "AID systems are the preferred insulin delivery method over MDI, CSII, and sensor-augmented pumps in people with type 1 diabetes"
+    },
+    {
+      "source_entity": "Automated Insulin Delivery (AID) system",
+      "target_entity": "Type 2 Diabetes",
+      "relationship_type": "PREFERRED_METHOD_FOR",
+      "evidence_level": "A",
+      "conditional_context": "AID systems are the preferred insulin delivery method over MDI, CSII, and sensor-augmented pumps in adults with type 2 diabetes"
+    },
+    {
+      "source_entity": "Automated Insulin Delivery (AID) system",
+      "target_entity": "Insulin pump",
+      "relationship_type": "SUPERIOR_TO",
+      "evidence_level": "A",
+      "conditional_context": "AID systems are the preferred insulin delivery method over MDI, CSII, and sensor-augmented pumps"
+    },
+    {
+      "source_entity": "Automated Insulin Delivery (AID) system",
+      "target_entity": "Diabetes",
+      "relationship_type": "CONSIDER_FOR",
+      "evidence_level": "B",
+      "conditional_context": "Consider AID systems for select people with type 2 diabetes treated with basal insulin not achieving individualized glycemic goals."
+    },
+    {
+      "source_entity": "Insulin pump",
+      "target_entity": "Type 1 Diabetes",
+      "relationship_type": "HAS_ADVANTAGES_FOR",
+      "evidence_level": "Not specified",
+      "conditional_context": "pump therapy in people with type 1 diabetes has modest advantages for lowering A1C levels (\u22120.30% [95% CI \u22120.58 to \u22120.02]) and for reducing severe hypoglycemia rates in children."
+    },
+    {
+      "source_entity": "Connected insulin pen",
+      "target_entity": "Diabetes",
+      "relationship_type": "RECOMMENDED_FOR",
+      "evidence_level": "B",
+      "conditional_context": "Offer connected insulin pens for people with diabetes taking multiple daily insulin injections when appropriate."
+    },
+    {
+      "source_entity": "Insulin pens",
+      "target_entity": "Diabetes",
+      "relationship_type": "PREFERRED_FOR",
+      "evidence_level": "C",
+      "conditional_context": "For people with insulin-requiring diabetes on multiple daily injections (MDI), insulin pens are preferred in most cases."
+    },
+    {
+      "source_entity": "Insulin pens",
+      "target_entity": "Diabetes",
+      "relationship_type": "RECOMMENDED_FOR",
+      "evidence_level": "C",
+      "conditional_context": "Insulin pens or insulin injection aids are recommended for people with dexterity issues or vision impairment or when decided by shared decision making to facilitate the accurate dosing and administration of insulin."
+    },
+    {
+      "source_entity": "Insulin syringes",
+      "target_entity": "Diabetes",
+      "relationship_type": "MAY_BE_USED_FOR",
+      "evidence_level": "C",
+      "conditional_context": "Still, insulin syringes may be used for insulin delivery considering individual and caregiver preference, insulin type, availability in vials, dosing therapy, cost, and self-management capabilities."
+    },
+    {
+      "source_entity": "Open-source AID system",
+      "target_entity": "Diabetes",
+      "relationship_type": "SUPPORT_AND_ADVISE",
+      "evidence_level": "B",
+      "conditional_context": "Support and provide diabetes management advice to people with diabetes who choose to use an open-source AID system."
+    },
+    {
+      "source_entity": "Loop algorithm",
+      "target_entity": "Open-source AID system",
+      "relationship_type": "IS_A_TYPE_OF",
+      "evidence_level": "Not specified",
+      "conditional_context": "There are two main available algorithms, the OpenAPS algorithm and the Loop algorithm"
+    },
+    {
+      "source_entity": "OpenAPS algorithm",
+      "target_entity": "Open-source AID system",
+      "relationship_type": "IS_A_TYPE_OF",
+      "evidence_level": "Not specified",
+      "conditional_context": "There are two main available algorithms, the OpenAPS algorithm and the Loop algorithm"
+    },
+    {
+      "source_entity": "Continuous Glucose Monitoring (CGM)",
+      "target_entity": "Hypoglycemia",
+      "relationship_type": "REDUCES_RISK_OF",
+      "evidence_level": "Not specified",
+      "conditional_context": "Reductions in acute diabetes complications, such as diabetic ketoacidosis (DKA), episodes of severe hypoglycemia or diabetes-related coma, and hospitalizations for hypoglycemia and hyperglycemia, have been observed in adults with type 1 or type 2 diabetes"
+    },
+    {
+      "source_entity": "Continuous Glucose Monitoring (CGM)",
+      "target_entity": "Hyperglycemia",
+      "relationship_type": "REDUCES_RISK_OF",
+      "evidence_level": "Not specified",
+      "conditional_context": "Reductions in acute diabetes complications, such as diabetic ketoacidosis (DKA), episodes of severe hypoglycemia or diabetes-related coma, and hospitalizations for hypoglycemia and hyperglycemia, have been observed in adults with type 1 or type 2 diabetes"
+    },
+    {
+      "source_entity": "Automated Insulin Delivery (AID) system",
+      "target_entity": "Hypoglycemia",
+      "relationship_type": "REDUCES_RISK_OF",
+      "evidence_level": "Not specified",
+      "conditional_context": "with consistent improvement in A1C, increase in TIR, especially overnight, as well as reduction of time spent in hypoglycemia (in the studies in people with type 1 diabetes)."
+    },
+    {
+      "source_entity": "Insulin pump",
+      "target_entity": "Hypoglycemia",
+      "relationship_type": "REDUCES_RISK_OF",
+      "evidence_level": "Not specified",
+      "conditional_context": "pump therapy in people with type 1 diabetes has modest advantages for lowering A1C levels (\u22120.30% [95% CI \u22120.58 to \u22120.02]) and for reducing severe hypoglycemia rates in children."
+    },
+    {
+      "source_entity": "SGLT2 inhibitors",
+      "target_entity": "Diabetes with established ASCVD",
+      "relationship_type": "REDUCE_CARDIOVASCULAR_EVENTS_IN",
+      "evidence_level": "Unknown",
+      "conditional_context": "in patients with established ASCVD"
+    },
+    {
+      "source_entity": "GLP-1 receptor agonists",
+      "target_entity": "Diabetes",
+      "relationship_type": "HAS_BENEFIT_IN",
+      "evidence_level": "Unknown",
+      "conditional_context": "shift toward greater use of glucose-lowering medications with cardiometabolic benefits, such as sodium\u2013glucose transporter 2 inhibitors and glucagon-like peptide 1 receptor agonists"
+    },
+    {
+      "source_entity": "Continuous Glucose Monitoring (CGM)",
+      "target_entity": "Skin reactions",
+      "relationship_type": "CAN_CAUSE",
+      "evidence_level": "E",
+      "conditional_context": "Skin reactions, either due to irritation or allergy, should be assessed and addressed to aid in successful use of devices."
+    },
+    {
+      "source_entity": "Continuous Glucose Monitoring (CGM)",
+      "target_entity": "Interfering substances",
+      "relationship_type": "CAN_BE_AFFECTED_BY",
+      "evidence_level": "C",
+      "conditional_context": "People who wear CGM devices should be educated on potential interfering substances and other factors that may affect accuracy."
+    },
+    {
+      "source_entity": "Blood Glucose Meter",
+      "target_entity": "Interfering substances",
+      "relationship_type": "CAN_BE_AFFECTED_BY",
+      "evidence_level": "Not specified",
+      "conditional_context": "health care professionals and people with diabetes must be aware of factors that impair meter (and CGM) accuracy."
+    },
+    {
+      "source_entity": "Automated Insulin Delivery (AID) system",
+      "target_entity": "Diabetes",
+      "relationship_type": "REQUIRES_EDUCATION_ON",
+      "evidence_level": "C",
+      "conditional_context": "people with diabetes and their caregivers must receive education on how to use and troubleshoot the system. This education should occur at regular intervals as needed."
+    },
+    {
+      "source_entity": "Continuous Glucose Monitoring (CGM)",
+      "target_entity": "Diabetes",
+      "relationship_type": "REQUIRES_EDUCATION_ON",
+      "evidence_level": "C",
+      "conditional_context": "When prescribing a continuous glucose monitoring (CGM) device, ensure that people with diabetes and caregivers are offered initial and ongoing training and education as indicated by individual circumstances. Education should be provided as needed."
+    },
+    {
+      "source_entity": "Insulin pump",
+      "target_entity": "Diabetes",
+      "relationship_type": "REQUIRES_EDUCATION_ON",
+      "evidence_level": "Not specified",
+      "conditional_context": "Insulin pumps and AID systems, on the other hand, generally require training and education for safe use."
+    },
+    {
+      "source_entity": "Connected insulin pen",
+      "target_entity": "Diabetes",
+      "relationship_type": "CAN_ASSIST_WITH",
+      "evidence_level": "B",
+      "conditional_context": "Offer connected insulin pens for people with diabetes taking multiple daily insulin injections when appropriate."
+    },
+    {
+      "source_entity": "Insulin dose calculators/decision support systems",
+      "target_entity": "Diabetes",
+      "relationship_type": "MAY_BE_HELPFUL_FOR",
+      "evidence_level": "B",
+      "conditional_context": "FDA-approved insulin dose calculators/decision support systems may be helpful for calculating insulin doses."
+    },
+    {
+      "source_entity": "Diabetes technology",
+      "target_entity": "Diabetes",
+      "relationship_type": "IMPROVES_OUTCOMES_WITH",
+      "evidence_level": "Not specified",
+      "conditional_context": "Diabetes technology, coupled with education, follow-up, pharmacotherapy as needed, and support, can improve the lives and health of people with diabetes"
+    },
+    {
+      "source_entity": "Diabetes technology",
+      "target_entity": "Diabetes",
+      "relationship_type": "CAN_BE_BARRIER_TO_IMPLEMENTATION_FOR",
+      "evidence_level": "Not specified",
+      "conditional_context": "however, the complexity and rapid evolution of the diabetes technology landscape can also be a barrier to implementation for people with diabetes, their care partners, and the health care team."
+    },
+    {
+      "source_entity": "Continuous Glucose Monitoring (CGM)",
+      "target_entity": "Diabetes",
+      "relationship_type": "BENEFICIAL_FOR",
+      "evidence_level": "Not specified",
+      "conditional_context": "a recent systematic review with meta-analysis also supports the use of CGM in people with type 2 diabetes not using insulin, with observations of improved glycemic outcomes and individual experience, reduced health care resource utilization, and acceptable cost-effectiveness"
+    },
+    {
+      "source_entity": "Automated Insulin Delivery (AID) system",
+      "target_entity": "Type 1 Diabetes",
+      "relationship_type": "BENEFICIAL_FOR",
+      "evidence_level": "Not specified",
+      "conditional_context": "In an open-label, multicenter, randomized, parallel clinical trial enrolling youth with newly diagnosed type 1 diabetes, initiation of an AID system within 21 days from diagnosis showed 10% higher time in range (TIR) (70\u2013180 mg/dL [3.9\u201310.0 mmol/L]) and lower A1C at 12 months versus usual care"
+    },
+    {
+      "source_entity": "Diabetes technology",
+      "target_entity": "Diabetes",
+      "relationship_type": "IMPROVES",
+      "evidence_level": "Not specified",
+      "conditional_context": "use of diabetes technology overall improves A1C and increases the number of people achieving an A1C <7%"
+    },
+    {
+      "source_entity": "Blood Glucose Meter",
+      "target_entity": "Diabetes",
+      "relationship_type": "INTEGRAL_COMPONENT_OF",
+      "evidence_level": "Not specified",
+      "conditional_context": "BGM is thus an integral component of effective therapy for individuals using insulin."
+    },
+    {
+      "source_entity": "Continuous Glucose Monitoring (CGM)",
+      "target_entity": "Diabetes",
+      "relationship_type": "IMPROVES_OUTCOMES_COMPARED_TO",
+      "evidence_level": "Not specified",
+      "conditional_context": "In recent years, CGM has emerged as a method for the assessment of glucose levels that improves outcomes compared with BGM in many settings"
+    },
+    {
+      "source_entity": "Blood Glucose Meter",
+      "target_entity": "Diabetes",
+      "relationship_type": "REQUIRED_FOR",
+      "evidence_level": "Not specified",
+      "conditional_context": "As recommended by the device manufacturers and the U.S. Food and Drug Administration (FDA), people with diabetes using CGM must also have access to BGM for multiple reasons, including whenever there is suspicion that the CGM is inaccurate, while waiting for the CGM device to warm up, when there is a disruption in CGM transmission, for calibration (if needed) or if a warning message appears, when CGM supplies are delayed, and in any clinical setting where glucose levels are changing rapidly (>2 mg/dL/min), which could cause a discrepancy between CGM and blood glucose values."
+    },
+    {
+      "source_entity": "Blood Glucose Meter",
+      "target_entity": "Diabetes",
+      "relationship_type": "OPTIMAL_USE_REQUIRES",
+      "evidence_level": "Not specified",
+      "conditional_context": "Optimal use of BGM devices requires proper review and interpretation of data by both the person with diabetes and the health care professional to ensure effective use."
+    },
+    {
+      "source_entity": "Continuous Glucose Monitoring (CGM)",
+      "target_entity": "Diabetes",
+      "relationship_type": "IMPROVES_GLYCEMIC_OUTCOMES_IN",
+      "evidence_level": "Not specified",
+      "conditional_context": "a recent systematic review with meta-analysis did support use of CGM in people with type 2 diabetes with benefits to glycemic management, individual experience, health care resource utilization, and cost-effectiveness"
+    },
+    {
+      "source_entity": "Continuous Glucose Monitoring (CGM)",
+      "target_entity": "Diabetes",
+      "relationship_type": "BENEFITS_SEEN_IN",
+      "evidence_level": "Not specified",
+      "conditional_context": "The benefits of CGM have been shown regardless of age, sex, education or income levels, or baseline diabetes characteristics."
+    },
+    {
+      "source_entity": "Continuous Glucose Monitoring (CGM)",
+      "target_entity": "Hypoglycemia",
+      "relationship_type": "REDUCES",
+      "evidence_level": "Not specified",
+      "conditional_context": "Data in children show that CGM use in young children with type 1 diabetes reduced hypoglycemia"
+    },
+    {
+      "source_entity": "Continuous Glucose Monitoring (CGM)",
+      "target_entity": "Diabetes Distress",
+      "relationship_type": "REDUCES",
+      "evidence_level": "Not specified",
+      "conditional_context": "behavioral support of parents of young children with diabetes using CGM showed the benefits of reducing hypoglycemia concerns and diabetes distress"
+    },
+    {
+      "source_entity": "Continuous Glucose Monitoring (CGM)",
+      "target_entity": "A1C level",
+      "relationship_type": "REDUCES",
+      "evidence_level": "Not specified",
+      "conditional_context": "A1C level reduction was seen in adolescents and young adults with type 1 diabetes using rtCGM"
+    },
+    {
+      "source_entity": "Continuous Glucose Monitoring (CGM)",
+      "target_entity": "Diabetes",
+      "relationship_type": "REDUCES_ACUTE_COMPLICATIONS_IN",
+      "evidence_level": "Not specified",
+      "conditional_context": "Reductions in acute diabetes complications, such as diabetic ketoacidosis (DKA), episodes of severe hypoglycemia or diabetes-related coma, and hospitalizations for hypoglycemia and hyperglycemia, have been observed in adults with type 1 or type 2 diabetes"
+    },
+    {
+      "source_entity": "Continuous Glucose Monitoring (CGM)",
+      "target_entity": "Diabetes",
+      "relationship_type": "REDUCES_ACUTE_COMPLICATIONS_IN",
+      "evidence_level": "Not specified",
+      "conditional_context": "Similar reductions of acute diabetes events and all-cause inpatient hospitalizations were seen in a retrospective review of adults with type 2 diabetes treated with basal insulin or with noninsulin therapy 6 months after initiation of isCGM"
+    },
+    {
+      "source_entity": "Continuous Glucose Monitoring (CGM)",
+      "target_entity": "A1C levels",
+      "relationship_type": "LOWERS",
+      "evidence_level": "Not specified",
+      "conditional_context": "the use of rtCGM significantly lowered A1C levels"
+    },
+    {
+      "source_entity": "Continuous Glucose Monitoring (CGM)",
+      "target_entity": "Hypoglycemia",
+      "relationship_type": "REDUCES_RATES_OF",
+      "evidence_level": "Not specified",
+      "conditional_context": "but did not significantly lower overall rates of emergency department visits, hospitalizations, or hyperglycemia."
+    },
+    {
+      "source_entity": "Continuous Glucose Monitoring (CGM)",
+      "target_entity": "Diabetes",
+      "relationship_type": "IMPROVES_GLYCEMIC_CONTROL_IN",
+      "evidence_level": "Not specified",
+      "conditional_context": "In this study, rtCGM benefits were observed at 6 months and 12 months versus baseline, with reduction of mean glucose levels, reduction of glucose management indicator (GMI), increase in TIR, increase in time in tight target range (70\u2013140 mg/dL [3.9\u20137.8 mmol/L]), and reduction in TAR >180 mg/dL (>10 mmol/L) and >250 mg/dL (>13.9 mmol/L)"
+    },
+    {
+      "source_entity": "Continuous Glucose Monitoring (CGM)",
+      "target_entity": "Diabetes",
+      "relationship_type": "INDICATED_FOR",
+      "evidence_level": "Not specified",
+      "conditional_context": "CGM indication has expanded to include pregnancy for Dexcom G7, FreeStyle Libre 2, and FreeStyle Libre 3, which enhances care in this population"
+    },
+    {
+      "source_entity": "Professional Continuous Glucose Monitoring",
+      "target_entity": "Diabetes",
+      "relationship_type": "IDENTIFIES_PATTERNS_IN",
+      "evidence_level": "Not specified",
+      "conditional_context": "Professional CGM devices, which provide retrospective data, either blinded or unblinded, for analysis can be used to identify patterns of hypoglycemia and hyperglycemia"
+    },
+    {
+      "source_entity": "Professional Continuous Glucose Monitoring",
+      "target_entity": "Diabetes",
+      "relationship_type": "ASSOCIATED_WITH_LOWER_A1C_IN",
+      "evidence_level": "Not specified",
+      "conditional_context": "Professional CGM in individuals with type 2 diabetes not on insulin at baseline and at 6 months of follow-up resulted in lower A1C at 6 months as well as a shift toward greater use of glucose-lowering medications with cardiometabolic benefits, such as sodium\u2013glucose transporter 2 inhibitors and glucagon-like peptide 1 receptor agonists"
+    },
+    {
+      "source_entity": "Professional Continuous Glucose Monitoring",
+      "target_entity": "Diabetes",
+      "relationship_type": "SHOULD_BE_COUPLED_WITH",
+      "evidence_level": "Not specified",
+      "conditional_context": "Use of professional or intermittent CGM should always be coupled with analysis and interpretation for people with diabetes along with education, as needed, to adjust medication and change lifestyle behaviors"
+    },
+    {
+      "source_entity": "Continuous Glucose Monitoring (CGM)",
+      "target_entity": "Contact dermatitis",
+      "relationship_type": "CAN_CAUSE",
+      "evidence_level": "Not specified",
+      "conditional_context": "Contact dermatitis (both irritant and allergic) has been reported with all devices that attach to the skin"
+    },
+    {
+      "source_entity": "Hydroxyurea",
+      "target_entity": "Continuous Glucose Monitoring (CGM)",
+      "relationship_type": "INTERFERES_WITH",
+      "evidence_level": "Not specified",
+      "conditional_context": "Hydroxyurea, used for myel"
+    }
+  ]
+}

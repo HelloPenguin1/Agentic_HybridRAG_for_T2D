@@ -1,0 +1,1049 @@
+{
+  "interventions": [
+    {
+      "name": "Intensive lifestyle intervention (ILI)",
+      "synonyms": [
+        "prospective intensive lifestyle intervention"
+      ],
+      "source_text": "The Look AHEAD (Action for Health in Diabetes) randomized controlled trial (RCT) demonstrated that people with obesity and type 2 diabetes could achieve and maintain long-term (up to 8 years after trial conclusion) weight loss by participating in a prospective intensive lifestyle intervention (ILI).",
+      "page_number": "S170",
+      "evidence_level": "A",
+      "intervention_type": "Behavioral therapy",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Structured lifestyle management programs",
+      "synonyms": [],
+      "source_text": "In people with diabetes not reaching weight treatment goals, modify or intensify treatment with additional approaches, including structured lifestyle management programs, metabolic surgery, and additional or alternative pharmacologic agents. B",
+      "page_number": "S175",
+      "evidence_level": "B",
+      "intervention_type": "Behavioral therapy",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Medical nutrition therapy (MNT)",
+      "synonyms": [],
+      "source_text": "Individualize initial treatment approaches for obesity (i.e., lifestyle and nutritional therapy, pharmacologic therapy, or metabolic surgery) based on the person\u2019s medical history, life circumstances, and preferences.",
+      "page_number": "S168",
+      "evidence_level": "Unknown",
+      "intervention_type": "Nutritional therapy",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Obesity pharmacotherapy",
+      "synonyms": [],
+      "source_text": "Several therapeutic modalities, including intensive behavioral and lifestyle counseling, obesity pharmacotherapy, and metabolic surgery, may aid in achieving and maintaining meaningful weight loss and reducing obesity-associated health risks.",
+      "page_number": "S166",
+      "evidence_level": "Unknown",
+      "intervention_type": "Pharmacologic therapy",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Metabolic surgery",
+      "synonyms": [],
+      "source_text": "Several therapeutic modalities, including intensive behavioral and lifestyle counseling, obesity pharmacotherapy, and metabolic surgery, may aid in achieving and maintaining meaningful weight loss and reducing obesity-associated health risks.",
+      "page_number": "S166",
+      "evidence_level": "Unknown",
+      "intervention_type": "Surgical intervention",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Very-low-calorie interventions",
+      "synonyms": [
+        "very-low-calorie eating patterns"
+      ],
+      "source_text": "Very-low-calorie interventions (usually 800\u20131,000 kcal/day) are another approach that might be appropriate in some people with diabetes and obesity.",
+      "page_number": "S170",
+      "evidence_level": "Unknown",
+      "intervention_type": "Nutritional therapy",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Multivitamin mineral supplements",
+      "synonyms": [],
+      "source_text": "Multivitamin mineral supplements can be considered for individuals who consume less than 1,200 kcal/day, exclude micronutrient-rich food groups from their usual intake (e.g., fruits and vegetables, whole grains, proteins, nuts, and seeds), are strict vegetarians, have underlying health conditions that impair nutrient absorption, are older (aged >50 years), or experience excessive weight loss (87).",
+      "page_number": "S171",
+      "evidence_level": "Unknown",
+      "intervention_type": "Supplementation",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "GLP-1 receptor agonist (GLP-1 RA)",
+      "synonyms": [],
+      "source_text": "Agents associated with clinically meaningful weight loss include glucagon-like peptide 1 (GLP-1) receptor agonists (RAs) and a dual glucose-dependent insulinotropic polypeptide (GIP) and GLP-1 RA (tirzepatide), and they are the preferred agents in individuals with stable insurance coverage.",
+      "page_number": "S172",
+      "evidence_level": "Unknown",
+      "intervention_type": "Pharmacotherapy",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Dual GIP and GLP-1 RA",
+      "synonyms": [
+        "tirzepatide"
+      ],
+      "source_text": "Agents associated with clinically meaningful weight loss include glucagon-like peptide 1 (GLP-1) receptor agonists (RAs) and a dual glucose-dependent insulinotropic polypeptide (GIP) and GLP-1 RA (tirzepatide), and they are the preferred agents in individuals with stable insurance coverage.",
+      "page_number": "S172",
+      "evidence_level": "Unknown",
+      "intervention_type": "Pharmacotherapy",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Sodium\u2013glucose cotransporter 2 inhibitors",
+      "synonyms": [],
+      "source_text": "Sodium\u2013glucose cotransporter 2 inhibitors, metformin, and amylin mimetics are also associated with weight loss, although the magnitude of weight loss is much smaller (<5% body weight loss).",
+      "page_number": "S172",
+      "evidence_level": "Unknown",
+      "intervention_type": "Pharmacotherapy",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Metformin",
+      "synonyms": [],
+      "source_text": "Sodium\u2013glucose cotransporter 2 inhibitors, metformin, and amylin mimetics are also associated with weight loss, although the magnitude of weight loss is much smaller (<5% body weight loss).",
+      "page_number": "S172",
+      "evidence_level": "Unknown",
+      "intervention_type": "Pharmacotherapy",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Amylin mimetics",
+      "synonyms": [],
+      "source_text": "Sodium\u2013glucose cotransporter 2 inhibitors, metformin, and amylin mimetics are also associated with weight loss, although the magnitude of weight loss is much smaller (<5% body weight loss).",
+      "page_number": "S172",
+      "evidence_level": "Unknown",
+      "intervention_type": "Pharmacotherapy",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Combination naltrexone and bupropion",
+      "synonyms": [],
+      "source_text": "The high risk and prevalence of cardiovascular disease in people with diabetes must be balanced against the lack of long-term cardiovascular outcomes trial data for agents like combination naltrexone and bupropion and combination phentermine and topiramate.",
+      "page_number": "S173",
+      "evidence_level": "Unknown",
+      "intervention_type": "Pharmacotherapy",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Combination phentermine and topiramate",
+      "synonyms": [],
+      "source_text": "The high risk and prevalence of cardiovascular disease in people with diabetes must be balanced against the lack of long-term cardiovascular outcomes trial data for agents like combination naltrexone and bupropion and combination phentermine and topiramate.",
+      "page_number": "S173",
+      "evidence_level": "Unknown",
+      "intervention_type": "Pharmacotherapy",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Setmelanotide",
+      "synonyms": [],
+      "source_text": "In addition, setmelanotide, a melanocortin 4 receptor agonist, is approved for use in cases of rare genetic mutations resulting in severe hyperphagia and extreme obesity, such as leptin receptor deficiency and proopiomelanocortin deficiency.",
+      "page_number": "S173",
+      "evidence_level": "Unknown",
+      "intervention_type": "Pharmacotherapy",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Gastric banding devices",
+      "synonyms": [],
+      "source_text": "While gastric banding devices have fallen out of favor due to their limited long-term efficacy and high rate of complications, several minimally invasive medical devices have been approved by the FDA for short-term weight loss, including implanted gastric balloons, a vagus nerve stimulator, and gastric aspiration therapy.",
+      "page_number": "S176",
+      "evidence_level": "Unknown",
+      "intervention_type": "Medical device",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Implanted gastric balloons",
+      "synonyms": [],
+      "source_text": "While gastric banding devices have fallen out of favor due to their limited long-term efficacy and high rate of complications, several minimally invasive medical devices have been approved by the FDA for short-term weight loss, including implanted gastric balloons, a vagus nerve stimulator, and gastric aspiration therapy.",
+      "page_number": "S176",
+      "evidence_level": "Unknown",
+      "intervention_type": "Medical device",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Vagus nerve stimulator",
+      "synonyms": [],
+      "source_text": "While gastric banding devices have fallen out of favor due to their limited long-term efficacy and high rate of complications, several minimally invasive medical devices have been approved by the FDA for short-term weight loss, including implanted gastric balloons, a vagus nerve stimulator, and gastric aspiration therapy.",
+      "page_number": "S176",
+      "evidence_level": "Unknown",
+      "intervention_type": "Medical device",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Gastric aspiration therapy",
+      "synonyms": [],
+      "source_text": "While gastric banding devices have fallen out of favor due to their limited long-term efficacy and high rate of complications, several minimally invasive medical devices have been approved by the FDA for short-term weight loss, including implanted gastric balloons, a vagus nerve stimulator, and gastric aspiration therapy.",
+      "page_number": "S176",
+      "evidence_level": "Unknown",
+      "intervention_type": "Medical device",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "RYGB (Roux-en-Y gastric bypass)",
+      "synonyms": [],
+      "source_text": "A real-world data analysis through the National Patient-Centered Outcomes Research Network (PCORnet) in the U.S. compared surgical outcomes between 6,233 individuals with type 2 diabetes who underwent RYGB and 3,477 who underwent VSG.",
+      "page_number": "S177",
+      "evidence_level": "Unknown",
+      "intervention_type": "Metabolic surgery",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "VSG (sleeve gastrectomy)",
+      "synonyms": [],
+      "source_text": "A real-world data analysis through the National Patient-Centered Outcomes Research Network (PCORnet) in the U.S. compared surgical outcomes between 6,233 individuals with type 2 diabetes who underwent RYGB and 3,477 who underwent VSG.",
+      "page_number": "S177",
+      "evidence_level": "Unknown",
+      "intervention_type": "Metabolic surgery",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "DSMES",
+      "synonyms": [
+        "Diabetes Self-Management Education and Support"
+      ],
+      "source_text": "For a complete list of members of the American Diabetes Association Professional Practice Committee for Diabetes can be found at https://doi.org/10.2337/dc26-SINT.",
+      "page_number": "S166",
+      "evidence_level": "Unknown",
+      "intervention_type": "Diabetes Self-Management Education and Support",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Lifestyle and nutritional therapy",
+      "synonyms": [],
+      "source_text": "Individualize initial treatment approaches for obesity (i.e., lifestyle and nutritional therapy, pharmacologic therapy, or metabolic surgery) based on the person\u2019s medical history, life circumstances, and preferences.",
+      "page_number": "S168",
+      "evidence_level": "Unknown",
+      "intervention_type": "Behavioral therapy",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Pharmacologic therapy for obesity",
+      "synonyms": [],
+      "source_text": "Individualize initial treatment approaches for obesity (i.e., lifestyle and nutritional therapy, pharmacologic therapy, or metabolic surgery) based on the person\u2019s medical history, life circumstances, and preferences.",
+      "page_number": "S168",
+      "evidence_level": "Unknown",
+      "intervention_type": "Pharmacologic therapy",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Acarbose",
+      "synonyms": [],
+      "source_text": "Medication treatment, if needed, is primarily aimed at slowing carbohydrate absorption (e.g., acarbose) or reducing GLP-1 and insulin secretion (e.g., diazoxide, octreotide) (158).",
+      "page_number": "S178",
+      "evidence_level": "Unknown",
+      "intervention_type": "Pharmacotherapy",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Diazoxide",
+      "synonyms": [],
+      "source_text": "Medication treatment, if needed, is primarily aimed at slowing carbohydrate absorption (e.g., acarbose) or reducing GLP-1 and insulin secretion (e.g., diazoxide, octreotide) (158).",
+      "page_number": "S178",
+      "evidence_level": "Unknown",
+      "intervention_type": "Pharmacotherapy",
+      "duration": null,
+      "frequency": null
+    },
+    {
+      "name": "Octreotide",
+      "synonyms": [],
+      "source_text": "Medication treatment, if needed, is primarily aimed at slowing carbohydrate absorption (e.g., acarbose) or reducing GLP-1 and insulin secretion (e.g., diazoxide, octreotide) (158).",
+      "page_number": "S178",
+      "evidence_level": "Unknown",
+      "intervention_type": "Pharmacotherapy",
+      "duration": null,
+      "frequency": null
+    }
+  ],
+  "behaviors": [
+    {
+      "name": "Weight loss of 5\u20137% of baseline weight",
+      "synonyms": [],
+      "source_text": "Provide weight management treatment, aiming for any magnitude of weight loss. Weight loss of 5\u20137% of baseline weight improves glycemia and other intermediate cardiovascular risk factors.",
+      "page_number": "S168",
+      "evidence_level": "Unknown",
+      "behavior_category": "Weight management",
+      "target_amount": "5-7%"
+    },
+    {
+      "name": "Sustained loss of >10% of body weight",
+      "synonyms": [],
+      "source_text": "A sustained loss of >10% of body weight usually confers greater benefits, including disease-modifying effects and possible remission of type 2 diabetes and may improve long-term cardiovascular outcomes and mortality.",
+      "page_number": "S168",
+      "evidence_level": "Unknown",
+      "behavior_category": "Weight management",
+      "target_amount": ">10%"
+    },
+    {
+      "name": "500\u2013750 kcal/day energy deficit",
+      "synonyms": [],
+      "source_text": "To achieve significant weight loss with lifestyle behavior change programs, creating a 500\u2013750 kcal/day energy deficit is recommended.",
+      "page_number": "S170",
+      "evidence_level": "Unknown",
+      "behavior_category": "Energy deficit",
+      "target_amount": "500-750 kcal/day"
+    },
+    {
+      "name": "Consuming approximately 1,200\u20131,500 kcal/day (women)",
+      "synonyms": [],
+      "source_text": "For most women, this is equal to consuming approximately 1,200\u20131,500 kcal/day, and for most men, this is equal to consuming approximately 1,500\u20131,800 kcal/day, with adjustment for the individual\u2019s baseline body weight.",
+      "page_number": "S170",
+      "evidence_level": "Unknown",
+      "behavior_category": "Caloric intake",
+      "target_amount": "1200-1500 kcal/day"
+    },
+    {
+      "name": "Consuming approximately 1,500\u20131,800 kcal/day (men)",
+      "synonyms": [],
+      "source_text": "For most women, this is equal to consuming approximately 1,200\u20131,500 kcal/day, and for most men, this is equal to consuming approximately 1,500\u20131,800 kcal/day, with adjustment for the individual\u2019s baseline body weight.",
+      "page_number": "S170",
+      "evidence_level": "Unknown",
+      "behavior_category": "Caloric intake",
+      "target_amount": "1500-1800 kcal/day"
+    },
+    {
+      "name": "Reducing processed and ultraprocessed food intake",
+      "synonyms": [],
+      "source_text": "Reducing processed and ultraprocessed food intake is also an encouraging area of ongoing weight loss research.",
+      "page_number": "S170",
+      "evidence_level": "Unknown",
+      "behavior_category": "Dietary pattern",
+      "target_amount": null
+    },
+    {
+      "name": "Low carbohydrate eating patterns",
+      "synonyms": [
+        "low carbohydrate diets"
+      ],
+      "source_text": "There continues to be debate on the physiological basis of obesity (73,74), and low carbohydrate eating patterns continue to be of interest for people with diabetes and health care professionals.",
+      "page_number": "S170",
+      "evidence_level": "Unknown",
+      "behavior_category": "Dietary pattern",
+      "target_amount": null
+    },
+    {
+      "name": "Balanced carbohydrate eating patterns",
+      "synonyms": [
+        "balanced carbohydrate diets"
+      ],
+      "source_text": "Both at 3\u201312 months and up to 2 years after randomization, there were no greater benefits for those consuming low carbohydrate over balanced carbohydrate (defined as carbohydrate intake of 45\u201365% of total energy) in people with or without diabetes.",
+      "page_number": "S170",
+      "evidence_level": "Unknown",
+      "behavior_category": "Dietary pattern",
+      "target_amount": null
+    },
+    {
+      "name": "\u226516 sessions in 6 months of counseling",
+      "synonyms": [],
+      "source_text": "Proven intensive behavioral interventions generally include \u226516 sessions during an initial 6 months and focus on durable nutritional changes, physical activity, and behavioral strategies to achieve a \u223c500\u2013750 kcal/day energy deficit.",
+      "page_number": "S170",
+      "evidence_level": "Unknown",
+      "behavior_category": "Behavioral counseling",
+      "target_amount": ">=16 sessions in 6 months"
+    },
+    {
+      "name": "Very-low-calorie interventions (800\u20131,000 kcal/day)",
+      "synonyms": [],
+      "source_text": "Very-low-calorie interventions (usually 800\u20131,000 kcal/day) are another approach that might be appropriate in some people with diabetes and obesity.",
+      "page_number": "S170",
+      "evidence_level": "Unknown",
+      "behavior_category": "Caloric intake",
+      "target_amount": "800-1000 kcal/day"
+    },
+    {
+      "name": "Physical activity",
+      "synonyms": [],
+      "source_text": "Physical activity is beneficial to people with diabetes and overweight or obesity for numerous reasons, primarily for maintaining and improving overall health, and should be encouraged not only for weight loss.",
+      "page_number": "S171",
+      "evidence_level": "Unknown",
+      "behavior_category": "Physical activity",
+      "target_amount": null
+    },
+    {
+      "name": "150 min of physical activity per week",
+      "synonyms": [],
+      "source_text": "Like all adults, people with overweight and obesity should be encouraged to do activities they enjoy, with an eventual goal of getting 150 min of physical activity per week.",
+      "page_number": "S171",
+      "evidence_level": "Unknown",
+      "behavior_category": "Physical activity",
+      "target_amount": "150 min/week"
+    },
+    {
+      "name": "Regular physical activity (\u226560 min/day)",
+      "synonyms": [],
+      "source_text": "For individuals stopping GLP-1 RA therapies, regular physical activity (\u226560 min/day), self-monitoring, and dietary patterns emphasizing minimally processed, nutrient-dense foods are strategies reported by individuals in the National Weight Control Registry who were successful in maintaining long-term weight loss that could potentially mitigate weight recurrence.",
+      "page_number": "S176",
+      "evidence_level": "Unknown",
+      "behavior_category": "Physical activity",
+      "target_amount": ">=60 min/day"
+    },
+    {
+      "name": "Dietary patterns emphasizing minimally processed, nutrient-dense foods",
+      "synonyms": [],
+      "source_text": "For individuals stopping GLP-1 RA therapies, regular physical activity (\u226560 min/day), self-monitoring, and dietary patterns emphasizing minimally processed, nutrient-dense foods are strategies reported by individuals in the National Weight Control Registry who were successful in maintaining long-term weight loss that could potentially mitigate weight recurrence.",
+      "page_number": "S176",
+      "evidence_level": "Unknown",
+      "behavior_category": "Dietary pattern",
+      "target_amount": null
+    },
+    {
+      "name": "Weight maintenance strategies",
+      "synonyms": [],
+      "source_text": "As weight recurrence is common, such interventions should include long-term, comprehensive weight maintenance strategies and counseling to maintain weight loss and behavioral changes (81).",
+      "page_number": "S170",
+      "evidence_level": "Unknown",
+      "behavior_category": "Weight management",
+      "target_amount": null
+    },
+    {
+      "name": "Resistance training",
+      "synonyms": [],
+      "source_text": "To preserve lean mass, health care professionals should emphasize the importance of optimizing protein intake alongside resistance training and encourage protein supplementation as needed (90).",
+      "page_number": "S171",
+      "evidence_level": "Unknown",
+      "behavior_category": "Physical activity",
+      "target_amount": null
+    },
+    {
+      "name": "Optimizing protein intake",
+      "synonyms": [],
+      "source_text": "To preserve lean mass, health care professionals should emphasize the importance of optimizing protein intake alongside resistance training and encourage protein supplementation as needed (90).",
+      "page_number": "S171",
+      "evidence_level": "Unknown",
+      "behavior_category": "Nutritional intake",
+      "target_amount": null
+    },
+    {
+      "name": "Adequate fiber and water intake",
+      "synonyms": [],
+      "source_text": "Also encouraging adequate fiber and water intake to prevent and manage constipation for people consuming very-low-calorie eating patterns can be useful.",
+      "page_number": "S171",
+      "evidence_level": "Unknown",
+      "behavior_category": "Nutritional intake",
+      "target_amount": null
+    },
+    {
+      "name": "Medication adherence",
+      "synonyms": [],
+      "source_text": "The response to all obesity pharmacotherapies is highly heterogeneous; therefore, their weight loss effectiveness should be reevaluated after initiation and therapy adjustments should be considered, if needed.",
+      "page_number": "S174",
+      "evidence_level": "Unknown",
+      "behavior_category": "Treatment adherence",
+      "target_amount": null
+    },
+    {
+      "name": "Using reliable methods of contraception",
+      "synonyms": [],
+      "source_text": "Individuals of childbearing potential should receive counseling regarding the use of reliable methods of contraception while using weight loss medications.",
+      "page_number": "S174",
+      "evidence_level": "Unknown",
+      "behavior_category": "Contraception",
+      "target_amount": null
+    },
+    {
+      "name": "Switch to a nonoral contraceptive method or add a barrier method",
+      "synonyms": [],
+      "source_text": "Tirzepatide in particular may reduce the efficacy of oral hormonal contraceptives due to delayed gastric emptying, an effect that is largest after the first dose and diminishes over time. Individuals using oral hormonal contraceptives should switch to a nonoral contraceptive method or add a barrier method of contraception for 4 weeks after initiation and for 4 weeks after each dose escalation.",
+      "page_number": "S174",
+      "evidence_level": "Unknown",
+      "behavior_category": "Contraception",
+      "target_amount": null
+    },
+    {
+      "name": "Self-monitoring",
+      "synonyms": [],
+      "source_text": "For individuals stopping GLP-1 RA therapies, regular physical activity (\u226560 min/day), self-monitoring, and dietary patterns emphasizing minimally processed, nutrient-dense foods are strategies reported by individuals in the National Weight Control Registry who were successful in maintaining long-term weight loss that could potentially mitigate weight recurrence.",
+      "page_number": "S176",
+      "evidence_level": "Unknown",
+      "behavior_category": "Monitoring",
+      "target_amount": null
+    },
+    {
+      "name": "Slowing carbohydrate absorption",
+      "synonyms": [],
+      "source_text": "Medication treatment, if needed, is primarily aimed at slowing carbohydrate absorption (e.g., acarbose) or reducing GLP-1 and insulin secretion (e.g., diazoxide, octreotide) (158).",
+      "page_number": "S178",
+      "evidence_level": "Unknown",
+      "behavior_category": "Dietary management",
+      "target_amount": null
+    },
+    {
+      "name": "Reducing GLP-1 and insulin secretion",
+      "synonyms": [],
+      "source_text": "Medication treatment, if needed, is primarily aimed at slowing carbohydrate absorption (e.g., acarbose) or reducing GLP-1 and insulin secretion (e.g., diazoxide, octreotide) (158).",
+      "page_number": "S178",
+      "evidence_level": "Unknown",
+      "behavior_category": "Hormonal regulation",
+      "target_amount": null
+    },
+    {
+      "name": "Maintaining a critical carbohydrate intake",
+      "synonyms": [],
+      "source_text": "Thus, it is essential to counsel people with type 1 diabetes who start treatment with a GLP-1 RA or a dual GIP and GLP-1 RA on anticipating an increased risk of hypoglycemia and a reduction in insulin requirements, on maintaining a critical carbohydrate intake, and on testing for excess ketone body production.",
+      "page_number": "S179",
+      "evidence_level": "Unknown",
+      "behavior_category": "Dietary pattern",
+      "target_amount": null
+    },
+    {
+      "name": "Testing for excess ketone body production",
+      "synonyms": [],
+      "source_text": "Thus, it is essential to counsel people with type 1 diabetes who start treatment with a GLP-1 RA or a dual GIP and GLP-1 RA on anticipating an increased risk of hypoglycemia and a reduction in insulin requirements, on maintaining a critical carbohydrate intake, and on testing for excess ketone body production.",
+      "page_number": "S179",
+      "evidence_level": "Unknown",
+      "behavior_category": "Monitoring",
+      "target_amount": null
+    }
+  ],
+  "social_determinants": [
+    {
+      "name": "Health disparities",
+      "synonyms": [],
+      "source_text": "Health disparities adversely affect people who have systematically experienced greater obstacles to health based on their race or ethnicity, socioeconomic status, gender identity, disability, or other factors.",
+      "page_number": "S171",
+      "evidence_level": "Unknown",
+      "sdoh_category": "Systemic barriers",
+      "screening_tool": null
+    },
+    {
+      "name": "Socioeconomic factors",
+      "synonyms": [],
+      "source_text": "Assessing a person\u2019s motivation level, life circumstances, cultural considerations, socioeconomic factors, and ability to implement behavioral changes to achieve weight loss should be considered along with medical status when such interventions are recommended and initiated (41,77).",
+      "page_number": "S170",
+      "evidence_level": "Unknown",
+      "sdoh_category": "Socioeconomic status",
+      "screening_tool": null
+    },
+    {
+      "name": "Cultural considerations",
+      "synonyms": [],
+      "source_text": "Assessing a person\u2019s motivation level, life circumstances, cultural considerations, socioeconomic factors, and ability to implement behavioral changes to achieve weight loss should be considered along with medical status when such interventions are recommended and initiated (41,77).",
+      "page_number": "S170",
+      "evidence_level": "Unknown",
+      "sdoh_category": "Cultural factors",
+      "screening_tool": null
+    },
+    {
+      "name": "Food choices",
+      "synonyms": [],
+      "source_text": "Health care professionals should evaluate systemic, structural, and socioeconomic factors that may impact food choices, access to healthful foods, and nutrition patterns; behavioral patterns, such as neighborhood safety and availability of safe outdoor spaces for physical activity; environmental exposures; access to health care; social contexts; and, ultimately, diabetes risk and outcomes.",
+      "page_number": "S171",
+      "evidence_level": "Unknown",
+      "sdoh_category": "Access to healthy food",
+      "screening_tool": null
+    },
+    {
+      "name": "Access to healthful foods",
+      "synonyms": [],
+      "source_text": "Health care professionals should evaluate systemic, structural, and socioeconomic factors that may impact food choices, access to healthful foods, and nutrition patterns; behavioral patterns, such as neighborhood safety and availability of safe outdoor spaces for physical activity; environmental exposures; access to health care; social contexts; and, ultimately, diabetes risk and outcomes.",
+      "page_number": "S171",
+      "evidence_level": "Unknown",
+      "sdoh_category": "Access to healthy food",
+      "screening_tool": null
+    },
+    {
+      "name": "Neighborhood safety",
+      "synonyms": [],
+      "source_text": "Health care professionals should evaluate systemic, structural, and socioeconomic factors that may impact food choices, access to healthful foods, and nutrition patterns; behavioral patterns, such as neighborhood safety and availability of safe outdoor spaces for physical activity; environmental exposures; access to health care; social contexts; and, ultimately, diabetes risk and outcomes.",
+      "page_number": "S171",
+      "evidence_level": "Unknown",
+      "sdoh_category": "Environment",
+      "screening_tool": null
+    },
+    {
+      "name": "Availability of safe outdoor spaces for physical activity",
+      "synonyms": [],
+      "source_text": "Health care professionals should evaluate systemic, structural, and socioeconomic factors that may impact food choices, access to healthful foods, and nutrition patterns; behavioral patterns, such as neighborhood safety and availability of safe outdoor spaces for physical activity; environmental exposures; access to health care; social contexts; and, ultimately, diabetes risk and outcomes.",
+      "page_number": "S171",
+      "evidence_level": "Unknown",
+      "sdoh_category": "Environment",
+      "screening_tool": null
+    },
+    {
+      "name": "Access to health care",
+      "synonyms": [],
+      "source_text": "Health care professionals should evaluate systemic, structural, and socioeconomic factors that may impact food choices, access to healthful foods, and nutrition patterns; behavioral patterns, such as neighborhood safety and availability of safe outdoor spaces for physical activity; environmental exposures; access to health care; social contexts; and, ultimately, diabetes risk and outcomes.",
+      "page_number": "S171",
+      "evidence_level": "Unknown",
+      "sdoh_category": "Access to healthcare",
+      "screening_tool": null
+    },
+    {
+      "name": "Social contexts",
+      "synonyms": [],
+      "source_text": "Health care professionals should evaluate systemic, structural, and socioeconomic factors that may impact food choices, access to healthful foods, and nutrition patterns; behavioral patterns, such as neighborhood safety and availability of safe outdoor spaces for physical activity; environmental exposures; access to health care; social contexts; and, ultimately, diabetes risk and outcomes.",
+      "page_number": "S171",
+      "evidence_level": "Unknown",
+      "sdoh_category": "Social environment",
+      "screening_tool": null
+    },
+    {
+      "name": "Financial barriers",
+      "synonyms": [],
+      "source_text": "Medication cost and insurance coverage considerations often influence treatment decisions, and payors should cover evidence-based obesity treatments for people with diabetes and prediabetes to reduce barriers to treatment access.",
+      "page_number": "S176",
+      "evidence_level": "Unknown",
+      "sdoh_category": "Economic factors",
+      "screening_tool": null
+    },
+    {
+      "name": "Insurance coverage",
+      "synonyms": [],
+      "source_text": "Medication cost and insurance coverage considerations often influence treatment decisions, and payors should cover evidence-based obesity treatments for people with diabetes and prediabetes to reduce barriers to treatment access.",
+      "page_number": "S176",
+      "evidence_level": "Unknown",
+      "sdoh_category": "Economic factors",
+      "screening_tool": null
+    }
+  ],
+  "outcomes": [
+    {
+      "name": "Delay progression from prediabetes to type 2 diabetes",
+      "synonyms": [],
+      "source_text": "There is strong and consistent evidence that obesity management can delay the progression from prediabetes to type 2 diabetes (2\u20136) and is highly beneficial in treating type 2 diabetes (7\u201315).",
+      "page_number": "S166",
+      "evidence_level": "Unknown",
+      "outcome_type": "Disease prevention",
+      "magnitude": null
+    },
+    {
+      "name": "Improved glycemia",
+      "synonyms": [],
+      "source_text": "In people with type 2 diabetes and overweight or obesity, modest weight loss improves glycemia and reduces the need for glucose-lowering medications, particularly insulin (7,16,17), and greater weight loss substantially reduces A1C and fasting glucose and may promote sustained diabetes remission (9,18\u201321).",
+      "page_number": "S166",
+      "evidence_level": "Unknown",
+      "outcome_type": "Glycemic control",
+      "magnitude": null
+    },
+    {
+      "name": "Reduced need for glucose-lowering medications",
+      "synonyms": [],
+      "source_text": "In people with type 2 diabetes and overweight or obesity, modest weight loss improves glycemia and reduces the need for glucose-lowering medications, particularly insulin (7,16,17), and greater weight loss substantially reduces A1C and fasting glucose and may promote sustained diabetes remission (9,18\u201321).",
+      "page_number": "S166",
+      "evidence_level": "Unknown",
+      "outcome_type": "Medication reduction",
+      "magnitude": null
+    },
+    {
+      "name": "Substantially reduces A1C",
+      "synonyms": [],
+      "source_text": "In people with type 2 diabetes and overweight or obesity, modest weight loss improves glycemia and reduces the need for glucose-lowering medications, particularly insulin (7,16,17), and greater weight loss substantially reduces A1C and fasting glucose and may promote sustained diabetes remission (9,18\u201321).",
+      "page_number": "S166",
+      "evidence_level": "Unknown",
+      "outcome_type": "Glycemic control",
+      "magnitude": "substantial reduction"
+    },
+    {
+      "name": "Substantially reduces fasting glucose",
+      "synonyms": [],
+      "source_text": "In people with type 2 diabetes and overweight or obesity, modest weight loss improves glycemia and reduces the need for glucose-lowering medications, particularly insulin (7,16,17), and greater weight loss substantially reduces A1C and fasting glucose and may promote sustained diabetes remission (9,18\u201321).",
+      "page_number": "S166",
+      "evidence_level": "Unknown",
+      "outcome_type": "Glycemic control",
+      "magnitude": "substantial reduction"
+    },
+    {
+      "name": "Sustained diabetes remission",
+      "synonyms": [],
+      "source_text": "In people with type 2 diabetes and overweight or obesity, modest weight loss improves glycemia and reduces the need for glucose-lowering medications, particularly insulin (7,16,17), and greater weight loss substantially reduces A1C and fasting glucose and may promote sustained diabetes remission (9,18\u201321).",
+      "page_number": "S166",
+      "evidence_level": "Unknown",
+      "outcome_type": "Diabetes remission",
+      "magnitude": null
+    },
+    {
+      "name": "Improved quality of life",
+      "synonyms": [],
+      "source_text": "Metabolic surgery, which results in an average >20% body weight loss, greatly improving glycemia and often leading to remission of diabetes, improved quality of life, improved cardiovascular outcomes, and reduced mortality (22,23).",
+      "page_number": "S166",
+      "evidence_level": "Unknown",
+      "outcome_type": "Quality of life",
+      "magnitude": null
+    },
+    {
+      "name": "Improved cardiovascular outcomes",
+      "synonyms": [],
+      "source_text": "Metabolic surgery, which results in an average >20% body weight loss, greatly improving glycemia and often leading to remission of diabetes, improved quality of life, improved cardiovascular outcomes, and reduced mortality (22,23).",
+      "page_number": "S166",
+      "evidence_level": "Unknown",
+      "outcome_type": "Cardiovascular health",
+      "magnitude": null
+    },
+    {
+      "name": "Reduced mortality",
+      "synonyms": [],
+      "source_text": "Metabolic surgery, which results in an average >20% body weight loss, greatly improving glycemia and often leading to remission of diabetes, improved quality of life, improved cardiovascular outcomes, and reduced mortality (22,23).",
+      "page_number": "S166",
+      "evidence_level": "Unknown",
+      "outcome_type": "Mortality",
+      "magnitude": null
+    },
+    {
+      "name": "Weight loss of >20% body weight",
+      "synonyms": [],
+      "source_text": "Metabolic surgery, which results in an average >20% body weight loss, greatly improving glycemia and often leading to remission of diabetes, improved quality of life, improved cardiovascular outcomes, and reduced mortality (22,23).",
+      "page_number": "S166",
+      "evidence_level": "Unknown",
+      "outcome_type": "Weight management",
+      "magnitude": ">20%"
+    },
+    {
+      "name": "Improved intermediate cardiovascular risk factors",
+      "synonyms": [],
+      "source_text": "Weight loss of 5\u20137% of baseline weight improves glycemia and other intermediate cardiovascular risk factors.",
+      "page_number": "S168",
+      "evidence_level": "Unknown",
+      "outcome_type": "Cardiovascular health",
+      "magnitude": null
+    },
+    {
+      "name": "Disease-modifying effects",
+      "synonyms": [],
+      "source_text": "A sustained loss of >10% of body weight usually confers greater benefits, including disease-modifying effects and possible remission of type 2 diabetes and may improve long-term cardiovascular outcomes and mortality.",
+      "page_number": "S168",
+      "evidence_level": "Unknown",
+      "outcome_type": "Disease modification",
+      "magnitude": null
+    },
+    {
+      "name": "Improved long-term cardiovascular outcomes",
+      "synonyms": [],
+      "source_text": "A sustained loss of >10% of body weight usually confers greater benefits, including disease-modifying effects and possible remission of type 2 diabetes and may improve long-term cardiovascular outcomes and mortality.",
+      "page_number": "S168",
+      "evidence_level": "Unknown",
+      "outcome_type": "Cardiovascular health",
+      "magnitude": null
+    },
+    {
+      "name": "Reduced risk of mortality",
+      "synonyms": [],
+      "source_text": "Additionally, compared with the diabetes support and education group, ILI participants who lost \u226510% at 1 year had a 21% reduced risk of mortality (hazard ratio 0.79 [95% CI 0.67, 0.94]; P = 0.007) (62).",
+      "page_number": "S170",
+      "evidence_level": "Unknown",
+      "outcome_type": "Mortality",
+      "magnitude": "21% reduced risk"
+    },
+    {
+      "name": "Improved trunk fat loss",
+      "synonyms": [],
+      "source_text": "The Preventing Overweight Using Novel Dietary Strategies (POUNDS) Lost trial reported small but significant improvements when ultraprocessed foods were replaced isocalorically by less processed foods, with improved trunk fat loss (\u03b2 = 3.9 [95% CI \u22127.01 to \u22120.70]; P = 0.02) (71).",
+      "page_number": "S170",
+      "evidence_level": "Unknown",
+      "outcome_type": "Body composition",
+      "magnitude": null
+    },
+    {
+      "name": "Improved metabolic function",
+      "synonyms": [],
+      "source_text": "Both at 3\u201312 months and up to 2 years after randomization, there were no greater benefits for those consuming low carbohydrate over balanced carbohydrate (defined as carbohydrate intake of 45\u201365% of total energy) in people with or without diabetes.",
+      "page_number": "S170",
+      "evidence_level": "Unknown",
+      "outcome_type": "Metabolic health",
+      "magnitude": null
+    },
+    {
+      "name": "Improved glycemic improvements",
+      "synonyms": [],
+      "source_text": "As evidenced by findings from the U.K.-based DiRECT (Diabetes Remission Clinical Trial), structured, very-low-calorie eating patterns, using high-protein foods and meal replacement products, may increase the pace and/or magnitude of initial weight loss and glycemic improvements compared with standard behavioral interventions (20,21,78).",
+      "page_number": "S170",
+      "evidence_level": "Unknown",
+      "outcome_type": "Glycemic control",
+      "magnitude": null
+    },
+    {
+      "name": "Weight recurrence",
+      "synonyms": [],
+      "source_text": "As weight recurrence is common, such interventions should include long-term, comprehensive weight maintenance strategies and counseling to maintain weight loss and behavioral changes (81).",
+      "page_number": "S170",
+      "evidence_level": "Unknown",
+      "outcome_type": "Weight management",
+      "magnitude": null
+    },
+    {
+      "name": "Reduced need for blood pressure-lowering medications",
+      "synonyms": [],
+      "source_text": "Almost one-third of the Look AHEAD intensive lifestyle group participants lost and maintained \u226510% of their initial body weight at 8 years and required fewer glucose-, blood pressure-, and lipid-lowering medications than those randomly assigned to standard care (46).",
+      "page_number": "S170",
+      "evidence_level": "Unknown",
+      "outcome_type": "Medication reduction",
+      "magnitude": null
+    },
+    {
+      "name": "Reduced need for lipid-lowering medications",
+      "synonyms": [],
+      "source_text": "Almost one-third of the Look AHEAD intensive lifestyle group participants lost and maintained \u226510% of their initial body weight at 8 years and required fewer glucose-, blood pressure-, and lipid-lowering medications than those randomly assigned to standard care (46).",
+      "page_number": "S170",
+      "evidence_level": "Unknown",
+      "outcome_type": "Medication reduction",
+      "magnitude": null
+    },
+    {
+      "name": "Improved cardiorespiratory fitness",
+      "synonyms": [],
+      "source_text": "Rather, physical activity should be encouraged because it can improve quality of life, cardiorespiratory fitness, and glycemic management efforts and reduce mortality (93\u201396).",
+      "page_number": "S171",
+      "evidence_level": "Unknown",
+      "outcome_type": "Physical fitness",
+      "magnitude": null
+    },
+    {
+      "name": "Improved glycemic management efforts",
+      "synonyms": [],
+      "source_text": "Rather, physical activity should be encouraged because it can improve quality of life, cardiorespiratory fitness, and glycemic management efforts and reduce mortality (93\u201396).",
+      "page_number": "S171",
+      "evidence_level": "Unknown",
+      "outcome_type": "Glycemic control",
+      "magnitude": null
+    },
+    {
+      "name": "Weight loss effectiveness",
+      "synonyms": [],
+      "source_text": "The response to all obesity pharmacotherapies is highly heterogeneous; therefore, their weight loss effectiveness should be reevaluated after initiation and therapy adjustments should be considered, if needed.",
+      "page_number": "S174",
+      "evidence_level": "Unknown",
+      "outcome_type": "Weight management",
+      "magnitude": null
+    },
+    {
+      "name": "Improved glycemia in people with type 2 diabetes",
+      "synonyms": [],
+      "source_text": "Nearly all FDA-approved obesity pharmacotherapies have been shown to improve glycemia in people with type 2 diabetes and delay progression to type 2 diabetes in at-risk individuals (4,5,11\u201314,54,107\u2013111) and some of these agents (e.g., liraglutide, semaglutide, and tirzepatide) have a dual indication for glucose lowering as well as weight management.",
+      "page_number": "S173",
+      "evidence_level": "Unknown",
+      "outcome_type": "Glycemic control",
+      "magnitude": null
+    },
+    {
+      "name": "Delay progression to type 2 diabetes",
+      "synonyms": [],
+      "source_text": "Nearly all FDA-approved obesity pharmacotherapies have been shown to improve glycemia in people with type 2 diabetes and delay progression to type 2 diabetes in at-risk individuals (4,5,11\u201314,54,107\u2013111) and some of these agents (e.g., liraglutide, semaglutide, and tirzepatide) have a dual indication for glucose lowering as well as weight management.",
+      "page_number": "S173",
+      "evidence_level": "Unknown",
+      "outcome_type": "Disease prevention",
+      "magnitude": null
+    },
+    {
+      "name": "Weight loss",
+      "synonyms": [],
+      "source_text": "Nearly all FDA-approved obesity pharmacotherapies have been shown to improve glycemia in people with type 2 diabetes and delay progression to type 2 diabetes in at-risk individuals (4,5,11\u201314,54,107\u2013111) and some of these agents (e.g., liraglutide, semaglutide, and tirzepatide) have a dual indication for glucose lowering as well as weight management.",
+      "page_number": "S173",
+      "evidence_level": "Unknown",
+      "outcome_type": "Weight management",
+      "magnitude": null
+    },
+    {
+      "name": "Nutritional deficiencies",
+      "synonyms": [],
+      "source_text": "Nutrition deficiencies might be more of a concern in people receiving pharmacotherapy for obesity management.",
+      "page_number": "S174",
+      "evidence_level": "Unknown",
+      "outcome_type": "Nutritional status",
+      "magnitude": null
+    },
+    {
+      "name": "Vitamin D deficiency",
+      "synonyms": [],
+      "source_text": "Vitamin D deficiency was the most frequently diagnosed subtype (6-month incidence was 7.5%; 12-month incidence was 13.6%) (85).",
+      "page_number": "S174",
+      "evidence_level": "Unknown",
+      "outcome_type": "Nutritional status",
+      "magnitude": null
+    },
+    {
+      "name": "Weight loss maintenance",
+      "synonyms": [],
+      "source_text": "Obesity is a chronic, relapsing disease, similar to hypertension, and typically requires continuation of pharmacotherapy after weight reduction goals are achieved to sustain weight loss and health benefits.",
+      "page_number": "S175",
+      "evidence_level": "Unknown",
+      "outcome_type": "Weight management",
+      "magnitude": null
+    },
+    {
+      "name": "Sustained weight loss",
+      "synonyms": [],
+      "source_text": "Clinical trials have shown that sudden discontinuation of semaglutide and tirzepatide results in weight recurrence of one-half to two-thirds of the weight loss within 1 year with reversal of cardiometabolic improvements (122\u2013124).",
+      "page_number": "S175",
+      "evidence_level": "Unknown",
+      "outcome_type": "Weight management",
+      "magnitude": null
+    },
+    {
+      "name": "Reversal of cardiometabolic improvements",
+      "synonyms": [],
+      "source_text": "Clinical trials have shown that sudden discontinuation of semaglutide and tirzepatide results in weight recurrence of one-half to two-thirds of the weight loss within 1 year with reversal of cardiometabolic improvements (122\u2013124).",
+      "page_number": "S175",
+      "evidence_level": "Unknown",
+      "outcome_type": "Metabolic health",
+      "magnitude": null
+    },
+    {
+      "name": "Type 2 diabetes remission",
+      "synonyms": [],
+      "source_text": "At 1 year after surgery, those who had RYGB lost on average 29.1% of their total body weight, while those who had VSG lost on average 22.8% of their total body weight. At 5 years after surgery, the total body weight loss was 24.1% for those who had RYGB and 16.1% for those who had VSG, with 86.1% of individuals experiencing type 2 diabetes remission after RYGB and 83.5% of individuals experiencing type 2 diabetes remission after VSG.",
+      "page_number": "S177",
+      "evidence_level": "Unknown",
+      "outcome_type": "Diabetes remission",
+      "magnitude": null
+    },
+    {
+      "name": "Improved glycemic management",
+      "synonyms": [],
+      "source_text": "The American Society for Metabolic and Bariatric Surgery recommends metabolic surgery for people with type 2 diabetes and a BMI \u226530 kg/m\u00b2 (or \u226527.5 kg/m\u00b2 for Asian American individuals) in surgically eligible individuals.",
+      "page_number": "S177",
+      "evidence_level": "Unknown",
+      "outcome_type": "Glycemic control",
+      "magnitude": null
+    },
+    {
+      "name": "Reduced perioperative mortality rates",
+      "synonyms": [],
+      "source_text": "Perioperative mortality rates are typically 0.1\u20130.5%, similar to those for common abdominal procedures such as cholecystectomy and hysterectomy (149,150).",
+      "page_number": "S177",
+      "evidence_level": "Unknown",
+      "outcome_type": "Mortality",
+      "magnitude": null
+    },
+    {
+      "name": "Major complications",
+      "synonyms": [],
+      "source_text": "Major complications occur in 2\u20136% of those undergoing metabolic surgery, which compares favorably with the rates for other commonly performed elective operations (150).",
+      "page_number": "S177",
+      "evidence_level": "Unknown",
+      "outcome_type": "Complications",
+      "magnitude": null
+    },
+    {
+      "name": "Minor complications",
+      "synonyms": [],
+      "source_text": "Minor complications and need for operative reintervention occur in up to 15% (149,151\u2013153).",
+      "page_number": "S177",
+      "evidence_level": "Unknown",
+      "outcome_type": "Complications",
+      "magnitude": null
+    },
+    {
+      "name": "Need for operative reintervention",
+      "synonyms": [],
+      "source_text": "Minor complications and need for operative reintervention occur in up to 15% (149,151\u2013153).",
+      "page_number": "S177",
+      "evidence_level": "Unknown",
+      "outcome_type": "Complications",
+      "magnitude": null
+    },
+    {
+      "name": "Erosion of diabetes remission over time",
+      "synonyms": [],
+      "source_text": "Available data suggest an erosion of diabetes remission over time (52,144); 35\u201350% of individuals who initially achieve remission of diabetes eventually experience recurrence.",
+      "page_number": "S178",
+      "evidence_level": "Unknown",
+      "outcome_type": "Diabetes remission",
+      "magnitude": null
+    },
+    {
+      "name": "Substantial improvement of glycemia from baseline",
+      "synonyms": [],
+      "source_text": "Still, the median disease-free period among such individuals following RYGB is 8.3 years (144,145), and the majority of those who undergo surgery maintain substantial improvement of glycemia from baseline for at least 5\u201315 years (51,130,131,133).",
+      "page_number": "S178",
+      "evidence_level": "Unknown",
+      "outcome_type": "Glycemic control",
+      "magnitude": null
+    },
+    {
+      "name": "Increased risk for substance use",
+      "synonyms": [],
+      "source_text": "People who undergo metabolic surgery may be at increased risk for substance use, worsening or new-onset depression and/or anxiety disorders, and suicidal ideation (159\u2013162).",
+      "page_number": "S178",
+      "evidence_level": "Unknown",
+      "outcome_type": "Mental health",
+      "magnitude": null
+    },
+    {
+      "name": "Worsening or new-onset depression and/or anxiety disorders",
+      "synonyms": [],
+      "source_text": "People who undergo metabolic surgery may be at increased risk for substance use, worsening or new-onset depression and/or anxiety disorders, and suicidal ideation (159\u2013162).",
+      "page_number": "S178",
+      "evidence_level": "Unknown",
+      "outcome_type": "Mental health",
+      "magnitude": null
+    },
+    {
+      "name": "Suicidal ideation",
+      "synonyms": [],
+      "source_text": "People who undergo metabolic surgery may be at increased risk for substance use, worsening or new-onset depression and/or anxiety disorders, and suicidal ideation (159\u2013162).",
+      "page_number": "S178",
+      "evidence_level": "Unknown",
+      "outcome_type": "Mental health",
+      "magnitude": null
+    },
+    {
+      "name": "Increased risk of hypoglycemia",
+      "synonyms": [],
+      "source_text": "Thus, it is essential to counsel people with type 1 diabetes who start treatment with a GLP-1 RA or a dual GIP and GLP-1 RA on anticipating an increased risk of hypoglycemia and a reduction in insulin requirements, on maintaining a critical carbohydrate intake, and on testing for excess ketone body production.",
+      "page_number": "S179",
+      "evidence_level": "Unknown",
+      "outcome_type": "Adverse event",
+      "magnitude": null
+    },
+    {
+      "name": "Reduction in insulin requirements",
+      "synonyms": [],
+      "source_text": "Thus, it is essential to counsel people with type 1 diabetes who start treatment with a GLP-1 RA or a dual GIP and GLP-1 RA on anticipating an increased risk of hypoglycemia and a reduction in insulin requirements, on maintaining a critical carbohydrate intake, and on testing for excess ketone body production.",
+      "page_number": "S179",
+      "evidence_level": "Unknown",
+      "outcome_type": "Medication reduction",
+      "magnitude": null
+    },
+    {
+      "name": "Diabetic ketoacidosis",
+      "synonyms": [],
+      "source_text": "Also, a frequency of diabetic ketoacidosis ranging between 15% and 20% (181,182)\u2014often in the first days after surgery and concomitantly with reduced carbohydrate intake and insulin doses\u2014and enhanced risk of hypoglycemia (182) are key safety issues that should be discussed in detail with people with type 1 diabetes considering metabolic surgery.",
+      "page_number": "S179",
+      "evidence_level": "Unknown",
+      "outcome_type": "Complication",
+      "magnitude": null
+    },
+    {
+      "name": "Dumping syndrome",
+      "synonyms": [],
+      "source_text": "In addition, long-term surgical complications like dumping syndrome are particularly challenging to manage in people with type 1 diabetes.",
+      "page_number": "S179",
+      "evidence_level": "Unknown",
+      "outcome_type": "Complication",
+      "magnitude": null
+    }
+  ],
+  "screening_tools": [],
+  "relationships": [
+    {
+      "source_entity": "Obesity",
+      "target_entity": "Type 2 Diabetes",
+      "relationship_type": "INCREASED_RISK_FOR",
+      "evidence_level": "Unknown",
+      "conditional_context": "General population with obesity, often relapsing disease with numerous metabolic, physical, and psychosocial complications, including a substantially increased risk for the development and progression of type 2 diabetes (1). There is strong and consistent evidence that obesity management can delay the progression from prediabetes to type 2 diabetes (2\u20136) and is highly beneficial in treating type 2 diabetes (7\u201315). In people with type 2 diabetes and overweight or obesity, modest weight loss improves glycemia and reduces the need for glucose-lowering medications, particularly insulin (7,16,17), and greater weight loss substantially reduces A1C and fasting glucose and may promote sustained diabetes remission (9,18\u201321). Metabolic surgery, which results in an average >20% body weight loss, greatly improving glycemia and often leading to remission of diabetes, improved quality of life, improved cardiovascular outcomes, and reduced mortality (22,23). Several therapeutic modalities, including intensive behavioral and lifestyle counseling, obesity pharmacotherapy, and metabolic surgery, may aid in achieving and maintaining meaningful weight loss and reducing obesity-associated health risks. This section aims to provide evidence-based recommendations for obesity and weight management, including behavioral, pharmacologic, and surgical interventions, in people with, or at high risk of, diabetes. Additional considerations regarding weight management in older individuals and children and adolescents can be found in section 13, \u201cOlder Adults,\u201d and section 14, \u201cChildren and Adolescents.\u201d (e.g., \u201cperson with obesity\u201d rather than \u201cobese person\u201d and \u201cperson with diabetes\u201d rather than \u201cdiabetic person\u201d). 8.2 Use person-centered, nonjudgmental language that fosters collaboration between individuals and health care professionals, including person-first language. *A complete list of members of the American Diabetes Association Professional Practice Committee for Diabetes can be found at https://doi.org/10.2337/dc26-SINT. This section has received endorsement from The Obesity Society. Duality of interest information for each contributor is available at https://doi.org/10.2337/dc26-SDIS. Suggested citation: American Diabetes Association Professional Practice Committee for Diabetes. 8. Obesity and weight management for the prevention and treatment of diabetes: Standards of Care in Diabetes\u20142026. Diabetes Care 2026;49 (Suppl. 1):S166\u2013S182. \u00a9 2025 by the American Diabetes Association. Readers may use this work for educational, noncommercial purposes if properly cited and unaltered. The version of record may be linked at https://diabetesjournals.org/care, but ADA permission is required to post this work on any third-party site or platform. This publication and its contents may not be reproduced, distributed, or used for text or data mining, machine learning, or similar technologies without prior written permission. Requests to reuse, adapt, or distribute this work may be sent to permissions@diabetes.org. More information is available at https://diabetesjournals.org/journals/pages/license. 2026 January 29 on guest by http://diabetesjournals.org/care/article-pdf/49/Supplement_1/S166/848839/dc26s008.pdf from Downloaded diabetesjournals.org/care Obesity and Weight Management (e.g., \u201cperson with obesity\u201d rather than \u201cobese person\u201d and \u201cperson with diabetes\u201d rather than \u201cdiabetic person\u201d). 8.2 Screen for overweight and obesity using BMI annually. To confirm excess adiposity, additional assessments of body fat using anthropometric assessments (e.g., waist-to-hip ratio) or direct measurements (e.g., dual-energy X-ray absorptiometry, bioelectrical impedance analysis) could be considered where available/feasible. 8.2a Monitor obesity-related anthropometric measurements at least annually to inform treatment considerations. During active weight management treatment, increase monitoring to at least every 3 months. 8.3 Accommodations should be made to provide privacy during anthropometric measurements. 8.4 In people with type 2 diabetes and overweight or obesity, weight management should represent a primary goal of treatment along with glycemic management. 8.5 Provide weight management treatment, aiming for any magnitude of weight loss. Weight loss of 5\u20137% of baseline weight improves glycemia and other intermediate cardiovascular risk factors. A sustained loss of >10% of body weight usually confers greater benefits, including disease-modifying effects and possible remission of type 2 diabetes and may improve long-term cardiovascular outcomes and mortality. 8.6 Individualize initial treatment approaches for obesity (i.e., lifestyle and nutritional therapy, pharmacologic therapy, or metabolic surgery) based on the person\u2019s medical history, life circumstances, and preferences. Consider combining treatment approaches if appropriate. Obesity is a key pathophysiologic driver of diabetes, other cardiovascular risk factors (e.g., hypertension, hyperlipidemia, metabolic dysfunction\u2013associated steatotic liver disease [MASLD], and inflammatory state), and ultimately cardiovascular and kidney disease. Diabetes can further exacerbate obesity, including through the use of glucose-lowering therapies that lead to weight gain (e.g., insulin, sulfonylurea, and pioglitazone), and obesity can exacerbate hyperglycemia and diabetes, thereby setting up a vicious cycle that contributes to disease progression and occurrence of microvascular and macrovascular complications. As such, treatment goals for both glycemia and weight are recommended in people with diabetes to address both hyperglycemia and its underlying pathophysiologic driver (obesity) and therefore benefit the person holistically. Health care professionals should advise individuals with overweight or obesity and those with increasing weight trajectories that, in general, greater fat accumulation increases the risk of diabetes, cardiovascular disease, and all-cause mortality and has multiple adverse health and quality of life consequences. Health care professionals should also assess readiness to engage in weight management. Obesity and Weight Management Diabetes Care Volume 49, Supplement 1, January 2026 Behavioral changes for weight loss and for people with type 2 diabetes and overweight or obesity to achieve both weight and health outcome goals. B 8.14 Counsel and regularly monitor individuals pursuing intentional weight loss to ensure adequate nutritional intake, with particular attention to preventing protein insufficiency and micronutrient deficiencies. E 8.8a Interventions including high frequency of counseling (\u226516 sessions in 6 months) with focus on nutrition changes, physical activity, and behavioral strategies to achieve a 500\u2013750 kcal/day energy deficit (irrespective of macronutrient composition) should be recommended for weight loss when available. A 8.8b If access to such interventions is limited, consider alternative structured programs delivering nutrition changes, physical activity, and behavioral counseling (e.g., remote, telehealth, mobile app). E For a more detailed discussion of lifestyle management approaches and recommendations, see section 5, \u201cFacilitating Positive Health Behaviors and Well-being to Improve Health Outcomes.\u201d For a detailed discussion of nutrition-specific interventions, please refer to \u201cNutrition Therapy for Adults With Diabetes or Prediabetes: A Consensus Report\u201d (60). Behavioral Interventions Numerous behavioral interventions have demonstrated positive effects from reducing energy intake, increasing physical activity, or some combination of these key lifestyle behaviors (61). The Look AHEAD (Action for Health in Diabetes) randomized controlled trial (RCT) demonstrated that people with obesity and type 2 diabetes could achieve and maintain long-term (up to 8 years after trial conclusion) weight loss by participating in a prospective intensive lifestyle intervention (ILI). Approximately half of ILI participants lost and maintained \u22655% of their initial body weight (46). Additionally, compared with the diabetes support and education group, ILI participants who lost \u226510% at 1 year had a 21% reduced risk of mortality (hazard ratio 0.79 [95% CI 0.67, 0.94]; P = 0.007) (62). Culturally tailoring behavioral interventions could be an additional useful tool for improving the impact of interventions (63\u201365). To achieve significant weight loss with lifestyle behavior change programs, creating a 500\u2013750 kcal/day energy deficit is recommended. For most women, this is equal to consuming approximately 1,200\u20131,500 kcal/day, and for most men, this is equal to consuming approximately 1,500\u20131,800 kcal/day, with adjustment for the individual\u2019s baseline body weight. Some RCTs report less than 5% weight loss in adults with diabetes and overweight or obesity following a lifestyle behavioral intervention, but this limited amount of weight loss has not been shown to improve glycemia, lipids, or blood pressure \u2013 rather, a minimum weight loss of 5% or more seems necessary to achieve metabolic improvements (66). Weight loss benefits are progressive; more intensive. Recommendations 8.7 Nutrition, physical activity, and behavioral therapy are recommended. 8.13 Nutritional supplements are not recommended, as they have not been shown to be effective for weight loss. A 2026 January 29 on guest by http://diabetesjournals.org/care/article-pdf/49/Supplement_1/S166/848839/dc26s008.pdf from Downloaded diabetesjournals.org/care Obesity and Weight Management Weight loss goals (>7%, >10%, >15%) can achieve further health improvements if these goals can be feasibly and safely attained. Almost one-third of the Look AHEAD intensive lifestyle group participants lost and maintained \u226510% of their initial body weight at 8 years and required fewer glucose-, blood pressure-, and lipid-lowering medications than those randomly assigned to standard care (46). Nutrition interventions can create the necessary energy deficit to promote weight loss in many ways, and no single way is best (19,67\u201369). Altering macronutrient content and using meal replacement plans prescribed by trained professionals are two commonly used approaches (70). Reducing processed and ultraprocessed food intake is also an encouraging area of ongoing weight loss research. The Preventing Overweight Using Novel Dietary Strategies (POUNDS) Lost trial reported small but significant improvements when ultraprocessed foods were replaced isocalorically by less processed foods, with improved trunk fat loss (\u03b2 = 3.9 [95% CI \u22127.01 to \u22120.70]; P = 0.02) (71). The specific nutrition and lifestyle choices should be based on the individual\u2019s health status, maintaining or improving nutrition status and overall wellness, clinical considerations, social determinants of health, overall preferences, and other cultural and personal circumstances that affect eating and activity patterns (72) (see section 5, \u201cFacilitating Positive Health Behaviors and Well-being to Improve Health Outcomes,\u201d for more discussion on processed and ultraprocessed foods). There continues to be debate on the physiological basis of obesity (73,74), and low carbohydrate eating patterns continue to be of interest for people with diabetes and health care professionals. A 2022 meta-analysis of RCTs 12 weeks to 2 years in duration was conducted in people with overweight or obesity and with or without diabetes. Low carbohydrate diets were defined as nonketogenic, >50 g to 150 g carbohydrate per day, or &#x3C;45% of total energy intake. Both at 3\u201312 months and up to 2 years after randomization, there were no greater benefits for those consuming low carbohydrate over balanced carbohydrate (defined as carbohydrate intake of 45\u201365% of total energy) in people with or without diabetes. Additionally, the authors concluded change in A1C was not meaningfully different among the groups (mean difference \u22120.14%) (75). Based on two of the largest RCTs completed in the U.S. investigating lifestyle behavior change\u2014the Diabetes Prevention Program (DPP) and Look AHEAD\u2014proven intensive behavioral interventions generally include \u226516 sessions during an initial 6 months and focus on durable nutritional changes, physical activity, and behavioral strategies to achieve a \u223c500\u2013750 kcal/day energy deficit. Such interventions should be provided by trained individuals and can be conducted face-to-face or remotely and on an individual or group basis (66,76). Assessing a person\u2019s motivation level, life circumstances, cultural considerations, socioeconomic factors, and ability to implement behavioral changes to achieve weight loss should be considered along with medical status when such interventions are recommended and initiated (41,77). Very-low-calorie interventions (usually 800\u20131,000 kcal/day) are another approach that might be appropriate in some people with diabetes and obesity. As evidenced by findings from the U.K.-based DiRECT (Diabetes Remission Clinical Trial), structured, very-low-calorie eating patterns, using high-protein foods and meal replacement products, may increase the pace and/or magnitude of initial weight loss and glycemic improvements compared with standard behavioral interventions (20,21,78). However, such intensive nutritional interventions should be provided only by trained and experienced professionals in medical settings with close ongoing monitoring and integration with behavioral support and counseling, and only for a short term (generally up to 3 months). Furthermore, due to the high risk of complications (electrolyte abnormalities, severe fatigue, cardiac arrhythmias, etc.), very-low-calorie intensive interventions should be prescribed only to carefully selected individuals, such as those requiring weight loss and/or glycemic management before surgery, if benefits exceed potential risks (79,80). As weight recurrence is common, such interventions should include long-term, comprehensive weight maintenance strategies and counseling to maintain weight loss and behavioral changes (81). Despite widespread marketing and exorbitant claims, there is no clear evidence that nutrition supplements (e.g., herbs, vitamins and minerals, amino acids, enzymes, and antioxidants) are effective for obesity management or weight loss (82\u201384). Several large systematic reviews show that most trials evaluating nutrition supplements for weight loss are of low quality and at high risk of bias. High-quality published studies show little or no weight loss benefits. It is important to monitor nutrition intake in individuals with diabetes undergoing treatment for obesity to prevent or mitigate nutrition deficiencies (85,86). Multivitamin mineral supplements can be considered for individuals who consume less than 1,200 kcal/day, exclude micronutrient-rich food groups from their usual intake (e.g., fruits and vegetables, whole grains, proteins, nuts, and seeds), are strict vegetarians, have underlying health conditions that impair nutrient absorption, are older (aged >50 years), or experience excessive weight loss (87). Those experiencing significant (>20%) or rapid (>4% per month) weight loss should be screened for micronutrient deficiencies (88). Screening for micronutrient deficiencies should be guided by general clinical judgment, as there are no universal recommendations for how often to screen. Some micronutrients of concern include iron, calcium, magnesium, zinc, and vitamins A, D, E, K, B1, B12, and C (89). Monitoring protein and fiber intake is also important for people undergoing weight loss treatment. To preserve lean mass, health care professionals should emphasize the importance of optimizing protein intake alongside resistance training and encourage protein supplementation as needed (90). Also encouraging adequate fiber and water intake to prevent and manage constipation for people consuming very-low-calorie eating patterns can be useful. Referral to a registered dietitian nutritionist can streamline this education. For a more detailed discussion of nutrition and physical activity in the context of diabetes and weight loss, see section 5, \u201cFacilitating Positive Health Behaviors and Well-being to Improve Health Outcomes.\u201d For people undergoing metabolic surgery, it is advised to provide corrective supplementation in cases of documented deficiency (91) and prophylactically (92). See METABOLIC SURGERY, below, for more details on nutrition guidance for people who have undergone metabolic surgery. Physical activity is beneficial to people with diabetes and overweight or obesity for numerous reasons, primarily for maintaining and improving overall health, and 2026 January 29 on guest by http://diabetesjournals.org/care/article-pdf/49/Supplement_1/S166/848839/dc26s008.pdf from Downloaded Obesity and Weight Management Diabetes Care Volume 49, Supplement 1, January 2026 should be encouraged not only for weight loss. Rather, physical activity should be encouraged because it can improve quality of life, cardiorespiratory fitness, and glycemic management efforts and reduce mortality (93\u201396). Like all adults, people with overweight and obesity should be encouraged to do activities they enjoy, with an eventual goal of getting 150 min of physical activity per week. For a more detailed discussion of physical activity and exercise, see section 5, \u201cFacilitating Positive Health Behaviors and Well-being to Improve Health Outcomes.\u201d Health disparities adversely affect people who have systematically experienced greater obstacles to health based on their race or ethnicity, socioeconomic status, gender identity, disability, or other factors. Overwhelming research shows that these disparities can significantly affect health outcomes, including increasing the risk for obesity, diabetes, and diabetes-related complications. Health care professionals should evaluate systemic, structural, and socioeconomic factors that may impact food choices, access to healthful foods, and nutrition patterns; behavioral patterns, such as neighborhood safety and availability of safe outdoor spaces for physical activity; environmental exposures; access to health care; social contexts; and, ultimately, diabetes risk and outcomes. For a detailed discussion of social determinants of health, refer to \u201cSocial Determinants of Health: A Scientific Review\u201d (97). PHARMACOTHERAPY Recommendations 8.15 Whenever clinically appropriate, engage other care team members to minimize use of weight-promoting medications for treatment of other conditions among adults with diabetes and obesity. E 8.16 When choosing glucose-lowering medications for people with type 2 diabetes and overweight or obesity, prioritize medications with beneficial effect on weight. B 8.17 Obesity pharmacotherapy should be considered for people with diabetes and overweight or obesity along with lifestyle changes. Potential benefits and risks must be considered. A 8.18 In people with diabetes and overweight or obesity, the preferred pharmacotherapy should be a glucagon-like peptide 1 receptor agonist or dual glucose-dependent insulinotropic polypeptide and glucagon-like peptide 1 receptor agonist with greater weight loss efficacy (i.e., semaglutide or tirzepatide), especially considering their added weight-independent benefits. A 8.19 Obesity pharmacotherapy indicated for chronic therapy should be continued beyond reaching weight loss goals to maintain the health benefits, as discontinuation often results in recurrence of weight gain and worsening health outcomes. 8.20 Individualize the dose and the dose titration approach of obesity pharmacotherapy to balance effectiveness, health benefits, and tolerability; the optimal treatment dose may not be the maximum approved dose. B 8.21 In people with diabetes not reaching weight treatment goals, modify or intensify treatment with additional approaches, including structured lifestyle management programs, metabolic surgery, and additional or alternative pharmacologic agents. B Numerous effective glucose-lowering medications are currently available. However, to achieve both glycemic and weight management goals for diabetes treatment, health care professionals should prioritize the use of glucose-lowering medications with a beneficial effect on weight. Agents associated with clinically meaningful weight loss include glucagon-like peptide 1 (GLP-1) receptor agonists (RAs) and a dual glucose-dependent insulinotropic polypeptide (GIP) and GLP-1 RA (tirzepatide), and they are the preferred agents in individuals with stable insurance coverage. Sodium\u2013glucose cotransporter 2 inhibitors, metformin, and amylin mimetics are also associated with weight loss, although the magnitude of weight loss is much smaller (<5% body weight loss). Dipeptidyl peptidase 4 inhibitors, centrally acting dopamine agonist (bromocriptine), \u03b1-glucosidase inhibitors, and bile acid sequestrants (colesevelam) are considered weight neutral. In contrast, insulin secretagogues (sulfonylureas and meglitinides), thiazolidinediones, and insulin are often associated with weight gain (see section 9, \u201cPharmacologic Approaches to Glycemic Treatment\u201d). Health care professionals should carefully review the individual\u2019s concomitant medications and, whenever clinically appropriate, engage other care team members to minimize or provide alternatives for medications that promote weight gain (103\u2013106). Examples of medications associated with weight gain include antipsychotics (e.g., clozapine, olanzapine, and risperidone), some antidepressants (e.g., tricyclic antidepressants, some selective serotonin reuptake inhibitors). serotonin reuptake inhibitors, and mono-amine oxidase inhibitors), glucocorticoids, injectable progestins, some anticonvulsants (e.g., gabapentin and pregabalin), \u03b2-blockers (e.g., atenolol, metoprolol, and propranolol), and possibly sedating antihistamines and anticholinergics (103). The use of weight promoting medication can hinder the effectiveness of lifestyle interventions for weight loss in people with diabetes. Notably, a post hoc analysis of the Look AHEAD study showed a negative association between the use of weight-promoting or obesogenic medications and weight loss outcomes. The association was dose-dependent\u2014participants using two or more obesogenic medications were less likely to achieve the 5% and 10% weight loss benchmarks than those using one medication (106). Approved Obesity Pharmacotherapy The U.S. Food and Drug Administration (FDA) has approved several medications for obesity as adjuncts to a reduced-calorie eating pattern and increased physical activity in individuals with BMI \u226530 kg/m\u00b2 or \u226527 kg/m\u00b2 with one or more obesity-associated comorbid conditions (e.g., type 2 diabetes, hypertension, and/or dyslipidemia). Nearly all FDA-approved obesity pharmacotherapies have been shown to improve glycemia in people with type 2 diabetes and delay progression to type 2 diabetes in at-risk individuals (4,5,11\u201314,54,107\u2013111) and some of these agents (e.g., liraglutide, semaglutide, and tirzepatide) have a dual indication for glucose lowering as well as weight management. Phentermine and other older adrenergic agents are approved for short-term treatment (112), while all others are approved for"
+    }
+  ]
+}

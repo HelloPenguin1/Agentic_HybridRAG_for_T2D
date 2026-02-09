@@ -1,0 +1,597 @@
+{
+  "interventions": [
+    {
+      "name": "Diabetes Prevention Program (DPP)",
+      "synonyms": [
+        "DPP",
+        "National Diabetes Prevention Program (National DPP)",
+        "DPP-style program",
+        "adapted lifestyle behavior change programs for diabetes prevention"
+      ],
+      "source_text": "The American Diabetes Association (ADA) \u201cStandards of Care in Diabetes\u201d includes the ADA\u2019s current clinical practice recommendations and is intended to provide the components of diabetes care, general treatment goals and guidelines, and tools to evaluate quality of care.",
+      "page_number": "S50",
+      "evidence_level": "A",
+      "intervention_type": "Lifestyle/Behavioral Intervention",
+      "duration": "16-session structured core curriculum, completed within the first 6 months of the program, followed by an additional 6 months of a flexible maintenance program",
+      "frequency": "16 sessions in 6 months, then maintenance"
+    },
+    {
+      "name": "Metformin",
+      "synonyms": [],
+      "source_text": "Metformin has the most robust efficacy and safety data as a pharmacologic therapy for diabetes prevention among people with prediabetes (82).",
+      "page_number": "S57",
+      "evidence_level": "A",
+      "intervention_type": "Pharmacologic",
+      "duration": "long-term",
+      "frequency": "Not specified"
+    },
+    {
+      "name": "Medical Nutrition Therapy (MNT)",
+      "synonyms": [
+        "nutrition counseling"
+      ],
+      "source_text": "For people at risk for or living with diabetes, individualized medical nutrition therapy (see section 5, \u201cFacilitating Positive Health Behaviors and Well-being to Improve Health Outcomes,\u201d for more detailed information) is effective in lowering A1C (29,30).",
+      "page_number": "S53",
+      "evidence_level": "Unknown",
+      "intervention_type": "Therapeutic",
+      "duration": "Not specified",
+      "frequency": "Not specified"
+    },
+    {
+      "name": "Technology-assisted diabetes prevention programs",
+      "synonyms": [
+        "certified technology-assisted diabetes prevention programs",
+        "technology-assisted modalities"
+      ],
+      "source_text": "Based on individual preference, certified technology-assisted diabetes prevention programs through smartphones, web-based applications, and telehealth can be effective in preventing type 2 diabetes and should be considered. B",
+      "page_number": "S51",
+      "evidence_level": "B",
+      "intervention_type": "Digital Health",
+      "duration": "Not specified",
+      "frequency": "Not specified"
+    },
+    {
+      "name": "Teplizumab-mzwv infusion",
+      "synonyms": [
+        "teplizumab"
+      ],
+      "source_text": "Teplizumab-mzwv infusion to delay the onset of symptomatic type 1 diabetes (stage 3) should be discussed with selected individuals aged \u22658 years with stage 2 type 1 diabetes. Treatment should be in a setting with appropriately trained personnel.",
+      "page_number": "S59",
+      "evidence_level": "Unknown",
+      "intervention_type": "Pharmacologic",
+      "duration": "14-day course",
+      "frequency": "Not specified"
+    },
+    {
+      "name": "Lifestyle intervention",
+      "synonyms": [
+        "intensive lifestyle intervention"
+      ],
+      "source_text": "Several major randomized controlled trials, including the Diabetes Prevention Program (DPP) (8), the Finnish Diabetes Prevention Study (DPS) (9), and the Da Qing Diabetes Prevention Study (Da Qing study) (10), demonstrated that lifestyle/behavioral intervention with an individualized reduced-calorie meal plan is highly effective in preventing or delaying type 2 diabetes and improving other cardiometabolic risk factors such as blood pressure, lipids, and markers of inflammation (11).",
+      "page_number": "S52",
+      "evidence_level": "A",
+      "intervention_type": "Behavioral",
+      "duration": "Not specified",
+      "frequency": "Not specified"
+    },
+    {
+      "name": "Metformin for prevention of type 2 diabetes",
+      "synonyms": [],
+      "source_text": "Metformin for the prevention of type 2 diabetes should be considered in adults at high risk of type 2 diabetes, as typified by the Diabetes Prevention Program, especially those aged 25\u201359 years with BMI \u226535 kg/m\u00b2, higher fasting plasma glucose (e.g., \u2265110 mg/dL [\u22656 mmol/L]), and higher A1C (e.g., \u22656.0% [\u226542 mmol/mol]).",
+      "page_number": "S57",
+      "evidence_level": "Unknown",
+      "intervention_type": "Pharmacologic",
+      "duration": "Not specified",
+      "frequency": "Not specified"
+    },
+    {
+      "name": "Metformin to prevent hyperglycemia in high-risk individuals treated with a phosphatidylinositol 3-kinase \u03b1 (PI3K\u03b1) inhibitor",
+      "synonyms": [],
+      "source_text": "Consider using metformin to prevent hyperglycemia in high-risk individuals treated with a phosphatidylinositol 3-kinase \u03b1 (PI3K\u03b1) inhibitor (e.g., alpelisib and inavolisib). B",
+      "page_number": "S57",
+      "evidence_level": "B",
+      "intervention_type": "Pharmacologic",
+      "duration": "duration of treatment",
+      "frequency": "Not specified"
+    },
+    {
+      "name": "Metformin to prevent hyperglycemia in high-risk individuals treated with high-dose glucocorticoids",
+      "synonyms": [],
+      "source_text": "Consider using metformin to prevent hyperglycemia in high-risk individuals treated with high-dose glucocorticoids. B",
+      "page_number": "S57",
+      "evidence_level": "B",
+      "intervention_type": "Pharmacologic",
+      "duration": "Not specified",
+      "frequency": "Not specified"
+    },
+    {
+      "name": "Diabetes self-management education and support (DSMES)",
+      "synonyms": [
+        "DSMES"
+      ],
+      "source_text": "Diabetes self-management education and support in adults with type 2 diabetes: a consensus report of the American Diabetes Association, the Association of Diabetes Care &#x26; Education Specialists, the Academy of Nutrition and Dietetics, the American Academy of Family Physicians, the American Academy of PAs, the American Association of Nurse Practitioners, and the American Pharmacists Association. Diabetes Care 2022;45:2753\u20132786",
+      "page_number": "S56",
+      "evidence_level": "Unknown",
+      "intervention_type": "Education",
+      "duration": "Not specified",
+      "frequency": "Not specified"
+    },
+    {
+      "name": "Testosterone therapy",
+      "synonyms": [],
+      "source_text": "Testosterone therapy also reduced the risk of incident type 2 diabetes by 41% in men aged 50\u201374 years with central obesity and prediabetes (89). However, the benefit of testosterone was observed only when added to a structured lifestyle program.",
+      "page_number": "S58",
+      "evidence_level": "Unknown",
+      "intervention_type": "Pharmacologic",
+      "duration": "Not specified",
+      "frequency": "Not specified"
+    },
+    {
+      "name": "Vitamin D therapy",
+      "synonyms": [],
+      "source_text": "There has been significant interest in understanding the potential of vitamin D therapy to prevent progression of high-risk prediabetes to type 2 diabetes in adults (91).",
+      "page_number": "S58",
+      "evidence_level": "Unknown",
+      "intervention_type": "Supplementation",
+      "duration": "Not specified",
+      "frequency": "Not specified"
+    },
+    {
+      "name": "Glucagon-like peptide 1\u2013based therapies for weight management",
+      "synonyms": [
+        "GLP-1 receptor agonists"
+      ],
+      "source_text": "use of glucagon-like peptide 1\u2013based therapies for weight management in individuals with overweight or obesity\u2014an essential component of type 2 diabetes prevention\u2014is highly beneficial and should be considered, as discussed in detail in section 8, \u201cObesity and Weight Management for the Prevention and Treatment of Diabetes.\u201d",
+      "page_number": "S57",
+      "evidence_level": "Unknown",
+      "intervention_type": "Pharmacologic",
+      "duration": "Not specified",
+      "frequency": "Not specified"
+    },
+    {
+      "name": "Pioglitazone",
+      "synonyms": [],
+      "source_text": "The IRIS (Insulin Resistance Intervention after Stroke) trial of people with a recent (<6 months) stroke or transient ischemic attack, without diabetes but with insulin resistance (as defined by a HOMA of insulin resistance index of \u22653.0), evaluated pioglitazone (goal dose of 45 mg daily) compared with placebo.",
+      "page_number": "S59",
+      "evidence_level": "Unknown",
+      "intervention_type": "Pharmacologic",
+      "duration": "4.8 years",
+      "frequency": "daily"
+    }
+  ],
+  "behaviors": [
+    {
+      "name": "Monitor for development of diabetes",
+      "synonyms": [
+        "monitor for the development of diabetes"
+      ],
+      "source_text": "In people with prediabetes, monitor for the development of diabetes at least annually; modify frequency of testing based on individual risk assessment. E",
+      "page_number": "S50",
+      "evidence_level": "E",
+      "behavior_category": "Monitoring",
+      "target_amount": "at least annually"
+    },
+    {
+      "name": "Modify frequency of testing based on individual risk assessment",
+      "synonyms": [],
+      "source_text": "In people with prediabetes, monitor for the development of diabetes at least annually; modify frequency of testing based on individual risk assessment. E",
+      "page_number": "S50",
+      "evidence_level": "E",
+      "behavior_category": "Monitoring",
+      "target_amount": "Not specified"
+    },
+    {
+      "name": "Assess risk factors for prediabetes and type 2 diabetes",
+      "synonyms": [
+        "assessment of risk factors"
+      ],
+      "source_text": "Screening for prediabetes (which refers to hyperglycemia preceding the diagnosis of type 2 diabetes only) and type 2 diabetes risk through an assessment of risk factors (Table 2.5) or with an assessment tool, such as the American Diabetes Association risk test, which can be used by either a layperson or a health care professional (diabetes.org/diabetes-risk-test), is recommended to guide whether to perform a diagnostic test for prediabetes (Table 2.2) and type 2 diabetes (Table 2.1) (see section 2, \u201cDiagnosis and Classification of Diabetes\u201d).",
+      "page_number": "S50",
+      "evidence_level": "Unknown",
+      "behavior_category": "Screening",
+      "target_amount": "Not specified"
+    },
+    {
+      "name": "Mediterranean eating pattern",
+      "synonyms": [
+        "Mediterranean-style"
+      ],
+      "source_text": "Prescribe an evidence-based eating pattern (e.g., Mediterranean, low carbohydrate) to individuals with prediabetes to prevent type 2 diabetes. B",
+      "page_number": "S51",
+      "evidence_level": "B",
+      "behavior_category": "Diet",
+      "target_amount": "Not specified"
+    },
+    {
+      "name": "Low carbohydrate eating pattern",
+      "synonyms": [
+        "low carbohydrate"
+      ],
+      "source_text": "Prescribe an evidence-based eating pattern (e.g., Mediterranean, low carbohydrate) to individuals with prediabetes to prevent type 2 diabetes. B",
+      "page_number": "S51",
+      "evidence_level": "B",
+      "behavior_category": "Diet",
+      "target_amount": "Not specified"
+    },
+    {
+      "name": "Participate in diabetes prevention programs",
+      "synonyms": [
+        "Offer diabetes prevention programs"
+      ],
+      "source_text": "Offer diabetes prevention programs to adults at high risk for type 2 diabetes. A",
+      "page_number": "S51",
+      "evidence_level": "A",
+      "behavior_category": "Intervention Participation",
+      "target_amount": "Not specified"
+    },
+    {
+      "name": "Achieve and maintain at least 7% weight loss",
+      "synonyms": [
+        "weight loss"
+      ],
+      "source_text": "Two major goals of the DPP were to achieve and maintain at least 7% weight loss and to obtain 150 min of moderate-intensity physical activity per week, such as brisk walking.",
+      "page_number": "S52",
+      "evidence_level": "Unknown",
+      "behavior_category": "Weight Management",
+      "target_amount": "\u22657%"
+    },
+    {
+      "name": "Obtain 150 min of moderate-intensity physical activity per week",
+      "synonyms": [
+        "150 min of moderate-intensity physical activity per week"
+      ],
+      "source_text": "Two major goals of the DPP were to achieve and maintain at least 7% weight loss and to obtain 150 min of moderate-intensity physical activity per week, such as brisk walking.",
+      "page_number": "S52",
+      "evidence_level": "Unknown",
+      "behavior_category": "Physical Activity",
+      "target_amount": "150 min/week"
+    },
+    {
+      "name": "Distribute physical activity throughout the week",
+      "synonyms": [],
+      "source_text": "Participants were encouraged to distribute physical activity throughout the week with a minimum frequency of three times per week and at least 10 min per session.",
+      "page_number": "S52",
+      "evidence_level": "Unknown",
+      "behavior_category": "Physical Activity",
+      "target_amount": "minimum frequency of three times per week and at least 10 min per session"
+    },
+    {
+      "name": "Reduce total fat intake",
+      "synonyms": [],
+      "source_text": "The initial focus of the nutrition intervention was on reducing total fat intake rather than caloric restriction. However, the concepts of calorie balance and the need to restrict total calories and fat were also introduced.",
+      "page_number": "S52",
+      "evidence_level": "Unknown",
+      "behavior_category": "Diet",
+      "target_amount": "Not specified"
+    },
+    {
+      "name": "Reduce total calories",
+      "synonyms": [],
+      "source_text": "However, the concepts of calorie balance and the need to restrict total calories and fat were also introduced.",
+      "page_number": "S52",
+      "evidence_level": "Unknown",
+      "behavior_category": "Diet",
+      "target_amount": "Not specified"
+    },
+    {
+      "name": "Lose 1\u20132 lb/week",
+      "synonyms": [],
+      "source_text": "The recommended pace of weight loss was 1\u20132 lb/week.",
+      "page_number": "S52",
+      "evidence_level": "Unknown",
+      "behavior_category": "Weight Management",
+      "target_amount": "1\u20132 lb/week"
+    },
+    {
+      "name": "Consume whole grains",
+      "synonyms": [],
+      "source_text": "The overall quality of food consumed (as measured by the Healthy Eating Index, Alternative Healthy Eating Index, and DASH score), with an emphasis on whole grains, legumes, nuts, fruits, and vegetables and minimal refined and processed foods, is also associated with a lower risk of type 2 diabetes (26\u201328).",
+      "page_number": "S53",
+      "evidence_level": "Unknown",
+      "behavior_category": "Diet",
+      "target_amount": "Not specified"
+    },
+    {
+      "name": "Consume legumes",
+      "synonyms": [],
+      "source_text": "The overall quality of food consumed (as measured by the Healthy Eating Index, Alternative Healthy Eating Index, and DASH score), with an emphasis on whole grains, legumes, nuts, fruits, and vegetables and minimal refined and processed foods, is also associated with a lower risk of type 2 diabetes (26\u201328).",
+      "page_number": "S53",
+      "evidence_level": "Unknown",
+      "behavior_category": "Diet",
+      "target_amount": "Not specified"
+    },
+    {
+      "name": "Consume nuts",
+      "synonyms": [],
+      "source_text": "The overall quality of food consumed (as measured by the Healthy Eating Index, Alternative Healthy Eating Index, and DASH score), with an emphasis on whole grains, legumes, nuts, fruits, and vegetables and minimal refined and processed foods, is also associated with a lower risk of type 2 diabetes (26\u201328).",
+      "page_number": "S53",
+      "evidence_level": "Unknown",
+      "behavior_category": "Diet",
+      "target_amount": "Not specified"
+    },
+    {
+      "name": "Consume fruits",
+      "synonyms": [],
+      "source_text": "The overall quality of food consumed (as measured by the Healthy Eating Index, Alternative Healthy Eating Index, and DASH score), with an emphasis on whole grains, legumes, nuts, fruits, and vegetables and minimal refined and processed foods, is also associated with a lower risk of type 2 diabetes (26\u201328).",
+      "page_number": "S53",
+      "evidence_level": "Unknown",
+      "behavior_category": "Diet",
+      "target_amount": "Not specified"
+    },
+    {
+      "name": "Consume vegetables",
+      "synonyms": [],
+      "source_text": "The overall quality of food consumed (as measured by the Healthy Eating Index, Alternative Healthy Eating Index, and DASH score), with an emphasis on whole grains, legumes, nuts, fruits, and vegetables and minimal refined and processed foods, is also associated with a lower risk of type 2 diabetes (26\u201328).",
+      "page_number": "S53",
+      "evidence_level": "Unknown",
+      "behavior_category": "Diet",
+      "target_amount": "Not specified"
+    },
+    {
+      "name": "Minimize refined and processed foods",
+      "synonyms": [],
+      "source_text": "The overall quality of food consumed (as measured by the Healthy Eating Index, Alternative Healthy Eating Index, and DASH score), with an emphasis on whole grains, legumes, nuts, fruits, and vegetables and minimal refined and processed foods, is also associated with a lower risk of type 2 diabetes (26\u201328).",
+      "page_number": "S53",
+      "evidence_level": "Unknown",
+      "behavior_category": "Diet",
+      "target_amount": "minimal"
+    },
+    {
+      "name": "Engage in resistance training",
+      "synonyms": [
+        "resistance training"
+      ],
+      "source_text": "In addition to aerobic activity, a physical activity plan designed to prevent diabetes can include resistance training (17,33).",
+      "page_number": "S53",
+      "evidence_level": "Unknown",
+      "behavior_category": "Physical Activity",
+      "target_amount": "Not specified"
+    },
+    {
+      "name": "Break up prolonged sedentary time",
+      "synonyms": [],
+      "source_text": "Breaking up prolonged sedentary time may also be encouraged, as it lowers postprandial glucose levels (34).",
+      "page_number": "S53",
+      "evidence_level": "Unknown",
+      "behavior_category": "Physical Activity",
+      "target_amount": "Not specified"
+    },
+    {
+      "name": "Increase physical activity",
+      "synonyms": [],
+      "source_text": "Individuals with prediabetes can benefit from counseling by a registered dietitian nutritionist, which has been shown to help improve eating habits, increase physical activity, and achieve 7\u201310% weight loss (50\u201353).",
+      "page_number": "S55",
+      "evidence_level": "Unknown",
+      "behavior_category": "Physical Activity",
+      "target_amount": "Not specified"
+    },
+    {
+      "name": "Improve eating habits",
+      "synonyms": [],
+      "source_text": "Individuals with prediabetes can benefit from counseling by a registered dietitian nutritionist, which has been shown to help improve eating habits, increase physical activity, and achieve 7\u201310% weight loss (50\u201353).",
+      "page_number": "S55",
+      "evidence_level": "Unknown",
+      "behavior_category": "Diet",
+      "target_amount": "Not specified"
+    },
+    {
+      "name": "Achieve 7\u201310% weight loss",
+      "synonyms": [],
+      "source_text": "Individuals with prediabetes can benefit from counseling by a registered dietitian nutritionist, which has been shown to help improve eating habits, increase physical activity, and achieve 7\u201310% weight loss (50\u201353).",
+      "page_number": "S55",
+      "evidence_level": "Unknown",
+      "behavior_category": "Weight Management",
+      "target_amount": "7\u201310%"
+    },
+    {
+      "name": "Adhere to DPP content",
+      "synonyms": [],
+      "source_text": "Interventions to prevent type 2 diabetes can also be delivered through workplace programming, with interventions that most closely adhere to DPP content shown to be most effective (45).",
+      "page_number": "S55",
+      "evidence_level": "Unknown",
+      "behavior_category": "Intervention Adherence",
+      "target_amount": "most closely adhere"
+    },
+    {
+      "name": "Participate in DPP-based interventions",
+      "synonyms": [],
+      "source_text": "The CDC Diabetes Prevention Recognition Program (DPRP) (https://www.cdc.gov/diabetes-prevention/php/program-provider/program-requirements.html) certifies technology-assisted modalities as effective vehicles for DPP-based interventions; such programs must use an approved curriculum, include interaction with a coach, and attain the DPP outcomes of participation, physical activity reporting, and weight loss.",
+      "page_number": "S56",
+      "evidence_level": "Unknown",
+      "behavior_category": "Intervention Participation",
+      "target_amount": "Not specified"
+    },
+    {
+      "name": "Report physical activity",
+      "synonyms": [
+        "physical activity reporting"
+      ],
+      "source_text": "The CDC Diabetes Prevention Recognition Program (DPRP) (https://www.cdc.gov/diabetes-prevention/php/program-provider/program-requirements.html) certifies technology-assisted modalities as effective vehicles for DPP-based interventions; such programs must use an approved curriculum, include interaction with a coach, and attain the DPP outcomes of participation, physical activity reporting, and weight loss.",
+      "page_number": "S56",
+      "evidence_level": "Unknown",
+      "behavior_category": "Monitoring",
+      "target_amount": "Not specified"
+    },
+    {
+      "name": "Achieve DPP outcomes",
+      "synonyms": [],
+      "source_text": "The CDC Diabetes Prevention Recognition Program (DPRP) (https://www.cdc.gov/diabetes-prevention/php/program-provider/program-requirements.html) certifies technology-assisted modalities as effective vehicles for DPP-based interventions; such programs must use an approved curriculum, include interaction with a coach, and attain the DPP outcomes of participation, physical activity reporting, and weight loss.",
+      "page_number": "S56",
+      "evidence_level": "Unknown",
+      "behavior_category": "Intervention Adherence",
+      "target_amount": "Not specified"
+    },
+    {
+      "name": "Increase physical activity",
+      "synonyms": [],
+      "source_text": "The CDC\u2019s Division of Diabetes Translation National DPP toolkit (coveragetoolkit.org/recruitment-referral-for-the-national-dpp-lifestyle-change-program) provides diabetes care team members resources for how to increase referral and uptake of the DPP.",
+      "page_number": "S56",
+      "evidence_level": "Unknown",
+      "behavior_category": "Physical Activity",
+      "target_amount": "Not specified"
+    },
+    {
+      "name": "Consume an individualized reduced-calorie meal plan",
+      "synonyms": [
+        "individualized reduced-calorie meal plan"
+      ],
+      "source_text": "Several major randomized controlled trials, including the Diabetes Prevention Program (DPP) (8), the Finnish Diabetes Prevention Study (DPS) (9), and the Da Qing Diabetes Prevention Study (Da Qing study) (10), demonstrated that lifestyle/behavioral intervention with an individualized reduced-calorie meal plan is highly effective in preventing or delaying type 2 diabetes and improving other cardiometabolic risk factors such as blood pressure, lipids, and markers of inflammation (11).",
+      "page_number": "S52",
+      "evidence_level": "A",
+      "behavior_category": "Diet",
+      "target_amount": "Not specified"
+    },
+    {
+      "name": "Monitor vitamin B12 levels",
+      "synonyms": [
+        "periodic assessment of vitamin B12 levels"
+      ],
+      "source_text": "Consider periodic assessment of vitamin B12 levels in individuals receiving long-term metformin therapy, especially in those with anemia or peripheral neuropathy. B",
+      "page_number": "S56",
+      "evidence_level": "B",
+      "behavior_category": "Monitoring",
+      "target_amount": "periodic"
+    },
+    {
+      "name": "Consume a plant-based eating pattern",
+      "synonyms": [
+        "plant-based"
+      ],
+      "source_text": "A variety of eating patterns (21) can be appropriate for individuals with prediabetes or diabetes, including Mediterranean-style, plant-based (which may or may not be omnivorous), Dietary Approaches to Stop Hypertension (DASH), and low-carbohydrate (22\u201325).",
+      "page_number": "S53",
+      "evidence_level": "Unknown",
+      "behavior_category": "Diet",
+      "target_amount": "Not specified"
+    },
+    {
+      "name": "Consume a DASH eating pattern",
+      "synonyms": [
+        "Dietary Approaches to Stop Hypertension (DASH)"
+      ],
+      "source_text": "A variety of eating patterns (21) can be appropriate for individuals with prediabetes or diabetes, including Mediterranean-style, plant-based (which may or may not be omnivorous), Dietary Approaches to Stop Hypertension (DASH), and low-carbohydrate (22\u201325).",
+      "page_number": "S53",
+      "evidence_level": "Unknown",
+      "behavior_category": "Diet",
+      "target_amount": "Not specified"
+    },
+    {
+      "name": "Monitor for adverse events of metformin therapy",
+      "synonyms": [],
+      "source_text": "However, it is important to weigh the benefits of preventing hyperglycemia with the potential adverse effects of metformin therapy, particularly diarrhea, which is also a frequent adverse effect of PI3K\u03b1 therapy (though there is no evidence that concurrent use of these two medications further exacerbates diarrhea risk) (108).",
+      "page_number": "S57",
+      "evidence_level": "Unknown",
+      "behavior_category": "Monitoring",
+      "target_amount": "Not specified"
+    },
+    {
+      "name": "Consume less than 6 hours of sleep",
+      "synonyms": [
+        "short sleep duration"
+      ],
+      "source_text": "There is now established evidence for a U-shaped association between sleep duration and type 2 diabetes incidence, with the nadir typically occurring at 7 h per day, with short (typically defined as <6 h) and long (typically defined as >9 h) sleep duration having up to a 50% increase in the risk of type 2 diabetes, including progression from prediabetes (70).",
+      "page_number": "S57",
+      "evidence_level": "Unknown",
+      "behavior_category": "Sleep",
+      "target_amount": "<6 h"
+    },
+    {
+      "name": "Consume more than 9 hours of sleep",
+      "synonyms": [
+        "long sleep duration"
+      ],
+      "source_text": "There is now established evidence for a U-shaped association between sleep duration and type 2 diabetes incidence, with the nadir typically occurring at 7 h per day, with short (typically defined as <6 h) and long (typically defined as >9 h) sleep duration having up to a 50% increase in the risk of type 2 diabetes, including progression from prediabetes (70).",
+      "page_number": "S57",
+      "evidence_level": "Unknown",
+      "behavior_category": "Sleep",
+      "target_amount": ">9 h"
+    },
+    {
+      "name": "Improve sleep quality",
+      "synonyms": [
+        "poor overall sleep quality"
+      ],
+      "source_text": "Sleep quality is defined as \u201can individual\u2019s self-satisfaction with all aspects of the sleep experience\u201d (71,72). A meta-analysis reported that poor overall sleep quality was associated with a 40% increased risk of developing type 2 diabetes (73).",
+      "page_number": "S57",
+      "evidence_level": "Unknown",
+      "behavior_category": "Sleep",
+      "target_amount": "Not specified"
+    },
+    {
+      "name": "Adopt a morning chronotype",
+      "synonyms": [
+        "preference for mornings"
+      ],
+      "source_text": "Chronotype preference has been linked with many chronic diseases, including type 2 diabetes. For example, for those with a preference for evenings (i.e., going to bed late and getting up late), there was a 2.5-fold higher odds ratio for type 2 diabetes than for those with a preference for mornings (i.e., going to bed early and getting up early), independent of sleep duration and sleep sufficiency (74).",
+      "page_number": "S57",
+      "evidence_level": "Unknown",
+      "behavior_category": "Sleep",
+      "target_amount": "Not specified"
+    },
+    {
+      "name": "Avoid evening chronotype",
+      "synonyms": [
+        "preference for evenings"
+      ],
+      "source_text": "Chronotype preference has been linked with many chronic diseases, including type 2 diabetes. For example, for those with a preference for evenings (i.e., going to bed late and getting up late), there was a 2.5-fold higher odds ratio for type 2 diabetes than for those with a preference for mornings (i.e., going to bed early and getting up early), independent of sleep duration and sleep sufficiency (74).",
+      "page_number": "S57",
+      "evidence_level": "Unknown",
+      "behavior_category": "Sleep",
+      "target_amount": "Not specified"
+    },
+    {
+      "name": "Engage in lifestyle interventions",
+      "synonyms": [
+        "structured lifestyle program"
+      ],
+      "source_text": "Testosterone therapy also reduced the risk of incident type 2 diabetes by 41% in men aged 50\u201374 years with central obesity and prediabetes (89). However, the benefit of testosterone was observed only when added to a structured lifestyle program.",
+      "page_number": "S58",
+      "evidence_level": "Unknown",
+      "behavior_category": "Lifestyle Modification",
+      "target_amount": "Not specified"
+    },
+    {
+      "name": "Lose weight",
+      "synonyms": [],
+      "source_text": "The IRIS (Insulin Resistance Intervention after Stroke) trial of people with a recent (<6 months) stroke or transient ischemic attack, without diabetes but with insulin resistance (as defined by a HOMA of insulin resistance index of \u22653.0), evaluated pioglitazone (goal dose of 45 mg daily) compared with placebo. At 4.8 years, the risk of stroke or myocardial infarction, as well as the risk of diabetes, was lower in the pioglitazone group than in the placebo group; weight gain, edema, and fractures were higher in the pioglitazone treatment group (128\u2013130).",
+      "page_number": "S59",
+      "evidence_level": "Unknown",
+      "behavior_category": "Weight Management",
+      "target_amount": "Not specified"
+    },
+    {
+      "name": "Minimize progression of hyperglycemia",
+      "synonyms": [],
+      "source_text": "In adults with overweight or obesity at high risk of type 2 diabetes, care goals should include weight Loss and maintenance, minimizing the progression of hyperglycemia, and attention to cardiovascular risk.",
+      "page_number": "S59",
+      "evidence_level": "Unknown",
+      "behavior_category": "Glycemic Control",
+      "target_amount": "Not specified"
+    },
+    {
+      "name": "Attend to cardiovascular risk",
+      "synonyms": [
+        "attention to cardiovascular risk"
+      ],
+      "source_text": "In adults with overweight or obesity at high risk of type 2 diabetes, care goals should include weight Loss and maintenance, minimizing the progression of hyperglycemia, and attention to cardiovascular risk.",
+      "page_number": "S59",
+      "evidence_level": "Unknown",
+      "behavior_category": "Cardiovascular Health",
+      "target_amount": "Not specified"
+    },
+    {
+      "name": "Consume less than 7 hours of sleep",
+      "synonyms": [
+        "short sleep duration"
+      ],
+      "source_text": "There is now established evidence for a U-shaped association between sleep duration and type 2 diabetes incidence, with the nadir typically occurring at 7 h per day, with short (typically defined as <6 h) and long (typically defined as >9 h) sleep duration having up to a 50% increase in the risk of type 2 diabetes, including progression from prediabetes (70).",
+      "page_number": "S57",
+      "evidence_level": "Unknown",
+      "behavior_category": "Unknown",
+      "target_amount": null
+    }
+  ],
+  "social_determinants": [],
+  "outcomes": [],
+  "screening_tools": [],
+  "relationships": []
+}

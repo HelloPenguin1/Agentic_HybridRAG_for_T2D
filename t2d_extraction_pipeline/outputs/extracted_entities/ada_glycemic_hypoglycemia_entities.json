@@ -1,0 +1,1553 @@
+{
+  "diagnostic_tests": [
+    {
+      "name": "A1C measurement",
+      "synonyms": [
+        "A1C",
+        "HbA1c"
+      ],
+      "source_text": "Glycemic status is assessed by A1C measurement, blood glucose monitoring (BGM) by capillary (finger-stick) devices, and different continuous glucose monitoring (CGM) metrics such as time in range (...",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "test_type": "Laboratory",
+      "normal_range": null,
+      "units": null
+    },
+    {
+      "name": "continuous glucose monitoring (CGM) metrics",
+      "synonyms": [
+        "CGM metrics"
+      ],
+      "source_text": "Glycemic status is assessed by A1C measurement, blood glucose monitoring (BGM) by capillary (finger-stick) devices, and different continuous glucose monitoring (CGM) metrics such as time in range (...",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "test_type": "Device-based",
+      "normal_range": null,
+      "units": null
+    },
+    {
+      "name": "blood glucose monitoring (BGM)",
+      "synonyms": [
+        "BGM"
+      ],
+      "source_text": "Glycemic status is assessed by A1C measurement, blood glucose monitoring (BGM) by capillary (finger-stick) devices, and different continuous glucose monitoring (CGM) metrics such as time in range (...",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "test_type": "Device-based",
+      "normal_range": null,
+      "units": null
+    },
+    {
+      "name": "Fructosamine",
+      "synonyms": [],
+      "source_text": "Fructosamine or CGM can be used for glycemic monitoring when an alternative to A1C is required. B",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "test_type": "Laboratory",
+      "normal_range": null,
+      "units": null
+    },
+    {
+      "name": "glycated albumin",
+      "synonyms": [],
+      "source_text": "Fructosamine and glycated albumin are alternative measures of glycemia that are approved for clinical use for monitoring glycemic status in people with diabetes.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "test_type": "Laboratory",
+      "normal_range": null,
+      "units": null
+    },
+    {
+      "name": "ketone measurement",
+      "synonyms": [
+        "urine ketone monitoring",
+        "blood ketone tests"
+      ],
+      "source_text": "Individuals at risk for DKA should be counseled on the early signs and symptoms of DKA, provided with appropriate tools for ketone measurement (urine and/or blood ketone tests), and educated on tim...",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "test_type": "Laboratory",
+      "normal_range": null,
+      "units": null
+    }
+  ],
+  "conditions": [
+    {
+      "name": "Type 1 diabetes",
+      "synonyms": [],
+      "source_text": "CGM serves an increasingly important role in optimizing the effectiveness and safety of treatment in many people with type 1 diabetes, type 2 diabetes, diabetes in pregnancy, and other forms of dia...",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "icd10_code": null,
+      "classification": "Diabetes Type"
+    },
+    {
+      "name": "Type 2 diabetes",
+      "synonyms": [],
+      "source_text": "CGM serves an increasingly important role in optimizing the effectiveness and safety of treatment in many people with type 1 diabetes, type 2 diabetes, diabetes in pregnancy, and other forms of dia...",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "icd10_code": null,
+      "classification": "Diabetes Type"
+    },
+    {
+      "name": "diabetes in pregnancy",
+      "synonyms": [],
+      "source_text": "CGM serves an increasingly important role in optimizing the effectiveness and safety of treatment in many people with type 1 diabetes, type 2 diabetes, diabetes in pregnancy, and other forms of dia...",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "icd10_code": null,
+      "classification": "Diabetes Type"
+    },
+    {
+      "name": "cystic fibrosis\u2013related diabetes",
+      "synonyms": [],
+      "source_text": "CGM serves an increasingly important role in optimizing the effectiveness and safety of treatment in many people with type 1 diabetes, type 2 diabetes, diabetes in pregnancy, and other forms of dia...",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "icd10_code": null,
+      "classification": "Diabetes Type"
+    },
+    {
+      "name": "hypoglycemia",
+      "synonyms": [],
+      "source_text": "Hypoglycemia is often the major limiting factor in the glycemic management of type 1 and type 2 diabetes.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "icd10_code": null,
+      "classification": "Complication"
+    },
+    {
+      "name": "diabetic ketoacidosis (DKA)",
+      "synonyms": [],
+      "source_text": "Diabetic ketoacidosis (DKA) and the hyperglycemic hyperosmolar state (HHS) are serious, acute, and life-threatening hyperglycemic emergencies (162).",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "icd10_code": null,
+      "classification": "Hyperglycemic Crisis"
+    },
+    {
+      "name": "hyperglycemic hyperosmolar state (HHS)",
+      "synonyms": [],
+      "source_text": "Diabetic ketoacidosis (DKA) and the hyperglycemic hyperosmolar state (HHS) are serious, acute, and life-threatening hyperglycemic emergencies (162).",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "icd10_code": null,
+      "classification": "Hyperglycemic Crisis"
+    },
+    {
+      "name": "impaired hypoglycemia awareness",
+      "synonyms": [
+        "hypoglycemia unawareness",
+        "hypoglycemia-associated autonomic failure"
+      ],
+      "source_text": "Individuals at risk for hypoglycemia should also be screened for impaired hypoglycemia awareness (also called hypoglycemia unawareness or hypoglycemia-associated autonomic failure) at least yearly.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "icd10_code": null,
+      "classification": "Complication"
+    },
+    {
+      "name": "euglycemic DKA",
+      "synonyms": [],
+      "source_text": "Pregnant individuals may present with euglycemic DKA (glucose <200 mg/dL [11.1 mmol/L]), and the diagnosis of DKA may be hindered by the presence of mixed acid-based disturbances, particularly in t...",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "icd10_code": null,
+      "classification": "Hyperglycemic Crisis"
+    }
+  ],
+  "metric_values": [
+    {
+      "name": "A1C",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "7",
+      "unit": "%",
+      "comparator": "<",
+      "upper_bound": null
+    },
+    {
+      "name": "A1C",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "53",
+      "unit": "mmol/mol",
+      "comparator": "<",
+      "upper_bound": null
+    },
+    {
+      "name": "time in range (TIR)",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "70",
+      "unit": "%",
+      "comparator": ">",
+      "upper_bound": null
+    },
+    {
+      "name": "time below range (TBR)",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "4",
+      "unit": "%",
+      "comparator": "<",
+      "upper_bound": null
+    },
+    {
+      "name": "time below range (TBR)",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "70",
+      "unit": "mg/dL",
+      "comparator": "<",
+      "upper_bound": null
+    },
+    {
+      "name": "time below range (TBR)",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "3.9",
+      "unit": "mmol/L",
+      "comparator": "<",
+      "upper_bound": null
+    },
+    {
+      "name": "time below range (TBR)",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "1",
+      "unit": "%",
+      "comparator": ">",
+      "upper_bound": null
+    },
+    {
+      "name": "time below range (TBR)",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "54",
+      "unit": "mg/dL",
+      "comparator": "<",
+      "upper_bound": null
+    },
+    {
+      "name": "time below range (TBR)",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "3.0",
+      "unit": "mmol/L",
+      "comparator": "<",
+      "upper_bound": null
+    },
+    {
+      "name": "time above range (TAR)",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "5",
+      "unit": "%",
+      "comparator": ">",
+      "upper_bound": null
+    },
+    {
+      "name": "time above range (TAR)",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "250",
+      "unit": "mg/dL",
+      "comparator": ">",
+      "upper_bound": null
+    },
+    {
+      "name": "time above range (TAR)",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "13.9",
+      "unit": "mmol/L",
+      "comparator": ">",
+      "upper_bound": null
+    },
+    {
+      "name": "time above range (TAR)",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "10",
+      "unit": "%",
+      "comparator": ">",
+      "upper_bound": null
+    },
+    {
+      "name": "time above range (TAR)",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "180",
+      "unit": "mg/dL",
+      "comparator": ">",
+      "upper_bound": null
+    },
+    {
+      "name": "time above range (TAR)",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "10",
+      "unit": "mmol/L",
+      "comparator": ">",
+      "upper_bound": null
+    },
+    {
+      "name": "Glucose coefficient of variation (CV)",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "36",
+      "unit": "%",
+      "comparator": "\u2264",
+      "upper_bound": null
+    },
+    {
+      "name": "A1C",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "6.5",
+      "unit": "%",
+      "comparator": "<",
+      "upper_bound": null
+    },
+    {
+      "name": "A1C",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "48",
+      "unit": "mmol/mol",
+      "comparator": "<",
+      "upper_bound": null
+    },
+    {
+      "name": "Preprandial capillary plasma glucose",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "80",
+      "unit": "mg/dL",
+      "comparator": "80\u2013130",
+      "upper_bound": "130"
+    },
+    {
+      "name": "Preprandial capillary plasma glucose",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "4.4",
+      "unit": "mmol/L",
+      "comparator": "4.4\u20137.2",
+      "upper_bound": "7.2"
+    },
+    {
+      "name": "Peak postprandial capillary plasma glucose",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "180",
+      "unit": "mg/dL",
+      "comparator": "<",
+      "upper_bound": null
+    },
+    {
+      "name": "Peak postprandial capillary plasma glucose",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "10.0",
+      "unit": "mmol/L",
+      "comparator": "<",
+      "upper_bound": null
+    },
+    {
+      "name": "A1C",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "7.0",
+      "unit": "%",
+      "comparator": null,
+      "upper_bound": null
+    },
+    {
+      "name": "A1C",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "53",
+      "unit": "mmol/mol",
+      "comparator": null,
+      "upper_bound": null
+    },
+    {
+      "name": "time in range (TIR)",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "50",
+      "unit": "%",
+      "comparator": ">",
+      "upper_bound": null
+    },
+    {
+      "name": "time below range (TBR)",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "1",
+      "unit": "%",
+      "comparator": "<",
+      "upper_bound": null
+    },
+    {
+      "name": "time above range (TAR)",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "50",
+      "unit": "%",
+      "comparator": null,
+      "upper_bound": null
+    },
+    {
+      "name": "A1C",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "8",
+      "unit": "%",
+      "comparator": "up to",
+      "upper_bound": null
+    },
+    {
+      "name": "A1C",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "64",
+      "unit": "mmol/mol",
+      "comparator": "up to",
+      "upper_bound": null
+    },
+    {
+      "name": "Glucose",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "70",
+      "unit": "mg/dL",
+      "comparator": "<",
+      "upper_bound": null
+    },
+    {
+      "name": "Glucose",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "3.9",
+      "unit": "mmol/L",
+      "comparator": "<",
+      "upper_bound": null
+    },
+    {
+      "name": "Glucose",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "54",
+      "unit": "mg/dL",
+      "comparator": "<",
+      "upper_bound": null
+    },
+    {
+      "name": "Glucose",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "3.0",
+      "unit": "mmol/L",
+      "comparator": "<",
+      "upper_bound": null
+    },
+    {
+      "name": "Glucose",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "200",
+      "unit": "mg/dL",
+      "comparator": "<",
+      "upper_bound": null
+    },
+    {
+      "name": "Glucose",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "value": "11.1",
+      "unit": "mmol/L",
+      "comparator": "<",
+      "upper_bound": null
+    }
+  ],
+  "screening_frequencies": [
+    {
+      "name": "Assess glycemic status",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "frequency": "at least two times a year",
+      "applies_to": "all individuals with diabetes"
+    },
+    {
+      "name": "Assess glycemic status",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "frequency": "more frequently (e.g., every 3 months)",
+      "applies_to": "individuals not meeting glycemic goals or with recent treatment changes, frequent or severe hypoglycemia or hyperglycemia, or changes in health status, or during periods of rapid growth and development in children and adolescents"
+    },
+    {
+      "name": "A1C testing",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "frequency": "approximately every 3 months",
+      "applies_to": "individuals not meeting glycemic goals or with recent treatment changes, frequent or severe hypoglycemia or hyperglycemia, or changes in health status"
+    },
+    {
+      "name": "A1C testing",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "frequency": "twice a year",
+      "applies_to": "Adults with type 1 or type 2 diabetes who have achieved and are maintaining glucose levels within their goal range"
+    },
+    {
+      "name": "A1C testing",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "frequency": "typically every 3 months, with additional assessments as needed",
+      "applies_to": "Individuals with less stable glucose levels, those with intensive care plans, or those not meeting their treatment goals"
+    },
+    {
+      "name": "Screen for impaired hypoglycemia awareness",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "frequency": "at least annually",
+      "applies_to": "Individuals at risk for hypoglycemia"
+    },
+    {
+      "name": "Screen for fear of hypoglycemia",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "frequency": "at least annually",
+      "applies_to": "Individuals at high risk for hypoglycemia or with severe and/or frequent hypoglycemia"
+    },
+    {
+      "name": "Review history of hypoglycemia",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "frequency": "every follow-up visit",
+      "applies_to": "all individuals at risk for hypoglycemia"
+    },
+    {
+      "name": "Hypoglycemia history assessment",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "frequency": "Every follow-up visit",
+      "applies_to": "Individuals at risk for hypoglycemia"
+    },
+    {
+      "name": "Structured individual education for hypoglycemia prevention and treatment",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "frequency": "Every follow-up visit",
+      "applies_to": "Individuals at risk for hypoglycemia"
+    },
+    {
+      "name": "Reevaluation of diabetes treatment plan with deintensification, simplification, or agent modification as appropriate",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "frequency": "Every follow-up visit",
+      "applies_to": "Individuals at risk for hypoglycemia"
+    },
+    {
+      "name": "Review history of hyperglycemic crises",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "frequency": "every clinical encounter",
+      "applies_to": "all individuals with diabetes at risk for these events"
+    }
+  ],
+  "target_goals": [
+    {
+      "name": "A1C goal",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "goal_type": "Target",
+      "target_value": "<7.0%",
+      "patient_population": "many nonpregnant adults without severe hypoglycemia or hypoglycemia affecting health or quality of life"
+    },
+    {
+      "name": "A1C goal",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "goal_type": "Target",
+      "target_value": "<53 mmol/mol",
+      "patient_population": "many nonpregnant adults without severe hypoglycemia or hypoglycemia affecting health or quality of life"
+    },
+    {
+      "name": "Time in range (TIR) goal",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "goal_type": "Target",
+      "target_value": ">70%",
+      "patient_population": "many nonpregnant adults using CGM"
+    },
+    {
+      "name": "Time below range (TBR) goal",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "goal_type": "Target",
+      "target_value": "<4%",
+      "patient_population": "people using CGM"
+    },
+    {
+      "name": "Time below range (TBR) goal",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "goal_type": "Target",
+      "target_value": "<1%",
+      "patient_population": "older adults using CGM"
+    },
+    {
+      "name": "A1C goal",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "goal_type": "Target",
+      "target_value": "<6.5%",
+      "patient_population": "individuals with diabetes with good health and function and low treatment risks (e.g., hypoglycemia) and burdens"
+    },
+    {
+      "name": "A1C goal",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "goal_type": "Target",
+      "target_value": "<48 mmol/mol",
+      "patient_population": "individuals with diabetes with good health and function and low treatment risks (e.g., hypoglycemia) and burdens"
+    },
+    {
+      "name": "Glycemic goals",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "goal_type": "Target",
+      "target_value": "Less stringent",
+      "patient_population": "individuals with significant cognitive and/or functional limitations, frailty, or severe comorbidities or where the harms of treatment, including hypoglycemia, are greater than the benefits"
+    },
+    {
+      "name": "Preprandial capillary plasma glucose goal",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "goal_type": "Target",
+      "target_value": "80\u2013130 mg/dL",
+      "patient_population": "many nonpregnant adults with diabetes"
+    },
+    {
+      "name": "Preprandial capillary plasma glucose goal",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "goal_type": "Target",
+      "target_value": "4.4\u20137.2 mmol/L",
+      "patient_population": "many nonpregnant adults with diabetes"
+    },
+    {
+      "name": "Peak postprandial capillary plasma glucose goal",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "goal_type": "Target",
+      "target_value": "<180 mg/dL",
+      "patient_population": "many nonpregnant adults with diabetes"
+    },
+    {
+      "name": "Peak postprandial capillary plasma glucose goal",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "goal_type": "Target",
+      "target_value": "<10.0 mmol/L",
+      "patient_population": "many nonpregnant adults with diabetes"
+    },
+    {
+      "name": "A1C goal",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "goal_type": "Target",
+      "target_value": "7.0%",
+      "patient_population": "Older adults with complex/intermediate health"
+    },
+    {
+      "name": "Time in range (TIR) goal",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "goal_type": "Target",
+      "target_value": "50%",
+      "patient_population": "Older adults with complex/intermediate health"
+    },
+    {
+      "name": "Time below range (TBR) goal",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "goal_type": "Target",
+      "target_value": "<1%",
+      "patient_population": "Older adults with complex/intermediate health"
+    },
+    {
+      "name": "Time above range (TAR) goal",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "goal_type": "Target",
+      "target_value": "Avoid symptomatic hyperglycemia",
+      "patient_population": "Older adults with very complex/poor health"
+    },
+    {
+      "name": "Glycemic goals",
+      "synonyms": [],
+      "source_text": "Unknown",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "goal_type": "Target",
+      "target_value": "Avoid symptomatic hypoglycemia and hyperglycemia",
+      "patient_population": "all individuals"
+    }
+  ],
+  "patient_profiles": [
+    {
+      "name": "nonpregnant adults without severe hypoglycemia or hypoglycemia affecting health or quality of life",
+      "synonyms": [],
+      "source_text": "An A1C goal of <7% (<53 mmol/mol) is appropriate for many nonpregnant adults without severe hypoglycemia or hypoglycemia affecting health or quality of life. A",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "age_range": "Adult",
+      "bmi_range": null,
+      "comorbidities": [],
+      "special_status": null
+    },
+    {
+      "name": "people using CGM",
+      "synonyms": [],
+      "source_text": "A goal time in range of >70% in people using CGM is appropriate for many nonpregnant adults. B",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "age_range": null,
+      "bmi_range": null,
+      "comorbidities": [],
+      "special_status": "CGM user"
+    },
+    {
+      "name": "people using CGM",
+      "synonyms": [],
+      "source_text": "A goal percent time <70 mg/dL (<3.9 mmol/L) of <4% (or <1% for older adults) and a goal percent time <54 mg/dL (<3.0 mmol/L) of <1% are recommended in people using CGM to prevent hypoglycemia. Dein...",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "age_range": null,
+      "bmi_range": null,
+      "comorbidities": [],
+      "special_status": "CGM user"
+    },
+    {
+      "name": "older adults using CGM",
+      "synonyms": [],
+      "source_text": "A goal percent time <70 mg/dL (<3.9 mmol/L) of <4% (or <1% for older adults) and a goal percent time <54 mg/dL (<3.0 mmol/L) of <1% are recommended in people using CGM to prevent hypoglycemia. Dein...",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "age_range": null,
+      "bmi_range": null,
+      "comorbidities": [],
+      "special_status": "CGM user"
+    },
+    {
+      "name": "individuals with diabetes with good health and function and low treatment risks (e.g., hypoglycemia) and burdens",
+      "synonyms": [],
+      "source_text": "Lower A1C goals (e.g., <6.5% [<48 mmol/mol]) may be appropriate for individuals with diabetes with good health and function and low treatment risks (e.g., hypoglycemia) and burdens (see Fig. 6.1). B",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "age_range": null,
+      "bmi_range": null,
+      "comorbidities": [],
+      "special_status": "Good health and function, low treatment risks and burdens"
+    },
+    {
+      "name": "individuals with significant cognitive and/or functional limitations, frailty, or severe comorbidities or where the harms of treatment, including hypoglycemia, are greater than the benefits",
+      "synonyms": [],
+      "source_text": "Less stringent glycemic goals may be appropriate for individuals with significant cognitive and/or functional limitations, frailty, or severe comorbidities or where the harms of treatment, includin...",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "age_range": null,
+      "bmi_range": null,
+      "comorbidities": [
+        "cognitive limitations",
+        "functional limitations",
+        "frailty",
+        "severe comorbidities"
+      ],
+      "special_status": null
+    },
+    {
+      "name": "many nonpregnant adults with diabetes",
+      "synonyms": [],
+      "source_text": "Table 6.3\u2014Summary of glycemic goals for many nonpregnant adults with diabetes",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "age_range": "Adult",
+      "bmi_range": null,
+      "comorbidities": [],
+      "special_status": null
+    },
+    {
+      "name": "Older adults with complex/intermediate health",
+      "synonyms": [],
+      "source_text": "Older adults with complex/intermediate health",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "age_range": "Older Adult",
+      "bmi_range": null,
+      "comorbidities": [],
+      "special_status": "Complex/intermediate health"
+    },
+    {
+      "name": "all individuals",
+      "synonyms": [],
+      "source_text": "Select glycemic goals that avoid symptomatic hypoglycemia and hyperglycemia in all individuals.",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "age_range": null,
+      "bmi_range": null,
+      "comorbidities": [],
+      "special_status": "General population"
+    }
+  ],
+  "relationships": [
+    {
+      "source_entity": "A1C measurement",
+      "target_entity": "Type 2 diabetes",
+      "relationship_type": "ASSESSES",
+      "evidence_level": "A",
+      "conditional_context": "General population"
+    },
+    {
+      "source_entity": "continuous glucose monitoring (CGM) metrics",
+      "target_entity": "Type 2 diabetes",
+      "relationship_type": "ASSESSES",
+      "evidence_level": "A",
+      "conditional_context": "General population"
+    },
+    {
+      "source_entity": "blood glucose monitoring (BGM)",
+      "target_entity": "Type 2 diabetes",
+      "relationship_type": "ASSESSES",
+      "evidence_level": "A",
+      "conditional_context": "General population"
+    },
+    {
+      "source_entity": "Fructosamine",
+      "target_entity": "Type 2 diabetes",
+      "relationship_type": "ASSESSES",
+      "evidence_level": "B",
+      "conditional_context": "When an alternative to A1C is required"
+    },
+    {
+      "source_entity": "glycated albumin",
+      "target_entity": "Type 2 diabetes",
+      "relationship_type": "ASSESSES",
+      "evidence_level": "B",
+      "conditional_context": "When an alternative to A1C is required"
+    },
+    {
+      "source_entity": "A1C measurement",
+      "target_entity": "Type 1 diabetes",
+      "relationship_type": "ASSESSES",
+      "evidence_level": "A",
+      "conditional_context": "General population"
+    },
+    {
+      "source_entity": "continuous glucose monitoring (CGM) metrics",
+      "target_entity": "Type 1 diabetes",
+      "relationship_type": "ASSESSES",
+      "evidence_level": "A",
+      "conditional_context": "General population"
+    },
+    {
+      "source_entity": "blood glucose monitoring (BGM)",
+      "target_entity": "Type 1 diabetes",
+      "relationship_type": "ASSESSES",
+      "evidence_level": "A",
+      "conditional_context": "General population"
+    },
+    {
+      "source_entity": "A1C measurement",
+      "target_entity": "diabetes in pregnancy",
+      "relationship_type": "ASSESSES",
+      "evidence_level": "A",
+      "conditional_context": "General population"
+    },
+    {
+      "source_entity": "A1C measurement",
+      "target_entity": "cystic fibrosis\u2013related diabetes",
+      "relationship_type": "ASSESSES",
+      "evidence_level": "A",
+      "conditional_context": "General population"
+    },
+    {
+      "source_entity": "A1C measurement",
+      "target_entity": "hypoglycemia",
+      "relationship_type": "MONITORS",
+      "evidence_level": "Unknown",
+      "conditional_context": "A1C does not provide a measure of glycemic variability, real-time glucose levels, or hypoglycemia."
+    },
+    {
+      "source_entity": "A1C measurement",
+      "target_entity": "impaired hypoglycemia awareness",
+      "relationship_type": "IS_AFFECTED_BY",
+      "evidence_level": "Unknown",
+      "conditional_context": "Factors that affect hemoglobin or red blood cells may affect A1C"
+    },
+    {
+      "source_entity": "A1C measurement",
+      "target_entity": "diabetic ketoacidosis (DKA)",
+      "relationship_type": "INDICATES",
+      "evidence_level": "C",
+      "conditional_context": "Individuals at risk for DKA should measure ketones in the presence of symptoms and potential precipitating factors (e.g., illness, missed insulin doses, eating disorders), particularly if glucose levels exceed 200 mg/dL (11.1 mmol/L)."
+    },
+    {
+      "source_entity": "ketone measurement",
+      "target_entity": "diabetic ketoacidosis (DKA)",
+      "relationship_type": "DETECTS",
+      "evidence_level": "B",
+      "conditional_context": "Individuals at risk for DKA should be counseled on the early signs and symptoms of DKA, provided with appropriate tools for ketone measurement (urine and/or blood ketone tests), and educated on timely self-management of hyperglycemia and hyperketonemia (\u201csick day advice\u201d) (176\u2013178) to prevent clinical deterioration and need for acute care."
+    },
+    {
+      "source_entity": "Target_Goal",
+      "target_entity": "A1C",
+      "relationship_type": "HAS_TARGET_VALUE",
+      "evidence_level": "A",
+      "conditional_context": "many nonpregnant adults without severe hypoglycemia or hypoglycemia affecting health or quality of life"
+    },
+    {
+      "source_entity": "Target_Goal",
+      "target_entity": "Time in range (TIR)",
+      "relationship_type": "HAS_TARGET_VALUE",
+      "evidence_level": "B",
+      "conditional_context": "many nonpregnant adults using CGM"
+    },
+    {
+      "source_entity": "Target_Goal",
+      "target_entity": "Time below range (TBR)",
+      "relationship_type": "HAS_TARGET_VALUE",
+      "evidence_level": "B",
+      "conditional_context": "people using CGM"
+    },
+    {
+      "source_entity": "Target_Goal",
+      "target_entity": "Time below range (TBR)",
+      "relationship_type": "HAS_TARGET_VALUE",
+      "evidence_level": "B",
+      "conditional_context": "older adults using CGM"
+    },
+    {
+      "source_entity": "Target_Goal",
+      "target_entity": "A1C",
+      "relationship_type": "HAS_TARGET_VALUE",
+      "evidence_level": "B",
+      "conditional_context": "individuals with diabetes with good health and function and low treatment risks (e.g., hypoglycemia) and burdens"
+    },
+    {
+      "source_entity": "Target_Goal",
+      "target_entity": "Glycemic goals",
+      "relationship_type": "HAS_TARGET_VALUE",
+      "evidence_level": "B",
+      "conditional_context": "individuals with significant cognitive and/or functional limitations, frailty, or severe comorbidities or where the harms of treatment, including hypoglycemia, are greater than the benefits"
+    },
+    {
+      "source_entity": "Target_Goal",
+      "target_entity": "Preprandial capillary plasma glucose",
+      "relationship_type": "HAS_TARGET_VALUE",
+      "evidence_level": "Unknown",
+      "conditional_context": "many nonpregnant adults with diabetes"
+    },
+    {
+      "source_entity": "Target_Goal",
+      "target_entity": "Peak postprandial capillary plasma glucose",
+      "relationship_type": "HAS_TARGET_VALUE",
+      "evidence_level": "Unknown",
+      "conditional_context": "many nonpregnant adults with diabetes"
+    },
+    {
+      "source_entity": "Target_Goal",
+      "target_entity": "A1C",
+      "relationship_type": "HAS_TARGET_VALUE",
+      "evidence_level": "Unknown",
+      "conditional_context": "Older adults with complex/intermediate health"
+    },
+    {
+      "source_entity": "Target_Goal",
+      "target_entity": "Time in range (TIR)",
+      "relationship_type": "HAS_TARGET_VALUE",
+      "evidence_level": "Unknown",
+      "conditional_context": "Older adults with complex/intermediate health"
+    },
+    {
+      "source_entity": "Target_Goal",
+      "target_entity": "Time below range (TBR)",
+      "relationship_type": "HAS_TARGET_VALUE",
+      "evidence_level": "Unknown",
+      "conditional_context": "Older adults with complex/intermediate health"
+    },
+    {
+      "source_entity": "Target_Goal",
+      "target_entity": "Time above range (TAR)",
+      "relationship_type": "HAS_TARGET_VALUE",
+      "evidence_level": "Unknown",
+      "conditional_context": "Older adults with very complex/poor health"
+    },
+    {
+      "source_entity": "Target_Goal",
+      "target_entity": "Glycemic goals",
+      "relationship_type": "HAS_TARGET_VALUE",
+      "evidence_level": "Unknown",
+      "conditional_context": "all individuals"
+    },
+    {
+      "source_entity": "Patient_Profile",
+      "target_entity": "A1C measurement",
+      "relationship_type": "REQUIRES_SCREENING",
+      "evidence_level": "A",
+      "conditional_context": "at least two times a year"
+    },
+    {
+      "source_entity": "Patient_Profile",
+      "target_entity": "A1C measurement",
+      "relationship_type": "REQUIRES_SCREENING",
+      "evidence_level": "E",
+      "conditional_context": "more frequently (e.g., every 3 months) for individuals not meeting glycemic goals or with recent treatment changes, frequent or severe hypoglycemia or hyperglycemia, or changes in health status, or during periods of rapid growth and development in children and adolescents"
+    },
+    {
+      "source_entity": "Patient_Profile",
+      "target_entity": "Fructosamine",
+      "relationship_type": "REQUIRES_SCREENING",
+      "evidence_level": "B",
+      "conditional_context": "when an alternative to A1C is required"
+    },
+    {
+      "source_entity": "Patient_Profile",
+      "target_entity": "glycated albumin",
+      "relationship_type": "REQUIRES_SCREENING",
+      "evidence_level": "B",
+      "conditional_context": "when an alternative to A1C is required"
+    },
+    {
+      "source_entity": "Patient_Profile",
+      "target_entity": "ketone measurement",
+      "relationship_type": "REQUIRES_SCREENING",
+      "evidence_level": "B",
+      "conditional_context": "Individuals at risk for DKA"
+    },
+    {
+      "source_entity": "Patient_Profile",
+      "target_entity": "impaired hypoglycemia awareness",
+      "relationship_type": "REQUIRES_SCREENING",
+      "evidence_level": "Unknown",
+      "conditional_context": "at least annually"
+    },
+    {
+      "source_entity": "Patient_Profile",
+      "target_entity": "fear of hypoglycemia",
+      "relationship_type": "REQUIRES_SCREENING",
+      "evidence_level": "Unknown",
+      "conditional_context": "at least annually"
+    },
+    {
+      "source_entity": "Patient_Profile",
+      "target_entity": "hypoglycemia",
+      "relationship_type": "REQUIRES_ASSESSMENT",
+      "evidence_level": "Unknown",
+      "conditional_context": "every clinical encounter"
+    },
+    {
+      "source_entity": "Patient_Profile",
+      "target_entity": "hyperglycemic crises",
+      "relationship_type": "REQUIRES_ASSESSMENT",
+      "evidence_level": "C",
+      "conditional_context": "every clinical encounter"
+    },
+    {
+      "source_entity": "Patient_Profile",
+      "target_entity": "A1C measurement",
+      "relationship_type": "REQUIRES_SCREENING",
+      "evidence_level": "Unknown",
+      "conditional_context": "approximately every 3 months"
+    },
+    {
+      "source_entity": "Patient_Profile",
+      "target_entity": "A1C measurement",
+      "relationship_type": "REQUIRES_SCREENING",
+      "evidence_level": "Unknown",
+      "conditional_context": "twice a year"
+    },
+    {
+      "source_entity": "Patient_Profile",
+      "target_entity": "A1C measurement",
+      "relationship_type": "REQUIRES_SCREENING",
+      "evidence_level": "Unknown",
+      "conditional_context": "typically every 3 months, with additional assessments as needed"
+    },
+    {
+      "source_entity": "Patient_Profile",
+      "target_entity": "CGM metrics",
+      "relationship_type": "BENEFICIAL_FOR",
+      "evidence_level": "Unknown",
+      "conditional_context": "individuals at high risk for hypoglycemia"
+    },
+    {
+      "source_entity": "Patient_Profile",
+      "target_entity": "CGM metrics",
+      "relationship_type": "RECOMMENDED_FOR",
+      "evidence_level": "Unknown",
+      "conditional_context": "insulin-treated individuals"
+    },
+    {
+      "source_entity": "Patient_Profile",
+      "target_entity": "hypoglycemia",
+      "relationship_type": "IS_A_LIMITING_FACTOR_FOR",
+      "evidence_level": "Unknown",
+      "conditional_context": "type 1 and type 2 diabetes"
+    },
+    {
+      "source_entity": "Patient_Profile",
+      "target_entity": "A1C",
+      "relationship_type": "IS_AFFECTED_BY",
+      "evidence_level": "Unknown",
+      "conditional_context": "Factors that affect hemoglobin or red blood cells"
+    },
+    {
+      "source_entity": "Patient_Profile",
+      "target_entity": "diabetic ketoacidosis (DKA)",
+      "relationship_type": "HAS_RISK_FACTOR",
+      "evidence_level": "Unknown",
+      "conditional_context": "Type 1 diabetes/absolute insulin deficiency"
+    },
+    {
+      "source_entity": "Patient_Profile",
+      "target_entity": "diabetic ketoacidosis (DKA)",
+      "relationship_type": "HAS_RISK_FACTOR",
+      "evidence_level": "Unknown",
+      "conditional_context": "Type 2 diabetes"
+    },
+    {
+      "source_entity": "Patient_Profile",
+      "target_entity": "hyperglycemic crises",
+      "relationship_type": "HAS_RISK_FACTOR",
+      "evidence_level": "Unknown",
+      "conditional_context": "Type 1 diabetes"
+    },
+    {
+      "source_entity": "Patient_Profile",
+      "target_entity": "hyperglycemic crises",
+      "relationship_type": "HAS_RISK_FACTOR",
+      "evidence_level": "Unknown",
+      "conditional_context": "Type 2 diabetes"
+    },
+    {
+      "source_entity": "Patient_Profile",
+      "target_entity": "hypoglycemia",
+      "relationship_type": "HAS_RISK_FACTOR",
+      "evidence_level": "Unknown",
+      "conditional_context": "treated with insulin, sulfonylureas, or meglitinides"
+    },
+    {
+      "source_entity": "Patient_Profile",
+      "target_entity": "hypoglycemia",
+      "relationship_type": "HAS_MAJOR_RISK_FACTOR",
+      "evidence_level": "Unknown",
+      "conditional_context": "Recent (within the past 3\u20136 months) level 2 or 3 hypoglycemia"
+    },
+    {
+      "source_entity": "Patient_Profile",
+      "target_entity": "hypoglycemia",
+      "relationship_type": "HAS_MAJOR_RISK_FACTOR",
+      "evidence_level": "Unknown",
+      "conditional_context": "Intensive insulin therapy"
+    },
+    {
+      "source_entity": "Patient_Profile",
+      "target_entity": "hypoglycemia",
+      "relationship_type": "HAS_MAJOR_RISK_FACTOR",
+      "evidence_level": "Unknown",
+      "conditional_context": "Impaired hypoglycemia awareness"
+    },
+    {
+      "source_entity": "Patient_Profile",
+      "target_entity": "hypoglycemia",
+      "relationship_type": "HAS_MAJOR_RISK_FACTOR",
+      "evidence_level": "Unknown",
+      "conditional_context": "Kidney failure"
+    },
+    {
+      "source_entity": "Patient_Profile",
+      "target_entity": "hypoglycemia",
+      "relationship_type": "HAS_MAJOR_RISK_FACTOR",
+      "evidence_level": "Unknown",
+      "conditional_context": "Cognitive impairment or dementia"
+    },
+    {
+      "source_entity": "Patient_Profile",
+      "target_entity": "hypoglycemia",
+      "relationship_type": "HAS_MAJOR_RISK_FACTOR",
+      "evidence_level": "Unknown",
+      "conditional_context": "History of metabolic surgery"
+    },
+    {
+      "source_entity": "Patient_Profile",
+      "target_entity": "hypoglycemia",
+      "relationship_type": "HAS_MAJOR_RISK_FACTOR",
+      "evidence_level": "Unknown",
+      "conditional_context": "Food insecurity"
+    },
+    {
+      "source_entity": "Patient_Profile",
+      "target_entity": "hypoglycemia",
+      "relationship_type": "HAS_MAJOR_RISK_FACTOR",
+      "evidence_level": "Unknown",
+      "conditional_context": "Low-income status"
+    },
+    {
+      "source_entity": "Patient_Profile",
+      "target_entity": "hypoglycemia",
+      "relationship_type": "HAS_MAJOR_RISK_FACTOR",
+      "evidence_level": "Unknown",
+      "conditional_context": "Housing insecurity"
+    },
+    {
+      "source_entity": "Patient_Profile",
+      "target_entity": "hypoglycemia",
+      "relationship_type": "HAS_MAJOR_RISK_FACTOR",
+      "evidence_level": "Unknown",
+      "conditional_context": "Fasting for religious or cultural reasons"
+    },
+    {
+      "source_entity": "Patient_Profile",
+      "target_entity": "hypoglycemia",
+      "relationship_type": "HAS_MAJOR_RISK_FACTOR",
+      "evidence_level": "Unknown",
+      "conditional_context": "Underinsurance"
+    },
+    {
+      "source_entity": "Patient_Profile",
+      "target_entity": "hypoglycemia",
+      "relationship_type": "HAS_OTHER_RISK_FACTOR",
+      "evidence_level": "Unknown",
+      "conditional_context": "Multiple recent episodes of level 1 hypoglycemia"
+    },
+    {
+      "source_entity": "Patient_Profile",
+      "target_entity": "hypoglycemia",
+      "relationship_type": "HAS_OTHER_RISK_FACTOR",
+      "evidence_level": "Unknown",
+      "conditional_context": "Basal insulin therapy"
+    },
+    {
+      "source_entity": "Patient_Profile",
+      "target_entity": "hypoglycemia",
+      "relationship_type": "HAS_OTHER_RISK_FACTOR",
+      "evidence_level": "Unknown",
+      "conditional_context": "Age \u226575 years"
+    },
+    {
+      "source_entity": "Patient_Profile",
+      "target_entity": "hypoglycemia",
+      "relationship_type": "HAS_OTHER_RISK_FACTOR",
+      "evidence_level": "Unknown",
+      "conditional_context": "Female sex"
+    },
+    {
+      "source_entity": "Patient_Profile",
+      "target_entity": "hypoglycemia",
+      "relationship_type": "HAS_OTHER_RISK_FACTOR",
+      "evidence_level": "Unknown",
+      "conditional_context": "High glycemic variability"
+    },
+    {
+      "source_entity": "Patient_Profile",
+      "target_entity": "hypoglycemia",
+      "relationship_type": "HAS_OTHER_RISK_FACTOR",
+      "evidence_level": "Unknown",
+      "conditional_context": "Polypharmacy"
+    },
+    {
+      "source_entity": "Patient_Profile",
+      "target_entity": "hypoglycemia",
+      "relationship_type": "HAS_OTHER_RISK_FACTOR",
+      "evidence_level": "Unknown",
+      "conditional_context": "Cardiovascular disease"
+    },
+    {
+      "source_entity": "Patient_Profile",
+      "target_entity": "hypoglycemia",
+      "relationship_type": "HAS_OTHER_RISK_FACTOR",
+      "evidence_level": "Unknown",
+      "conditional_context": "Chronic kidney disease (eGFR <60 mL/min/1.73 m2 or albuminuria)"
+    },
+    {
+      "source_entity": "Patient_Profile",
+      "target_entity": "hypoglycemia",
+      "relationship_type": "HAS_OTHER_RISK_FACTOR",
+      "evidence_level": "Unknown",
+      "conditional_context": "Neuropathy"
+    },
+    {
+      "source_entity": "Patient_Profile",
+      "target_entity": "hypoglycemia",
+      "relationship_type": "HAS_OTHER_RISK_FACTOR",
+      "evidence_level": "Unknown",
+      "conditional_context": "Retinopathy"
+    },
+    {
+      "source_entity": "Patient_Profile",
+      "target_entity": "hypoglycemia",
+      "relationship_type": "HAS_OTHER_RISK_FACTOR",
+      "evidence_level": "Unknown",
+      "conditional_context": "Major depressive disorder"
+    },
+    {
+      "source_entity": "Patient_Profile",
+      "target_entity": "hypoglycemia",
+      "relationship_type": "HAS_OTHER_RISK_FACTOR",
+      "evidence_level": "Unknown",
+      "conditional_context": "Severe mental illness"
+    },
+    {
+      "source_entity": "Patient_Profile",
+      "target_entity": "hypoglycemia",
+      "relationship_type": "HAS_OTHER_RISK_FACTOR",
+      "evidence_level": "Unknown",
+      "conditional_context": "Gastroparesis"
+    },
+    {
+      "source_entity": "Patient_Profile",
+      "target_entity": "hypoglycemia",
+      "relationship_type": "HAS_OTHER_RISK_FACTOR",
+      "evidence_level": "Unknown",
+      "conditional_context": "\u03b2-Blocker therapy"
+    },
+    {
+      "source_entity": "Patient_Profile",
+      "target_entity": "hypoglycemia",
+      "relationship_type": "HAS_OTHER_RISK_FACTOR",
+      "evidence_level": "Unknown",
+      "conditional_context": "Low health literacy"
+    },
+    {
+      "source_entity": "Patient_Profile",
+      "target_entity": "hypoglycemia",
+      "relationship_type": "HAS_OTHER_RISK_FACTOR",
+      "evidence_level": "Unknown",
+      "conditional_context": "Alcohol or substance use disorder"
+    },
+    {
+      "source_entity": "Patient_Profile",
+      "target_entity": "hypoglycemia",
+      "relationship_type": "HAS_RISK_FACTOR",
+      "evidence_level": "Unknown",
+      "conditional_context": "High A1C level"
+    },
+    {
+      "source_entity": "Patient_Profile",
+      "target_entity": "hypoglycemia",
+      "relationship_type": "HAS_RISK_FACTOR",
+      "evidence_level": "Unknown",
+      "conditional_context": "Insulin rationing"
+    },
+    {
+      "source_entity": "Patient_Profile",
+      "target_entity": "hypoglycemia",
+      "relationship_type": "HAS_RISK_FACTOR",
+      "evidence_level": "Unknown",
+      "conditional_context": "SGLT2 (SGLT1/2) inhibitor use"
+    },
+    {
+      "source_entity": "Patient_Profile",
+      "target_entity": "hypoglycemia",
+      "relationship_type": "HAS_RISK_FACTOR",
+      "evidence_level": "Unknown",
+      "conditional_context": "Social determinants of health"
+    },
+    {
+      "source_entity": "Patient_Profile",
+      "target_entity": "hypoglycemia",
+      "relationship_type": "HAS_RISK_FACTOR",
+      "evidence_level": "Unknown",
+      "conditional_context": "Younger age"
+    },
+    {
+      "source_entity": "Patient_Profile",
+      "target_entity": "hypoglycemia",
+      "relationship_type": "HAS_RISK_FACTOR",
+      "evidence_level": "Unknown",
+      "conditional_context": "Prior history of hyperglycemic crises"
+    },
+    {
+      "source_entity": "Patient_Profile",
+      "target_entity": "hypoglycemia",
+      "relationship_type": "HAS_RISK_FACTOR",
+      "evidence_level": "Unknown",
+      "conditional_context": "Prior history of hypoglycemic crises"
+    },
+    {
+      "source_entity": "Patient_Profile",
+      "target_entity": "hypoglycemia",
+      "relationship_type": "HAS_RISK_FACTOR",
+      "evidence_level": "Unknown",
+      "conditional_context": "Presence of other diabetes complications"
+    },
+    {
+      "source_entity": "Patient_Profile",
+      "target_entity": "hypoglycemia",
+      "relationship_type": "HAS_RISK_FACTOR",
+      "evidence_level": "Unknown",
+      "conditional_context": "Presence of other chronic health conditions"
+    },
+    {
+      "source_entity": "Patient_Profile",
+      "target_entity": "hypoglycemia",
+      "relationship_type": "HAS_RISK_FACTOR",
+      "evidence_level": "Unknown",
+      "conditional_context": "Presence of behavioral health conditions"
+    },
+    {
+      "source_entity": "Patient_Profile",
+      "target_entity": "hypoglycemia",
+      "relationship_type": "HAS_RISK_FACTOR",
+      "evidence_level": "Unknown",
+      "conditional_context": "Alcohol and/or substance use"
+    },
+    {
+      "source_entity": "Patient_Profile",
+      "target_entity": "hypoglycemia",
+      "relationship_type": "HAS_RISK_FACTOR",
+      "evidence_level": "Unknown",
+      "conditional_context": "Type 1 diabetes"
+    },
+    {
+      "source_entity": "Patient_Profile",
+      "target_entity": "hypoglycemia",
+      "relationship_type": "HAS_RISK_FACTOR",
+      "evidence_level": "Unknown",
+      "conditional_context": "Type 2 diabetes"
+    }
+  ]
+}

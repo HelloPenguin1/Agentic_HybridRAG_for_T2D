@@ -1,0 +1,680 @@
+{
+  "complications": [
+    {
+      "name": "Diabetic Retinopathy",
+      "synonyms": [
+        "diabetic retinopathy"
+      ],
+      "source_text": "Diabetic retinopathy is a highly specific neurovascular complication of diabetes",
+      "page_number": "S261",
+      "evidence_level": "B",
+      "complication_category": "Microvascular",
+      "stage": null
+    },
+    {
+      "name": "Diabetic Macular Edema",
+      "synonyms": [
+        "DME"
+      ],
+      "source_text": "At any point along this spectrum, the retina vasculature can leak fluid (and exudates) leading to diabetic macular edema (DME).",
+      "page_number": "S261",
+      "evidence_level": "Unknown",
+      "complication_category": "Microvascular",
+      "stage": null
+    },
+    {
+      "name": "Proliferative Diabetic Retinopathy",
+      "synonyms": [
+        "PDR"
+      ],
+      "source_text": "In response to ischemia, neovascularization can occur; this is proliferative diabetic retinopathy (PDR).",
+      "page_number": "S261",
+      "evidence_level": "Unknown",
+      "complication_category": "Microvascular",
+      "stage": null
+    },
+    {
+      "name": "Glaucoma",
+      "synonyms": [],
+      "source_text": "Glaucoma and cataracts occur earlier and more frequently in people with diabetes.",
+      "page_number": "S261",
+      "evidence_level": "Unknown",
+      "complication_category": "Ocular",
+      "stage": null
+    },
+    {
+      "name": "Cataracts",
+      "synonyms": [],
+      "source_text": "Glaucoma and cataracts occur earlier and more frequently in people with diabetes.",
+      "page_number": "S261",
+      "evidence_level": "Unknown",
+      "complication_category": "Ocular",
+      "stage": null
+    },
+    {
+      "name": "Diabetic Peripheral Neuropathy",
+      "synonyms": [
+        "DPN"
+      ],
+      "source_text": "Diabetic neuropathies are a heterogeneous group of disorders with diverse clinical manifestations (4). The early recognition and appropriate management of neuropathy in people with diabetes is important (62). Points to be aware of include the following: 1. Diabetic neuropathy is a diagnosis of exclusion. Nondiabetic neuropathies may be present in people with diabetes and may be treatable. 2. Up to 50% of diabetic peripheral neuropathy (DPN) cases may be asymptomatic (63).",
+      "page_number": "S266",
+      "evidence_level": "Unknown",
+      "complication_category": "Neuropathy",
+      "stage": null
+    },
+    {
+      "name": "Loss of Protective Sensation",
+      "synonyms": [
+        "LOPS"
+      ],
+      "source_text": "The involvement of large fibers may cause balance issues (including falls), numbness, and loss of protective sensation (LOPS).",
+      "page_number": "S266",
+      "evidence_level": "Unknown",
+      "complication_category": "Neuropathy",
+      "stage": null
+    },
+    {
+      "name": "Diabetic Foot Ulcer",
+      "synonyms": [
+        "DFU"
+      ],
+      "source_text": "DFUs can be defined as a break of the epidermis and at least part of the dermis, below the ankle, in a person with diabetes.",
+      "page_number": "S266",
+      "evidence_level": "Unknown",
+      "complication_category": "Foot Complication",
+      "stage": null
+    },
+    {
+      "name": "Cardiovascular Autonomic Neuropathy",
+      "synonyms": [
+        "CAN"
+      ],
+      "source_text": "CAN is associated with mortality independent of other cardiovascular risk factors (68,69).",
+      "page_number": "S266",
+      "evidence_level": "Unknown",
+      "complication_category": "Autonomic Neuropathy",
+      "stage": null
+    },
+    {
+      "name": "Orthostatic Hypotension",
+      "synonyms": [],
+      "source_text": "Advanced disease may be associated with resting tachycardia (>100 bpm) and orthostatic hypotension (a fall in systolic or diastolic blood pressure by >20 mmHg or >10 mmHg, respectively, upon standing without an appropriate increase in heart rate).",
+      "page_number": "S266",
+      "evidence_level": "Unknown",
+      "complication_category": "Autonomic Neuropathy",
+      "stage": null
+    },
+    {
+      "name": "Gastroparesis",
+      "synonyms": [],
+      "source_text": "Gastroparesis should be suspected in individuals with erratic glycemic management or with upper gastrointestinal symptoms without another identified cause.",
+      "page_number": "S266",
+      "evidence_level": "Unknown",
+      "complication_category": "Gastrointestinal Neuropathy",
+      "stage": null
+    },
+    {
+      "name": "Neuropathic Pain",
+      "synonyms": [],
+      "source_text": "Neuropathic pain can be severe and can impact quality of life, affect sleep, limit mobility, and contribute to depression and anxiety (97).",
+      "page_number": "S268",
+      "evidence_level": "Unknown",
+      "complication_category": "Neuropathy",
+      "stage": null
+    },
+    {
+      "name": "Peripheral Artery Disease",
+      "synonyms": [
+        "PAD"
+      ],
+      "source_text": "The presence of peripheral sensory neuropathy is the single most common component cause for foot ulceration. In a multicenter trial, peripheral neuropathy was found to be a component cause in 78% of people with diabetes with ulcerations and that the triad of peripheral sensory neuropathy, minor trauma, and foot deformity was present in >63% of participants.",
+      "page_number": "S270",
+      "evidence_level": "Unknown",
+      "complication_category": "Vascular",
+      "stage": null
+    },
+    {
+      "name": "Charcot Foot",
+      "synonyms": [
+        "Charcot neuroarthropathy"
+      ],
+      "source_text": "Special consideration should be given to individuals with neuropathy who present with a warm, swollen, red foot with or without a history of trauma and without an open ulceration. These individuals require a thorough workup for possible Charcot neuroarthropathy (140,141).",
+      "page_number": "S271",
+      "evidence_level": "Unknown",
+      "complication_category": "Foot Complication",
+      "stage": null
+    },
+    {
+      "name": "Kidney Failure",
+      "synonyms": [],
+      "source_text": "Category 3 High Ulcer risk or PAD and one or more of the following: \u2022 History of foot ulcer \u2022 Amputation (minor or major) \u2022 Kidney failure",
+      "page_number": "S271",
+      "evidence_level": "Unknown",
+      "complication_category": "Renal",
+      "stage": null
+    }
+  ],
+  "screening_tests": [
+    {
+      "name": "Dilated and comprehensive eye examination",
+      "synonyms": [
+        "eye exam"
+      ],
+      "source_text": "Adults with type 1 diabetes should have an initial dilated and comprehensive eye examination by an ophthalmologist or optometrist 5 years after the onset of diabetes.",
+      "page_number": "S262",
+      "evidence_level": "B",
+      "test_name": "Dilated and comprehensive eye examination",
+      "frequency": "5 years after onset of diabetes (Type 1), at diagnosis (Type 2), annually thereafter",
+      "indication": "Screening for diabetic retinopathy"
+    },
+    {
+      "name": "Retinal photography",
+      "synonyms": [
+        "AI algorithms"
+      ],
+      "source_text": "Programs that use retinal photography with remote reading or the use of U.S. Food and Drug Administration\u2013approved artificial intelligence algorithms to improve access to diabetic retinopathy screening are appropriate screening strategies for diabetic retinopathy.",
+      "page_number": "S262",
+      "evidence_level": "B",
+      "test_name": "Retinal photography",
+      "frequency": "Annual",
+      "indication": "Screening for diabetic retinopathy"
+    },
+    {
+      "name": "10-g monofilament testing",
+      "synonyms": [],
+      "source_text": "All people with diabetes should have annual 10-g monofilament testing to identify feet at risk for ulceration and amputation.",
+      "page_number": "S266",
+      "evidence_level": "B",
+      "test_name": "10-g monofilament testing",
+      "frequency": "Annually",
+      "indication": "Screening for loss of protective sensation (LOPS)"
+    },
+    {
+      "name": "Neurological assessment",
+      "synonyms": [
+        "temperature or pinprick sensation",
+        "vibration sensation"
+      ],
+      "source_text": "Assessment for distal symmetric polyneuropathy should include a careful history and assessment of either temperature or pinprick sensation (small-fiber function) and vibration sensation using a 128-Hz tuning fork (large-fiber function).",
+      "page_number": "S266",
+      "evidence_level": "B",
+      "test_name": "Neurological assessment",
+      "frequency": "Annually",
+      "indication": "Screening for diabetic peripheral neuropathy (DPN)"
+    },
+    {
+      "name": "Autonomic neuropathy screening",
+      "synonyms": [],
+      "source_text": "Symptoms and signs of autonomic neuropathy should be assessed in people with diabetes starting at diagnosis of type 2 diabetes and 5 years after the diagnosis of type 1 diabetes, and at least annually thereafter, and B.",
+      "page_number": "S266",
+      "evidence_level": "B",
+      "test_name": "Autonomic neuropathy screening",
+      "frequency": "At diagnosis of type 2 diabetes and 5 years after diagnosis of type 1 diabetes, and at least annually thereafter",
+      "indication": "Screening for autonomic neuropathy"
+    },
+    {
+      "name": "Comprehensive foot evaluation",
+      "synonyms": [],
+      "source_text": "Perform a comprehensive foot evaluation at least annually to identify risk factors for ulcers and amputations.",
+      "page_number": "S269",
+      "evidence_level": "Unknown",
+      "test_name": "Comprehensive foot evaluation",
+      "frequency": "At least annually",
+      "indication": "Identify risk factors for ulcers and amputations"
+    },
+    {
+      "name": "Vascular assessment",
+      "synonyms": [
+        "lower-extremity pulses",
+        "capillary refill time",
+        "rubor on dependency",
+        "pallor on elevation",
+        "venous filling time"
+      ],
+      "source_text": "The examination should include inspection of the skin, assessment of foot deformities, neurological assessment (10-g monofilament testing or Ipswich touch test with at least one additional assessment: pinprick, temperature, or vibration), and vascular assessment, including pulses in the legs and feet.",
+      "page_number": "S269",
+      "evidence_level": "Unknown",
+      "test_name": "Vascular assessment",
+      "frequency": "Annually",
+      "indication": "Assess for peripheral artery disease (PAD)"
+    },
+    {
+      "name": "Ankle reflexes",
+      "synonyms": [],
+      "source_text": "The monofilament test should be performed with at least one other neurologic assessment tool (e.g., pinprick, temperature perception, ankle reflexes, or vibratory perception with a 128-Hz tuning fork or similar device).",
+      "page_number": "S270",
+      "evidence_level": "Unknown",
+      "test_name": "Ankle reflexes",
+      "frequency": "Annually",
+      "indication": "Assessment for loss of protective sensation (LOPS)"
+    },
+    {
+      "name": "Vibratory perception",
+      "synonyms": [],
+      "source_text": "The monofilament test should be performed with at least one other neurologic assessment tool (e.g., pinprick, temperature perception, ankle reflexes, or vibratory perception with a 128-Hz tuning fork or similar device).",
+      "page_number": "S270",
+      "evidence_level": "Unknown",
+      "test_name": "Vibratory perception",
+      "frequency": "Annually",
+      "indication": "Assessment for loss of protective sensation (LOPS)"
+    },
+    {
+      "name": "Pulse volume recording tracings",
+      "synonyms": [],
+      "source_text": "Individuals with abnormal pulse volume recording tracings and toe pressures <30 mmHg with foot ulcers should be referred for formal vascular evaluation and angiography.",
+      "page_number": "S270",
+      "evidence_level": "Unknown",
+      "test_name": "Pulse volume recording tracings",
+      "frequency": "As indicated",
+      "indication": "Assessment for peripheral artery disease (PAD)"
+    },
+    {
+      "name": "Toe pressures",
+      "synonyms": [],
+      "source_text": "Individuals with abnormal pulse volume recording tracings and toe pressures <30 mmHg with foot ulcers should be referred for formal vascular evaluation and angiography.",
+      "page_number": "S270",
+      "evidence_level": "Unknown",
+      "test_name": "Toe pressures",
+      "frequency": "As indicated",
+      "indication": "Assessment for peripheral artery disease (PAD)"
+    },
+    {
+      "name": "Foot and ankle X-rays",
+      "synonyms": [],
+      "source_text": "Foot and ankle X-rays should be performed in all individuals presenting with the above clinical findings.",
+      "page_number": "S271",
+      "evidence_level": "Unknown",
+      "test_name": "Foot and ankle X-rays",
+      "frequency": "As indicated",
+      "indication": "Workup for possible Charcot neuroarthropathy"
+    }
+  ],
+  "therapeutic_agents": [
+    {
+      "name": "Anti-VEGF agents",
+      "synonyms": [
+        "anti-VEGF",
+        "aflibercept",
+        "ranibizumab",
+        "bevacizumab",
+        "brolucizumab",
+        "faricimab"
+      ],
+      "source_text": "Intravitreous injections of anti\u2013vascular endothelial growth factor (anti-VEGF) are a reasonable alternative to traditional panretinal laser photocoagulation for some individuals with PDR and also reduce the risk of vision loss in these individuals. A",
+      "page_number": "S263",
+      "evidence_level": "A",
+      "agent_type": "Intravitreous injection",
+      "when_to_use": "Diabetic macular edema involving the foveal center and impairing visual acuity; proliferative diabetic retinopathy"
+    },
+    {
+      "name": "Panretinal laser photocoagulation",
+      "synonyms": [],
+      "source_text": "Panretinal laser photocoagulation therapy is indicated to reduce the risk of vision loss in individuals with high-risk PDR and, in some cases, severe nonproliferative diabetic retinopathy. A",
+      "page_number": "S263",
+      "evidence_level": "A",
+      "agent_type": "Laser therapy",
+      "when_to_use": "High-risk proliferative diabetic retinopathy (PDR), severe nonproliferative diabetic retinopathy"
+    },
+    {
+      "name": "Macular focal/grid photocoagulation",
+      "synonyms": [],
+      "source_text": "Macular focal/grid photocoagulation and intravitreal injections of corticosteroid are reasonable treatments in eyes with persistent diabetic macular edema despite previous anti-VEGF therapy or eyes that are not candidates for this first-line approach. A",
+      "page_number": "S263",
+      "evidence_level": "A",
+      "agent_type": "Laser therapy",
+      "when_to_use": "Persistent diabetic macular edema despite anti-VEGF therapy or when not a candidate for anti-VEGF"
+    },
+    {
+      "name": "Corticosteroid injections",
+      "synonyms": [],
+      "source_text": "Macular focal/grid photocoagulation and intravitreal injections of corticosteroid are reasonable treatments in eyes with persistent diabetic macular edema despite previous anti-VEGF therapy or eyes that are not candidates for this first-line approach. A",
+      "page_number": "S263",
+      "evidence_level": "A",
+      "agent_type": "Intravitreous injection",
+      "when_to_use": "Persistent diabetic macular edema despite anti-VEGF therapy or when not a candidate for anti-VEGF"
+    },
+    {
+      "name": "Gabapentinoids",
+      "synonyms": [
+        "pregabalin",
+        "gabapentin",
+        "mirogabalin"
+      ],
+      "source_text": "Gabapentinoids, serotonin-norepinephrine reuptake inhibitors, tricyclic antidepressants, and sodium channel blockers are recommended as initial pharmacologic treatments for neuropathic pain in diabetes A.",
+      "page_number": "S267",
+      "evidence_level": "A",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "Neuropathic pain in diabetes"
+    },
+    {
+      "name": "Serotonin-norepinephrine reuptake inhibitors",
+      "synonyms": [
+        "SNRIs",
+        "duloxetine",
+        "venlafaxine",
+        "desvenlafaxine"
+      ],
+      "source_text": "Gabapentinoids, serotonin-norepinephrine reuptake inhibitors, tricyclic antidepressants, and sodium channel blockers are recommended as initial pharmacologic treatments for neuropathic pain in diabetes A.",
+      "page_number": "S267",
+      "evidence_level": "A",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "Neuropathic pain in diabetes"
+    },
+    {
+      "name": "Tricyclic antidepressants",
+      "synonyms": [
+        "TCAs",
+        "amitriptyline"
+      ],
+      "source_text": "Gabapentinoids, serotonin-norepinephrine reuptake inhibitors, tricyclic antidepressants, and sodium channel blockers are recommended as initial pharmacologic treatments for neuropathic pain in diabetes A.",
+      "page_number": "S267",
+      "evidence_level": "A",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "Neuropathic pain in diabetes"
+    },
+    {
+      "name": "Sodium channel blockers",
+      "synonyms": [],
+      "source_text": "Gabapentinoids, serotonin-norepinephrine reuptake inhibitors, tricyclic antidepressants, and sodium channel blockers are recommended as initial pharmacologic treatments for neuropathic pain in diabetes A.",
+      "page_number": "S267",
+      "evidence_level": "A",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "Neuropathic pain in diabetes"
+    },
+    {
+      "name": "Opioids",
+      "synonyms": [
+        "tramadol",
+        "tapentadol",
+        "dextromethorphan",
+        "oxycodone",
+        "morphine sulfate"
+      ],
+      "source_text": "Opioids, including tramadol and tapentadol, should not be used for neuropathic pain treatment in diabetes given the potential for adverse events except in rare circumstances B.",
+      "page_number": "S267",
+      "evidence_level": "B",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "Rare circumstances for neuropathic pain in diabetes"
+    },
+    {
+      "name": "Metoclopramide",
+      "synonyms": [],
+      "source_text": "Only metoclopramide, a prokinetic agent, is approved by the FDA for the treatment of gastroparesis.",
+      "page_number": "S271",
+      "evidence_level": "Unknown",
+      "agent_type": "Prokinetic agent",
+      "when_to_use": "Gastroparesis (beyond 12 weeks not recommended by FDA)"
+    },
+    {
+      "name": "Domperidone",
+      "synonyms": [],
+      "source_text": "Other treatment options include domperidone (available outside the U.S.) and erythromycin, which is only effective for short-term use due to tachyphylaxis.",
+      "page_number": "S271",
+      "evidence_level": "Unknown",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "Severe gastroparesis"
+    },
+    {
+      "name": "Erythromycin",
+      "synonyms": [],
+      "source_text": "Other treatment options include domperidone (available outside the U.S.) and erythromycin, which is only effective for short-term use due to tachyphylaxis.",
+      "page_number": "S271",
+      "evidence_level": "Unknown",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "Severe gastroparesis (short-term use)"
+    },
+    {
+      "name": "Capsaicin cream",
+      "synonyms": [
+        "8% capsaicin patch"
+      ],
+      "source_text": "For those of 0.075% capsaicin cream has been reported (105). In individuals with contraindications to oral pharmacotherapy or who prefer topical treatments, the use of topical capsaicin can be considered.",
+      "page_number": "S268",
+      "evidence_level": "Unknown",
+      "agent_type": "Topical",
+      "when_to_use": "Neuropathic pain in diabetes (topical treatment)"
+    },
+    {
+      "name": "Midodrine",
+      "synonyms": [],
+      "source_text": "Midodrine and droxidopa are approved by the FDA for the treatment of orthostatic hypotension.",
+      "page_number": "S269",
+      "evidence_level": "Unknown",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "Orthostatic hypotension"
+    },
+    {
+      "name": "Droxidopa",
+      "synonyms": [],
+      "source_text": "Midodrine and droxidopa are approved by the FDA for the treatment of orthostatic hypotension.",
+      "page_number": "S269",
+      "evidence_level": "Unknown",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "Orthostatic hypotension"
+    },
+    {
+      "name": "Guanfacine",
+      "synonyms": [],
+      "source_text": "supine blood pressure tends to be much higher in these individuals, often requiring treatment of blood pressure at bedtime with shorter-acting drugs that also affect baroreceptor activity such as guanfacine or clonidine, shorter-acting calcium blockers (e.g., isradipine), or shorter-acting \u03b2-blockers such as atenolol or metoprolol tartrate.",
+      "page_number": "S269",
+      "evidence_level": "Unknown",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "Supine hypertension at bedtime"
+    },
+    {
+      "name": "Clonidine",
+      "synonyms": [],
+      "source_text": "supine blood pressure tends to be much higher in these individuals, often requiring treatment of blood pressure at bedtime with shorter-acting drugs that also affect baroreceptor activity such as guanfacine or clonidine, shorter-acting calcium blockers (e.g., isradipine), or shorter-acting \u03b2-blockers such as atenolol or metoprolol tartrate.",
+      "page_number": "S269",
+      "evidence_level": "Unknown",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "Supine hypertension at bedtime"
+    },
+    {
+      "name": "Isradipine",
+      "synonyms": [],
+      "source_text": "supine blood pressure tends to be much higher in these individuals, often requiring treatment of blood pressure at bedtime with shorter-acting drugs that also affect baroreceptor activity such as guanfacine or clonidine, shorter-acting calcium blockers (e.g., isradipine), or shorter-acting \u03b2-blockers such as atenolol or metoprolol tartrate.",
+      "page_number": "S269",
+      "evidence_level": "Unknown",
+      "agent_type": "Calcium channel blocker",
+      "when_to_use": "Supine hypertension at bedtime"
+    },
+    {
+      "name": "Atenolol",
+      "synonyms": [],
+      "source_text": "supine blood pressure tends to be much higher in these individuals, often requiring treatment of blood pressure at bedtime with shorter-acting drugs that also affect baroreceptor activity such as guanfacine or clonidine, shorter-acting calcium blockers (e.g., isradipine), or shorter-acting \u03b2-blockers such as atenolol or metoprolol tartrate.",
+      "page_number": "S269",
+      "evidence_level": "Unknown",
+      "agent_type": "Beta-blocker",
+      "when_to_use": "Supine hypertension at bedtime"
+    },
+    {
+      "name": "Metoprolol tartrate",
+      "synonyms": [],
+      "source_text": "supine blood pressure tends to be much higher in these individuals, often requiring treatment of blood pressure at bedtime with shorter-acting drugs that also affect baroreceptor activity such as guanfacine or clonidine, shorter-acting calcium blockers (e.g., isradipine), or shorter-acting \u03b2-blockers such as atenolol or metoprolol tartrate.",
+      "page_number": "S269",
+      "evidence_level": "Unknown",
+      "agent_type": "Beta-blocker",
+      "when_to_use": "Supine hypertension at bedtime"
+    },
+    {
+      "name": "Enalapril",
+      "synonyms": [],
+      "source_text": "Alternatives can include enalapril if an individual is unable to tolerate preferred agents.",
+      "page_number": "S269",
+      "evidence_level": "Unknown",
+      "agent_type": "ACE inhibitor",
+      "when_to_use": "Orthostatic hypotension (if unable to tolerate preferred agents)"
+    },
+    {
+      "name": "Phosphodiesterase type 5 inhibitors",
+      "synonyms": [],
+      "source_text": "In addition to treatment of hypogonadism if present, treatments for erectile dysfunction may include phosphodiesterase type 5 inhibitors, intracorporeal or intra-urethral prostaglandins, vacuum devices, or penile prostheses.",
+      "page_number": "S269",
+      "evidence_level": "Unknown",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "Erectile dysfunction"
+    },
+    {
+      "name": "Intracorporeal prostaglandins",
+      "synonyms": [],
+      "source_text": "In addition to treatment of hypogonadism if present, treatments for erectile dysfunction may include phosphodiesterase type 5 inhibitors, intracorporeal or intra-urethral prostaglandins, vacuum devices, or penile prostheses.",
+      "page_number": "S269",
+      "evidence_level": "Unknown",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "Erectile dysfunction"
+    },
+    {
+      "name": "Intra-urethral prostaglandins",
+      "synonyms": [],
+      "source_text": "In addition to treatment of hypogonadism if present, treatments for erectile dysfunction may include phosphodiesterase type 5 inhibitors, intracorporeal or intra-urethral prostaglandins, vacuum devices, or penile prostheses.",
+      "page_number": "S269",
+      "evidence_level": "Unknown",
+      "agent_type": "Pharmacologic",
+      "when_to_use": "Erectile dysfunction"
+    },
+    {
+      "name": "Vacuum devices",
+      "synonyms": [],
+      "source_text": "In addition to treatment of hypogonadism if present, treatments for erectile dysfunction may include phosphodiesterase type 5 inhibitors, intracorporeal or intra-urethral prostaglandins, vacuum devices, or penile prostheses.",
+      "page_number": "S269",
+      "evidence_level": "Unknown",
+      "agent_type": "Device",
+      "when_to_use": "Erectile dysfunction"
+    },
+    {
+      "name": "Penile prostheses",
+      "synonyms": [],
+      "source_text": "In addition to treatment of hypogonadism if present, treatments for erectile dysfunction may include phosphodiesterase type 5 inhibitors, intracorporeal or intra-urethral prostaglandins, vacuum devices, or penile prostheses.",
+      "page_number": "S269",
+      "evidence_level": "Unknown",
+      "agent_type": "Device",
+      "when_to_use": "Erectile dysfunction"
+    },
+    {
+      "name": "Negative-pressure wound therapy",
+      "synonyms": [],
+      "source_text": "For chronic diabetic foot ulcers that have failed to heal with optimal standard care alone, adjunctive treatment with randomized controlled trial\u2013proven advanced agents should be considered (e.g., negative-pressure wound therapy, several skin substitutes, or topical oxygen therapy).",
+      "page_number": "S271",
+      "evidence_level": "Unknown",
+      "agent_type": "Advanced wound therapy",
+      "when_to_use": "Chronic diabetic foot ulcers that have failed to heal with optimal standard care"
+    },
+    {
+      "name": "Skin substitutes",
+      "synonyms": [],
+      "source_text": "For chronic diabetic foot ulcers that have failed to heal with optimal standard care alone, adjunctive treatment with randomized controlled trial\u2013proven advanced agents should be considered (e.g., negative-pressure wound therapy, several skin substitutes, or topical oxygen therapy).",
+      "page_number": "S271",
+      "evidence_level": "Unknown",
+      "agent_type": "Advanced wound therapy",
+      "when_to_use": "Chronic diabetic foot ulcers that have failed to heal with optimal standard care"
+    },
+    {
+      "name": "Topical oxygen therapy",
+      "synonyms": [],
+      "source_text": "For chronic diabetic foot ulcers that have failed to heal with optimal standard care alone, adjunctive treatment with randomized controlled trial\u2013proven advanced agents should be considered (e.g., negative-pressure wound therapy, several skin substitutes, or topical oxygen therapy).",
+      "page_number": "S271",
+      "evidence_level": "Unknown",
+      "agent_type": "Advanced wound therapy",
+      "when_to_use": "Chronic diabetic foot ulcers that have failed to heal with optimal standard care"
+    },
+    {
+      "name": "GLP-1 RA agents",
+      "synonyms": [
+        "GLP-1 RA"
+      ],
+      "source_text": "Emerging glucose-lowering therapies with PAD (and other cardiovascular disease) benefits include GLP-1 RA agents. Treatment with GLP-1 RAs may reduce risk of lower-extremity amputations, DFUs, and all-cause mortality compared with sodium\u2013glucose cotransporter 2 (SGLT2) inhibitors (145).",
+      "page_number": "S272",
+      "evidence_level": "Unknown",
+      "agent_type": "Glucose-lowering therapy",
+      "when_to_use": "Diabetes with PAD and cardiovascular disease"
+    },
+    {
+      "name": "SGLT2 inhibitors",
+      "synonyms": [
+        "SGLT2"
+      ],
+      "source_text": "Emerging glucose-lowering therapies with PAD (and other cardiovascular disease) benefits include GLP-1 RA agents. Treatment with GLP-1 RAs may reduce risk of lower-extremity amputations, DFUs, and all-cause mortality compared with sodium\u2013glucose cotransporter 2 (SGLT2) inhibitors (145).",
+      "page_number": "S272",
+      "evidence_level": "Unknown",
+      "agent_type": "Glucose-lowering therapy",
+      "when_to_use": "Diabetes with PAD and cardiovascular disease"
+    }
+  ],
+  "risk_factors": [
+    {
+      "name": "Chronic hyperglycemia",
+      "synonyms": [],
+      "source_text": "Chronic hyperglycemia is the best-established concomitant risk factor associated with microvascular complications (e.g., diabetic retinopathy and neuropathy).",
+      "page_number": "S261",
+      "evidence_level": "Unknown",
+      "factor_type": "Metabolic",
+      "impact_magnitude": "Strong"
+    },
+    {
+      "name": "Duration of diabetes",
+      "synonyms": [],
+      "source_text": "Diabetic retinopathy is a highly specific neurovascular complication of diabetes, with prevalence strongly related to both the duration of diabetes and the level of chronic.",
+      "page_number": "S261",
+      "evidence_level": "Unknown",
+      "factor_type": "Disease-related",
+      "impact_magnitude": "Strong"
+    },
+    {
+      "name": "Nephropathy",
+      "synonyms": [],
+      "source_text": "In addition to diabetes duration, factors that increase the risk of, or are associated with, retinopathy include chronic hyperglycemia (6,7), nephropathy (8), hypertension (9), and dyslipidemia (10\u201312).",
+      "page_number": "S261",
+      "evidence_level": "Unknown",
+      "factor_type": "Comorbidity",
+      "impact_magnitude": "Unknown"
+    },
+    {
+      "name": "Hypertension",
+      "synonyms": [],
+      "source_text": "In addition to diabetes duration, factors that increase the risk of, or are associated with, retinopathy include chronic hyperglycemia (6,7), nephropathy (8), hypertension (9), and dyslipidemia (10\u201312).",
+      "page_number": "S261",
+      "evidence_level": "Unknown",
+      "factor_type": "Comorbidity",
+      "impact_magnitude": "Unknown"
+    },
+    {
+      "name": "Dyslipidemia",
+      "synonyms": [],
+      "source_text": "In addition to diabetes duration, factors that increase the risk of, or are associated with, retinopathy include chronic hyperglycemia (6,7), nephropathy (8), hypertension (9), and dyslipidemia (10\u201312).",
+      "page_number": "S261",
+      "evidence_level": "Unknown",
+      "factor_type": "Metabolic",
+      "impact_magnitude": "Unknown"
+    },
+    {
+      "name": "Obesity",
+      "synonyms": [],
+      "source_text": "Obesity is consistently associated with neuropathy in cross-sectional and longitudinal studies.",
+      "page_number": "S267",
+      "evidence_level": "Unknown",
+      "factor_type": "Metabolic",
+      "impact_magnitude": "Strong"
+    },
+    {
+      "name": "Peripheral sensory neuropathy",
+      "synonyms": [],
+      "source_text": "The presence of peripheral sensory neuropathy is the single most common component cause for foot ulceration.",
+      "page_number": "S270",
+      "evidence_level": "Unknown",
+      "factor_type": "Complication",
+      "impact_magnitude": "Very High"
+    },
+    {
+      "name": "Foot deformities",
+      "synonyms": [],
+      "source_text": "Factors that are associated with the at-risk foot include the following: ... Foot deformities (bunions, hammer",
+      "page_number": null,
+      "evidence_level": "Unknown",
+      "factor_type": "Unknown",
+      "impact_magnitude": null
+    }
+  ],
+  "referral_criteria": [],
+  "relationships": []
+}
