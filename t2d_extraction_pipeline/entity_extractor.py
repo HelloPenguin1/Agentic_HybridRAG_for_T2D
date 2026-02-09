@@ -175,14 +175,26 @@ The extracted entities and relationships will populate a Neo4j knowledge graph f
         return res1.__class__(**d1)
 
     async def extract_entire_pdf(self, text: str, cat: str, model: Type[BaseModel], retries: int = 3) -> Optional[BaseModel]:
-        # Handle large documents by splitting into two halves
+        # Handle large documents by splitting into THREE chunks (not two)
+        # This prevents hitting the ~155K character output limit
         if len(text) > 150000:
-            print(f"📄 Large doc ({len(text)} chars). Processing in two chunks...")
-            mid = len(text) // 2
-            r1 = await self._extract_single_chunk(text[:mid], cat, model, retries)
+            chunk_size = len(text) // 3
+            print(f"📄 Large doc ({len(text)} chars). Processing in THREE chunks of ~{chunk_size:,} chars each...")
+            
+            # Extract from all 3 chunks
+            r1 = await self._extract_single_chunk(text[:chunk_size], cat, model, retries)
             if not r1: return None
-            r2 = await self._extract_single_chunk(text[mid:], cat, model, retries)
-            return self._merge_extractions(r1, r2) if r2 else r1
+            
+            r2 = await self._extract_single_chunk(text[chunk_size:chunk_size*2], cat, model, retries)
+            if not r2: return r1  # Return partial if chunk 2 fails
+            
+            r3 = await self._extract_single_chunk(text[chunk_size*2:], cat, model, retries)
+            if not r3: return self._merge_extractions(r1, r2)  # Return 2 chunks if chunk 3 fails
+            
+            # Merge all 3 results
+            merged_12 = self._merge_extractions(r1, r2)
+            return self._merge_extractions(merged_12, r3)
+        
         return await self._extract_single_chunk(text, cat, model, retries)
 
     async def _extract_single_chunk(self, text: str, cat: str, model: Type[BaseModel], retries: int = 3) -> Optional[BaseModel]:
@@ -213,7 +225,19 @@ The extracted entities and relationships will populate a Neo4j knowledge graph f
                 
                 # Try to repair and validate
                 repaired = self._surgical_json_repair(response_text)
-                return model.model_validate_json(repaired)
+                result = model.model_validate_json(repaired)
+                
+                # SOLUTION 4: Trim verbose source_text fields to max 200 chars
+                result_dict = result.model_dump()
+                for key, entities in result_dict.items():
+                    if isinstance(entities, list):
+                        for entity in entities:
+                            if isinstance(entity, dict) and 'source_text' in entity:
+                                if entity['source_text'] and len(entity['source_text']) > 200:
+                                    entity['source_text'] = entity['source_text'][:197] + "..."
+                
+                # Reconstruct the model with trimmed data
+                return model.model_validate(result_dict)
                 
             except Exception as e:
                 error_msg = str(e)
