@@ -38,4 +38,4 @@ for json_file in json_files:
     print(f"  Chunks: {len(data)}\n")
 
 print(f"\nAll files saved to: {output_dir.absolute()}")
-print("\nYou can now upload the .txt files to the LangChain web UI!")
+
