@@ -1,0 +1,1277 @@
+[
+  {
+    "page_content": "# Diabetes Care Volume 49, Supplement 1, January 2026  \n## Retinopathy, Neuropathy, and Foot Care: Standards of Care in Diabetes—2026  \nDiabetes Care 2026;49(Suppl. 1):S261–S276 | https://doi.org/10.2337/dc26-S012",
+    "metadata": {
+      "chapter_name": "Diabetes Care Volume 49, Supplement 1, January 2026",
+      "section_heading": "Retinopathy, Neuropathy, and Foot Care: Standards of Care in Diabetes—2026",
+      "page_number": 1,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "## Retinopathy, Neuropathy, and Foot Care: Standards of Care in Diabetes—2026  \nDiabetes Care 2026;49(Suppl. 1):S261–S276 | https://doi.org/10.2337/dc26-S012  \nThe American Diabetes Association (ADA) “Standards of Care in Diabetes” includes the ADA’s current clinical practice recommendations and is intended to provide the components of diabetes care, general treatment goals and guidelines, and tools to evaluate quality of care. Members of the ADA Professional Practice Committee for Diabetes, an interprofessional expert committee, are responsible for updating the Standards of Care annually, or more frequently as warranted. For a detailed description of ADA standards, statements, and reports, as well as the evidence-grading system for ADA’s clinical practice recommendations and a full list of Professional Practice Committee members, please refer to Introduction and Methodology. Readers who wish to comment on the Standards of Care are invited to do so at professional.diabetes.org/SOC.",
+    "metadata": {
+      "chapter_name": "Diabetes Care Volume 49, Supplement 1, January 2026",
+      "section_heading": "Retinopathy, Neuropathy, and Foot Care: Standards of Care in Diabetes—2026",
+      "page_number": 1,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "Diabetes is defined by hyperglycemia (1). Chronic hyperglycemia is the best-established concomitant risk factor associated with microvascular complications (e.g., diabetic retinopathy and neuropathy). Optimizing glycemic management has the beneficial impact of preventing or delaying microvascular disease in diabetes. For example, the Diabetes Control and Complications Trial/Epidemiology of Diabetes Interventions and Complications (DCCT/EDIC) study in people with type 1 diabetes showed that the early beneficial effects of intensive (A1C ∼7% [∼53 mmol/mol]) versus conventional (A1C ∼9% [∼75 mmol/mol]) therapy on microvascular complications persisted for ∼10 years after the convergence of A1C levels in the two groups during the EDIC follow-up—a novel concept, termed metabolic memory, in which a period of near-normal glycemia produces long-term beneficial effects on complications, with such effects persisting even though subsequent levels of glycemia may have risen (2,3)",
+    "metadata": {
+      "chapter_name": "Diabetes Care Volume 49, Supplement 1, January 2026",
+      "section_heading": "Retinopathy, Neuropathy, and Foot Care: Standards of Care in Diabetes—2026",
+      "page_number": 1,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": ". Many mechanisms may mediate the effects of chronic hyperglycemia on complications, including glycation, lipoxidation, inflammation, apoptosis, and epigenetic and other intracellular processes (4).",
+    "metadata": {
+      "chapter_name": "Diabetes Care Volume 49, Supplement 1, January 2026",
+      "section_heading": "Retinopathy, Neuropathy, and Foot Care: Standards of Care in Diabetes—2026",
+      "page_number": 1,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "* A complete list of members of the American Diabetes Association Professional Practice Committee for Diabetes can be found at https://doi.org/10.2337/dc26-SINT  \nDuality of interest information for each contributor is available at https://doi.org/10.2337/dc26-SDIS.  \nSuggested citation: American Diabetes Association Professional Practice Committee for Diabetes. 12. Retinopathy, neuropathy, and foot care: Standards of Care in Diabetes—2026. Diabetes Care 2026; 49(Suppl. 1):S261–S276",
+    "metadata": {
+      "chapter_name": "Diabetes Care Volume 49, Supplement 1, January 2026",
+      "section_heading": "Retinopathy, Neuropathy, and Foot Care: Standards of Care in Diabetes—2026",
+      "page_number": 1,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "© 2025 by the American Diabetes Association. Readers may use this work for educational, noncommercial purposes if properly cited and unaltered. The version of record may be linked at https://diabetesjournals.org/care, but ADA permission is required to post this work on any third-party site or platform. This publication and its contents may not be reproduced, distributed, or used for text or data mining, machine learning, or similar technologies without prior written permission. Requests to reuse, adapt, or distribute this work may be sent to permissions@diabetes.org. More information is available at https://diabetesjournals.org/journals/pages/license.",
+    "metadata": {
+      "chapter_name": "Diabetes Care Volume 49, Supplement 1, January 2026",
+      "section_heading": "Retinopathy, Neuropathy, and Foot Care: Standards of Care in Diabetes—2026",
+      "page_number": 1,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "## DIABETIC RETINOPATHY  \n### Recommendations\n- **12.1** Implement strategies to help people with diabetes reach glycemic goals to reduce the risk or slow the progression of diabetic retinopathy.\n- **12.2** Implement strategies to help people with diabetes reach blood pressure and lipid goals to reduce the risk or slow the progression of diabetic retinopathy.  \nDiabetic retinopathy is a highly specific neurovascular complication of diabetes, with prevalence strongly related to both the duration of diabetes and the level of chronic hyperglycemia.",
+    "metadata": {
+      "chapter_name": "Diabetes Care Volume 49, Supplement 1, January 2026",
+      "section_heading": "DIABETIC RETINOPATHY",
+      "subsection_heading": "Recommendations",
+      "page_number": 1,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "# Retinopathy, Neuropathy, and Foot Care  \nDiabetes Care Volume 49, Supplement 1, January 2026",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "page_number": 2,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "## Diabetic Retinopathy  \nDiabetic retinopathy is characterized by microaneurysms in the earliest stage, followed by retinal hemorrhages and ischemia. In response to ischemia, neovascularization can occur; this is proliferative diabetic retinopathy (PDR). At any point along this spectrum, the retina vasculature can leak fluid (and exudates) leading to diabetic macular edema (DME). Other ocular complications include vitreous hemorrhage and tractional retinal detachment. Diabetic retinopathy is the most frequent cause of new cases of blindness among adults aged 20–74 years in high-income countries. Glaucoma and cataracts occur earlier and more frequently in people with diabetes.",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "Diabetic Retinopathy",
+      "page_number": 2,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "In addition to diabetes duration, factors that increase the risk of, or are associated with, retinopathy include chronic hyperglycemia, nephropathy, hypertension, and dyslipidemia. Intensive diabetes management with the goal of achieving early and/or subsequent near-normoglycemia has been shown in large prospective randomized studies to prevent and/or delay the onset and progression of diabetic retinopathy, reduce the need for future ocular procedures, and potentially improve self-reported visual function.",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "Diabetic Retinopathy",
+      "page_number": 2,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "There are conflicting data on the impact of glucagon-like peptide 1 receptor agonist (GLP-1 RA) treatment on various facets of eye health, including development of nonarteritic anterior ischemic optic neuropathy, glaucoma, neovascular age-related macular degeneration (AMD), and diabetic retinopathy progression. GLP-1 RAs including liraglutide, semaglutide, and dulaglutide have been shown to be associated with a risk of mildly worsening diabetic retinopathy in randomized trials. Further data from clinical studies with longer follow-up purposefully designed for diabetic retinopathy risk assessment, particularly including individuals with established diabetic retinopathy, are needed.",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "Diabetic Retinopathy",
+      "page_number": 2,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "Retinopathy status should be assessed when glucose-lowering therapies are intensified, such as those using GLP-1 RAs, since rapid reductions in A1C have been shown to be associated with a risk of initial worsening of retinopathy. There have been matched cohort studies linking GLP-1 RAs with various ocular complications such as nonarteritic anterior ischemic optic neuropathy and AMD in people with diabetes, but data are limited and further studies are needed.  \nIdentifying individuals with diabetes-related eye disease is important because people with vision-threatening retinopathy may be asymptomatic. Additionally, current therapies can not only prevent vision loss but also help improve vision for many individuals. Prompt diagnosis allows triage of people with diabetes and timely intervention that may prevent vision loss in individuals who are asymptomatic despite advanced diabetes-related eye disease.",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "Diabetic Retinopathy",
+      "page_number": 2,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "## Screening Recommendations  \n| Recommendation | Description |\n|----------------|-------------|\n| 12.3 | Adults with type 1 diabetes should have an initial dilated and comprehensive eye examination by an ophthalmologist or optometrist 5 years after the onset of diabetes. |\n| 12.4 | People with type 2 diabetes should have an initial dilated and comprehensive eye examination by an ophthalmologist or optometrist at the time of the diabetes diagnosis. |\n| 12.5 | If there is no evidence of retinopathy from one or more annual eye exams and glycemic indicators are within the goal range, then screening every 1–2 years may be considered. If any level of diabetic retinopathy is present, subsequent dilated retinal examinations should be repeated at least annually by an ophthalmologist or optometrist. If retinopathy is progressing or sight-threatening, then examinations by an ophthalmologist will be required more frequently. |",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "Screening Recommendations",
+      "page_number": 2,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "| 12.6 | Programs that use retinal photography with remote reading or the use of U.S. Food and Drug Administration–approved artificial intelligence algorithms to improve access to diabetic retinopathy screening are appropriate screening strategies for diabetic retinopathy. Such programs need to provide pathways for timely referral for a comprehensive eye examination when indicated. |\n| 12.7 | Counsel individuals of childbearing potential with preexisting type 1 or type 2 diabetes who are planning pregnancy or who are pregnant on the risk of development and/or progression of diabetic retinopathy. |\n| 12.8 | Individuals with preexisting type 1 or type 2 diabetes should receive an eye exam before pregnancy as well as in the first trimester and may need to be monitored every trimester and for 1 year postpartum as indicated by the degree of retinopathy. |",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "Screening Recommendations",
+      "page_number": 2,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "Diabetic retinopathy screening should be performed using validated approaches and methodologies. Children and adolescents with type 1 or type 2 diabetes are also at risk for complications and need to be screened for diabetic retinopathy. If diabetic retinopathy is evident on screening, prompt referral to an ophthalmologist is recommended. Subsequent examinations for individuals with type 1 or type 2 diabetes are generally repeated annually for individuals without or with mild retinopathy. Exams every 1–2 years may be cost-effective after one or more normal eye exams.",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "Screening Recommendations",
+      "page_number": 2,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "In a population with well-managed type 2 diabetes, there was little risk of development of significant retinopathy within a 3-year interval after a normal examination, and less frequent intervals have been found in simulated modeling to be potentially effective in screening for diabetic retinopathy in individuals without diabetic retinopathy. However, it is important to adjust screening intervals based on the presence of specific risk factors for retinopathy onset and worsening retinopathy. More frequent examinations by the ophthalmologist will be required if retinopathy is progressing or risk factors such as not meeting glycemic goals, advanced retinopathy, or DME are present.",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "Screening Recommendations",
+      "page_number": 2,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "Retinal photography with remote reading by experts has great potential to provide screening services in areas where qualified eye care professionals are not readily available. High-quality fundus photographs can detect most clinically significant diabetic retinopathy. Interpretation of the images should be performed by a trained eye care professional or reading center technician or by artificial intelligence (AI) programs that are U.S. Food and Drug Administration (FDA) approved for this purpose. Retinal photography may also enhance efficiency and reduce costs when the expertise of ophthalmologists can be used for more complex examinations and for treatment.",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "Screening Recommendations",
+      "page_number": 2,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "# Retinopathy, Neuropathy, and Foot Care  \n## Recommendations  \n1. **Prompt Referral**\nPromptly refer individuals with any level of diabetic macular edema, moderate or worse nonproliferative diabetic retinopathy (a precursor of proliferative diabetic retinopathy [PDR]), or any PDR to an ophthalmologist who is knowledgeable and experienced in the management of diabetic retinopathy.  \n2. **Panretinal Laser Photocoagulation Therapy**\nPanretinal laser photocoagulation therapy is indicated to reduce the risk of vision loss in individuals with high-risk PDR and, in some cases, severe nonproliferative diabetic retinopathy.  \n3. **Intravitreous Injections of Anti-VEGF**\nIntravitreous injections of anti–vascular endothelial growth factor (anti-VEGF) are a reasonable alternative to traditional panretinal laser photocoagulation for some individuals with PDR and also reduce the risk of vision loss in these individuals.  \n4. **First-Line Treatment for Diabetic Macular Edema**",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "Recommendations",
+      "page_number": 3,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "4. **First-Line Treatment for Diabetic Macular Edema**\nIntravitreous injections of anti-VEGF are indicated as first-line treatment for most eyes with diabetic macular edema that involves the foveal center and impairs visual acuity.  \n5. **Macular Focal/Grid Photocoagulation**\nMacular focal/grid photocoagulation and intravitreal injections of corticosteroid are reasonable treatments in eyes with persistent diabetic macular edema despite previous anti-VEGF therapy or eyes that are not candidates for this first-line approach.  \n6. **Aspirin Therapy**\nThe presence of retinopathy is not a contraindication to aspirin therapy for cardioprotection, as aspirin does not increase the risk of retinal hemorrhage.",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "Recommendations",
+      "page_number": 3,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "## Type 1 Diabetes  \nBecause retinopathy is estimated to take at least 5 years to develop after the onset of hyperglycemia, people with type 1 diabetes should have an initial dilated and comprehensive eye examination 5 years after the diagnosis of diabetes.",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "Type 1 Diabetes",
+      "page_number": 3,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "## Type 2 Diabetes  \nPeople with type 2 diabetes who may have had undiagnosed hyperglycemia for years and have a significant risk of prevalent diabetic retinopathy at the time of diabetes diagnosis should have an initial dilated and comprehensive eye examination at the time of diagnosis.",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "Type 2 Diabetes",
+      "page_number": 3,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "## Pregnancy  \nIndividuals who develop gestational diabetes mellitus do not require eye examinations during pregnancy, since they do not appear to be at increased risk of developing diabetic retinopathy during pregnancy. However, individuals of childbearing potential with preexisting type 1 or type 2 diabetes who are planning pregnancy or who have become pregnant should be counseled on the baseline prevalence and risk of development and/or progression of diabetic retinopathy.",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "Pregnancy",
+      "page_number": 3,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "### Treatment  \nTwo of the main motivations for screening for diabetic retinopathy are to prevent loss of vision and to intervene with treatment when vision loss can be prevented or reversed.  \n- The Diabetic Retinopathy Study (DRS) showed that panretinal photocoagulation reduced the risk of severe vision loss from PDR from 15.9% in untreated eyes to 6.4% in treated eyes with the greatest benefit ratio in those with more advanced baseline disease (disc neovascularization or vitreous hemorrhage).\n- The Early Treatment Diabetic Retinopathy Study (ETDRS) verified the benefits of panretinal photocoagulation for high-risk PDR and in individuals with macular edema.",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "Pregnancy",
+      "subsection_heading": "Treatment",
+      "page_number": 3,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "### Conclusion  \nClose follow-up should be maintained during pregnancy to prevent vision loss, and the benefits and optimal utilization of AI screening systems for diabetic retinopathy are still being determined.",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "Pregnancy",
+      "subsection_heading": "Conclusion",
+      "page_number": 3,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "# Retinopathy, Neuropathy, and Foot Care\nDiabetes Care Volume 49, Supplement 1, January 2026",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "page_number": 4,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "## Anti-VEGF Treatment",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "Anti-VEGF Treatment",
+      "page_number": 4,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "Data from the DRCR Retina Network (formerly the Diabetic Retinopathy Clinical Research Network) and others demonstrate that intravitreal injections of anti-VEGF agents are effective at regressing proliferative disease and lead to noninferior or superior visual acuity outcomes compared with panretinal laser over 2 years of follow-up. In addition, it was observed that individuals treated with ranibizumab tended to have less peripheral visual field loss, fewer vitrectomy surgeries for secondary complications from their proliferative disease, and a lower risk of developing DME. However, a potential drawback in using anti-VEGF therapy to manage proliferative disease is that individuals were required to have a greater number of visits and received a greater number of treatments than is typically required for management by panretinal laser, which may not be optimal for some individuals. Additionally, unlike panretinal laser, anti-VEGF therapy requires participation in scheduled follow-up",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "Anti-VEGF Treatment",
+      "page_number": 4,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": ". Additionally, unlike panretinal laser, anti-VEGF therapy requires participation in scheduled follow-up. Individuals with nonintentional lapses in treatment are at risk for worse visual acuity and anatomic outcomes. Subsequently, there is variability in treatment patterns among eye specialists, with treatment plans tailored to the individual person.",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "Anti-VEGF Treatment",
+      "page_number": 4,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "The FDA has approved aflibercept and ranibizumab for the treatment of eyes with diabetic retinopathy. Other emerging therapies for retinopathy that may use sustained intravitreal delivery of pharmacologic agents are currently under investigation. Anti-VEGF treatment of eyes with nonproliferative diabetic retinopathy has been demonstrated to reduce subsequent development of retinal neovascularization and DME but has not been shown to improve visual outcomes over 2 years of therapy and therefore has not been widely adopted for this indication.",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "Anti-VEGF Treatment",
+      "page_number": 4,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "### Visual Rehabilitation Recommendations\n12.15 People who experience diabetes-related vision loss should be counseled on the availability and scope of vision rehabilitation care and provided, or referred for, a comprehensive evaluation of their visual impairment by a practitioner experienced in vision rehabilitation.  \n12.16 People with diabetes-related vision loss should receive educational materials and resources for eye care support in addition to self-management education (e.g., glycemic management and hypoglycemia awareness).",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "Anti-VEGF Treatment",
+      "subsection_heading": "Visual Rehabilitation Recommendations",
+      "page_number": 4,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "In the U.S., approximately 12% of adults with diabetes have some level of vision impairment. They may have difficulty reaching their diabetes treatment goals and performing many other activities of daily living, which can lead to depression, anxiety, social isolation, and difficulties at home, in the workplace, or at school. People with diabetes are at increased risk of chronic vision loss, subsequent functional decline, and resulting disability. Vision impairment has physical, psychological, behavioral, and social consequences that affect people with diabetes, their families, friends, and caregivers. Healthcare professionals and stakeholders may not be aware of the overall impact of vision loss on an individual’s health and well-being. People with diabetes-related vision loss should be evaluated to determine their potential to benefit from comprehensive vision restoration",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "Anti-VEGF Treatment",
+      "subsection_heading": "Visual Rehabilitation Recommendations",
+      "page_number": 4,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": ". People with diabetes-related vision loss should be evaluated to determine their potential to benefit from comprehensive vision restoration. Vision rehabilitation can help people with vision loss achieve maximum function, independence, and quality of life.",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "Anti-VEGF Treatment",
+      "subsection_heading": "Visual Rehabilitation Recommendations",
+      "page_number": 4,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "## Adjunctive Therapy\nLowering blood pressure has been shown to decrease retinopathy progression, although strict goals (systolic blood pressure &#x3C;120 mmHg) do not impart additional benefit. The presence of retinopathy is not a contraindication to aspirin therapy for cardioprotection, as aspirin does not increase the risk of retinal hemorrhage. In individuals with dyslipidemia, retinopathy progression may be slowed by the addition of fenofibrate, particularly with early diabetic retinopathy at baseline.",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "Adjunctive Therapy",
+      "page_number": 4,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "## NEUROPATHY\nDiabetic neuropathies are a heterogeneous group of disorders with diverse clinical presentations.",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "NEUROPATHY",
+      "page_number": 4,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "# Retinopathy, Neuropathy, and Foot Care  \n## Diabetic Neuropathy  \nThe early recognition and appropriate management of neuropathy in people with diabetes is important. Points to be aware of include the following:  \n1. Diabetic neuropathy is a diagnosis of exclusion. Nondiabetic neuropathies may be present in people with diabetes and may be treatable.\n2. Up to 50% of diabetic peripheral neuropathy (DPN) cases may be asymptomatic. If not recognized and if preventive foot care is not implemented, people with diabetes are at risk for injuries as well as diabetic foot ulcers (DFUs) and amputations. DFUs can be defined as a break of the epidermis and at least part of the dermis, below the ankle, in a person with diabetes. Consequences of DFUs include decline in functional status and reduced independence with daily activities, decreased quality of life, cost of wound care, infection, hospitalization, lower extremity amputation, and death.",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "Diabetic Neuropathy",
+      "page_number": 5,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "### Diagnosis  \nIndividuals who have had type 1 diabetes for 5 years and all individuals with type 2 diabetes should be assessed annually for DPN using medical history and simple clinical tests. Symptoms and signs of DPN vary according to the class of sensory fibers involved. The most common early symptoms are induced by the involvement of small fibers and include pain and dysesthesia (unpleasant sensations). The involvement of large fibers may cause balance issues (including falls), numbness, and loss of protective sensation (LOPS). LOPS is a risk factor for DFU due to predisposition to unrecognized minor trauma.",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "Diabetic Neuropathy",
+      "subsection_heading": "Diagnosis",
+      "page_number": 5,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "### Screening Recommendations  \n- **12.17** All people with diabetes should be assessed for diabetic peripheral neuropathy starting at diagnosis of type 2 diabetes and 5 years after the diagnosis of type 1 diabetes and at least annually thereafter.\n- **12.18** Assessment for distal symmetric polyneuropathy should include a careful history and assessment of either temperature or pinprick sensation (small-fiber function) and vibration sensation using a 128-Hz tuning fork (large-fiber function). All people with diabetes should have annual 10-g monofilament testing to identify feet at risk for ulceration and amputation.\n- **12.19** Symptoms and signs of autonomic neuropathy should be assessed in people with diabetes starting at diagnosis of type 2 diabetes and 5 years after the diagnosis of type 1 diabetes, and at least annually thereafter.",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "Diabetic Neuropathy",
+      "subsection_heading": "Screening Recommendations",
+      "page_number": 5,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "### Diabetic Autonomic Neuropathy  \nIndividuals who have had type 1 diabetes for 5 years and all individuals with type 2 diabetes should be assessed annually for autonomic neuropathy. The symptoms and signs of autonomic neuropathy should be elicited carefully during the history and physical examination. Major clinical manifestations of diabetic autonomic neuropathy include:  \n- Resting tachycardia\n- Orthostatic hypotension\n- Gastroparesis\n- Constipation\n- Diarrhea\n- Fecal incontinence\n- Erectile dysfunction\n- Neurogenic bladder\n- Sudomotor dysfunction with either increased or decreased sweating  \nScreening for symptoms of autonomic neuropathy includes asking about symptoms of orthostatic intolerance (dizziness, lightheadedness, or weakness with standing), syncope, exercise intolerance, constipation, diarrhea, urinary retention, urinary incontinence, or changes in sweat function.",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "Diabetic Neuropathy",
+      "subsection_heading": "Diabetic Autonomic Neuropathy",
+      "page_number": 5,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "### Clinical Tests for Autonomic Neuropathy  \n1. **Small-fiber function**: Pinprick and temperature sensation\n2. **Large-fiber function**: Lower-extremity reflexes, vibration perception, proprioception, and 10-g monofilament\n3. **Protective sensation**: 10-g monofilament, Ipswich touch test  \nThese tests not only screen for the presence of dysfunction but also predict future risk of complications. Electrophysiological testing, magnetic resonance imaging (MRI) scan of the spine, or referral to a neurologist is rarely needed, except in situations where the clinical features are atypical (acute or subacute presentation, non-length dependent, asymmetric, and/or motor involvement) or the diagnosis is unclear.",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "Diabetic Neuropathy",
+      "subsection_heading": "Clinical Tests for Autonomic Neuropathy",
+      "page_number": 5,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "### Cardiovascular Autonomic Neuropathy  \nCAN is associated with mortality independent of other cardiovascular risk factors. In its early stages, CAN may be completely asymptomatic and detected only by decreased heart rate variability with deep breathing. Advanced disease may be associated with resting tachycardia (>100 bpm) and orthostatic hypotension (a fall in systolic or diastolic blood pressure by >20 mmHg or >10 mmHg, respectively, upon standing without an appropriate increase in heart rate).",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "Diabetic Neuropathy",
+      "subsection_heading": "Cardiovascular Autonomic Neuropathy",
+      "page_number": 5,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "# Retinopathy, Neuropathy, and Foot Care\n**Diabetes Care Volume 49, Supplement 1, January 2026**",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "page_number": 6,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "## Gastrointestinal Neuropathies",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "Gastrointestinal Neuropathies",
+      "page_number": 6,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "Gastrointestinal neuropathies are a diagnosis of exclusion (including consideration of gastrointestinal adverse effects due to medications such as metformin and/or GLP-1–based therapy). They may involve any portion of the gastrointestinal tract, with manifestations including esophageal dysmotility, gastroparesis, biliary dysfunction, constipation, diarrhea, and fecal incontinence. Gastroparesis should be suspected in individuals with erratic glycemic management or with upper gastrointestinal symptoms without another identified cause. Exclusion of reversible/iatrogenic causes such as medications (e.g., certain GLP-1–based therapies, opioids) or organic causes of gastric outlet obstruction or peptic ulcer disease (endoscopy and/or imaging) is needed before considering a diagnosis of or specialized testing for gastroparesis",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "Gastrointestinal Neuropathies",
+      "page_number": 6,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": ". The diagnostic gold standard for gastroparesis is the measurement of gastric emptying with scintigraphy of digestible solids at 15-min intervals for 4 h after food intake. The use of 13C octanoic acid breath test is an approved alternative.",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "Gastrointestinal Neuropathies",
+      "page_number": 6,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "### Recommendations\n- **12.20** Optimize glucose management to prevent or delay the development of neuropathy in people with type 1 diabetes A and to slow the progression of neuropathy in people with type 2 diabetes.\n- **C** Optimize weight, blood pressure, and lipid management to reduce the risk or slow the progression of diabetic neuropathy.\n- **12.21** Assess and treat pain related to diabetic peripheral neuropathy B and symptoms of autonomic neuropathy to improve quality of life.\n- **E** Gabapentinoids, serotonin-norepinephrine reuptake inhibitors, tricyclic antidepressants, and sodium channel blockers are recommended as initial pharmacologic treatments for neuropathic pain in diabetes.\n- **A** Combinations of these medications can provide additional relief of neuropathic pain.\n- **B** Opioids, including tramadol and tapentadol, should not be used for neuropathic pain treatment in diabetes given the potential for adverse events except in rare circumstances.",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "Gastrointestinal Neuropathies",
+      "subsection_heading": "Recommendations",
+      "page_number": 6,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "## Genitourinary Disturbances\nDiabetic autonomic neuropathy may also cause genitourinary disturbances, including sexual dysfunction and bladder dysfunction. In men, diabetic autonomic neuropathy may cause erectile dysfunction and/or retrograde ejaculation. Female sexual dysfunction occurs more frequently in those with diabetes and presents as decreased sexual desire, increased pain during intercourse, decreased sexual arousal, and inadequate lubrication. Lower urinary tract symptoms manifest as urinary incontinence and bladder dysfunction (nocturia, frequent urination, urinary urgency, and weak urinary stream). Evaluation of bladder function should be performed for individuals with diabetes who have recurrent urinary tract infections, pyelonephritis, incontinence, or a palpable bladder.",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "Genitourinary Disturbances",
+      "page_number": 6,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "## Glycemic Management\nOptimal glycemic management, implemented early in the course of diabetes, has been shown to effectively delay or prevent the development of DPN and CAN in people with type 1 diabetes. Although the evidence for the benefit of optimal glycemic management is not as strong for type 2 diabetes, some studies have demonstrated a modest slowing of progression without reversal of neuronal loss. Specific glucose-lowering strategies may have different effects.",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "Glycemic Management",
+      "page_number": 6,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "## Lipid Management\nDyslipidemia is a key factor in the development of neuropathy in people with type 2 diabetes and may contribute to neuropathy risk in people with type 1 diabetes. Although the evidence for a relationship between lipids and neuropathy development has become increasingly clear in type 2 diabetes, further studies are needed to explore the impact of lipid management on neuropathy outcomes.",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "Lipid Management",
+      "page_number": 6,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "### Summary\nSpecific treatment to reverse the underlying nerve damage in diabetes is currently not available. Optimal glycemic management can effectively prevent DPN and CAN in type 1 diabetes and may modestly slow their progression in type 2 diabetes, but it does not reverse the damage.",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "Lipid Management",
+      "subsection_heading": "Summary",
+      "page_number": 6,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "# Retinopathy, Neuropathy, and Foot Care  \n## Blood Pressure Management\nThere are multiple reasons for blood pressure management in people with diabetes, and neuropathy progression (especially in type 2 diabetes) has now been added to this list. Although data from many studies have supported the role of hypertension in the risk of neuropathy development, a meta-analysis of data from 14 countries in the International Prevalence and Treatment of Diabetes and Depression (INTERPRET-DD) study revealed hypertension as an independent risk factor for DPN development with an odds ratio of 1.58 (95% CI 1.18–2.12) (96). In the ACCORD trial, intensive blood pressure intervention also decreased CAN risk by 25% (85).",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "Blood Pressure Management",
+      "page_number": 7,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "## Neuropathic Pain Management\nNeuropathic pain can be severe and can impact quality of life, affect sleep, limit mobility, and contribute to depression and anxiety (97). No compelling evidence exists in support of glycemic or lifestyle management as therapies for neuropathic pain in diabetes or prediabetes, which leaves only pharmaceutical interventions (98). A recent guideline by the American Academy of Neurology (AAN) recommends that the initial treatment of pain should also focus on the concurrent treatment of both sleep and mood disorders because of increased frequency of these problems in individuals with DPN (99).",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "Neuropathic Pain Management",
+      "page_number": 7,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "### Pharmacologic Therapies\nSeveral pharmacologic therapies exist for treatment of pain in diabetes (100). The AAN guideline update suggested that gabapentinoids, serotonin-norepinephrine reuptake inhibitors (SNRIs), sodium channel blockers, and tricyclic antidepressants (TCAs) all could be considered in the treatment of pain in DPN (99). These AAN recommendations offer a supplement to the American Diabetes Association pain monograph (101).  \n#### Gabapentinoids\nGabapentinoids include several calcium channel α2-δ subunit ligands. Several high-quality and medium-quality studies support the role of pregabalin in treatment of pain in DPN (103). One high-quality study and many small studies support the role of gabapentin in the treatment of pain in DPN. Medium-quality studies suggest that mirogabalin has a small effect on pain in DPN (99).  \n#### SNRIs",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "Neuropathic Pain Management",
+      "subsection_heading": "Pharmacologic Therapies",
+      "page_number": 7,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "#### SNRIs\nSNRIs include duloxetine, venlafaxine, and desvenlafaxine, all selective SNRIs. Two high-quality studies and five medium-quality studies support the role of duloxetine in the treatment of pain in DPN. A high-quality study supports the role of venlafaxine in the treatment of pain in DPN. Only one medium-quality study supports a possible role for desvenlafaxine for treatment of pain in DPN (99).  \n#### Tricyclic Antidepressants\nTCAs have been studied for treatment of pain. Most of the relevant data were acquired from trials of amitriptyline and include two high-quality studies and two medium-quality studies supporting the effectiveness of amitriptyline in the treatment of painful DPN (99,102).  \n#### Sodium Channel Blockers\nSodium channel blockers include lamotrigine, lacosamide, carbamazepine, oxcarbazepine, and valproic acid. Five medium-quality studies support the role of sodium channel blockers in treating pain in DPN (99).  \n#### Opioids",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "Neuropathic Pain Management",
+      "subsection_heading": "Pharmacologic Therapies",
+      "page_number": 7,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "#### Opioids\nSeveral randomized controlled trials (RCTs) have demonstrated that opioids (dextromethorphan, oxycodone, morphine sulfate) can reduce pain in individuals with DPN (106). However, evidence for the long-term efficacy of opioids in neuropathic pain is lacking. The Centers for Disease Control and Prevention (CDC) performed a systematic review that found no studies of opioids for chronic pain have evaluated long-term outcomes, including pain, function, and quality of life (107). Moreover, CDC and AAN reviews have documented the long-term harms from opioids, including abuse, addiction, fractures, heart attacks, motor vehicle accidents, overdose, and mortality (107,108). The current evidence balancing risks and benefits has led AAN to recommend against opioids for the treatment of painful DPN except in rare circumstances (99).  \n#### Tapentadol and Tramadol",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "Neuropathic Pain Management",
+      "subsection_heading": "Pharmacologic Therapies",
+      "page_number": 7,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "#### Tapentadol and Tramadol\nTapentadol and tramadol exert their analgesic effects through both μ-opioid receptor agonism (opioid) and norepinephrine and serotonin reuptake inhibition. Given that opioids and SNRIs are both effective for painful DPN, it is not surprising that these SNRI and opioid agents are effective in the treatment of pain in DPN too (99). However, the effect size is similar to that of other effective therapies, such as SNRIs, and these medications have the same risks as other opioids listed above. In fact, tramadol has been shown to be associated with all-cause mortality with an effect size similar to that of codeine (109). Similar to other opioids, risks likely outweigh benefits, and the AAN guidelines also recommend against their use for painful DPN except in rare circumstances (99).",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "Neuropathic Pain Management",
+      "subsection_heading": "Pharmacologic Therapies",
+      "page_number": 7,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "### Capsaicin\nCapsaicin has received FDA approval for treatment of pain in DPN using an 8% patch, with one high-quality study reported (105). One medium-quality study supports the role of capsaicin in treating pain in DPN.",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "Neuropathic Pain Management",
+      "subsection_heading": "Capsaicin",
+      "page_number": 7,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "## Orthostatic Hypotension Management\nTreating orthostatic hypotension is challenging. The therapeutic goal is to minimize symptoms and improve quality of life.",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "Orthostatic Hypotension Management",
+      "page_number": 7,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "# Retinopathy, Neuropathy, and Foot Care\nDiabetes Care Volume 49, Supplement 1, January 2026",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "page_number": 8,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "## Orthostatic Hypotension Management\nMost individuals require both nonpharmacologic measures (e.g., ensuring adequate salt intake, avoiding medications that aggravate hypotension, or using compressive garments over the legs and abdomen) and pharmacologic measures. Physical activity and exercise should be encouraged to avoid deconditioning, which is known to exacerbate orthostatic intolerance, and volume repletion with fluids and salt is critical. Additionally, supine blood pressure tends to be much higher in these individuals, often requiring treatment of blood pressure at bedtime with shorter-acting drugs that also affect baroreceptor activity such as guanfacine or clonidine, shorter-acting calcium blockers (e.g., isradipine), or shorter-acting β-blockers such as atenolol or metoprolol tartrate. Alternatives can include enalapril if an individual is unable to tolerate preferred agents. Midodrine and droxidopa are approved by the FDA for the treatment of orthostatic hypotension.",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "Orthostatic Hypotension Management",
+      "page_number": 8,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "## Erectile Dysfunction Management\nIn addition to treatment of hypogonadism if present, treatments for erectile dysfunction may include phosphodiesterase type 5 inhibitors, intracorporeal or intraurethral prostaglandins, vacuum devices, or penile prostheses. As with DPN treatments, these interventions do not change the underlying pathology and natural history of the disease process but may improve a person’s quality of life.",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "Erectile Dysfunction Management",
+      "page_number": 8,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "## Foot Care  \n### Recommendations\n12.23 Perform a comprehensive foot evaluation at least annually to identify risk factors for ulcers and amputations. A  \n12.24 The examination should include inspection of the skin, assessment of foot deformities, neurological assessment (10-g monofilament testing or Ipswich touch test with at least one additional assessment: pinprick, temperature, or vibration), and vascular assessment, including pulses in the legs and feet. B  \n12.25 Individuals with evidence of sensory loss or prior ulceration or amputation should have their feet inspected at every visit. A  \n12.26 Obtain a prior history of ulceration, amputation, Charcot foot, angioplasty or vascular surgery, cigarette smoking, retinopathy, and renal disease and assess current symptoms of neuropathy (e.g., pain, burning, numbness) and vascular disease (e.g., leg fatigue, claudication). B",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "Foot Care",
+      "subsection_heading": "Recommendations",
+      "page_number": 8,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "12.27 Initial screening for peripheral artery disease (PAD) should include assessment of lower-extremity pulses, capillary refill time, rubor on dependency, pallor on elevation, and venous filling time. Individuals with a history of leg fatigue, claudication, and rest pain relieved with dependency or decreased or absent pedal pulses should be referred for ankle-brachial index with toe pressures and for further vascular assessment as appropriate. B  \n12.28 An interprofessional approach facilitated by a podiatrist in conjunction with other appropriate team members is recommended for individuals with foot ulcers and high-risk feet (e.g., those on dialysis, those with Charcot foot, those with a history of prior ulcers or amputation, and those with PAD). B",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "Foot Care",
+      "subsection_heading": "Recommendations",
+      "page_number": 8,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "12.29 Refer individuals who smoke and have a history of prior lower-extremity complications, loss of protective sensation (LOPS), structural abnormalities, or PAD to foot care specialists for ongoing preventive care and lifelong surveillance. B These individuals should also be provided with information on the importance of smoking cessation and referred for counseling on smoking cessation. A  \n12.30 Provide general preventive foot self-care education to all people with diabetes, including those with LOPS, on appropriate ways to examine their feet (palpation or visual inspection with an unbreakable mirror) for daily surveillance of early foot problems. B  \n12.31 The use of specialized therapeutic footwear is recommended for people with diabetes at high risk for ulceration, including those with LOPS, foot deformities, ulcers, callous formation, poor peripheral circulation, or history of amputation. B",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "Foot Care",
+      "subsection_heading": "Recommendations",
+      "page_number": 8,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "12.32 For chronic diabetic foot ulcers that have failed to heal with optimal standard care alone, adjunctive treatment with randomized controlled trial–proven advanced agents should be considered (e.g., negative-pressure wound therapy, several skin substitutes, or topical oxygen therapy). A  \nFoot ulcerations, infections, and amputations are common complications associated with diabetes. These may be the consequences of several factors, including peripheral neuropathy, peripheral artery disease (PAD), and foot deformities. They represent major causes of morbidity and mortality in people with diabetes. Early recognition of at-risk feet and preulcerative lesions as well as prompt treatment of ulcerations and other lower-extremity complications can delay or prevent adverse outcomes. Infection can proceed rapidly in the neuroischemic extremity, often without signs or symptoms commensurate with its severity. Infection is usually the final precipitating cause of lower-extremity amputations.",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "Foot Care",
+      "subsection_heading": "Recommendations",
+      "page_number": 8,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "# Retinopathy, Neuropathy, and Foot Care  \nPrevention and management of diabetic foot complications is a centerpiece of diabetes care. Early recognition requires an understanding of those factors that put people with diabetes at increased risk for ulcerations and amputations. Factors that are associated with the at-risk foot include the following:  \n- Chronic hyperglycemia\n- Peripheral neuropathy/LOPS\n- PAD\n- Foot deformities (bunions, hammer-toes, Charcot joint, etc.)\n- Preulcerative corns or calluses\n- Prior ulceration\n- Prior amputation\n- Smoking\n- Retinopathy\n- Nephropathy (particularly individuals on dialysis or posttransplant)\n- Social determinants of health such as socioeconomic status and access-to-care factors",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "page_number": 9,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "Identifying the at-risk foot begins with a detailed history documenting diabetes management, smoking history, exercise tolerance, history of claudication or rest pain, and prior ulcerations or amputations. A thorough examination of the feet should be performed annually in all people with diabetes and more frequently in at-risk individuals. The examination should include assessment of skin integrity, assessment for LOPS using the 10-g monofilament or Ipswich touch test, along with at least one other neurological assessment tool, pulse examination of the dorsalis pedis and posterior tibial arteries, and assessment for foot deformities such as bunions, hammertoes, and prominent metatarsals, which increase plantar foot pressures and increase risk for ulcerations. At-risk individuals should be assessed at each visit and should be referred to foot care specialists for ongoing preventive care and surveillance.",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "page_number": 9,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "## Evaluation for Loss of Protective Sensation  \nThe presence of peripheral sensory neuropathy is the single most common component cause for foot ulceration. In a multicenter trial, peripheral neuropathy was found to be a component cause in 78% of people with diabetes with ulcerations and that the triad of peripheral sensory neuropathy, minor trauma, and foot deformity was present in >63% of participants. All people with diabetes should undergo a comprehensive foot examination at least annually or more frequently for those in higher-risk categories.",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "Evaluation for Loss of Protective Sensation",
+      "page_number": 9,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "LOPS is vital to risk assessment and the identification of the foot at risk for ulceration. One of the most useful tests to determine LOPS is the 10-g monofilament test. The monofilament test should be performed with at least one other neurologic assessment tool (e.g., pinprick, temperature perception, ankle reflexes, or vibratory perception with a 128-Hz tuning fork or similar device). Absent monofilament sensation and one other abnormal test confirm the presence of LOPS.",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "Evaluation for Loss of Protective Sensation",
+      "page_number": 9,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "## Evaluation for Peripheral Artery Disease",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "Evaluation for Peripheral Artery Disease",
+      "page_number": 9,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "Initial screening for PAD should include a history of leg fatigue, claudication, and rest pain relieved with dependency. Physical examination for PAD should include assessment of lower-extremity pulses, capillary refill time, rubor on dependency, pallor on elevation, and venous filling time. Any individual exhibiting signs and symptoms of PAD should be referred for noninvasive arterial studies in the form of Doppler ultrasound with pulse volume recordings. While ankle-brachial indices will be calculated, they should be interpreted carefully, as they are known to be inaccurate in people with diabetes due to non-compressible vessels. Toe systolic blood pressure tends to be more accurate. Toe systolic blood pressure &#x3C;30 mmHg is suggestive of PAD and an inability to heal foot ulcerations. Individuals with abnormal pulse volume recording tracings and toe pressures &#x3C;30 mmHg with foot ulcers should be referred for formal vascular evaluation and angiography.",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "Evaluation for Peripheral Artery Disease",
+      "page_number": 9,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "## Table 12.1—International Working Group on Diabetic Foot Risk Stratification System and Corresponding Foot Screening Frequency  \n| Category | Ulcer Risk | Characteristics | Examination Frequency* |\n|----------|------------|------------------|------------------------|\n| 0        | Very low   | No LOPS and no PAD | Annually               |\n| 1        | Low        | LOPS or PAD       | Every 6–12 months      |\n| 2        | Moderate   | LOPS + PAD, or LOPS + foot deformity, or PAD + foot deformity | Every 3–6 months      |\n| 3        | High       | LOPS or PAD and one or more of the following:\n• History of foot ulcer\n• Amputation (minor or major)\n• Kidney failure | Every 1–3 months      |  \n*Examination frequency suggestions are based on expert opinion and person-centered requirements. Adapted with permission from Schaper et al. (123). LOPS, loss of protective sensation; PAD, peripheral artery disease.",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "Table 12.1—International Working Group on Diabetic Foot Risk Stratification System and Corresponding Foot Screening Frequency",
+      "page_number": 9,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "# Retinopathy, Neuropathy, and Foot Care  \n## Diabetes Care Volume 49, Supplement 1, January 2026  \n### Screening Recommendations\nThe Society for Vascular Surgery and the American Podiatric Medical Association guidelines recommend that all people with diabetes over 50 years of age should undergo screening via non-invasive arterial studies. If normal, these should be repeated every 5 years. The Wound Ischemia foot Infection (WIfI) staging system for diabetic foot lesions is being increasingly used not only to stage PAD severity and amputation risk but also to predict DFU healing when incorporated into an interactive prevention protocol.",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "Diabetes Care Volume 49, Supplement 1, January 2026",
+      "subsection_heading": "Screening Recommendations",
+      "page_number": 10,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "### Foot Care Education for People With Diabetes\nAll people with diabetes (and their caregivers), particularly those with high-risk conditions, should receive general foot care education, including appropriate management strategies. This education should be provided to all newly diagnosed people with diabetes as part of an annual comprehensive examination and to individuals with high-risk conditions at every visit.  \nRecent studies have shown that while education improves knowledge of diabetic foot problems and self-care of the foot, it does not improve behaviors associated with active participation in their overall diabetes care and the achievement of personal health goals. Evidence suggests that while education for people with diabetes and their families is important, the knowledge is quickly forgotten and needs to be reinforced regularly.",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "Diabetes Care Volume 49, Supplement 1, January 2026",
+      "subsection_heading": "Foot Care Education for People With Diabetes",
+      "page_number": 10,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "Individuals considered at risk should understand the implications of foot deformities, LOPS, and PAD; the proper care of the foot, including nail and skin care; and the importance of daily foot inspections. Individuals with LOPS should be educated on appropriate ways to examine their feet for daily surveillance of early foot problems. People with diabetes should also be educated on the importance of referrals to foot care specialists.",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "Diabetes Care Volume 49, Supplement 1, January 2026",
+      "subsection_heading": "Foot Care Education for People With Diabetes",
+      "page_number": 10,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "### Treatment\nManagement recommendations for foot care for people with diabetes will be determined by their risk category. No-risk or low-risk individuals often can be managed with education and self-care. People in the moderate- to high-risk category should be referred to foot care specialists for further evaluation and regular surveillance as outlined in Table 12.1. This category includes individuals with LOPS, PAD, and/or structural foot deformities, such as Charcot foot, bunions, or hammertoes. Individuals with any open ulceration or unexplained swelling, erythema, or increased skin temperature should be referred urgently to a foot care specialist or interprofessional team.",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "Diabetes Care Volume 49, Supplement 1, January 2026",
+      "subsection_heading": "Treatment",
+      "page_number": 10,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "Initial management recommendations should include daily foot inspection, use of moisturizers for dry, scaly skin, and avoidance of self-care of ingrown nails and calluses. Well-fitted athletic or walking shoes with customized pressure-relieving orthoses should be part of initial recommendations for people with increased plantar pressures. Individuals with deformities such as bunions or hammertoes may require specialized footwear such as extradepth shoes. Those with more significant deformities, as in Charcot joint disease, may require custom-made footwear. For recalcitrant deformities or recurrent ulcerations not amenable to conservative footwear therapy alone, appropriate surgical reconstruction by an experienced diabetic foot surgeon should be considered.",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "Diabetes Care Volume 49, Supplement 1, January 2026",
+      "subsection_heading": "Treatment",
+      "page_number": 10,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "Special consideration should be given to individuals with neuropathy who present with a warm, swollen, red foot with or without a history of trauma and without an open ulceration. These individuals require a thorough workup for possible Charcot neuroarthropathy. Foot and ankle X-rays should be performed in all individuals presenting with the above clinical findings. Early diagnosis and treatment of this condition is of paramount importance in preventing deformities and instability that can lead to ulceration and amputation. These individuals require total non-weight-bearing and urgent referral to a foot care specialist for further management. Surgical reconstruction of these complex limb-threatening deformities has assumed an important role, with many surgeries yielding high levels of success and limb salvage.",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "Diabetes Care Volume 49, Supplement 1, January 2026",
+      "subsection_heading": "Treatment",
+      "page_number": 10,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "Management of people with diabetes and PAD requires careful assessment and both holistic and interventional approaches. Optimal management of glycemia, hypertension, dyslipidemia, smoking cessation, weight management, and antiplatelet agents, as well as addressing other modifiable risk factors, are important to prevent or slow any progression of microvascular and macrovascular complications. People with diabetes who have a major lower-limb amputation have a decreased 5-year survival rate. One study showed a 67% 5-year mortality rate in people with diabetes who had a major limb amputation compared with a 57% 5-year mortality rate in those without.",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "Diabetes Care Volume 49, Supplement 1, January 2026",
+      "subsection_heading": "Treatment",
+      "page_number": 10,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "# Retinopathy, Neuropathy, and Foot Care  \nMost of the excess morbidity and mortality in these individuals is related to cardiovascular disease and emphasizes the need for good glycemic and cardiovascular risk management. Emerging glucose-lowering therapies with PAD (and other cardiovascular disease) benefits include GLP-1 RA agents. Treatment with GLP-1 RAs may reduce risk of lower-extremity amputations, DFUs, and all-cause mortality compared with sodium–glucose cotransporter 2 (SGLT2) inhibitors. For example, oral semaglutide had a significantly lower rate of major adverse limb events (e.g., hospitalization for acute and chronic limb ischemia) in the designated cardiovascular outcome trial.",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "page_number": 11,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "In addition, the Semaglutide and Walking Capacity in People with Symptomatic Peripheral Artery Disease and Type 2 Diabetes (STRIDE) study investigated the impact of injectable semaglutide in individuals with type 2 diabetes and PAD who were identified at the earliest symptomatic stage of PAD (Fontaine stage IIa). Semaglutide significantly improved minimal and pain-free walking distance, quality of life, and disease progression based on composite outcomes of rescue therapy initiation, all-cause death, or major adverse limb events within the 52-week study period.",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "page_number": 11,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "Post hoc subgroup analyses showed that the benefits of semaglutide were independent of baseline diabetes duration, A1C levels, BMI status, or concomitant SGLT2 inhibitor treatment. In contrast, the SGLT2 inhibitor canagliflozin was associated with an increased risk of lower-limb amputation (mostly affecting toes) in the Canagliflozin Cardiovascular Assessment Study (CANVAS) cardiovascular outcome trial. The mechanism by which canagliflozin may increase the risk of amputations is unknown. As a precaution, stopping canagliflozin should be considered if an individual develops a significant lower-limb complication (e.g., DFU, osteomyelitis, or gangrene), at least until the condition has resolved.",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "page_number": 11,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "Individuals diagnosed with or suspected of having PAD, especially when associated with DFU, infection, or gangrene, require referral to vascular interventionists or vascular surgeons for appropriate angiography and revascularization. Time is often of the essence, since delays in treatment can lead to further tissue loss. Although there is still some debate over the benefits of endovascular versus open surgical revascularization, it is clear that the initial treatment and evaluation of ulcerations include the following five basic principles of ulcer treatment:  \n| Principle | Description |\n|-----------|-------------|\n| Offloading or pressure relief of ulcerations | Reducing pressure on the ulcer site to promote healing. |\n| Debridement of hyperkeratotic, necrotic, or nonviable tissue | Removing dead or infected tissue to facilitate healing. |\n| Revascularization of ischemic wounds when necessary | Restoring blood flow to the affected area. |",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "page_number": 11,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "| Revascularization of ischemic wounds when necessary | Restoring blood flow to the affected area. |\n| Management of infection: soft tissue or bone | Treating any infections present in the ulcer. |\n| Use of wound-appropriate topical dressings | Applying suitable dressings to protect the wound and promote healing. |  \nHowever, despite following the above principles, some ulcerations will become chronic and fail to heal. Careful evaluation is necessary to determine if there are associated deformities predisposing to high plantar pressures that need to be addressed with surgical offloading procedures to expedite healing. Additionally, underlying osteomyelitis must be ruled out as a cause for the nonhealing ulcer and treated as necessary. Once these complicating factors have been addressed, adjunctive advanced wound therapy can play an important role.",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "page_number": 11,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "When to use advanced wound therapy has been the subject of much discussion, as the therapy is often quite expensive. It has been determined that if a wound fails to show a reduction of 50% or more after 4 weeks of appropriate wound management (i.e., the five basic principles above), consideration should be given to the use of advanced wound therapy. Treatment of these chronic wounds is best managed in an interprofessional setting.  \nEvidence to support advanced wound therapy is challenging to produce and to assess. Randomization of trial participants is difficult, as there are many variables that can affect wound healing. In addition, many RCTs exclude certain cohorts of people, e.g., individuals with chronic kidney disease and especially those on dialysis. Finally, blinding of participants and clinicians is not always possible. Meta-analyses and systematic reviews of observational studies are used to determine the clinical effectiveness of these therapies.",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "page_number": 11,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "S272  Retinopathy,  Neuropathy,  and  Foot  Care     Diabetes Care Volume  49,  Supplement  1,  January  2026  \neffectiveness  of  these  modalities.  Such            benefit in prevention of amputation in se-                   directions.  Signal  Transduct  Target  Ther  2025;\nstudies  can  augment  formal  RCTs  by  in-           lected chronic neuroischemic ulcers, stud-                   10:132\ncluding a greater variety of participants in           ies  have  shown  no  benefit  in  healing                   5.  Solomon  SD,  Chew  E,  Duh  EJ,  et  al.  Diabetic\nvarious  clinical  settings  who  are  typically       DFUs in the absence of ischemia and/or                       retinopathy:  a  position  statement  by  the  American\nexcluded from the more rigidly structured              infection (152,163).                                         Diabetes Association. Diabetes Care 2017;40:412–418\n6.      Nathan DM, Genuth S, Lachin J, et al.; Diabetes",
+    "metadata": {
+      "page_number": 12,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "6.      Nathan DM, Genuth S, Lachin J, et al.; Diabetes\nclinical  trials.  Nonetheless,  use  of  those                      Topical oxygen therapy has been stud-          Control  and  Complications  Trial  Research  Group.\nproducts  or  agents  with  robust  RCTs  or           ied  rather  vigorously,  with  several  high-               The  effect  of  intensive  treatment  of  diabetes  on\nsystematic  reviews  should  generally  be             quality RCTs and systematic reviews and                      the  development  and  progression  of  long-term\npreferred over those without grade A evi-              meta-analyses  all  supporting  its  efficacy                complications  in  insulin-dependent  diabetes\ndence (158).                                           in  healing  chronic  DFUs  at  12  weeks                    mellitus. N Engl J Med 1993;329:977–986\n7.  Stratton  IM,  Kohner  EM,  Aldington  SJ,  et  al.",
+    "metadata": {
+      "page_number": 12,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "7.  Stratton  IM,  Kohner  EM,  Aldington  SJ,  et  al.\nAdvanced wound therapy can be classi-     (151,153,164–168). Three types of topical                    UKPDS 50: risk factors for incidence and progression\nfied  into  several  broad  categories  (150).         oxygen devices are available, including                      of retinopathy in type II diabetes over 6 years from\nTopical  growth  factors,  acellular  matrix           continuous-delivery,  low-constant-pressure,                 diagnosis. Diabetologia 2001;44:156–163\ntissues,  placental  tissues,  and  bioengi-           and  cyclical-pressure  modalities.  Impor-                  8.      Estacio RO, McFarling E, Biggerstaff S, Jeffers\nneered  cellular  therapies  are  commonly             tantly,  topical  oxygen  therapy  devices                   BW,  Johnson  D,  Schrier  RW.  Overt  albuminuria",
+    "metadata": {
+      "page_number": 12,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "neered  cellular  therapies  are  commonly             tantly,  topical  oxygen  therapy  devices                   BW,  Johnson  D,  Schrier  RW.  Overt  albuminuria\nused in offices and wound care centers to                                                                           predicts  diabetic  retinopathy  in  Hispanics  with\nexpedite healing of chronic, more superfi-             provide for home-based therapy and re-                       NIDDM. Am J Kidney Dis 1998;31:947–953\nplace the need for daily visits to special-                  9.  Yau JWY, Rogers SL, Kawasaki R, et al.; Meta-\ncial ulcerations. Over the years, there has            ized centers. Very high participation with                   Analysis  for  Eye  Disease  (META-EYE)  Study\nbeen  increased  evidence  to  support  the            very  few  reported  adverse  events  com-                   Group. Global prevalence and major risk factors",
+    "metadata": {
+      "page_number": 12,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "been  increased  evidence  to  support  the            very  few  reported  adverse  events  com-                   Group. Global prevalence and major risk factors\nuse of these modalities.                                                                                            of diabetic retinopathy. Diabetes Care 2012;35:\nNegative-pressure wound therapy was                    bined with improved healing rates makes                      556–564\nfirst introduced in the early to mid-1990s.            this therapy another attractive option for                   10. Chew  EY,  Ambrosius  WT,  Davis  MD,  et  al.;\nadvanced wound care (164–168).                               ACCORD  Eye  Study  Group.  Effects  of  medical\nIt has become especially useful in wound                         If DFUs fail to heal despite appropriate           therapies  on  retinopathy  progression  in  type  2",
+    "metadata": {
+      "page_number": 12,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "It has become especially useful in wound                         If DFUs fail to heal despite appropriate           therapies  on  retinopathy  progression  in  type  2\npreparation  for  skin  grafts  and  flaps  and        standard or surgical wound care, adjunctive                  diabetes. N Engl J Med 2010;363:233–244\nassists in the closure of deep, large wounds                                                                        11.     Sacks  FM,  Hermans  MP,  Fioretto  P,  et  al.\n(159). A variety of types exist in the market-         advanced  therapies  should  be  instituted                  Association between plasma triglycerides and high-\nplace and range from electrically powered              and  are  best  managed  in  an  interprofes-                density  lipoprotein  cholesterol  and  microvascular",
+    "metadata": {
+      "page_number": 12,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "place and range from electrically powered              and  are  best  managed  in  an  interprofes-                density  lipoprotein  cholesterol  and  microvascular\nto  mechanically  powered  in  different               sional manner. Those products with grade A                   kidney disease  and retinopathy  in  type 2 diabetes\nevidence  to  support  their  efficacy  should               mellitus: a global case-control study in 13 countries.\nsizes depending upon the specific wound                be  considered  over  those  with  less  robust              Circulation 2014;129:999–1008\nrequirements.                                                                                                       12.         Yin L, Zhang D, Ren Q, Su X, Sun Z. Prevalence\nElectrical  stimulation,  pulsed  radiofre-     or  no  evidence  at all.  FDA-approved  prod-               and  risk  factors of diabetic  retinopathy  in  diabetic",
+    "metadata": {
+      "page_number": 12,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "Electrical  stimulation,  pulsed  radiofre-     or  no  evidence  at all.  FDA-approved  prod-               and  risk  factors of diabetic  retinopathy  in  diabetic\nquency energy, and extracorporeal shock-               ucts for DFUs include living, bioengineered                  patients: a community based cross-sectional study.\nwave  therapy  are  biophysical  modalities            skin  substitutes  like  Apligraf  and  Derma-               Medicine (Baltimore) 2020;99:e19236\ngraft,  along  with  growth  factor  products                13.        UK Prospective Diabetes Study (UKPDS) Group.\nthat  are  believed  to  upregulate  growth                                                                         Intensive blood-glucose control with sulphonylureas\nfactors  or  cytokines  to  stimulate  wound           like becaplermin. Once healed, all individ-                  or  insulin  compared  with  conventional  treatment",
+    "metadata": {
+      "page_number": 12,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "factors  or  cytokines  to  stimulate  wound           like becaplermin. Once healed, all individ-                  or  insulin  compared  with  conventional  treatment\nhealing,  while  low-frequency  noncontact             uals should be enrolled in a formal com-                     and  risk  of  complications  in  patients  with  type  2\nultrasound  is  used  to  debride  wounds.             prehensive  prevention  program  focused                     diabetes (UKPDS 33). Lancet 1998;352:837–853\nHowever, most of the studies advocating                on reducing the incidence of recurrent ul-                   14. Gubitosi-Klug  RA,  Sun  W,  Cleary  PA,  et  al.;\nWriting Team for the DCCT/EDIC Research Group.\nthe  use  of  these  modalities  have  been            cerations  and  subsequent  amputations                      Effects  of  prior  intensive  insulin  therapy  and  risk",
+    "metadata": {
+      "page_number": 12,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "the  use  of  these  modalities  have  been            cerations  and  subsequent  amputations                      Effects  of  prior  intensive  insulin  therapy  and  risk\nretrospective  observational  studies  or              (122,133,169).  These  principles  are  out-                 factors on patient-reported visual function outcomes\npoor-quality RCTs (152).                               lined in the above section, foot care edu-                   in  the  Diabetes  Control  and  Complications  Trial/\nHyperbaric oxygen therapy is the deliv-     cation for people with diabetes.                             Epidemiology of Diabetes Interventions and\nery of oxygen  through  a  chamber,  either                                                                         Complications  (DCCT/EDIC)  cohort.  JAMA\nindividual or multiperson, with the inten-             References                                                   Ophthalmol 2016;134:137–145",
+    "metadata": {
+      "page_number": 12,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "individual or multiperson, with the inten-             References                                                   Ophthalmol 2016;134:137–145\n15.     Aiello  LP,  Sun  W,  Das  A,  et  al.;  DCCT/EDIC\ntion  of  increasing  tissue  oxygenation  to          1.   Kalyani RR, Neumiller JJ, Maruthur NM, Wexler           Research  Group. Intensive diabetes therapy and\nincrease tissue perfusion and neovascula-              DJ.  Diagnosis  and  treatment of  type  2  diabetes  in     ocular surgery  in  type  1  diabetes. N  Engl  J  Med\nrization,  combat  resistant  bacteria,  and           adults: a review. JAMA 2025;334:984–1002                     2015;372:1722–1733\nstimulate wound healing. While there had               2.  Braffett BH, Bebu I, Lorenzi GM, et al.; DCCT/           16. Katz BJ, Lee MS, Lincoff NS, et al. Ophthalmic",
+    "metadata": {
+      "page_number": 12,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "stimulate wound healing. While there had               2.  Braffett BH, Bebu I, Lorenzi GM, et al.; DCCT/           16. Katz BJ, Lee MS, Lincoff NS, et al. Ophthalmic\nbeen  great interest in  this  modality  being         EDIC  Research  Group.  The  NIDDK  takes  on  the           complications  associated  with  the  antidiabetic\ncomplications  of  type  1  diabetes:  the  Diabetes         drugs semaglutide and tirzepatide. JAMA Ophthalmol\nable  to  expedite  healing  of chronic  DFUs,         Control and Complications Trial/Epidemiology of              2025;143:215–220\nthere has only been one RCT with positive              Diabetes Interventions and Complications (DCCT/              17. Yoshida Y, Joshi P, Barri S, et al. Progression of\nresults  that  reported  increased  healing            EDIC) study. Diabetes Care 2025;48:1089–1100                 retinopathy  with  glucagon-like  peptide-1  receptor",
+    "metadata": {
+      "page_number": 12,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "results  that  reported  increased  healing            EDIC) study. Diabetes Care 2025;48:1089–1100                 retinopathy  with  glucagon-like  peptide-1  receptor\nrates at 9 and 12 months compared with                 3.   Lachin  JM,  Nathan  DM;  DCCT/EDIC  Research           agonists  with  cardiovascular  benefits  in  type  2\ncontrol  participants  (160).  Several  other          Group.  Understanding  metabolic  memory:  the               diabetes—a systematic review and meta-analysis. J\nprolonged  influence  of  glycemia  during  the              Diabetes Complications 2022;36:108255\nstudies  with  significant  design  deficien-          Diabetes Control and Complications  Trial  (DCCT)            18. Ntentakis DP, Correa VSMC, Ntentaki AM, et\ncies and participant dropouts have failed              on future risks of complications during the study            al.  Effects of  newer-generation anti-diabetics  on",
+    "metadata": {
+      "page_number": 12,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "cies and participant dropouts have failed              on future risks of complications during the study            al.  Effects of  newer-generation anti-diabetics  on\nto  provide  corroborating  evidence  that             of  the  Epidemiology  of  Diabetes  Interventions           diabetic  retinopathy:  a  critical  review.  Graefes\nhyperbaric oxygen therapy should be widely             and  Complications  (EDIC).  Diabetes  Care  2021;           Arch Clin Exp Ophthalmol 2024;262:717–752\nused  for  managing  nonhealing  DFUs                  44:2216–2224                                                 19. Bethel MA, Diaz R, Castellana N, Bhattacharya\n4. Yang  Y,  Zhao  B,  Wang  Y,  et  al.  Diabetic           I, Gerstein HC, Lakshmanan MC. HbA1c change and\n(161,162).  While  there  may  be  some                neuropathy:  cutting-edge  research  and  future             diabetic retinopathy during GLP-1 receptor agonist  \n2026  January\n29 on  guest",
+    "metadata": {
+      "page_number": 12,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "(161,162).  While  there  may  be  some                neuropathy:  cutting-edge  research  and  future             diabetic retinopathy during GLP-1 receptor agonist  \n2026  January\n29 on  guest\nby     http://diabetesjournals.org/care/article-pdf/49/Supplement_1/S261/848830/dc26s012.pdf\nfrom   Downloaded",
+    "metadata": {
+      "page_number": 12,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "# Retinopathy, Neuropathy, and Foot Care  \n## Cardiovascular Outcome Trials\n- A meta-analysis and meta-regression. Diabetes Care 2021;44:290–296\n- Lakhani M, Kwan ATH, Mihalache A, et al. Association of glucagon-like peptide-1 receptor agonists with optic nerve and retinal adverse events: a population-based observational study across 180 countries. Am J Ophthalmol 2025;277:148–168\n- Hathaway JT, Shah MP, Hathaway DB, et al. Risk of nonarteritic anterior ischemic optic neuropathy in patients prescribed semaglutide. JAMA Ophthalmol 2024;142:732–739\n- Shor R, Mihalache A, Noori A, et al. Glucagon-like peptide-1 receptor agonists and risk of neovascular age-related macular degeneration. JAMA Ophthalmol 2025;143:587–594\n- Hallaj S, Halfpenny W, Chuter BG, Weinreb RN, Baxter SL, Cui QN. Response to: “Comment on: association between glucagon-like peptide 1 receptor agonists exposure and intraocular pressure change.” Am J Ophthalmol 2025;270:275–276",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "Cardiovascular Outcome Trials",
+      "page_number": 13,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "- Sterling J, Hua P, Dunaief JL, Cui QN, VanderBeek BL. Glucagon-like peptide 1 receptor agonist use is associated with reduced risk for glaucoma. Br J Ophthalmol 2023;107:215–220\n- Niazi S, Gnesin F, Thein A-S, et al. Association between glucagon-like peptide-1 receptor agonists and the risk of glaucoma in individuals with type 2 diabetes. Ophthalmology 2024;131:1056–1063",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "Cardiovascular Outcome Trials",
+      "page_number": 13,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "## Diabetes in Youth\n- Dabelea D, Stafford JM, Mayer-Davis EJ, et al.; SEARCH for Diabetes in Youth Research Group. Association of type 1 diabetes vs type 2 diabetes diagnosed during childhood and adolescence with complications during teenage years and young adulthood. JAMA 2017;317:825–835\n- TODAY Study Group. Development and progression of diabetic retinopathy in adolescents and young adults with type 2 diabetes: results from the TODAY study. Diabetes Care 2021;45:1049–1055\n- Jensen ET, Rigdon J, Rezaei KA, et al. Prevalence, progression, and modifiable risk factors for diabetic retinopathy in youth and young adults with youth-onset type 1 and type 2 diabetes: the SEARCH for Diabetes in Youth Study. Diabetes Care 2023;46:1252–1260",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "Diabetes in Youth",
+      "page_number": 13,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "## Screening and Evaluation\n| Study | Findings |\n|-------|----------|\n| Agardh E, Tababat-Khani P. | Adopting 3-year screening intervals for sight-threatening retinal vascular lesions in type 2 diabetic subjects without retinopathy. Diabetes Care 2011;34:1318–1319 |\n| Nathan DM, Bebu I, Hainsworth D, et al.; DCCT/EDIC Research Group. | Frequency of evidence-based screening for retinopathy in type 1 diabetes. N Engl J Med 2017;376:1507–1516 |\n| Silva PS, Horton MB, Clary D, et al. | Identification of diabetic retinopathy and ungradable image rate with ultrawide field imaging in a national teleophthalmology program. Ophthalmology 2016;123:1360–1367 |\n| Walton OB, Garoon RB, Weng CY, et al. | Evaluation of automated teleretinal screening program for diabetic retinopathy. JAMA Ophthalmol 2016;134:204–209 |",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "Screening and Evaluation",
+      "page_number": 13,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "| Walton OB, Garoon RB, Weng CY, et al. | Evaluation of automated teleretinal screening program for diabetic retinopathy. JAMA Ophthalmol 2016;134:204–209 |\n| Daskivich LP, Vasquez C, Martinez C, Tseng C-H, Mangione CM. | Implementation and evaluation of a large-scale teleretinal diabetic retinopathy screening program in the Los Angeles County Department of Health Services. JAMA Intern Med 2017;177:642–649 |\n| Sim DA, Mitry D, Alexander P, et al. | The evolution of teleophthalmology programs in the United Kingdom: beyond diabetic retinopathy screening. J Diabetes Sci Technol 2016;10:308–317 |",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "Screening and Evaluation",
+      "page_number": 13,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "## Treatment and Management\n- Rajesh AE, Davidson OQ, Lee CS, Lee AY. Artificial intelligence and diabetic retinopathy: AI framework, prospective studies, head-to-head validation, and cost-effectiveness. Diabetes Care 2023;46:1728–1739\n- Nakayama LF, Zago Ribeiro L, Novaes F, et al. Artificial intelligence for telemedicine diabetic retinopathy screening: a review. Ann Med 2023;55:2258149\n- Gunderson EP, Lewis CE, Tsai A-L, et al. A 20-year prospective study of childbearing and incidence of diabetes in young women, controlling for glycemia before conception: the Coronary Artery Risk Development in Young Adults (CARDIA) study. Diabetes 2007;56:2990–2996\n- Widyaputri F, Rogers SL, Kandasamy R, Shub A, Symons RCA, Lim LL. Global estimates of diabetic retinopathy prevalence and progression in pregnant women with preexisting diabetes: a systematic review and meta-analysis. JAMA Ophthalmol 2022;140:486–494",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "Treatment and Management",
+      "page_number": 13,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "- Diabetes Control and Complications Trial Research Group. Effect of pregnancy on microvascular complications in the diabetes control and complications trial. Diabetes Care 2000;23:1084–1091",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "Treatment and Management",
+      "page_number": 13,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "## Additional Studies\n- Ong AY, Kiire CA, Frise C, Bakr Y, de Silva SR. Intravitreal anti-vascular endothelial growth factor injections in pregnancy and breastfeeding: a case series and systematic review of the literature. Eye (Lond) 2024;38:951–963\n- Diabetic Retinopathy Study Research Group. Preliminary report on effects of photocoagulation therapy. Am J Ophthalmol 1976;81:383–396\n- Early Treatment Diabetic Retinopathy Study Research Group. Photocoagulation for diabetic macular edema. Arch Ophthalmol 1985;103:1796–1806\n- Gross JG, Glassman AR, Jampol LM, et al.; Writing Committee for the Diabetic Retinopathy Clinical Research Network. Panretinal photocoagulation vs intravitreous ranibizumab for proliferative diabetic retinopathy: a randomized clinical trial. JAMA 2015;314:2137–2146",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "Additional Studies",
+      "page_number": 13,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "## Conclusion\n- The management of diabetic retinopathy and associated complications requires a multifaceted approach, including regular screening, timely treatment, and consideration of individual patient factors. Ongoing research continues to inform best practices and improve outcomes for patients with diabetes.",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "Conclusion",
+      "page_number": 13,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "# Retinopathy, Neuropathy, and Foot Care\nDiabetes Care Volume 49, Supplement 1, January 2026",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "page_number": 14,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "## References  \n1. Rayman G, Vas PR, Baker N, et al. The Ipswich Touch Test: a simple and novel method to identify inpatients with diabetes at risk of foot ulceration. Diabetes Care 2011;34:1517–1518\n2. Zhao N, Xu J, Zhou Q, et al. Application of the Ipswich Touch Test for diabetic peripheral neuropathy screening: a systematic review and meta-analysis. BMJ Open 2021;11:e046966\n3. AANEM. AANEM’s top five choosing wisely recommendations. Muscle Nerve 2015;51:617–619\n4. Freeman R. Not all neuropathy in diabetes is of diabetic etiology: differential diagnosis of diabetic neuropathy. Curr Diab Rep 2009;9:423–431\n5. Pop-Busui R, Cleary PA, Braffett BH, et al.; DCCT/EDIC Research Group. Association between cardiovascular autonomic neuropathy and left ventricular dysfunction: DCCT/EDIC study (Diabetes Control and Complications Trial/Epidemiology of Diabetes Interventions and Complications). J Am Coll Cardiol 2013;61:447–454",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "References",
+      "page_number": 14,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "6. Pop-Busui R, Evans GW, Gerstein HC, et al.; Action to Control Cardiovascular Risk in Diabetes Study Group. Effects of cardiac autonomic dysfunction on mortality risk in the Action to Control Cardiovascular Risk in Diabetes (ACCORD) trial. Diabetes Care 2010;33:1578–1584\n7. Kornum DS, Krogh K, Keller J, Malagelada C, Drewes AM, Brock C. Diabetic gastroenteropathy: a pan-alimentary complication. Diabetologia 2025;68:905–919\n8. Winkley K, Kristensen C, Fosbury J. Sexual health and function in women with diabetes. Diabet Med 2021;38:e14644\n9. Ang L, Jaiswal M, Martin C, Pop-Busui R. Glucose control and diabetic neuropathy: lessons from recent large clinical trials. Curr Diab Rep 2014;14:528\n10. Martin CL, Albers JW, Pop-Busui R, DCCT/EDIC Research Group. Neuropathy and related findings in the diabetes control and complications trial/epidemiology of diabetes interventions and complications study. Diabetes Care 2014;37:31–38",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "References",
+      "page_number": 14,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "11. Ismail-Beigi F, Craven T, Banerji MA, et al.; ACCORD Trial Group. Effect of intensive treatment of hyperglycaemia on microvascular outcomes in type 2 diabetes: an analysis of the ACCORD randomised trial. Lancet 2010;376:419–430\n12. Look AHEAD Research Group. Effects of a long-term lifestyle modification programme on peripheral neuropathy in overweight or obese adults with type 2 diabetes: the Look AHEAD study. Diabetologia 2017;60:980–988\n13. Callaghan BC, Reynolds EL, Banerjee M, et al. Dietary weight loss in people with severe obesity stabilizes neuropathy and improves symptomatology. Obesity (Silver Spring) 2021;29:2108–2118\n14. Aghili R, Malek M, Tanha K, Mottaghi A. The effect of bariatric surgery on peripheral polyneuropathy: a systematic review and meta-analysis. Obes Surg 2019;29:3010–3020\n15. Reynolds EL, Watanabe M, Banerjee M, et al. The effect of surgical weight loss on diabetes complications in individuals with class II/III obesity. Diabetologia 2023;66:1192–1207",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "References",
+      "page_number": 14,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "15. Reynolds EL, Watanabe M, Banerjee M, et al. The effect of surgical weight loss on diabetes complications in individuals with class II/III obesity. Diabetologia 2023;66:1192–1207\n16. Diabetes Control and Complications Trial (DCCT) Research Group. Effect of intensive diabetes treatment on nerve conduction in the Diabetes Control and Complications Trial. Ann Neurol 1995;38:869–880\n17. Cai Z, Yang Y, Zhang J. A systematic review and meta-analysis of the serum lipid profile in prediction of diabetic neuropathy. Sci Rep 2021;11:499\n18. Afshinnia F, Reynolds EL, Rajendiran TM, et al. Serum lipidomic determinants of human diabetic neuropathy in type 2 diabetes. Ann Clin Transl Neurol 2022;9:1392–1404\n19. Lu Y, Xing P, Cai X, et al. Prevalence and risk factors for diabetic peripheral neuropathy in type 2 diabetic patients from 14 countries: estimates of the INTERPRET-DD study. Front Public Health 2020;8:534372",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "References",
+      "page_number": 14,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "20. Gylfadottir SS, Christensen DH, Nicolaisen SK, et al. Diabetic polyneuropathy and pain, prevalence, and patient characteristics: a cross-sectional questionnaire study of 5,514 patients with recently diagnosed type 2 diabetes. Pain 2020;161:574–583\n21. Waldfogel JM, Nesbit SA, Dy SM, et al. Pharmacotherapy for diabetic peripheral neuropathy pain and quality of life: a systematic review. Neurology 2017;88:1958–1967\n22. Price R, Smith D, Franklin G, et al. Oral and topical treatment of painful diabetic polyneuropathy: practice guideline update summary: report of the AAN Guideline Subcommittee. Neurology 2022;98:31–43\n23. Mallick-Searle T, Adler JA. Update on treating painful diabetic peripheral neuropathy: a review of current US guidelines with a focus on the most recently approved management options. J Pain Res 2024;17:1005–1028",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "References",
+      "page_number": 14,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "24. Pop-Busui R, Ang L, Boulton Ajm, et al. Diagnosis and Treatment of Painful Diabetic Peripheral Neuropathy. Arlington, VA, American Diabetes Association, 2022\n25. Tesfaye S, Sloan G, Petrie J, et al.; OPTION-DM Trial Group. Comparison of amitriptyline supplemented with pregabalin, pregabalin supplemented with amitriptyline, and duloxetine supplemented with pregabalin for the treatment of diabetic peripheral neuropathic pain (OPTION-DM): a multicentre, double-blind, randomised crossover trial. Lancet 2022;400:680–690\n26. Freeman R, Durso-Decruz E, Emir B. Efficacy, safety, and tolerability of pregabalin treatment for painful diabetic peripheral neuropathy: findings from seven randomized, controlled trials across a range of doses. Diabetes Care 2008;31:1448–1454\n27. Dworkin RH, Jensen MP, Gammaitoni AR, Olaleye DO, Galer BS. Symptom profiles differ in patients with neuropathic versus non-neuropathic pain. J Pain 2007;8:118–126",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "References",
+      "page_number": 14,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "27. Dworkin RH, Jensen MP, Gammaitoni AR, Olaleye DO, Galer BS. Symptom profiles differ in patients with neuropathic versus non-neuropathic pain. J Pain 2007;8:118–126\n28. Goodwin B, Chiplunkar M, Salerno R, et al. Topical capsaicin for the management of painful diabetic neuropathy: a narrative systematic review. Pain Manag 2023;13:309–316\n29. Bril V, England J, Franklin GM, et al. Evidence-based guideline: treatment of painful diabetic neuropathy [RETIRED]. Neurology 2011;76:1758–1765\n30. Dowell D, Haegerich TM, Chou R. CDC guideline for prescribing opioids for chronic pain–United States, 2016. JAMA 2016;315:1624–1645\n31. Franklin GM; American Academy of Neurology. Opioids for chronic noncancer pain: a clinical practice guideline.  \n----  \nThis document provides a comprehensive overview of the current guidelines and research findings related to retinopathy, neuropathy, and foot care in diabetes management.",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "References",
+      "page_number": 14,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "# Retinopathy, Neuropathy, and Foot Care  \n## Position Paper of the American Academy of Neurology  \n1. Rogers LC, Frykberg RG, Armstrong DG, et al. Peripheral artery disease in people with diabetes. Neurology 2014;83:1277–1284.\n2. Zeng C, Dubreuil M, LaRochelle MR, et al. Association of tramadol with all-cause mortality among patients with osteoarthritis. JAMA 2019;321:969–982.\n3. Briasoulis A, Silver A, Yano Y, Bakris GL. Orthostatic hypotension associated with baroreceptor dysfunction: treatment approaches. J Clin Hypertens (Greenwich) 2014;16:141–148.\n4. Figueroa JJ, Basford JR, Low PA. Preventing and treating orthostatic hypotension: as easy as A, B, C. Cleve Clin J Med 2010;77:298–306.\n5. Jordan J, Fanciulli A, Tank J, et al. Management of supine hypertension in patients with neurogenic orthostatic hypotension: scientific statement of the American Autonomic Society, European Federation of Autonomic Societies, and the European Society of Hypertension. J Hypertens 2019;37:1541–1546.",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "Position Paper of the American Academy of Neurology",
+      "page_number": 15,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "6. Camilleri M, Kuo B, Nguyen L, et al. ACG clinical guideline: gastroparesis. Am J Gastroenterol 2022;117:1197–1220.\n7. Parrish CR, Pastors JG. Nutritional management of gastroparesis in people with diabetes. Diabetes Spectrum 2007;20:231–234.\n8. Parkman HP, Yates KP, Hasler WL, et al.; NIDDK Gastroparesis Clinical Research Consortium. Dietary intake and nutritional deficiencies in patients with diabetic or idiopathic gastroparesis. Gastroenterology 2011;141:486–498.\n9. Olausson EA, Storsrud S, Grundin H, Isaksson M, Attvall S, Simrén M. A small particle size diet reduces upper gastrointestinal symptoms in patients with diabetic gastroparesis: a randomized controlled trial. Am J Gastroenterol 2014;109:375–385.\n10. White JR, Neumiller JJ (Eds.). 2024-25 Guide to Medications for the Treatment of Diabetes Mellitus. Arlington, VA, American Diabetes Association.",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "Position Paper of the American Academy of Neurology",
+      "page_number": 15,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "10. White JR, Neumiller JJ (Eds.). 2024-25 Guide to Medications for the Treatment of Diabetes Mellitus. Arlington, VA, American Diabetes Association.\n11. Asha MZ, Khalil SFH. Pharmacological approaches to diabetic gastroparesis: a systematic review of randomized clinical trials. Sultan Qaboos Univ Med J 2019;19:e291–e304.\n12. McCallum RW, Snape W, Brody F, Wo J, Parkman HP, Nowak T. Gastric electrical stimulation with Enterra therapy improves symptoms from diabetic gastroparesis in a prospective study. Clin Gastroenterol Hepatol 2010;8:947–954.\n13. Frykberg RG, Zgonis T, Armstrong DG, et al.; American College of Foot and Ankle Surgeons. Diabetic foot disorders. A clinical practice guideline (2006 revision). J Foot Ankle Surg 2006;45:S1–S66.\n14. McDermott K, Fang M, Boulton AJM, Selvin E, Hicks CW. Etiology, epidemiology, and disparities in the burden of diabetic foot ulcers. Diabetes Care 2023;46:209–221.",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "Position Paper of the American Academy of Neurology",
+      "page_number": 15,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "14. McDermott K, Fang M, Boulton AJM, Selvin E, Hicks CW. Etiology, epidemiology, and disparities in the burden of diabetic foot ulcers. Diabetes Care 2023;46:209–221.\n15. Boulton AJM, Armstrong DG, Albert SF, et al. Comprehensive foot examination and risk assessment. Diabetes Care 2008;31:1679–1685.\n16. Schaper NC, van Netten JJ, Apelqvist J, et al.; IWGDF Editorial Board. Practical guidelines on the prevention and management of diabetes-related foot disease (IWGDF 2023 update). Diabetes Metab Res Rev 2024;40:e3657.\n17. Reiber GE, Vileikyte L, Boyko EJ, et al. Causal pathways for incident lower-extremity ulcers in patients with diabetes from two settings. Diabetes Care 1999;22:157–162.\n18. Fitridge R, Chuter V, Mills J, et al. The intersocietal IWGDF, ESVS, SVS guidelines on peripheral artery disease in people with diabetes. Diabetes Metab Res Rev 2024;40:e3686.",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "Position Paper of the American Academy of Neurology",
+      "page_number": 15,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "## Tables  \n| Reference | Title |\n|-----------|-------|\n| 140       | Rogers LC, Frykberg RG, Armstrong DG, et al. Peripheral artery disease in people with diabetes. Neurology 2014;83:1277–1284. |\n| 141       | Raspovic KM, Schaper NC, Gooday C, et al. Diagnosis and treatment of active Charcot neuro-osteoarthropathy in persons with diabetes mellitus: a systematic review. Diabetes Metab Res Rev 2024;40:e3653. |\n| 142       | Pinzur MS. The modern treatment of Charcot foot arthropathy. J Am Acad Orthop Surg 2023;31:71–79. |\n| 143       | Ha J, Hester T, Foley R, et al. Charcot foot reconstruction outcomes: a systematic review. J Clin Orthop Trauma 2020;11:357–368. |\n| 144       | Hayes J, Rafferty JM, Cheung W-Y, et al. Impact of diabetes on long-term mortality following major lower limb amputation: a population-based cohort study in Wales. Diabetes Res Clin Pract 2025;223:112156. |",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "Tables",
+      "page_number": 15,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "| 145       | Hong AT, Luu IY, Lin F, et al. Differential effect of GLP-1 receptor agonists and SGLT2 inhibitors on lower-extremity amputation outcomes in type 2 diabetes: a nationwide retrospective cohort study. Diabetes Care 2025:dc250292. |\n| 146       | McGuire DK, Marx N, Mulvagh SL, et al.; SOUL Study Group. Oral semaglutide and cardiovascular outcomes in high-risk type 2 diabetes. N Engl J Med 2025;392:2001–2012. |\n| 147       | Rasouli N, Guder Arslan E, Catarig A-M, et al. Benefit of semaglutide in symptomatic peripheral artery disease by baseline type 2 diabetes characteristics: insights from STRIDE, a randomized, placebo-controlled, double-blind trial. Diabetes Care 2025;48:1529–1535. |\n| 148       | Neal B, Perkovic V, Mahaffey KW, et al.; CANVAS Program Collaborative Group. Canagliflozin and cardiovascular and renal events in type 2 diabetes. N Engl J Med 2017;377:644–657. |",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "Tables",
+      "page_number": 15,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "| 148       | Neal B, Perkovic V, Mahaffey KW, et al.; CANVAS Program Collaborative Group. Canagliflozin and cardiovascular and renal events in type 2 diabetes. N Engl J Med 2017;377:644–657. |\n| 149       | Senneville IWGDF/IDSA E, Albalawi Z, van Asten SA, et al. Treatment guidelines on the diagnosis and management of diabetes-related foot infections (IWGDF/IDSA 2023). Diabetes Metab Res Rev 2024;40:e3687. |\n| 150       | Frykberg RG, Banks J. Challenges in the treatment of chronic wounds. Adv Wound Care (New Rochelle) 2015;4:560–582. |\n| 151       | Frykberg RG, Franks PJ, Edmonds M, et al.; TWO2 Study Group. A multinational, multicenter, randomized, double-blinded, placebo-controlled trial to evaluate the efficacy of cyclical topical wound oxygen (TWO2) therapy in the treatment of chronic diabetic foot ulcers: the TWO2 study. Diabetes Care 2020;43:616–624. |",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "Tables",
+      "page_number": 15,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "| 152       | Boulton AJM, Armstrong DG, Londahl M, et al. New Evidence-Based Therapies for Complex Diabetic Foot Wounds. Arlington, VA, American Diabetes Association, 2022. |\n| 153       | Carter MJ, Frykberg RG, Oropallo A, et al. Efficacy of topical wound oxygen therapy in healing chronic diabetic foot ulcers: systematic review and meta-analysis. Adv Wound Care (New Rochelle) 2023;12:177–186. |\n| 154       | Bus SA, Armstrong DG, Crews RT, et al. Guidelines on offloading foot ulcers in persons with diabetes (IWGDF 2023 update). Diabetes Metab Res Rev 2024;40:e3647. |\n| 155       | Yammine K, Assi C. Surgical offloading techniques should be used more often and earlier in treating forefoot diabetic ulcers: an evidence-based review. Int J Low Extrem Wounds 2020;19:112–119. |",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "Tables",
+      "page_number": 15,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "# Retinopathy, Neuropathy, and Foot Care  \nDiabetes Care Volume 49, Supplement 1, January 2026",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "page_number": 16,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "## References  \n1. La Fontaine J, Lavery LA, Hunt NA, Murdoch DP. The role of surgical off-loading to prevent recurrent ulcerations. Int J Low Extrem Wounds 2014;13:320–334\n2. Sheehan P, Jones P, Caselli A, Giurini JM, Veves A. Percent change in wound area of diabetic foot ulcers over a 4-week period is a robust predictor of complete healing in a 12-week prospective trial. Diabetes Care 2003;26:1879–1882\n3. Monami M, Ragghianti B, Scatena A, et al.; Panel of the Italian Guidelines for the Treatment of Diabetic Foot Syndrome and on behalf of SID and AMD. Effectiveness of different advanced wound dressings versus standard of care for the management of diabetic foot ulcers: a meta-analysis of randomized controlled trials for the development of the Italian guidelines for the treatment of diabetic foot syndrome. Acta Diabetol 2024;61:1517–1526",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "References",
+      "page_number": 16,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "4. Blume PA, Walters J, Payne W, Ayala J, Lantis J. Comparison of negative pressure wound therapy using vacuum-assisted closure with advanced moist wound therapy in the treatment of diabetic foot ulcers: a multicenter randomized controlled trial. Diabetes Care 2008;31:631–636\n5. Londahl M, Katzman P, Nilsson A, Hammarlund C. Hyperbaric oxygen therapy facilitates healing of chronic foot ulcers in patients with diabetes. Diabetes Care 2010;33:998–1003\n6. Santema KTB, Stoekenbroek RM, Koelemay MJW, et al.; DAMO2CLES Study Group. Hyperbaric oxygen therapy in the treatment of ischemic lower-extremity ulcers in patients with diabetes: results of the DAMO2CLES multicenter randomized clinical trial. Diabetes Care 2018;41:112–119",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "References",
+      "page_number": 16,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "7. Fedorko L, Bowen JM, Jones W, et al. Hyperbaric oxygen therapy does not reduce indications for amputation in patients with diabetes with nonhealing ulcers of the lower limb: a prospective, double-blind, randomized controlled clinical trial. Diabetes Care 2016;39:392–399\n8. Lalieu RC, Brouwer RJ, Ubbink DT, Hoencamp R, Bol Raap R, van Hulst RA. Hyperbaric oxygen therapy for nonischemic diabetic ulcers: a systematic review. Wound Repair Regen 2020;28:266–275\n9. Niederauer MQ, Michalek JE, Liu Q, Papas KK, Lavery LA, Armstrong DG. Continuous diffusion of oxygen improves diabetic foot ulcer healing when compared with a placebo control: a randomised, double-blind, multicentre study. J Wound Care 2018;27:S30–S45\n10. Serena TE, Bullock NM, Cole W, et al. Topical oxygen therapy in the treatment of diabetic foot ulcers: a multicentre, open, randomised controlled clinical trial. J Wound Care 2021;30:S7–S14",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "References",
+      "page_number": 16,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  },
+  {
+    "page_content": "10. Serena TE, Bullock NM, Cole W, et al. Topical oxygen therapy in the treatment of diabetic foot ulcers: a multicentre, open, randomised controlled clinical trial. J Wound Care 2021;30:S7–S14\n11. Sun X-K, Li R, Yang X-L, Yuan L. Efficacy and safety of topical oxygen therapy for diabetic foot ulcers: an updated systematic review and meta-analysis. Int Wound J 2022;19:2200–2209\n12. Frykberg RG. Topical wound oxygen therapy in the treatment of chronic diabetic foot ulcers. Medicina (Kaunas) 2021;57:917\n13. Sethi A, Khambhayta Y, Vas P. Topical oxygen therapy for healing diabetic foot ulcers: a systematic review and meta-analysis of randomised control trials. Health Sciences Review 2022;3:100028\n14. Frykberg RG, Vileikyte L, Boulton AJM, Armstrong DG. The at-risk diabetic foot: time to focus on prevention. Diabetes Care 2022;45:e144–e145  \n----  \n*Note: The references are formatted in a numbered list for clarity and ease of reading.*",
+    "metadata": {
+      "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
+      "section_heading": "References",
+      "page_number": 16,
+      "source": "ada_retino_neuro_footcare.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+    }
+  }
+]

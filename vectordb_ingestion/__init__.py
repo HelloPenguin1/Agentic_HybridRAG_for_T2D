@@ -1,20 +1,7 @@
-"""Vector database ingestion package"""
+"""
+Medical-Grade PDF Extraction Pipeline for Vector Database Ingestion
+"""
 
-from .qdrant_config import QdrantConfig, get_default_config
-from .qdrant_client_manager import QdrantClientManager
-from .document_chunker import DocumentChunker, get_default_chunker
-from .embedding_generator import EmbeddingGenerator, get_default_embedder
-from .vector_ingestion_pipeline import VectorIngestionPipeline, run_ingestion
+from .data_loader import MedicalDataLoader
 
-__all__ = [
-    'QdrantConfig',
-    'get_default_config',
-    'QdrantClientManager',
-    'DocumentChunker',
-    'get_default_chunker',
-    'EmbeddingGenerator',
-    'get_default_embedder',
-    'VectorIngestionPipeline',
-    'run_ingestion',
-]
-
+__all__ = ["MedicalDataLoader"]

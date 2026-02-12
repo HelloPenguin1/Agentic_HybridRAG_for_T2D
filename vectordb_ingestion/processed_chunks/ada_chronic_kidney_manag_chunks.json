@@ -1,0 +1,1155 @@
+[
+  {
+    "page_content": "# 11. Chronic Kidney Disease and Risk Management  \n**American Diabetes Association Professional Practice Committee for Diabetes**\nDiabetes Care 2026;49(Suppl. 1):S246–S260 | https://doi.org/10.2337/dc26-S011",
+    "metadata": {
+      "chapter_name": "11. Chronic Kidney Disease and Risk Management",
+      "page_number": 1,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "**American Diabetes Association Professional Practice Committee for Diabetes**\nDiabetes Care 2026;49(Suppl. 1):S246–S260 | https://doi.org/10.2337/dc26-S011  \nThe American Diabetes Association (ADA) “Standards of Care in Diabetes” includes the ADA’s current clinical practice recommendations and is intended to provide the components of diabetes care, general treatment goals and guidelines, and tools to evaluate quality of care. Members of the ADA Professional Practice Committee for Diabetes, an interprofessional expert committee, are responsible for updating the Standards of Care annually, or more frequently as warranted. For a detailed description of ADA standards, statements, and reports, as well as the evidence-grading system for ADA’s clinical practice recommendations and a full list of Professional Practice Committee members, please refer to Introduction and Methodology. Readers who wish to comment on the Standards of Care are invited to do so at professional.diabetes.org/SOC.",
+    "metadata": {
+      "chapter_name": "11. Chronic Kidney Disease and Risk Management",
+      "page_number": 1,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "For prevention and management of diabetes complications in children and adolescents, please refer to section 14, “Children and Adolescents.”",
+    "metadata": {
+      "chapter_name": "11. Chronic Kidney Disease and Risk Management",
+      "page_number": 1,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "## Epidemiology of Diabetes and Chronic Kidney Disease",
+    "metadata": {
+      "chapter_name": "11. Chronic Kidney Disease and Risk Management",
+      "section_heading": "Epidemiology of Diabetes and Chronic Kidney Disease",
+      "page_number": 1,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "Chronic kidney disease (CKD) is diagnosed by the persistent elevation of urinary albumin excretion (albuminuria), estimated glomerular filtration rate (eGFR) &#x3C;60 mL/min/1.73 m², or other manifestations of kidney damage (1). In this section, the focus is on CKD attributed to diabetes in adults, which occurs in 20–40% of people with diabetes (1–4). CKD in people with diabetes typically develops after a duration of 10 years in type 1 diabetes (the most common presentation is 5–15 years after the diagnosis of type 1 diabetes) but may be present at diagnosis of type 2 diabetes. CKD can progress to kidney failure requiring dialysis or kidney transplantation and is the leading cause of kidney failure in the U.S. (5). In addition, among people with type 1 or type 2 diabetes, the presence of CKD markedly increases cardiovascular risk and health care costs (6). The incidence of CKD in people with diabetes has decreased over the last decade but remains high in the U.S",
+    "metadata": {
+      "chapter_name": "11. Chronic Kidney Disease and Risk Management",
+      "section_heading": "Epidemiology of Diabetes and Chronic Kidney Disease",
+      "page_number": 1,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": ". The incidence of CKD in people with diabetes has decreased over the last decade but remains high in the U.S. (3) and around the world (7). For details on the management of CKD in children and adolescents with diabetes, please see section 14, “Children and Adolescents.”",
+    "metadata": {
+      "chapter_name": "11. Chronic Kidney Disease and Risk Management",
+      "section_heading": "Epidemiology of Diabetes and Chronic Kidney Disease",
+      "page_number": 1,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "*A complete list of members of the American Diabetes Association Professional Practice Committee for Diabetes can be found at https://doi.org/10.2337/dc26-SINT. This section has received endorsement from the National Kidney Foundation. Duality of interest information for each contributor is available at https://doi.org/10.2337/dc26-SDIS. Suggested citation: American Diabetes Association Professional Practice Committee for Diabetes. 11. Chronic kidney disease and risk management: Standards of Care in Diabetes—2026. Diabetes Care 2026;49(Suppl. 1):S246–S260.*",
+    "metadata": {
+      "chapter_name": "11. Chronic Kidney Disease and Risk Management",
+      "section_heading": "Epidemiology of Diabetes and Chronic Kidney Disease",
+      "page_number": 1,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "## Assessment of Albuminuria and Estimated Glomerular Filtration Rate  \n### Recommendations  \n- **11.1a** Assess kidney function with random urine albumin-to-creatinine ratio (UACR) and estimated glomerular filtration rate (eGFR) at least annually in people with type 1 diabetes with duration of ≥5 years and in all people with type 2 diabetes regardless of treatment. B\n- **11.1b** In people with chronic kidney disease (CKD), monitor urinary albumin (e.g., spot UACR) and eGFR 1–4 times per year depending on the stage of kidney disease (Fig. 11.1). B",
+    "metadata": {
+      "chapter_name": "11. Chronic Kidney Disease and Risk Management",
+      "section_heading": "Assessment of Albuminuria and Estimated Glomerular Filtration Rate",
+      "subsection_heading": "Recommendations",
+      "page_number": 1,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "- **11.1b** In people with chronic kidney disease (CKD), monitor urinary albumin (e.g., spot UACR) and eGFR 1–4 times per year depending on the stage of kidney disease (Fig. 11.1). B  \n© 2025 by the American Diabetes Association. Readers may use this work for educational, noncommercial purposes if properly cited and unaltered. The version of record may be linked at https://diabetesjournals.org/care, but ADA permission is required to post this work on any third-party site or platform. This publication and its contents may not be reproduced, distributed, or used for text or data mining, machine learning, or similar technologies without prior written permission. Requests to reuse, adapt, or distribute this work may be sent to permissions@diabetes.org. More information is available at https://diabetesjournals.org/journals/pages/license.",
+    "metadata": {
+      "chapter_name": "11. Chronic Kidney Disease and Risk Management",
+      "section_heading": "Assessment of Albuminuria and Estimated Glomerular Filtration Rate",
+      "subsection_heading": "Recommendations",
+      "page_number": 1,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "# Chronic Kidney Disease and Risk Management  \n## Albuminuria Categories  \n| Description and Range | A1 | A2 | A3 |\n|-----------------------|----|----|----|\n| CKD is classified based on: | Normal to mildly increased | Moderately increased | Severely increased |\n| GFR (G) | &#x3C;30 mg/g | 30-299 mg/g | ≥300 mg/g |\n| Albuminuria (A) | &#x3C;3 mg/mmol | 3-29 mg/mmol | ≥30 mg/mmol |  \n| GFR Category | Description | GFR (mL/min/1.73 m²) | Screen | Treat | Treat and Refer |\n|--------------|-------------|----------------------|--------|-------|-----------------|\n| G1 | Normal or high | ≥90 | 1 | 1 | 2 |\n| G2 | Mildly decreased | 60-89 | 1 | 1 | 2 |\n| G3a | Mildly to moderately decreased | 45-59 | 1 | 2 | 3 |\n| G3b | Moderately to severely decreased | 30-44 | 2 | 3 | 3 |\n| G4 | Severely decreased | 15-29 | 3 | 3 | 4+ |\n| G5 | Kidney failure | &#x3C;15 | 4+ | 4+ | 4+ |  \n- Low risk (if no other markers of kidney disease, no CKD)\n- Moderately increased risk\n- High risk\n- Very high risk",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "Albuminuria Categories",
+      "page_number": 2,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "- Very high risk  \nFigure 11.1—Risk of CKD progression, cardiovascular disease risk, and mortality; frequency of visits; and referral to nephrology according to GFR and albuminuria. The numbers in the boxes are a guide to the frequency of screening or monitoring (number of times per year). Green reflects no evidence of CKD by estimated GFR or albuminuria, with screening indicated once per year. For monitoring of prevalent CKD, suggested monitoring varies from once per year (yellow) to four times or more per year (i.e., every 1–3 months [deep red]) according to risks of CKD progression and CKD complications (e.g., cardiovascular disease, anemia, and hyperparathyroidism). These are general parameters based only on expert opinion and underlying comorbid conditions, and disease state must be taken into account, as should the likelihood of impacting a change in management for any individual. CKD, chronic kidney disease; GFR, glomerular filtration rate. Adapted from de Boer et al. (1).",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "Albuminuria Categories",
+      "page_number": 2,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "## Screening for Albuminuria  \nScreening for albuminuria can be most easily performed by urine albumin-to-creatinine ratio (UACR) in a random spot urine collection. Timed or 24-h collections are more burdensome, and in many clinical scenarios, it is preferable to measure UACR. Measurement of a spot urine sample for albumin alone (whether by immunoassay or by using a sensitive dipstick test specific for albuminuria) without simultaneously measuring urine creatinine is less expensive but susceptible to false-negative and false-positive determinations as a result of variation in urine concentration due to hydration. Thus, semiquantitative or qualitative (dipstick) screening will need to be confirmed by UACR values in an accredited laboratory. Hence, it is better to simply collect a spot urine sample for UACR because it will ultimately need to be done.",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "Screening for Albuminuria",
+      "page_number": 2,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "Normal to mildly increased level of urine albumin excretion is defined as &#x3C;30 mg/g creatinine, moderately elevated albuminuria is defined as ≥30 to &#x3C;300 mg/g creatinine, and severely elevated albuminuria is defined as ≥300 mg/g creatinine. However, UACR is a continuous measurement, and differences within the normal and abnormal ranges are associated with kidney and cardiovascular outcomes. Furthermore, because of high biological variability of >20% between measurements in urinary albumin excretion, two of three specimens of UACR collected within a 3- to 6-month period should be abnormal before considering an individual to have moderately or severely elevated albuminuria.",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "Screening for Albuminuria",
+      "page_number": 2,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "Exercise within 24 h, infection, fever, heart failure, marked hyperglycemia, menstruation, and marked hypertension may elevate UACR independently of kidney damage. A recent analysis showed variability in the measurement of UACR when measured weekly over a 1-month period. Thus, repeated measurements and tracking of trending over time are needed to properly follow changes in UACR.",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "Screening for Albuminuria",
+      "page_number": 2,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "Traditionally, eGFR is calculated from serum creatinine in steady state using a validated formula. eGFR is routinely reported by laboratories along with serum creatinine, and eGFR calculators are available online. The 2021 Chronic Kidney Disease Epidemiology Collaboration (CKD-EPI) creatinine equation should be used to estimate GFR for everyone. An eGFR persistently &#x3C;60 mL/min/1.73 m² and/or a urinary albumin value of >30 mg/g creatinine is considered abnormal, though optimal thresholds for clinical diagnosis are debated in older adults over the age of 70 years. Cystatin C, a low-molecular-weight protein produced by all nucleated cells, can be used to calculate the eGFR particularly in individuals with alterations in the generation of creatinine such as amputation, frailty, low muscle mass, and liver disease. However, cystatin C may also be confounded by non-kidney function factors such as inflammation, age, sex, body size, thyroid function, and other variables.",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "Screening for Albuminuria",
+      "page_number": 2,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "# Chronic Kidney Disease and Risk Management\n**Diabetes Care Volume 49, Supplement 1, January 2026**",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "page_number": 3,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "## Acute Kidney Injury\nAcute kidney injury (AKI) is defined as a rapid decline in kidney function, typically within a short period (hours to days), characterized by an increase in serum creatinine and/or a decrease in urine output. People with diabetes are at higher risk of AKI than those without diabetes. The rates of hospitalizations for AKI requiring dialysis are five times higher in adults with diabetes compared with adults without diabetes. Other risk factors for AKI include preexisting CKD, the use of medications that cause kidney injury (e.g., nonsteroidal anti-inflammatory drugs), certain intravenous dyes (e.g., iodinated radiocontrast agents), and the use of medications that alter kidney blood flow and intrakidney hemodynamics.",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "Acute Kidney Injury",
+      "page_number": 3,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "## Diagnosis of Chronic Kidney Disease in People with Diabetes\nCKD in people with diabetes is usually a clinical diagnosis made based on the presence of albuminuria and/or reduced eGFR in the absence of signs or symptoms of other primary causes of kidney damage. The typical presentation of CKD in people with diabetes includes long-standing duration of diabetes, retinopathy, albuminuria without gross hematuria, and gradually progressive loss of eGFR. However, signs of CKD may be present at diagnosis or without retinopathy in type 2 diabetes.",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "Diagnosis of Chronic Kidney Disease in People with Diabetes",
+      "page_number": 3,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "Reduced eGFR without albuminuria has been frequently reported in type 1 and type 2 diabetes and is becoming more common over time as the prevalence of diabetes increases in the U.S. An active urinary sediment (containing red or white blood cells or cellular casts), rapidly increasing albuminuria or total proteinuria, the presence of nephrotic syndrome, rapidly decreasing eGFR, or the absence of retinopathy (particularly in type 1 diabetes) suggests alternative or additional causes of kidney disease. For individuals with these features, referral to a nephrologist for further diagnosis, including the possibility of kidney biopsy, should be considered.",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "Diagnosis of Chronic Kidney Disease in People with Diabetes",
+      "page_number": 3,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "It is rare for people with type 1 diabetes to develop kidney disease without retinopathy. In type 2 diabetes, retinopathy is only moderately sensitive and specific for CKD caused by diabetes. Reduced eGFR without albuminuria has been frequently reported in type 1 and type 2 diabetes and is becoming more common over time as the prevalence of diabetes increases in the U.S.",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "Diagnosis of Chronic Kidney Disease in People with Diabetes",
+      "page_number": 3,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "### Staging of Chronic Kidney Disease\nCKD is defined in stages by level of eGFR and albuminuria, with stage G1 and stage G2 CKD defined by evidence of high albuminuria with eGFR ≥90 mL/min/1.73 m² and eGFR ≥60 but &#x3C;90 mL/min/1.73 m², respectively. Stages G3-G5 CKD are defined by progressively lower ranges of eGFR. Stage G5 is kidney failure. At any eGFR, the degree of albuminuria is associated with the risk of cardiovascular disease (CVD), CKD progression, and mortality. Therefore, there is an additional subclassification by level of urine albumin.  \nQuantification of eGFR levels is essential for modifications of medication dosages or restrictions of use, and the degree of albuminuria should influence the choice of antihypertensive medications or glucose-lowering medications. Timely identification and treatment of AKI is important because AKI is associated with increased risks of progressive CKD and other poor health outcomes.",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "Diagnosis of Chronic Kidney Disease in People with Diabetes",
+      "subsection_heading": "Staging of Chronic Kidney Disease",
+      "page_number": 3,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "### Table 11.1—Reasons to Consider Nondiabetic Kidney Diseases in a Person with Chronic Kidney Disease and Diabetes  \n| Reasons to Consider Nondiabetic Kidney Diseases |\n|------------------------------------------------|\n| • Type 1 diabetes duration &#x3C;5 years or no retinopathy |\n| • Active urine sediment (e.g., containing red blood cells or cellular casts) |\n| • Chronically well-managed blood glucose |\n| • Rapidly declining eGFR |\n| • Rapidly increasing or very high UACR (>300 mg/g) or urine protein/creatinine level (>500 mg/g) |  \nInformation adapted from Liang et al. (133). eGFR, estimated glomerular filtration rate; UACR, urine albumin-to-creatinine ratio.",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "Diagnosis of Chronic Kidney Disease in People with Diabetes",
+      "subsection_heading": "Table 11.1—Reasons to Consider Nondiabetic Kidney Diseases in a Person with Chronic Kidney Disease and Diabetes",
+      "page_number": 3,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "# Chronic Kidney Disease and Risk Management  \n## Surveillance  \n### Recommendation\n11.2 Aim to reduce urinary albumin by ≥30% in people with CKD and albuminuria ≥300 mg/g to slow CKD progression.  \nEarly changes in kidney function may be detected by increases in albuminuria before changes in eGFR, and this also significantly affects cardiovascular risk. Both albuminuria and eGFR should be monitored annually to enable timely diagnosis of CKD, monitor progression of CKD, detect superimposed kidney diseases including AKI, assess risk of CKD complications, dose medications appropriately, and determine whether nephrology referral is needed. Among people with existing kidney disease, albuminuria and eGFR may change due to progression of CKD, development of a separate superimposed cause of kidney disease, AKI, or other effects of medications.",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "Surveillance",
+      "subsection_heading": "Recommendation",
+      "page_number": 4,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "Serum potassium should also be monitored in individuals treated with diuretics because these medications can cause hypokalemia, which is associated with cardiovascular risk and mortality. Individuals with eGFR &#x3C;60 mL/min/1.73 m² receiving ACE inhibitors, ARBs, or mineralocorticoid receptor antagonists (MRAs) should have serum potassium measured periodically to assess for hyperkalemia. Additionally, people with this lower range of eGFR should have their medication dosing verified, their exposure to nephrotoxins (e.g., nonsteroidal anti-inflammatory drugs and iodinated contrast) should be minimized, and they should be evaluated for potential CKD complications.",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "Surveillance",
+      "subsection_heading": "Recommendation",
+      "page_number": 4,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "### Table 11.2—Screening for selected complications of chronic kidney disease  \n| Complication                          | Physical and laboratory evaluation                          |\n|---------------------------------------|-----------------------------------------------------------|\n| Blood pressure >130/80 mmHg          | Blood pressure, weight, BMI                                |\n| Volume overload                       | History, physical examination, weight                      |\n| Electrolyte abnormalities             | Serum electrolytes                                         |\n| Metabolic acidosis                    | Serum electrolytes                                         |\n| Anemia                                | Hemoglobin; iron, iron saturation, ferritin testing if indicated |\n| Metabolic bone disease                | Serum calcium, phosphate, PTH, vitamin 25(OH)D           |",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "Surveillance",
+      "subsection_heading": "Table 11.2—Screening for selected complications of chronic kidney disease",
+      "page_number": 4,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "### Prevention\nThe only proven primary prevention interventions for CKD in people with diabetes are blood glucose (A1C goal of 7%) and blood pressure management (&#x3C;130/80 mmHg). There is no evidence that RAS inhibitors or any other interventions prevent the development of CKD in the absence of hypertension or albuminuria. Thus, the American Diabetes Association recommends that early vaccination against hepatitis B virus is indicated in individuals likely to progress to kidney failure.",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "Surveillance",
+      "subsection_heading": "Prevention",
+      "page_number": 4,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "### Table 11.3—Interventions that lower albuminuria  \n- Blood glucose management\n- Blood pressure management\n- Treatment with ACE inhibitors or ARBs\n- Smoking cessation\n- Weight loss\n- Changes in eating patterns (decreased salt intake and/or protein intake)\n- Physical activity\n- Treatment with SGLT2 inhibitors, MRAs, or GLP-1 RAs  \n**ARB**: angiotensin receptor blocker; **GLP-1 RA**: glucagon-like peptide 1 receptor agonist; **MRA**: mineralocorticoid receptor antagonist; **SGLT2**: sodium–glucose cotransporter 2.",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "Surveillance",
+      "subsection_heading": "Table 11.3—Interventions that lower albuminuria",
+      "page_number": 4,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "# Chronic Kidney Disease and Risk Management  \nDiabetes Care Volume 49, Supplement 1, January 2026",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "page_number": 5,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "The Association does not recommend routine use of glucose-lowering therapies on CKD solely for the purpose of prevention of the development of CKD. In 2023, the Glycemia Reduction Approaches in Diabetes: A Comparative Effectiveness Study (GRADE) was published. This large prospective study compared liraglutide, sitagliptin, glimepiride, and insulin glargine with respect to achieving and maintaining A1C goals in people with type 2 diabetes treated with metformin monotherapy; kidney and cardiovascular endpoints were examined as secondary outcomes. A total of 5,047 participants were enrolled from July 2013 to August 2017 and were followed for an average of 5 years. Almost all participants did not have signs of kidney disease at the time of enrollment. No differences between the examined medications were observed for kidney-protective effects among these medications for prevention",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "page_number": 5,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": ". No differences between the examined medications were observed for kidney-protective effects among these medications for prevention. Of note, SGLT2 inhibitors were not included in the study, as these medications were not routinely available at the time the study started.",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "page_number": 5,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "The National Kidney Foundation Kidney Disease Outcomes Quality Initiative (NKF KDOQI) and the International Society of Renal Nutrition and Metabolism recommend a lower protein intake level (0.6–0.8 g/kg/day) for kidney protection and state that this lower level is relatively safe. However, for CKD in diabetes, the expert grade is “opinion” only. Low-protein eating patterns should only be followed alongside guidance from a health care professional experienced in managing nutrition for people with CKD. Restriction of dietary sodium (to &#x3C;2,300 mg/day) may be useful to manage blood pressure and reduce cardiovascular risk, and individualization of potassium intake may be necessary to manage serum potassium concentrations. These interventions may be most important for individuals with reduced eGFR, for whom urinary excretion of sodium and potassium may be impaired",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "page_number": 5,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": ". These interventions may be most important for individuals with reduced eGFR, for whom urinary excretion of sodium and potassium may be impaired. For individuals on dialysis, higher levels of protein intake should be considered since protein-energy wasting is a major problem for some individuals on dialysis. Recommendations for sodium and potassium intake should be individualized based on comorbid conditions, medication use, blood pressure, and laboratory data. Medical nutrition therapy by a registered dietitian nutritionist is highly successful in achieving the sodium and protein intake goals in individuals with CKD.",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "page_number": 5,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "## Interventions  \n### Nutrition  \n**Recommendation 11.3**: For people with CKD stage G3 or higher, protein intake should be 0.8 g/kg body weight per day, as for the general population. For individuals on dialysis, protein intake of 1.0–1.2 g/kg/day should be considered, since protein energy wasting is a major problem for some individuals on dialysis.",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "Interventions",
+      "subsection_heading": "Nutrition",
+      "page_number": 5,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "For people with stage G3-G5 non–dialysis-dependent CKD, protein intake should be ∼0.8 g/kg body weight per day (the recommended daily allowance). Compared with higher levels of protein intake, this level slowed GFR decline with evidence of a greater effect over time. Higher levels of protein intake (>20% of daily calories from protein or >1.3 g/kg/day) have been associated with increased albuminuria, more rapid kidney function loss, and CVD mortality and therefore should be avoided. In people with CKD and diabetes, consuming protein below the recommended daily allowance of 0.8 g/kg/day is not recommended, because it does not alter blood glucose levels, cardiovascular risk measures, or the risk of CKD progression.",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "Interventions",
+      "subsection_heading": "Nutrition",
+      "page_number": 5,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "### Blood Pressure and Use of ACE Inhibitors and Angiotensin Receptor Blockers  \n**Recommendations**  \n**11.5**: If it can be safely attained, the on-treatment blood pressure goal for people with CKD is &#x3C;130/80 mmHg; a systolic blood pressure goal &#x3C;120 mmHg and/or reduction in blood pressure variability should be encouraged.  \n**11.6a**: In nonpregnant people with diabetes and hypertension, either an ACE inhibitor or an angiotensin receptor blocker (ARB) is recommended for those with moderately increased albuminuria (UACR 30–299 mg/g creatinine) and is strongly recommended for those with severely increased albuminuria (UACR ≥300 mg/g creatinine) and/or eGFR &#x3C;60 mL/min/1.73 m² to maximally tolerated dose to prevent the progression of kidney disease and reduce cardiovascular events. If one class is not tolerated, the other should be substituted.",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "Interventions",
+      "subsection_heading": "Blood Pressure and Use of ACE Inhibitors and Angiotensin Receptor Blockers",
+      "page_number": 5,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "**11.6b**: Monitor for drop in eGFR and increase in serum potassium levels at initiation and periodically as clinically appropriate when ACE inhibitors, ARBs, and mineralocorticoid receptor antagonists (MRAs) are used. Monitor for hypokalemia when diuretics are used.",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "Interventions",
+      "subsection_heading": "Blood Pressure and Use of ACE Inhibitors and Angiotensin Receptor Blockers",
+      "page_number": 5,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "# Chronic Kidney Disease and Risk Management  \n## Blood Pressure Control in Diabetes  \n1. **Monitoring and Management**\n- Blood pressure should be monitored at routine visits and 7–14 days after initiation or after a dose change, and periodically as clinically appropriate.\n- An ACE inhibitor or an ARB is not recommended for the primary prevention of CKD in people with diabetes who have normal blood pressure, normal UACR (&#x3C;30 mg/g creatinine), and normal eGFR.  \n2. **Renin-Angiotensin System Blockade**\n- Continue renin-angiotensin system blockade for mild to moderate increases in serum creatinine (≤30%) in individuals who have no signs of extracellular fluid volume depletion.\n- ACE inhibitors and ARBs remain a mainstay of management for people with CKD with albuminuria and for the treatment of hypertension in people with diabetes (with or without CKD).  \n3. **Hypertension as a Risk Factor**",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "Blood Pressure Control in Diabetes",
+      "page_number": 6,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "3. **Hypertension as a Risk Factor**\n- Hypertension is a strong risk factor for the development and progression of CKD. Antihypertensive therapy reduces the risk of albuminuria.\n- Among people with type 1 or 2 diabetes with established CKD (eGFR &#x3C;60 mL/min/1.73 m² and UACR ≥300 mg/g creatinine), ACE inhibitor or ARB therapy reduces the risk of progression to kidney failure.  \n4. **Blood Pressure Targets**\n- A blood pressure level &#x3C;130/80 mmHg is recommended to reduce CVD mortality and slow CKD progression among all people with diabetes.\n- Lower blood pressure goals (e.g., systolic blood pressure [SBP] &#x3C;120 mmHg) should be considered based on individual anticipated benefits and risks.  \n5. **ACE Inhibitors and ARBs in CKD**",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "Blood Pressure Control in Diabetes",
+      "page_number": 6,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "- Lower blood pressure goals (e.g., systolic blood pressure [SBP] &#x3C;120 mmHg) should be considered based on individual anticipated benefits and risks.  \n5. **ACE Inhibitors and ARBs in CKD**\n- ACE inhibitors or ARBs are the preferred first-line agents for blood pressure treatment among people with diabetes, hypertension, eGFR &#x3C;60 mL/min/1.73 m², and UACR ≥300 mg/g creatinine due to their proven benefits for prevention of CKD progression.\n- Two recent large retrospective analyses support the use of ACE inhibitors and ARBs at the maximum tolerated dose in individuals with CKD.  \n6. **Long-term Outcomes**\n- Studies have shown that a &#x3C;13% decline in eGFR over a 3-month period or a &#x3C;21% decline in a 1-month period is associated with better long-term kidney outcomes.\n- Individuals who restarted ACE inhibitors or ARBs after discontinuation had better long-term kidney outcomes and lower mortality.  \n7. **Considerations for Treatment**",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "Blood Pressure Control in Diabetes",
+      "page_number": 6,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "- Individuals who restarted ACE inhibitors or ARBs after discontinuation had better long-term kidney outcomes and lower mortality.  \n7. **Considerations for Treatment**\n- In the absence of kidney disease, ACE inhibitors or ARBs are useful to manage blood pressure but have not proven superior to alternative classes of antihypertensive therapy, including thiazide-like diuretics and dihydropyridine calcium channel blockers.",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "Blood Pressure Control in Diabetes",
+      "page_number": 6,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "## Summary of Key Points\n- Monitor blood pressure regularly and adjust treatment as necessary.\n- Use ACE inhibitors or ARBs for individuals with diabetes and CKD, particularly those with albuminuria.\n- Aim for a blood pressure target of &#x3C;130/80 mmHg, considering lower targets based on individual circumstances.\n- Be aware of the risks and benefits of antihypertensive therapy in the context of CKD progression and cardiovascular health.",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "Summary of Key Points",
+      "page_number": 6,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "# Chronic Kidney Disease and Risk Management\n**Diabetes Care Volume 49, Supplement 1, January 2026**",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "page_number": 7,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "## Direct Kidney Effects of Glucose-Lowering Medications  \n### Recommendations  \n**11.7a** For people with type 2 diabetes and CKD, use of a sodium–glucose co-transporter 2 (SGLT2) inhibitor with demonstrated benefit to reduce CKD progression and cardiovascular events is recommended. SGLT2 inhibitors should be initiated in individuals with eGFR ≥20 mL/min/1.73 m² but can safely continue until kidney failure.  \n**11.7b** To reduce kidney disease progression and cardiovascular risk in people with type 2 diabetes and CKD, a glucagon-like peptide 1 agonist with demonstrated benefit in this population is recommended.",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "Direct Kidney Effects of Glucose-Lowering Medications",
+      "subsection_heading": "Recommendations",
+      "page_number": 7,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "### Additional Information\nSome glucose-lowering medications also have effects on the kidney that are direct, i.e., not mediated through glycemia. For example, SGLT2 inhibitors reduce kidney tubular glucose reabsorption, weight, systemic blood pressure, intraglomerular pressure, and albuminuria and slow GFR loss through mechanisms that appear independent of glycemia. Moreover, recent data support the notion that SGLT2 inhibitors reduce oxidative stress in the kidney by >50% and blunt increases in angiotensinogen as well as reduce NLRP3 inflammasome activity. GLP-1 RAs have also been shown to improve kidney outcomes. Nonmetabolic mechanisms by which GLP-1 RAs are believed to protect the kidney include anti-inflammatory effects.",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "Direct Kidney Effects of Glucose-Lowering Medications",
+      "subsection_heading": "Additional Information",
+      "page_number": 7,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "## Lifestyle Management\n| Healthy Eating | Physical Activity | Smoking Cessation | Weight Management | Regular Risk Factor Reassessment |\n|----------------|-------------------|-------------------|-------------------|----------------------------------|\n| (ever months)  |                   |                   |                   |                                  |",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "Lifestyle Management",
+      "page_number": 7,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "## RAS Therapy\n- ACE inhibitor or ARB (at maximal tolerated doses) should be first-line therapy for hypertension when albuminuria is present.\n- Otherwise, dihydropyridine calcium channel blocker or diuretic can also be considered; all three classes are often needed to attain BP targets.",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "RAS Therapy",
+      "page_number": 7,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "### Additional Therapy\n- Add other agents with evidence of CVD and/or kidney benefit per individualized treatment goals and preferences (e.g., if on SGLT2i, and/or finerenone to further mitigate heart and kidney risk).",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "RAS Therapy",
+      "subsection_heading": "Additional Therapy",
+      "page_number": 7,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "### Notes\n- Finerenone is currently the only nonsteroidal mineralocorticoid receptor antagonist (nsMRA) with proven clinical kidney and cardiovascular benefits.\n- The glucose-lowering efficacy of SGLT2i is diminished at lower eGFR.",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "RAS Therapy",
+      "subsection_heading": "Notes",
+      "page_number": 7,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "## Figure 11.2\nHolistic approach for improving outcomes in people with diabetes and CKD. Icons presented indicate the following benefits:\n- BP cuff: BP lowering\n- Glucose meter: Glucose lowering\n- Heart: Cardioprotection\n- Kidney: Kidney protection\n- Scale: Weight management  \neGFR is presented in units of mL/min/1.73 m².",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "Figure 11.2",
+      "page_number": 7,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "### Abbreviations\n- ACEi: Angiotensin-converting enzyme inhibitor\n- ACR: Albumin-to-creatinine ratio\n- ARB: Angiotensin receptor blocker\n- ASCVD: Atherosclerotic cardiovascular disease\n- BP: Blood pressure\n- CCB: Calcium channel blocker\n- CVD: Cardiovascular disease\n- eGFR: Estimated glomerular filtration rate\n- GLP-1 RA: Glucagon-like peptide 1 receptor agonist\n- HTN: Hypertension\n- MRA: Mineralocorticoid receptor antagonist\n- nsMRA: Nonsteroidal mineralocorticoid receptor antagonist\n- PCSK9i: Proprotein convertase subtilisin/kexin type 9 inhibitor\n- RAS: Renin-angiotensin system\n- SGLT2i: Sodium–glucose cotransporter 2 inhibitor\n- T1D: Type 1 diabetes\n- T2D: Type 2 diabetes.",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "Figure 11.2",
+      "subsection_heading": "Abbreviations",
+      "page_number": 7,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "# Chronic Kidney Disease and Risk Management  \n## Selection of Glucose-Lowering Medications for People With Chronic Kidney Disease  \nFor people with type 2 diabetes and established CKD, special considerations for the selection of glucose-lowering medications include limitations to available medications when eGFR is diminished (such as increased risk for hypoglycemia) and a desire to mitigate risks of CKD progression, CVD, and hypoglycemia. Medication dosing may require modification with eGFR &#x3C;60 mL/min/1.73 m².",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "Selection of Glucose-Lowering Medications for People With Chronic Kidney Disease",
+      "page_number": 8,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "### Figure 11.2\nThe algorithm for medications in people with diabetes and CKD.  \nThe U.S. Food and Drug Administration (FDA) revised its guidance for the use of metformin in CKD in 2016, recommending use of eGFR instead of serum creatinine to guide treatment and expanding the pool of people with kidney disease for whom metformin treatment should be considered. The revised FDA guidance states that:\n1. Metformin is contraindicated in individuals with an eGFR &#x3C;30 mL/min/1.73 m².\n2. eGFR should be monitored while taking metformin.\n3. The benefits and risks of continuing treatment should be reassessed when eGFR falls to &#x3C;45 mL/min/1.73 m².\n4. Metformin should not be initiated for individuals with an eGFR &#x3C;45 mL/min/1.73 m².\n5. Metformin should be temporarily discontinued at the time of or before iodinated contrast imaging procedures in individuals with eGFR 30–60 mL/min/1.73 m².",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "Selection of Glucose-Lowering Medications for People With Chronic Kidney Disease",
+      "subsection_heading": "Figure 11.2",
+      "page_number": 8,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "5. Metformin should be temporarily discontinued at the time of or before iodinated contrast imaging procedures in individuals with eGFR 30–60 mL/min/1.73 m².  \nSeveral studies have shown cardiovascular and kidney protection from SGLT2 inhibitors and GLP-1 RAs. Selection of which glucose-lowering medications to use should be based on the usual criteria of an individual’s risks (cardiovascular and kidney in addition to glucose management) as well as considerations of effects on weight, other adverse effects, other key comorbidities, individual preferences, and cost.",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "Selection of Glucose-Lowering Medications for People With Chronic Kidney Disease",
+      "subsection_heading": "Figure 11.2",
+      "page_number": 8,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "### SGLT2 Inhibitors\nSGLT2 inhibitors are recommended for people with eGFR ≥20 mL/min/1.73 m² and type 2 diabetes, as they slow CKD progression and reduce heart failure risk independent of their effects on glucose.",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "Selection of Glucose-Lowering Medications for People With Chronic Kidney Disease",
+      "subsection_heading": "SGLT2 Inhibitors",
+      "page_number": 8,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "### Clinical Trials\nA number of large cardiovascular outcomes trials in people with type 2 diabetes at high risk for CVD or with existing CVD examined kidney effects as secondary outcomes. These trials include:  \n- **EMPA-REG OUTCOME**: Showed a 32% risk reduction for development of kidney failure over placebo.\n- **CANVAS**: Demonstrated significant benefits on kidney outcomes.\n- **LEADER**: Evaluated cardiovascular outcomes with liraglutide.\n- **REWIND**: Focused on cardiovascular events with a weekly incretin.\n- **SUSTAIN-6**: Assessed long-term outcomes with semaglutide.  \nIn these trials, there were clear benefits on cardiovascular outcomes demonstrating a 31% reduction in cardiovascular death or heart failure hospitalization and a 20% reduction in cardiovascular death, nonfatal myocardial infarction, or nonfatal stroke.",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "Selection of Glucose-Lowering Medications for People With Chronic Kidney Disease",
+      "subsection_heading": "Clinical Trials",
+      "page_number": 8,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "### Additional Studies\nA second trial in advanced CKD in people with diabetes was the **Dapagliflozin and Prevention of Adverse Outcomes in Chronic Kidney Disease (DAPA-CKD)** study. This trial examined a cohort similar to that in CREDENCE, with 67.5% of participants having type 2 diabetes and CKD. The primary outcome was time to the first occurrence of any of the components of the composite, including sustained decline in eGFR or reaching kidney failure or cardiovascular death.",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "Selection of Glucose-Lowering Medications for People With Chronic Kidney Disease",
+      "subsection_heading": "Additional Studies",
+      "page_number": 8,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "### Summary of Findings\n- **Canagliflozin**: Reduced the risk of progression of albuminuria by 27% and the risk of reduction in eGFR, kidney failure, or death from kidney failure by 40%.\n- **Liraglutide**: Reduced the risk of new or worsening nephropathy by 22%.\n- **Dulaglutide**: Reduced the composite kidney outcome by 25%.\n- **Semaglutide**: Reduced the risk of new or worsening nephropathy by 36%.  \nThese analyses were limited by evaluation of study populations not selected primarily for CKD and examination of kidney effects as secondary outcomes.",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "Selection of Glucose-Lowering Medications for People With Chronic Kidney Disease",
+      "subsection_heading": "Summary of Findings",
+      "page_number": 8,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "### Conclusion\nThe selection of glucose-lowering medications in patients with diabetes and CKD should consider the individual’s overall health status, risks, and preferences, while also taking into account the latest evidence from clinical trials regarding the benefits of specific medications on kidney and cardiovascular outcomes.",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "Selection of Glucose-Lowering Medications for People With Chronic Kidney Disease",
+      "subsection_heading": "Conclusion",
+      "page_number": 8,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "# Chronic Kidney Disease and Risk Management\nDiabetes Care Volume 49, Supplement 1, January 2026",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "page_number": 9,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "The HR for disease defined by level of eGFR and/or individuals at high risk of CKD progression by level of albuminuria (of note, all participants had an albuminuria level of at least 100 mg/g). The primary outcome was defined as the first major kidney disease event (onset of >50% in eGFR, onset of persistent eGFR of &#x3C;15 mL/min/1.73 m², initiation of dialysis or transplant, kidney death, and cardiovascular death). The study was stopped early due to reaching a prespecified outcome. There was a 24% lower HR for those taking semaglutide compared with the placebo group. Of note, cardiovascular deaths comprised about 38% of the events. When the cardiovascular deaths are removed from the analysis, the HR for kidney-specific events was 21% lower in those taking semaglutide. Thus, this kidney outcome study supports a beneficial effect of semaglutide in slowing decline in kidney function as well as being cardioprotective in people with CKD and type 2 diabetes",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "page_number": 9,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": ". Thus, this kidney outcome study supports a beneficial effect of semaglutide in slowing decline in kidney function as well as being cardioprotective in people with CKD and type 2 diabetes. Of note, the participants who took semaglutide had lower A1C, lower blood pressure, and more weight loss—all of which are beneficial for slowing decline in kidney function and reducing cardiovascular adverse events. Whether this beneficial combination of effects was the primary cause for the kidney-protective outcomes or whether there is a unique kidney-protective effect of semaglutide remains to be determined.",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "page_number": 9,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "Of note, while the glucose-lowering effects of SGLT2 inhibitors are blunted with eGFR &#x3C;45 mL/min/1.73 m², the kidney and cardiovascular benefits were still seen at eGFR levels as low as 20 mL/min/1.73 m² even with no significant change in glucose. Most participants with CKD in these trials also had diagnosed atherosclerotic cardiovascular disease (ASCVD) at baseline, although ∼28% of CANVAS participants with CKD did not have diagnosed ASCVD.  \nCardiovascular and kidney events are reduced with SGLT2 inhibitor use in individuals with severe CKD independent of glucose-lowering effects. The six-year kidney benefits of SGLT2 inhibitors are comparable between empagliflozin and dapagliflozin for AKI, albuminuria, and CKD progression. The FLOW study demonstrated that the GLP-1 RA semaglutide had kidney-protective effects in people with type 2 diabetes and CKD. The study enrolled 3,533 participants with significant kidney disease.",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "page_number": 9,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "## Recommendations\nFor people with type 2 diabetes and CKD, use of an SGLT2 inhibitor in individuals with eGFR ≥20 mL/min/1.73 m² is recommended to reduce CKD progression and cardiovascular events. However, SGLT2 inhibitors should be continued if tolerated until an individual starts dialysis. Most GLP-1 RAs may also be used at low eGFR for cardiovascular protection but may require dose adjustment. Lixisenatide and exenatide, which require the kidneys for elimination, result in higher exposure to the medication and have limited data in individuals with eGFR &#x3C;30 mL/min/1.73 m² or creatinine clearance &#x3C;30 mL/min.",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "Recommendations",
+      "page_number": 9,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "### Table 9.2: Medication-Specific Factors\n| Medication | eGFR Limit | Adverse Event Information |\n|------------|------------|--------------------------|\n| SGLT2 Inhibitors | ≥20 mL/min/1.73 m² | Reduced risk of CKD progression and cardiovascular events |\n| GLP-1 RAs | Varies | May require dose adjustment at low eGFR |\n| Lixisenatide | &#x3C;30 mL/min/1.73 m² | Higher exposure, limited data |\n| Exenatide | &#x3C;30 mL/min/1.73 m² | Higher exposure, limited data |  \nAdditional clinical trials focusing on CKD and cardiovascular outcomes in people with CKD are ongoing and will be reported in the next few years.",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "Recommendations",
+      "subsection_heading": "Table 9.2: Medication-Specific Factors",
+      "page_number": 9,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "# Chronic Kidney Disease and Risk Management  \n## Outcomes of Mineralocorticoid Receptor Antagonists in Chronic Kidney Disease  \n### Recommendation\n**11.8** To reduce CKD progression and cardiovascular events in people with CKD and albuminuria, a nonsteroidal MRA that has been shown to be effective in clinical trials is recommended (if eGFR is ≥25 mL/min/1.73 m²). Potassium levels should be monitored 1 month after initiation.  \nThe primary endpoint was reduced with finerenone compared with placebo (HR 0.82 [95% CI 0.73–0.93]; P = 0.001), as was the key secondary composite of cardiovascular outcomes (HR 0.86 [95% CI 0.75–0.99]; P = 0.03). Hyperkalemia resulted in 2.3% discontinuation in the study group compared with 0.9% in the placebo group. However, the study was completed, and there were no deaths related to hyperkalemia. Of note, 4.5% of the total group were being treated with SGLT2 inhibitors.",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "Outcomes of Mineralocorticoid Receptor Antagonists in Chronic Kidney Disease",
+      "subsection_heading": "Recommendation",
+      "page_number": 10,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "The Finerenone in Reducing Cardiovascular Mortality and Morbidity in Diabetic Kidney Disease (FIGARO-DKD) trial assessed the safety and efficacy of finerenone in reducing cardiovascular events among people with type 2 diabetes and CKD with elevated UACR (30 to &#x3C;300 mg/g creatinine) and eGFR 25–90 mL/min/1.73 m². The potassium level had to be ≤4.8 mmol/L. The study randomized eligible subjects to either finerenone (n = 3,686) or placebo (n = 3,666).  \nParticipants with an eGFR of 25–60 mL/min/1.73 m² at the screening visit received an initial dose at baseline of 10 mg once daily, and if eGFR at screening was ≥60 mL/min/1.73 m², the initial dose was 20 mg once daily. An increase in the dose from 10 to 20 mg once daily was encouraged after 1 month, provided the serum potassium level was ≤4.8 mmol/L and eGFR was stable.",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "Outcomes of Mineralocorticoid Receptor Antagonists in Chronic Kidney Disease",
+      "subsection_heading": "Recommendation",
+      "page_number": 10,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "The mean age of participants was 64.1 years (31% were female), and the median follow-up duration was 3.4 years. The median A1C was 7.7%, the mean SBP was 136 mmHg, and the mean GFR was 67.8 mL/min/1.73 m². People with heart failure with a reduced ejection fraction and uncontrolled hypertension were excluded.  \nThe primary composite outcome was cardiovascular death, myocardial infarction, stroke, and hospitalization for heart failure. The finerenone group showed a 13% reduction in the primary end point compared with the placebo group (12.4% vs. 14.2%; HR 0.87 [95% CI 0.76–0.98]; P = 0.03). This benefit was primarily driven by a reduction in heart failure hospitalizations: 3.2% vs. 4.4% in the placebo group (HR 0.71 [95% CI 0.56–0.90]).  \nOf the secondary outcomes, the most noteworthy was a 36% reduction in kidney failure: 0.9% vs. 1.3% in the placebo group.",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "Outcomes of Mineralocorticoid Receptor Antagonists in Chronic Kidney Disease",
+      "subsection_heading": "Recommendation",
+      "page_number": 10,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "### Combination Therapy Considerations to Optimize Kidney and Cardiovascular Risk Reduction\n**Recommendation 11.9** Simultaneous initiation of an SGLT2 inhibitor and a nonsteroidal MRA (finerenone) can be considered in adults with type 2 diabetes and UACR ≥100 mg/g with eGFR 30–90 mL/min/1.73 m² on a renin-angiotensin system inhibitor due to evidence of safety and beneficial effects on albuminuria.",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "Outcomes of Mineralocorticoid Receptor Antagonists in Chronic Kidney Disease",
+      "subsection_heading": "Combination Therapy Considerations to Optimize Kidney and Cardiovascular Risk Reduction",
+      "page_number": 10,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "All of the recent kidney and cardiovascular outcomes studies for individuals with diabetes and CKD were completed in the setting of maximally tolerated RAS blockade. Thus, all individuals should have their treatment for RAS blockade adjusted to the maximally tolerated dose, even when considering combination therapy with other treatments. Although there have been no studies directly comparing SGLT2 inhibitors, GLP-1 RAs, or MRAs, the analysis showed a 14% reduction in composite cardiovascular death, nonfatal myocardial infarction, nonfatal stroke, and hospitalization for heart failure for finerenone vs. placebo (12.7% vs. 14.4%; HR 0.86 [95% CI 0.78–0.95]; P = 0.002).  \nIt also demonstrated a 23% reduction in the composite kidney outcome, consisting of sustained ≥57% decrease in eGFR from baseline over ≥4 weeks, or kidney death, for finerenone versus placebo (5.5% vs. 7.1%; HR 0.77 [95% CI 0.67–0.88]; P &#x3C; 0.001).",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "Outcomes of Mineralocorticoid Receptor Antagonists in Chronic Kidney Disease",
+      "subsection_heading": "Combination Therapy Considerations to Optimize Kidney and Cardiovascular Risk Reduction",
+      "page_number": 10,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "# Chronic Kidney Disease and Risk Management\n**Diabetes Care Volume 49, Supplement 1, January 2026**  \nHealth care professionals should use their best judgement, considering the individuals’ comorbidities and preferences, as to which medication to prescribe initially (SGLT2 inhibitor or GLP-1 RA) and whether combination therapy is warranted. As noted, all of these studies included participants taking either an ACE inhibitor or an ARB, often at maximally tolerated doses. In addition, while current evidence of kidney benefit is limited to CKD in type 2 diabetes, multiple studies are in progress to determine if these therapies also improve kidney outcomes in people with type 1 diabetes.",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "page_number": 11,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "## Treatment for Severe Chronic Kidney Disease and Kidney Failure  \n### Recommendation\n**11.11a** Individuals with eGFR &#x3C;20 mL/min/1.73 m² and not on dialysis can be safely continued on SGLT2 inhibitors to reduce the risk of CKD progression and for cardiovascular benefits.\n**11.11b** Individuals on dialysis can be safely initiated or continued on GLP-1–based therapy that is not dependent on kidney clearance to reduce cardiovascular risk and mortality.",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "Treatment for Severe Chronic Kidney Disease and Kidney Failure",
+      "subsection_heading": "Recommendation",
+      "page_number": 11,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "**11.11b** Individuals on dialysis can be safely initiated or continued on GLP-1–based therapy that is not dependent on kidney clearance to reduce cardiovascular risk and mortality.  \nSGLT2 inhibitors have non-kidney effects in multiple organs, including the cardiovascular system. For individuals who tolerate the medication, therapy should be continued unless kidney failure develops. A post hoc analysis of the DAPA-CKD trial demonstrated that in individuals with stage G4 CKD and albuminuria, the effects of dapagliflozin were consistent with those observed in the trial overall, with no evidence of increased risks. However, we will learn more about the safety and efficacy in kidney failure when results of the ongoing Renal Lifecycle trial are published. This study aims to investigate the effects of an SGLT2 inhibitor compared with placebo on the incidence of kidney failure, heart failure, mortality, and safety in individuals with an eGFR ≤25 mL/min/1.73 m² or kidney failure.",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "Treatment for Severe Chronic Kidney Disease and Kidney Failure",
+      "subsection_heading": "Recommendation",
+      "page_number": 11,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "Small randomized controlled trials have demonstrated that GLP-1–based therapy has beneficial effects in body weight and glycemic management in individuals on dialysis. Idorn et al. demonstrated that GLP-1 levels are increased in individuals on dialysis compared with individuals in the control group not on dialysis, and individuals on dialysis were more likely to experience gastrointestinal symptoms. In individuals receiving peritoneal dialysis, Hiramatsu et al. found over a 12-month period that left ventricular mass index decreased and left ventricular ejection fraction increased. Vanek et al., in a prospective 12-week open-label trial of 13 individuals on dialysis who had been denied transplant due to...",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "Treatment for Severe Chronic Kidney Disease and Kidney Failure",
+      "subsection_heading": "Recommendation",
+      "page_number": 11,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "## Use of Kidney-Protective Medications in Pregnancy  \n### Recommendation\n**11.10** Kidney-protective medications that are potentially harmful in pregnancy should be avoided in sexually active individuals of childbearing potential who are not using reliable contraception and, if used, should be switched prior to conception to kidney-protective medications considered safer during pregnancy.",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "Use of Kidney-Protective Medications in Pregnancy",
+      "subsection_heading": "Recommendation",
+      "page_number": 11,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "During pregnancy, treatment with ACE inhibitors, ARBs, direct renin inhibitors, MRAs, SGLT2 inhibitors, and neprilysin inhibitors is contraindicated, as they may cause fetal damage. Special consideration should be taken for individuals of childbearing potential, and people intending to become pregnant should switch from an ACE inhibitor or ARB, renin inhibitor, MRA, or neprilysin inhibitor to an alternative antihypertensive medication approved during pregnancy. Antihypertensive drugs known to be effective and safe in pregnancy include methyldopa, labetalol, and long-acting nifedipine, while hydralazine may be considered in the acute management of hypertension in pregnancy or severe preeclampsia. Diuretics are not recommended for blood pressure management in pregnancy but may be used during late-stage pregnancy if needed for volume management",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "Use of Kidney-Protective Medications in Pregnancy",
+      "subsection_heading": "Recommendation",
+      "page_number": 11,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": ". Diuretics are not recommended for blood pressure management in pregnancy but may be used during late-stage pregnancy if needed for volume management. The American College of Obstetricians and Gynecologists also recommends that, postpartum, individuals with gestational hypertension, preeclampsia, and superimposed preeclampsia have their blood pressures observed for 72 hours in the hospital and 7–10 days postpartum. Long-term follow-up is recommended for...",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "Use of Kidney-Protective Medications in Pregnancy",
+      "subsection_heading": "Recommendation",
+      "page_number": 11,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "----  \nThis document provides guidelines for managing diabetes in the context of chronic kidney disease and pregnancy, emphasizing the importance of individualized treatment plans and the careful selection of medications to optimize patient outcomes.",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "Use of Kidney-Protective Medications in Pregnancy",
+      "subsection_heading": "Recommendation",
+      "page_number": 11,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "# Chronic Kidney Disease and Risk Management  \n## Overview\nIn a national cohort study of 151,649 individuals with type 2 diabetes initiating dialysis between 2013 and 2021, GLP-1–based therapy was associated with a 23% lower mortality and a 66% higher chance of transplant waitlisting.  \nIn an observational study, the use of GLP-1–based therapy at the onset of dialysis was associated with a decreased risk of major cardiovascular events and all-cause mortality during a median follow-up of 1.4 years. However, this study had methodological issues, including the likely inclusion of individuals with AKI.",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "Overview",
+      "page_number": 12,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "## Referral to a Nephrologist  \n### Recommendations\n- **11.12a** Individuals should be referred for evaluation by a nephrologist if they have rapidly increasing urinary albumin levels and/or rapidly decreasing eGFR and/or if the eGFR is &#x3C;30 mL/min/1.73 m².  \n- **11.12b** Refer to a nephrologist for uncertainty about the etiology of kidney disease or difficult management issues (anemia, secondary hyperparathyroidism, significant increases in albuminuria despite good blood pressure management, metabolic bone disease, resistant hypertension, or electrolyte disturbances), or when there is advanced kidney disease (eGFR &#x3C;30 mL/min/1.73 m²) requiring discussion of kidney replacement therapy for kidney failure.",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "Referral to a Nephrologist",
+      "subsection_heading": "Recommendations",
+      "page_number": 12,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "### Additional Considerations\nHealth care professionals should consider referral to a nephrologist if the individual with diabetes has continuously rising UACR levels and/or continuously declining eGFR, if there is uncertainty about the etiology of kidney disease, for difficult management issues, or when advanced kidney disease is present.",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "Referral to a Nephrologist",
+      "subsection_heading": "Additional Considerations",
+      "page_number": 12,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "## References\n1. de Boer IH, Khunti K, Sadusky T, et al. Diabetes management in chronic kidney disease: a consensus report by the American Diabetes Association (ADA) and Kidney Disease: Improving Global Outcomes (KDIGO). Diabetes Care 2022;45:3075–3090.\n2. Afkarian M, Zelnick LR, Hall YN, et al. Clinical manifestations of kidney disease among US adults with diabetes, 1988-2014. JAMA 2016;316:602–610.\n3. Tuttle KR, Jones CR, Daratha KB, et al. Incidence of chronic kidney disease among adults with diabetes, 2015-2020. N Engl J Med 2022;387:1430–1431.\n4. DCCT/EDIC Research Group. Kidney disease and related findings in the diabetes control and complications trial/epidemiology of diabetes interventions and complications study. Diabetes Care 2014;37:24–30.\n5. Johansen KL, Chertow GM, Foley RN, et al. US Renal Data System 2020 Annual Data Report: epidemiology of kidney disease in the United States. Am J Kidney Dis 2021;77:A7–A8.",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "References",
+      "page_number": 12,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "5. Johansen KL, Chertow GM, Foley RN, et al. US Renal Data System 2020 Annual Data Report: epidemiology of kidney disease in the United States. Am J Kidney Dis 2021;77:A7–A8.\n6. Fox CS, Matsushita K, Woodward M, et al.; Chronic Kidney Disease Prognosis Consortium. Associations of kidney disease measures with mortality and end-stage renal disease in individuals with and without diabetes: a meta-analysis. Lancet 2012;380:1662–1673.\n7. Li H, Lu W, Wang A, Jiang H, Lyu J. Changing epidemiology of chronic kidney disease as a result of type 2 diabetes mellitus from 1990 to 2017: estimates from Global Burden of Disease 2017. J Diabetes Investig 2021;12:346–356.\n8. Yarnoff BO, Hoerger TJ, Simpson SK, et al.; Centers for Disease Control and Prevention CKD Initiative. The cost-effectiveness of using chronic kidney disease risk scores to screen for early-stage chronic kidney disease. BMC Nephrol 2017;18:85.",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "References",
+      "page_number": 12,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "9. Coresh J, Heerspink HJL, Sang Y, et al.; Chronic Kidney Disease Prognosis Consortium and Chronic Kidney Disease Epidemiology Collaboration. Change in albuminuria and subsequent risk of end-stage kidney disease: an individual participant-level consortium meta-analysis of observational studies. Lancet Diabetes Endocrinol 2019;7:115–127.\n10. Levey AS, Gansevoort RT, Coresh J, et al. Change in albuminuria and GFR as end points for clinical trials in early stages of CKD: a scientific workshop sponsored by the National Kidney Foundation in collaboration with the US Food and Drug Administration and European Medicines Agency. Am J Kidney Dis 2020;75:84–104.\n11. Afkarian M, Sachs MC, Kestenbaum B, et al. Kidney disease and increased mortality risk in type 2 diabetes. J Am Soc Nephrol 2013;24:302–308.",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "References",
+      "page_number": 12,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "11. Afkarian M, Sachs MC, Kestenbaum B, et al. Kidney disease and increased mortality risk in type 2 diabetes. J Am Soc Nephrol 2013;24:302–308.\n12. Groop P-H, Thomas MC, Moran JL, et al.; FinnDiane Study Group. The presence and severity of chronic kidney disease predicts all-cause mortality in type 1 diabetes. Diabetes 2009;58:1651–1658.\n13. Rasaratnam N, Salim A, Blackberry I, et al. Urine albumin-creatinine ratio variability.\n14. Naresh CN, Hayen A, Weening A, Craig JC, Chadban SJ. Day-to-day variability in spot urine albumin-creatinine ratio. Am J Kidney Dis 2013;62:1095–1101.\n15. Inker LA, Eneanya ND, Coresh J, et al.; Chronic Kidney Disease Epidemiology Collaboration. New creatinine- and cystatin C-based equations to estimate GFR without race. N Engl J Med 2021;385:1737–1749.",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "References",
+      "page_number": 12,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "16. Miller WG, Kaufman HW, Levey AS, et al. National Kidney Foundation Laboratory Engagement Working Group recommendations for implementing the CKD-EPI 2021 Race-Free Equations for Estimated Glomerular Filtration Rate: practical guidance for clinical laboratories. Clin Chem 2022;68:511–520.\n17. Kramer HJ, Nguyen QD, Curhan G, Hsu C-Y. Renal insufficiency in the absence of albuminuria and retinopathy among adults with type 2 diabetes mellitus. JAMA 2003;289:3273–3277.\n18. Fan L, Levey AS, Gudnason V, et al. Comparing GFR estimating equations using cystatin C and creatinine in elderly individuals. J Am Soc Nephrol 2015;26:1982–1989.\n19. de Boer IH, Rue TC, Hall YN, Heagerty PJ, Weiss NS, Himmelfarb J. Temporal trends in the prevalence of diabetic kidney disease in the United States. JAMA 2011;305:2532–2539.",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "References",
+      "page_number": 12,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "19. de Boer IH, Rue TC, Hall YN, Heagerty PJ, Weiss NS, Himmelfarb J. Temporal trends in the prevalence of diabetic kidney disease in the United States. JAMA 2011;305:2532–2539.\n20. Vistisen D, Andersen GS, Hulman A, Persson F, Rossing P, Jørgensen ME. Progressive decline in estimated glomerular filtration rate in patients with diabetes after moderate loss in kidney function even without albuminuria. Diabetes Care 2019;42:1886–1894.\n21. Levey AS, Coresh J, Balk E, et al.; National Kidney Foundation. National Kidney Foundation practice guidelines for chronic kidney disease: evaluation, classification, and stratification. Ann Intern Med 2003;139:137–147.\n22. Matzke GR, Aronoff GR, Atkinson AJ, Jr, et al. Drug dosing consideration in patients with acute and chronic kidney disease-a clinical update from Kidney Disease: Improving Global Outcomes (KDIGO). Kidney Int 2011;80:1122–1137.",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "References",
+      "page_number": 12,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "23. Coresh J, Turin TC, Matsushita K, et al. Decline in estimated glomerular filtration rate and subsequent risk of end-stage renal disease and mortality. JAMA 2014;311:2518–2531.\n24. Vassalotti JA, Centor R, Turner BJ, Greer RC, Choi M, Sequist TD; National Kidney Foundation Kidney Disease Outcomes Quality Initiative. Practical approach to detection and management of chronic kidney disease for the primary care clinician. Am J Med 2016;129:153–162.e7.\n25. Ostermann M, Bellomo R, Burdmann EA, et al.; Conference Participants. Controversies in acute kidney injury: conclusions from a Kidney Disease: Improving Global Outcomes (KDIGO) conference. Kidney Int 2020;98:294–309.\n26. James MT, Grams ME, Woodward M, et al.; CKD Prognosis Consortium. A meta-analysis of the association of estimated GFR, albuminuria, diabetes mellitus, and hypertension with acute kidney injury. Am J Kidney Dis 2015;66:602–612.",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "References",
+      "page_number": 12,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "27. Harding JL, Li Y, Burrows NR, Bullard KM, Pavkov ME. US trends in hospitalizations for diabetes-related complications.",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "References",
+      "page_number": 12,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "# Chronic Kidney Disease and Risk Management  \n## Diabetes Care Volume 49, Supplement 1, January 2026  \n### References\n1. Epstein M, Reaven NL, Funk SE, McGaughey KJ, Oestreicher N, Knispel J. Evaluation of the treatment gap between clinical guidelines and the utilization of renin-angiotensin-aldosterone system inhibitors. Am J Manag Care 2015;21:S212–S220.\n2. Perkovic V, Jardine MJ, Neal B, et al.; CREDENCE Trial Investigators. Canagliflozin and renal outcomes in type 2 diabetes and nephropathy. N Engl J Med 2019;380:2295–2306.\n3. Nadkarni GN, Ferrandino R, Chang A, et al. Acute kidney injury in patients on SGLT2 inhibitors: a propensity-matched analysis. Diabetes Care 2017;40:1479–1485.\n4. Wanner C, Inzucchi SE, Lachin JM, et al.; EMPA-REG OUTCOME Investigators. Empagliflozin and progression of kidney disease in type 2 diabetes. N Engl J Med 2016;375:323–334.",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "Diabetes Care Volume 49, Supplement 1, January 2026",
+      "subsection_heading": "References",
+      "page_number": 13,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "4. Wanner C, Inzucchi SE, Lachin JM, et al.; EMPA-REG OUTCOME Investigators. Empagliflozin and progression of kidney disease in type 2 diabetes. N Engl J Med 2016;375:323–334.\n5. Neuen BL, Ohkuma T, Neal B, et al. Cardiovascular and renal outcomes with canagliflozin according to baseline kidney function. Circulation 2018;138:1537–1550.\n6. Bakris GL, Agarwal R, Anker SD, et al.; FIDELIO-DKD Investigators. Effect of finerenone on chronic kidney disease outcomes in type 2 diabetes. N Engl J Med 2020;383:2219–2229.\n7. Thakar CV, Christianson A, Himmelfarb J, Leonard AC. Acute kidney injury episodes and chronic kidney disease risk in diabetes mellitus. Clin J Am Soc Nephrol 2011;6:2567–2572.\n8. Bakris GL, Weir MR. Angiotensin-converting enzyme inhibitor-associated elevations in serum creatinine: is this a cause for concern? Arch Intern Med 2000;160:685–693.",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "Diabetes Care Volume 49, Supplement 1, January 2026",
+      "subsection_heading": "References",
+      "page_number": 13,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "8. Bakris GL, Weir MR. Angiotensin-converting enzyme inhibitor-associated elevations in serum creatinine: is this a cause for concern? Arch Intern Med 2000;160:685–693.\n9. Collard D, Brouwer TF, Peters RJG, Vogt L, van den Born B-JH. Creatinine rise during blood pressure therapy and the risk of adverse clinical outcomes in patients with type 2 diabetes mellitus. Hypertension 2018;72:1337–1344.\n10. Malhotra R, Craven T, Ambrosius WT, et al.; SPRINT Research Group. Effects of intensive blood pressure lowering on kidney tubule injury in CKD: a longitudinal subgroup analysis in SPRINT. Am J Kidney Dis 2019;73:21–30.\n11. Hughes-Austin JM, Rifkin DE, Beben T, et al. The relation of serum potassium concentration with cardiovascular events and mortality in community-living individuals. Clin J Am Soc Nephrol 2017;12:245–252.",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "Diabetes Care Volume 49, Supplement 1, January 2026",
+      "subsection_heading": "References",
+      "page_number": 13,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "12. Bandak G, Sang Y, Gasparini A, et al. Hyperkalemia after initiating renin-angiotensin system blockade: the Stockholm Creatinine Measurements (SCREAM) project. J Am Heart Assoc 2017;6:e005428.\n13. Nilsson E, Gasparini A, Arnlov J, et al. Incidence and determinants of hyperkalemia in a large healthcare system. Int J Cardiol 2017;245:277.\n14. Zelniker TA, Raz I, Mosenzon O, et al. Effect of dapagliflozin on cardiovascular outcomes according to baseline kidney function and albuminuria status in patients with type 2 diabetes: a prespecified secondary analysis of a randomized clinical trial. JAMA Cardiol 2021;6:801–810.\n15. Agarwal R, Tu W, Farjat AE, et al.; FIDELIO-DKD and FIGARO-DKD Investigators. Impact of finerenone-induced albuminuria reduction on chronic kidney disease outcomes in type 2 diabetes: a mediation analysis. Ann Intern Med 2023;176:1606–1616.",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "Diabetes Care Volume 49, Supplement 1, January 2026",
+      "subsection_heading": "References",
+      "page_number": 13,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "16. Li J, Neal B, Perkovic V, et al. Mediators of the effects of canagliflozin on kidney protection in patients with type 2 diabetes. Kidney Int 2020;98:769–777.\n17. Rhee CM, Wang AY-M, Biruete A, et al. Nutritional and dietary management of chronic kidney disease under conservative and preservative kidney care without dialysis. J Ren Nutr 2023;33:S56–S66.\n18. Mills KT, Chen J, Yang W, et al.; Chronic Renal Insufficiency Cohort (CRIC) Study Investigators. Sodium excretion and the risk of cardiovascular disease in patients with chronic kidney disease. JAMA 2016;315:2200–2210.\n19. Whelton PK, Carey RM, Aronow WS, et al. 2017 ACC/AHA/AAPA/ABC/ACPM/AGS/APhA/ASH/ASPC/NMA/PCNA guideline for the prevention, detection, evaluation, and management of high blood pressure in adults: executive summary. Hypertension 2018;71:1269–1324.\n20. Murray DP, Young L, Waller J, et al. Is dietary protein intake predictive of 1-year mortality in dialysis patients? Am J Med Sci 2018;356:234–243.",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "Diabetes Care Volume 49, Supplement 1, January 2026",
+      "subsection_heading": "References",
+      "page_number": 13,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "20. Murray DP, Young L, Waller J, et al. Is dietary protein intake predictive of 1-year mortality in dialysis patients? Am J Med Sci 2018;356:234–243.\n21. DCCT/EDIC Research Group. Effect of intensive diabetes treatment on albuminuria in type 1 diabetes: long-term follow-up of the Diabetes Control and Complications Trial and Epidemiology of Diabetes Interventions and Complications study. Lancet Diabetes Endocrinol 2014;2:793–800.\n22. de Boer IH, Sun W, Cleary PA, et al.; DCCT/EDIC Research Group. Intensive diabetes therapy and glomerular filtration rate in type 1 diabetes. N Engl J Med 2011;365:2366–2376.\n23. UK Prospective Diabetes Study (UKPDS) Group. Intensive blood-glucose control with sulphonylureas or insulin compared with conventional treatment and risk of complications in patients with type 2 diabetes (UKPDS 33). Lancet 1998;352:837–853.",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "Diabetes Care Volume 49, Supplement 1, January 2026",
+      "subsection_heading": "References",
+      "page_number": 13,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "24. Agrawal L, Azad N, Bahn GD, et al.; VADT Study Group. Long-term follow-up of intensive glycaemic control on renal outcomes in the Veterans Affairs Diabetes Trial (VADT). Diabetologia 2018;61:295–299.\n25. Brenner BM, Cooper ME, de Zeeuw D, et al.; RENAAL Study Investigators. Effects of losartan on renal and cardiovascular outcomes in patients with type 2 diabetes and nephropathy. N Engl J Med 2001;345:861–869.\n26. Lewis EJ, Hunsicker LG, Bain RP, Rohde RD. The effect of angiotensin-converting-enzyme inhibition on diabetic nephropathy. The Collaborative Study Group. N Engl J Med 1993;329:1456–1462.\n27. Lewis EJ, Hunsicker LG, Clarke WR, et al.; Collaborative Study Group. Renoprotective effect of the angiotensin-receptor antagonist irbesartan. N Engl J Med 2001;345:861–869.\n28. Sacks DB, Arnold M, Bakris GL, et al. Guidelines and recommendations for laboratory analysis in the diagnosis and management of diabetes mellitus. Diabetes Care 2023;46:e151–e199.",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "Diabetes Care Volume 49, Supplement 1, January 2026",
+      "subsection_heading": "References",
+      "page_number": 13,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "28. Sacks DB, Arnold M, Bakris GL, et al. Guidelines and recommendations for laboratory analysis in the diagnosis and management of diabetes mellitus. Diabetes Care 2023;46:e151–e199.\n29. Leehey DJ, Zhang JH, Emanuele NV, et al.; VA NEPHRON-D Study Group. BP and renal outcomes in diabetic kidney disease: the Veterans Affairs Nephropathy in Diabetes Trial. Clin J Am Soc Nephrol 2015;10:2159–2169.\n30. Emdin CA, Rahimi K, Neal B, Callender T, Perkovic V, Patel A. Blood pressure lowering in type 2 diabetes: a systematic review and meta-analysis. JAMA 2015;313:603–615.\n31. Cushman WC, Evans GW, Byington RP, et al.; ACCORD Study Group. Effects of intensive blood-pressure control in type 2 diabetes mellitus. N Engl J Med 2010;362:1575–1585.\n32. UK Prospective Diabetes Study Group. Tight blood pressure control and risk of macrovascular and microvascular complications in type 2 diabetes: UKPDS 38. BMJ 1998;317:703–713.",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "Diabetes Care Volume 49, Supplement 1, January 2026",
+      "subsection_heading": "References",
+      "page_number": 13,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "32. UK Prospective Diabetes Study Group. Tight blood pressure control and risk of macrovascular and microvascular complications in type 2 diabetes: UKPDS 38. BMJ 1998;317:703–713.\n33. de Boer IH, Bangalore S, Benetos A, et al. Diabetes and hypertension: a position statement by the American Diabetes Association. Diabetes Care 2017;40:1273–1284.\n34. Kidney Disease: Improving Global Outcomes Diabetes Work Group. KDIGO 2022 clinical practice guideline for diabetes management in chronic kidney disease. Kidney Int 2022;102:S1–S127.\n35. Copur S, Siriopol D, Afsar B, et al. Serum glycated albumin predicts all-cause mortality in dialysis patients with diabetes mellitus: meta-analysis and systematic review of a predictive biomarker. Acta Diabetol 2021;58:81–91.\n36. Tuttle KR, Bakris GL, Bilous RW, et al. Diabetic kidney disease: a report from an ADA consensus conference. Diabetes Care 2014;37:2864–2883.",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "Diabetes Care Volume 49, Supplement 1, January 2026",
+      "subsection_heading": "References",
+      "page_number": 13,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "# Chronic Kidney Disease and Risk Management  \n## References  \n1. Heerspink HJL, Perco P, Mulder S, et al. Canagliflozin reduces inflammation and fibrosis biomarkers: a potential mechanism of action for beneficial effects of SGLT2 inhibitors in diabetic kidney disease. Diabetologia 2019;62:1154–1166.\n2. Marso SP, Daniels GH, Brown-Frandsen K, et al.; LEADER Trial Investigators. Liraglutide and cardiovascular outcomes in type 2 diabetes. N Engl J Med 2016;375:311–322.\n3. Cooper ME, Perkovic V, McGill JB, et al. Kidney disease end points in a pooled analysis of individual patient-level data from a large clinical trials program of the dipeptidyl peptidase 4 inhibitor linagliptin in type 2 diabetes. Am J Kidney Dis 2015;66:441–449.\n4. Mann JFE, Ørsted DD, Brown-Frandsen K, et al.; LEADER Steering Committee and Investigators. Liraglutide and renal outcomes in type 2 diabetes. N Engl J Med 2017;377:839–848.",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "References",
+      "page_number": 14,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "4. Mann JFE, Ørsted DD, Brown-Frandsen K, et al.; LEADER Steering Committee and Investigators. Liraglutide and renal outcomes in type 2 diabetes. N Engl J Med 2017;377:839–848.\n5. Marso SP, Bain SC, Consoli A, et al.; SUSTAIN-6 Investigators. Semaglutide and cardiovascular outcomes in patients with type 2 diabetes. N Engl J Med 2016;375:1834–1844.\n6. Shaman AM, Bain SC, Bakris GL, et al. Effect of the glucagon-like peptide-1 receptor agonists semaglutide and liraglutide on kidney outcomes in patients with type 2 diabetes: pooled analysis of SUSTAIN 6 and LEADER. Circulation 2022;145:575–585.\n7. Perkovic V, Tuttle KR, Rossing P, et al.; FLOW Trial Committees and Investigators. Effects of semaglutide on chronic kidney disease in patients with type 2 diabetes. N Engl J Med 2024;391:109–121.\n8. J C, Me C, Mt C. Renoprotective mechanisms of glucagon-like peptide-1 receptor agonists. Diabetes Metab 2025;51:101641.",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "References",
+      "page_number": 14,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "8. J C, Me C, Mt C. Renoprotective mechanisms of glucagon-like peptide-1 receptor agonists. Diabetes Metab 2025;51:101641.\n9. Drucker DJ. Prevention of cardiorenal complications in people with type 2 diabetes and obesity. Cell Metab 2024;36:338–353.\n10. Karter AJ, Warton EM, Lipska KJ, et al. Development and validation of a tool to identify patients with type 2 diabetes at high risk of hypoglycemia-related emergency department or hospital use. JAMA Intern Med 2017;177:1461–1470.\n11. Moen MF, Zhan M, Hsu VD, et al. Frequency of hypoglycemia and its significance in chronic kidney disease. Clin J Am Soc Nephrol 2009;4:1121–1127.",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "References",
+      "page_number": 14,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "11. Moen MF, Zhan M, Hsu VD, et al. Frequency of hypoglycemia and its significance in chronic kidney disease. Clin J Am Soc Nephrol 2009;4:1121–1127.\n12. U.S. Food and Drug Administration. FDA drug safety communication: FDA revises warnings regarding use of the diabetes medicine metformin in certain patients with reduced kidney function, 2017. Accessed 24 August 2025. Available from https://www.fda.gov/drugs/drug-safety-and-availability/fda-drug-safety-communication-fda-revises-warnings-regarding-use-diabetes-medicine-metformin-certain.\n13. Lalau J-D, Kajbaf F, Bennis Y, Hurtel-Lemaire A-S, Belpaire F, De Broe ME. Metformin treatment in patients with type 2 diabetes and chronic kidney disease stages 3A, 3B, or 4. Diabetes Care 2018;41:547–553.\n14. Chu PY, Hackstadt AJ, Chipman J, et al. Hospitalization for lactic acidosis among patients with reduced kidney function treated with metformin or sulfonylureas. Diabetes Care 2020;43:1462–1470.",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "References",
+      "page_number": 14,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "14. Chu PY, Hackstadt AJ, Chipman J, et al. Hospitalization for lactic acidosis among patients with reduced kidney function treated with metformin or sulfonylureas. Diabetes Care 2020;43:1462–1470.\n15. McGuire DK, Shih WJ, Cosentino F, et al. Association of SGLT2 inhibitors with cardiovascular and kidney outcomes in patients with type 2 diabetes: a meta-analysis. JAMA Cardiol 2021;6:148–158.",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "References",
+      "page_number": 14,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "## Additional Studies  \n- Heart Outcomes Prevention Evaluation Study Investigators. Effects of ramipril on cardiovascular and microvascular outcomes in people with diabetes mellitus: results of the HOPE study and MICRO-HOPE substudy. Lancet 2000;355:253–259.\n- Barnett AH, Bain SC, Bouter P, et al.; Diabetics Exposed to Telmisartan and Enalapril Study Group. Angiotensin-receptor blockade versus converting-enzyme inhibition in type 2 diabetes and nephropathy. N Engl J Med 2004;351:1952–1961.\n- Wu H-Y, Peng C-L, Chen P-C, et al. Comparative effectiveness of angiotensin-converting enzyme inhibitors versus angiotensin II receptor blockers for major renal outcomes in patients with diabetes: a 15-year cohort study. PLoS One 2017;12:e0177654.",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "Additional Studies",
+      "page_number": 14,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "- Parving HH, Lehnert H, Brochner-Mortensen J, Gomis R, Andersen S, Arner P; Irbesartan in Patients with Type 2 Diabetes and Microalbuminuria Study Group. The effect of irbesartan on the development of diabetic nephropathy in patients with type 2 diabetes. N Engl J Med 2001;345:870–878.\n- Mauer M, Zinman B, Gardiner R, et al. Renal and retinal effects of enalapril and losartan in type 1 diabetes. N Engl J Med 2009;361:40–51.\n- Weil EJ, Fufaa G, Jones LI, et al. Erratum. Effect of losartan on prevention and progression of early diabetic nephropathy in American Indians with type 2 diabetes. Diabetes 2013;62:3224–3231. Diabetes 2018;67:532.\n- Qiao Y, Shin J-I, Chen TK, et al. Association between renin-angiotensin system blockade discontinuation and all-cause mortality among persons with low estimated glomerular filtration rate. JAMA Intern Med 2020;180:718–726.",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "Additional Studies",
+      "page_number": 14,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "- Bi Y, Li M, Liu Y, et al.; BPROAD Research Group. Intensive blood-pressure control in patients with type 2 diabetes. N Engl J Med 2025;392:1155–1167.\n- Jones DW, Ferdinand KC, Taler SJ, et al. 2025 AHA/ACC/AANP/AAPA/ABC/ACCP/ACPM/AGS/AMA/ASPC/NMA/PCNA/SGIM guideline for the prevention, detection, evaluation and management of high blood pressure in adults: a report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. Hypertension 2025;82:e212–e316.\n- Wang Q, Wang Y, Wang J, Zhang L, Zhao M-H; C-STRIDE (Chinese Cohort Study of Chronic Kidney Disease). Short-term systolic blood pressure variability and kidney disease progression in patients with chronic kidney disease: results from C-STRIDE. J Am Heart Assoc 2020;9:e015359.\n- Yang L, Li J, Wei W, et al. Blood pressure variability and the progression of chronic kidney disease: a systematic review and meta-analysis. J Gen Intern Med 2023;38:1272–1281.",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "Additional Studies",
+      "page_number": 14,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "- Yang L, Li J, Wei W, et al. Blood pressure variability and the progression of chronic kidney disease: a systematic review and meta-analysis. J Gen Intern Med 2023;38:1272–1281.\n- Kovesdy CP, Bleyer AJ, Molnar MZ, et al. Blood pressure and mortality in U.S. veterans with chronic kidney disease: a cohort study. Ann Intern Med 2013;159:233–242.\n- Ohkuma T, Jun M, Rodgers A, et al.; ADVANCE Collaborative Group. Acute increases in serum creatinine after starting angiotensin-converting enzyme inhibitor-based therapy and effects of its continuation on major clinical outcomes in type 2 diabetes mellitus. Hypertension 2019;73:84–91.\n- Wing S, Ray JG, Yau K, et al. SGLT2 inhibitors and risk for hyperkalemia among individuals receiving RAAS inhibitors. JAMA Intern Med 2025;185:827–836.",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "Additional Studies",
+      "page_number": 14,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "# Chronic Kidney Disease and Risk Management\nDiabetes Care Volume 49, Supplement 1, January 2026",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "page_number": 15,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "## References  \n1. Zelniker TA, Wiviott SD, Raz I, et al. Dapagliflozin for kidney outcomes in type 2 diabetes and chronic kidney disease in the FLOW trial. Nat Med 2024;30:2849–2856.\n2. Mann JFE, Hansen T, Idorn T, et al. Effects of once-weekly subcutaneous semaglutide on kidney function and safety in patients with type 2 diabetes: a post-hoc analysis of the SUSTAIN 1-7 randomised controlled trials. Lancet Diabetes Endocrinol 2020;8:880–893.\n3. Mann JFE, Muskiet MHA. Incretin-based drugs and the kidney in type 2 diabetes: choosing between DPP-4 inhibitors and GLP-1 receptor agonists. Kidney Int 2021;99:314–318.\n4. Neuen BL, Fletcher RA, Heath L, et al. Cardiovascular, kidney, and safety outcomes with GLP-1 receptor agonists alone and in combination with SGLT2 inhibitors in type 2 diabetes: a systematic review and meta-analysis. Circulation 2024;150:1781–1790.",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "References",
+      "page_number": 15,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "5. Kelly M, Lewis J, Rao H, Carter J, Portillo I, Beuttler R. Effects of GLP-1 receptor agonists on cardiovascular outcomes in patients with type 2 diabetes and chronic kidney disease: a systematic review and meta-analysis. Pharmacotherapy 2022;42:921–928.\n6. Zinman B, Wanner C, Lachin JM, et al.; EMPA-REG OUTCOME Investigators. Empagliflozin, cardiovascular outcomes, and mortality in type 2 diabetes. N Engl J Med 2015;373:2117–2128.\n7. Jardine MJ, Mahaffey KW, Neal B, et al.; CREDENCE study investigators. The Canagliflozin and Renal Endpoints in Diabetes with Established Nephropathy Clinical Evaluation (CREDENCE) study rationale, design, and baseline characteristics. Am J Nephrol 2017;46:462–472.\n8. Bakris GL. Major advancements in slowing diabetic kidney disease progression: focus on SGLT2 inhibitors. Am J Kidney Dis 2019;74:573–575.",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "References",
+      "page_number": 15,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "8. Bakris GL. Major advancements in slowing diabetic kidney disease progression: focus on SGLT2 inhibitors. Am J Kidney Dis 2019;74:573–575.\n9. Mahaffey KW, Jardine MJ, Bompoint S, et al. Canagliflozin and cardiovascular and renal outcomes in type 2 diabetes mellitus and chronic kidney disease in primary and secondary cardiovascular prevention groups. Circulation 2019;140:739–750.\n10. Heerspink HJL, Stefánsson BV, Correa-Rotter R, et al.; DAPA-CKD Trial Committees and Investigators. Dapagliflozin in patients with chronic kidney disease. N Engl J Med 2020;383:1436–1446.\n11. Herrington WG, Staplin N, Wanner C, et al.; Empa-Kidney Collaborative Group. Empagliflozin in patients with chronic kidney disease. N Engl J Med 2023;388:117–127.\n12. National Kidney Foundation. KDOQI clinical practice guideline for diabetes and CKD: 2012 update. Am J Kidney Dis 2012;60:850–886.",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "References",
+      "page_number": 15,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "12. National Kidney Foundation. KDOQI clinical practice guideline for diabetes and CKD: 2012 update. Am J Kidney Dis 2012;60:850–886.\n13. Wiviott SD, Raz I, Bonaca MP, et al.; DECLARE–TIMI 58 Investigators. Dapagliflozin and cardiovascular outcomes in type 2 diabetes. N Engl J Med 2019;380:347–357.\n14. Dekkers CCJ, Wheeler DC, Sjostrom CD, Stefansson BV, Cain V, Heerspink HJL. Effects of the sodium-glucose co-transporter 2 inhibitor dapagliflozin in patients with type 2 diabetes and stages 3b-4 chronic kidney disease. Nephrol Dial Transplant 2018;33:1280.\n15. Bonnesen K, Heide-Jørgensen U, Christensen DH, et al. Effectiveness of empagliflozin vs semaglutide in patients with type 2 diabetes and chronic kidney disease: a population-based cohort study. BMJ 2024;385:e078242.\n16. Mann JFE, Rossing P, Bakris G, et al. Effects of semaglutide with and without concomitant SGLT2 inhibitor use in participants with type 2 diabetes. Diabetes Care 2021;44:1805–1815.",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "References",
+      "page_number": 15,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  },
+  {
+    "page_content": "16. Mann JFE, Rossing P, Bakris G, et al. Effects of semaglutide with and without concomitant SGLT2 inhibitor use in participants with type 2 diabetes. Diabetes Care 2021;44:1805–1815.\n17. Agarwal R, Filippatos G, Pitt B, et al.; FIDELIO-DKD and FIGARO-DKD investigators. Cardiovascular and kidney outcomes with finerenone in patients with type 2 diabetes and chronic kidney disease: the FIDELITY pooled analysis. Eur Heart J 2022;43:474–484.\n18. Smart NA, Dieberg G, Ladhani M, Titus T. Early referral to specialist nephrology services for preventing the progression to end-stage kidney disease. Cochrane Database Syst Rev 2014:CD007333.",
+    "metadata": {
+      "chapter_name": "Chronic Kidney Disease and Risk Management",
+      "section_heading": "References",
+      "page_number": 15,
+      "source": "ada_chronic_kidney_manag.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+    }
+  }
+]

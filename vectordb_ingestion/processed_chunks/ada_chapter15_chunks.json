@@ -1,0 +1,1479 @@
+[
+  {
+    "page_content": "# Management of Diabetes in Pregnancy: Standards of Care in Diabetes—2026  \n**American Diabetes Association Professional Practice Committee for Diabetes**\nDiabetes Care 2026;49(Suppl. 1):S321–S338\nhttps://doi.org/10.2337/dc26-S015",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy: Standards of Care in Diabetes—2026",
+      "page_number": 1,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "**American Diabetes Association Professional Practice Committee for Diabetes**\nDiabetes Care 2026;49(Suppl. 1):S321–S338\nhttps://doi.org/10.2337/dc26-S015  \nThe American Diabetes Association (ADA) “Standards of Care in Diabetes” includes the ADA’s current clinical practice recommendations and is intended to provide the components of diabetes care, general treatment goals and guidelines, and tools to evaluate quality of care. Members of the ADA Professional Practice Committee for Diabetes, an interprofessional expert committee, are responsible for updating the Standards of Care annually, or more frequently as warranted. For a detailed description of ADA standards, statements, and reports, as well as the evidence-grading system for ADA’s clinical practice recommendations and a full list of Professional Practice Committee members, please refer to Introduction and Methodology. Readers who wish to comment on the Standards of Care are invited to do so at professional.diabetes.org/SOC.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy: Standards of Care in Diabetes—2026",
+      "page_number": 1,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "## Diabetes in Pregnancy  \nThe prevalence of diabetes in pregnancy has been increasing in the U.S. in parallel with the worldwide epidemic of obesity. Not only is the prevalence of type 1 diabetes and type 2 diabetes increasing in individuals of reproductive age but there is also a dramatic increase in the reported rates of gestational diabetes mellitus (GDM). Diabetes confers significantly greater maternal and fetal risk that is largely related to the degree of hyperglycemia but also is related to chronic complications and comorbidities of diabetes. In general, specific risks of diabetes in pregnancy include spontaneous abortion, fetal anomalies, preeclampsia, fetal demise, macrosomia, neonatal hypoglycemia, neonatal hyperbilirubinemia, and neonatal respiratory distress syndrome. In addition, exposure to hyperglycemia in utero increases the risks of obesity, hypertension, and type 2 diabetes in offspring later in life.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy: Standards of Care in Diabetes—2026",
+      "section_heading": "Diabetes in Pregnancy",
+      "page_number": 1,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "### Preconception Counseling Recommendations  \n| Recommendation | Description |\n|----------------|-------------|\n| 15.1 | Starting at puberty and continuing in all people with diabetes and child-bearing potential, preconception counseling should be incorporated into routine diabetes care. |\n| 15.2 | Family planning should be discussed, and effective contraception (with consideration of long-acting, reversible contraception) should be prescribed and used until an individual’s treatment plan and A1C are optimized for pregnancy. |\n| 15.3 | Preconception counseling should address the importance of achieving glucose levels as close to normal as is safely possible without excessive hypoglycemia, ideally A1C &#x3C;6.5% (&#x3C;48 mmol/mol), to reduce the risk of congenital anomalies, preeclampsia, macrosomia, preterm birth, and other complications. |",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy: Standards of Care in Diabetes—2026",
+      "section_heading": "Diabetes in Pregnancy",
+      "subsection_heading": "Preconception Counseling Recommendations",
+      "page_number": 1,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "*A complete list of members of the American Diabetes Association Professional Practice Committee for Diabetes can be found at https://doi.org/10.2337/dc26-SINT. Duality of interest information for each contributor is available at https://doi.org/10.2337/dc26-SDIS. Suggested citation: American Diabetes Association Professional Practice Committee for Diabetes. 15. Management of diabetes in pregnancy: Standards of Care in Diabetes—2026. Diabetes Care 2026; 49(Suppl. 1):S321–S338 © 2025 by the American Diabetes Association. Readers may use this work for educational, noncommercial purposes if properly cited and unaltered. The version of record may be linked at https://diabetesjournals.org/care, but ADA permission is required to post this work on any third-party site or platform. This publication and its contents may not be reproduced, distributed, or used for text or data mining, machine learning, or similar technologies without prior written permission",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy: Standards of Care in Diabetes—2026",
+      "section_heading": "Diabetes in Pregnancy",
+      "subsection_heading": "Preconception Counseling Recommendations",
+      "page_number": 1,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": ". This publication and its contents may not be reproduced, distributed, or used for text or data mining, machine learning, or similar technologies without prior written permission. Requests to reuse, adapt, or distribute this work may be sent to permissions@diabetes.org. More information is available at https://diabetesjournals.org/journals/pages/license.*",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy: Standards of Care in Diabetes—2026",
+      "section_heading": "Diabetes in Pregnancy",
+      "subsection_heading": "Preconception Counseling Recommendations",
+      "page_number": 1,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "S322  Management  of  Diabetes in  Pregnancy     Diabetes Care Volume  49,  Supplement  1,  January  2026  \n15.4 Individuals with a history of ges-         congenital anomalies (given that organo-\ntational diabetes mellitus (GDM) should         genesis  occurs  primarily  at  5–8  weeks\nseek preconception screening for diabe-         of gestation), preeclampsia, and preterm\ntes and preconception care to identify          birth (13–17). In a systematic review and\nand treat hyperglycemia and prevent           meta-analysis  of  observational  studies,\ncongenital malformations and other ad-         preconception care for pregnant individu-\nverse maternal and fetal outcomes. E                 als  with  preexisting  diabetes  was  associ-\nated with lower A1C and reduced risks of\nreduced insulin sensitivity and β-cell com-\npensation and are more likely to have im-\npaired glucose tolerance in childhood (23).\nIn other words, short-term and long-term",
+    "metadata": {
+      "page_number": 2,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "reduced insulin sensitivity and β-cell com-\npensation and are more likely to have im-\npaired glucose tolerance in childhood (23).\nIn other words, short-term and long-term\nrisks  increase  with  progressive  maternal\nhyperglycemia.\nWeight should be assessed at the pre-\nconception  evaluation.  Counseling  on  \nPreconception  counseling  for  pregnant         birth  defects,  preterm  delivery,  perinatal          the specific risks of obesity in pregnancy\npeople with preexisting type 1 or type 2         mortality, small-for-gestational-age births,            and lifestyle interventions to prevent and\ndiabetes  is  highly  effective  in  reducing      and  neonatal  intensive  care  unit  admis-            treat obesity, including referral to a regis-\nthe  risk  of  congenital  malformations  and      sions (18).                                             tered  dietitian  nutritionist  (RDN),  is  rec-",
+    "metadata": {
+      "page_number": 2,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "the  risk  of  congenital  malformations  and      sions (18).                                             tered  dietitian  nutritionist  (RDN),  is  rec-\ndecreasing the risk of preterm delivery and       To minimize the occurrence of complica-                 ommended regardless of diabetes status\nadmission to neonatal intensive care units        tions, beginning at the onset of puberty or             (24). In a randomized trial of individuals\n(NICU). Preconception counseling is also as-      at diagnosis, all adults and adolescents with           with overweight or obesity and a history\nsociated with reductions in perinatal mortal-      diabetes  of  childbearing  potential  should           of  GDM,  weight  loss  prior  to  a  subse-\nity and small-for-gestational-age birth weight      receive education about 1) the risks of mal-            quent  pregnancy  was  associated  with  a",
+    "metadata": {
+      "page_number": 2,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "ity and small-for-gestational-age birth weight      receive education about 1) the risks of mal-            quent  pregnancy  was  associated  with  a\n(3). A key point is the need to incorporate a      formations associated with unplanned preg-              lower risk of GDM recurrence, especially\nquestion about plans for pregnancy into the       nancies, even with mild hyperglycemia, and              when  weight  loss  was ≥5%  (odds  ratio\nroutine primary and gynecologic care of peo-      2)  the  use  of  effective  contraception  at  all     [OR] 0.18, 95% CI 0.04–0.88) (25). Counsel-\nple with diabetes.                                   times  when trying to  prevent a  pregnancy.            ing on weight management should include\nThere are opportunities at any health                Preconception  counseling  using  develop-              the  known  benefits  and  risks  of  different",
+    "metadata": {
+      "page_number": 2,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "There are opportunities at any health                Preconception  counseling  using  develop-              the  known  benefits  and  risks  of  different\ncare visit to  educate all adults  and  ado-      mentally appropriate educational tools ena-             strategies  for  achieving  and  maintaining\nlescents  with  diabetes  and  childbearing       bles adolescents with childbearing potential            weight loss. For strategies that include phar-\npotential  about  the  risks  of  unplanned       to  make  well-informed  decisions  (4).  Pre-          macotherapy, recommendations should be\npregnancies and about improved mater-          conception  counseling  resources  tailored             given  for  when  changes  in  medications\nnal  and  fetal  outcomes  with  pregnancy        to  adolescents  are  available  at  no  cost           should occur prior to pregnancy. The risk",
+    "metadata": {
+      "page_number": 2,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "nal  and  fetal  outcomes  with  pregnancy        to  adolescents  are  available  at  no  cost           should occur prior to pregnancy. The risk\nplanning  (4).  Education  and  counseling        through  the  American  Diabetes  Associa-              for  associated  hypertension  and  other\nshould be offered, even when individuals         tion (ADA) (19).                                        comorbidities  may  be  as  high  or  higher\nalready use contraception or do not intend        Individuals with prediabetes or a history               with type 2 diabetes as it is with type 1\nto  conceive  (5).  Effective  preconception       of  GDM  will  need  preconception  evalua-             diabetes, even if diabetes is better man-\ncounseling  could  avert  substantial  health      tion for as long as they have childbearing              aged  and  of  shorter  apparent  duration,\npotential.  Individuals  with  a  history  of           with pregnancy loss appearing to be more",
+    "metadata": {
+      "page_number": 2,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "potential.  Individuals  with  a  history  of           with pregnancy loss appearing to be more\nand associated cost burdens related to the        GDM who are planning pregnancy should                   prevalent in the third trimester in those with\noffspring  (6).  Family  planning  should  be      undergo  screening  for  type  2  diabetes  or          type 2 diabetes compared with the first tri-\ndiscussed,  including  the  benefits  of  long-     prediabetes prior to conception, and if not             mester in those with type 1 diabetes (26,27).\nacting, reversible contraception, and effec-         screened preconception, testing should be\ntive  contraception  should  be  prescribed       performed  before  15  weeks  of  gestation,            Preconception Care\nand  used  until  the  individual  is  prepared     as  outlined  in  section  2,  “Diagnosis  and           Recommendations",
+    "metadata": {
+      "page_number": 2,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "and  used  until  the  individual  is  prepared     as  outlined  in  section  2,  “Diagnosis  and           Recommendations\nand ready to become pregnant (7–12).                 Classification of Diabetes.” In the nonpreg-             15.5 Individuals with preexisting dia-\nAll  individuals  with  diabetes  and  child-        nant  state,  evaluation  may  be  performed             betes who are planning a pregnancy\nbearing potential should be informed about        with  any  glycemic  test  recommended  in               should  ideally  begin  receiving  interpro-\nthe importance of achieving and maintaining       section  2,  “Diagnosis  and  Classification  of         fessional care prior to conception, which\nas near euglycemia as safely possible prior to      Diabetes.” Should type 2 diabetes be di-                 includes  an  endocrinology  health  care",
+    "metadata": {
+      "page_number": 2,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "as near euglycemia as safely possible prior to      Diabetes.” Should type 2 diabetes be di-                 includes  an  endocrinology  health  care\nconception  and  throughout  pregnancy.  Ob-      agnosed  preconception,  the  individual                 professional, maternal-fetal medicine\nservational studies show an increased risk of      should initiate treatment with a goal to                 specialist,  registered  dietitian  nutrition-\ndiabetic embryopathy, especially anenceph-       achieve  and maintain an A1C of <6.5%                    ist,  and  diabetes  care  and  education\naly,  microcephaly,  congenital  heart  disease,     (<48 mmol/mol) prior to conception using                 specialist, when available. B\nkidney anomalies, and caudal regression, di-      therapies approved for use in pregnancy.                 15.6 In addition to focused attention",
+    "metadata": {
+      "page_number": 2,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "kidney anomalies, and caudal regression, di-      therapies approved for use in pregnancy.                 15.6 In addition to focused attention\nrectly proportional to elevations in A1C dur-      Risks  for  GDM  are  characterized  by  an              on achieving glycemic goals, A standard\ning the first 10 weeks of pregnancy (13).        increased  risk  of  large-for-gestational-age           preconception  care  should  be  aug-\nAlthough  observational  studies  are  con-       birth  weight  and  neonatal  and  pregnancy             mented with extra focus on nutrition,\nfounded by the association between ele-         complications and an increased risk of long-             physical activity, diabetes self-care ed-\nvated  periconceptional  A1C  and  other         term maternal type 2 diabetes and abnor-                 ucation, and screening for diabetes co-",
+    "metadata": {
+      "page_number": 2,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "vated  periconceptional  A1C  and  other         term maternal type 2 diabetes and abnor-                 ucation, and screening for diabetes co-\nengagement  in  self-care  behaviors,  the        mal  glucose  metabolism  of  offspring  in              morbidities and complications. B\nquantity and consistency of data are con-        childhood  (20). These  associations  with               15.7 Individuals with preexisting dia-\nvincing and support the recommendation          maternal  oral  glucose  tolerance  test                 betes who are planning a pregnancy or\nto optimize glycemia prior to conception         (OGTT)  results  are  continuous  with  no               who have become pregnant should be\nwith an A1C <6.5% (<48 mmol/mol), as           clear inflection points (21,22). Offspring               counseled  on  the  risk of  development\nthis  is  associated  with  the  lowest  risk of     with  exposure  to  untreated  GDM  have  \n2026  February\n01 on  guest",
+    "metadata": {
+      "page_number": 2,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "this  is  associated  with  the  lowest  risk of     with  exposure  to  untreated  GDM  have  \n2026  February\n01 on  guest\nby     http://diabetesjournals.org/care/article-pdf/49/Supplement_1/S321/848846/dc26s015.pdf\nfrom   Downloaded",
+    "metadata": {
+      "page_number": 2,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "# Management of Diabetes in Pregnancy  \n## Preconception Care  \n### Checklist for Preconception Care for People with Prediabetes, Diabetes, or a History of Gestational Diabetes Mellitus  \nPreconception education should include:  \n- **Comprehensive nutrition assessment and recommendations for:**\n- Overweight and obesity or underweight\n- Meal planning\n- Correction of nutritional deficiencies\n- Caffeine intake\n- Safe food preparation technique  \n- **Lifestyle recommendations for:**\n- Regular moderate exercise\n- Avoidance of hyperthermia (hot tubs)\n- Adequate sleep  \n- **Comprehensive diabetes self-management education**  \n- **Counseling on diabetes in pregnancy per current standards, including:**\n- Natural history of insulin resistance in pregnancy and postpartum\n- Preconception glycemic goals\n- Avoidance of DKA or severe hyperglycemia\n- Avoidance of severe hypoglycemia\n- Progression of retinopathy in individuals with preexisting diabetes\n- PCOS (if applicable)",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "Preconception Care",
+      "subsection_heading": "Checklist for Preconception Care for People with Prediabetes, Diabetes, or a History of Gestational Diabetes Mellitus",
+      "page_number": 3,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "- Avoidance of DKA or severe hyperglycemia\n- Avoidance of severe hypoglycemia\n- Progression of retinopathy in individuals with preexisting diabetes\n- PCOS (if applicable)\n- Fertility in people with diabetes\n- Genetics of diabetes\n- Risks to pregnancy including miscarriage, stillbirth, congenital malformations, macrosomia, preterm labor and delivery, hypertensive disorders in pregnancy  \n- **Supplementation:**\n- Folic acid supplement (400–800 μg/day routine)\n- Appropriate use of over-the-counter medications and supplements",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "Preconception Care",
+      "subsection_heading": "Checklist for Preconception Care for People with Prediabetes, Diabetes, or a History of Gestational Diabetes Mellitus",
+      "page_number": 3,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "### Health Assessment and Plan  \nHealth assessment and plan should include:  \n- **General evaluation of overall health**\n- **Evaluation of diabetes and its comorbidities and complications, including:**\n- DKA or severe hyperglycemia\n- Severe hypoglycemia/hypoglycemia unawareness\n- Barriers to care\n- Comorbidities such as hyperlipidemia, hypertension, MASLD, PCOS, and thyroid dysfunction\n- Complications such as macrovascular disease in individuals with preexisting diabetes, nephropathy, neuropathy (including autonomic bowel and bladder dysfunction), and retinopathy  \n- **Evaluation of obstetric or gynecologic history, including:**\n- History of cesarean section\n- Congenital malformations or fetal loss\n- Current methods of contraception\n- Hypertensive disorders of pregnancy\n- Postpartum hemorrhage\n- Preterm delivery\n- Previous macrosomia\n- Rh incompatibility\n- Thrombotic events (DVT/PE)  \n- **Review of current medications and appropriateness during pregnancy**",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "Preconception Care",
+      "subsection_heading": "Health Assessment and Plan",
+      "page_number": 3,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "### Screening  \nScreening should include:  \n- **Diabetes complications and comorbidities, including:**\n- Comprehensive foot exam\n- Comprehensive ophthalmologic exam\n- ECG in individuals starting at age 35 years who have cardiac signs or symptoms or risk factors and, if abnormal, further evaluation\n- Lipid panel\n- Serum creatinine\n- TSH\n- Urine albumin-to-creatinine ratio  \n- **Anemia**\n- **Genetic carrier status (based on history):**\n- Cystic fibrosis\n- Sickle cell anemia\n- Tay-Sachs disease\n- Thalassemia\n- Others if indicated  \n- **Infectious disease (per ACOG guidelines)**",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "Preconception Care",
+      "subsection_heading": "Screening",
+      "page_number": 3,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "### Preconception Plan  \nPreconception plan should include:  \n- **Immunizations (per ACOG guidelines)**\n- **Nutrition and medication plan to achieve glycemic goals prior to conception, including:**\n- Appropriate implementation of blood glucose monitoring\n- Continuous glucose monitoring (if indicated and appropriate)\n- Pump technology (if indicated and appropriate)  \n- **Contraceptive plan to prevent pregnancy until glycemic goals are achieved**\n- **Management plan for general health, gynecologic concerns, comorbid conditions, or complications, if present, including:**\n- Hypertension\n- Nephropathy\n- Retinopathy\n- Rh incompatibility\n- Thyroid dysfunction  \nThe most important diabetes-specific component of preconception care is the attainment of glycemic goals prior to conception. Diabetes-specific counseling should include an explanation of the risks to mother and fetus related to pregnancies.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "Preconception Care",
+      "subsection_heading": "Preconception Plan",
+      "page_number": 3,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "Created using information from American College of Obstetricians and Gynecologists (ACOG) and others. DKA, diabetic ketoacidosis; DVT/PE, deep vein thrombosis/pulmonary embolism; ECG, electrocardiogram; MASLD, metabolic dysfunction-associated steatotic liver disease; PCOS, polycystic ovary syndrome; TSH, thyroid-stimulating hormone.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "Preconception Care",
+      "subsection_heading": "Preconception Plan",
+      "page_number": 3,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "# Management of Diabetes in Pregnancy\nDiabetes Care Volume 49, Supplement 1, January 2026",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "page_number": 4,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "## Preconception Care\nPrior to conception, it is recommended to achieve glucose levels as close to normal as is safely possible without excessive hypoglycemia, ideally A1C &#x3C;6.5% (&#x3C;48 mmol/mol). Preconception glycemic goals should be achieved using therapies approved for use in pregnancy. Setting preconception glucose goals is helpful in guiding insulin dose adjustments. The following preconception glucose goals have been advised:  \n- Preprandial glucose: 80–110 mg/dL (4.4–6.1 mmol/L)\n- 2 h postprandial glucose: &#x3C;155 mg/dL (&#x3C;8.6 mmol/L)",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "Preconception Care",
+      "page_number": 4,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "- Preprandial glucose: 80–110 mg/dL (4.4–6.1 mmol/L)\n- 2 h postprandial glucose: &#x3C;155 mg/dL (&#x3C;8.6 mmol/L)  \nPrandial insulin dose should be reduced for postprandial glucose &#x3C;100 mg/dL (5.6 mmol/L). For individuals with preexisting diabetes, the presence of microvascular complications is associated with higher risk of disease progression and adverse pregnancy outcomes. Diabetes-specific testing should include A1C, creatinine, and urinary albumin-to-creatinine ratio. Special attention should be paid to the review of the medication list for potentially harmful drugs, e.g., ACE inhibitors, angiotensin receptor blockers, and lipid-lowering medications including statins in some cases.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "Preconception Care",
+      "page_number": 4,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "For individuals using medications that are not approved for use in pregnancy (such as some glucose-lowering, lipid-lowering, and antihypertensive agents), preconception care should include recommendations for when changes in medications should occur to stabilize the conditions and risk factors managed by these medications (such as glucose levels, weight, lipids, and blood pressure) on alternate therapies prior to pregnancy. Glucagon-like peptide 1 receptor agonists (GLP-1 RAs) and dual glucose-dependent insulinotropic polypeptide (GIP) and GLP-1 RAs should be discontinued prior to pregnancy, and contraception should be used while taking them.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "Preconception Care",
+      "page_number": 4,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "## Insulin Physiology\nPregnancy in people with normal glucose metabolism is characterized by fasting glucose levels that are lower than those in the nonpregnant state due to insulin-independent glucose uptake by the fetus and placenta and by mild postprandial hyperglycemia and carbohydrate intolerance as a result of diabetogenic placental factors. Early pregnancy may be a time of enhanced insulin sensitivity and lower glucose levels, followed by progressive insulin resistance in the second and third trimesters. Insulin resistance drops rapidly with the delivery of the placenta. In people with normal pancreatic function, insulin production is sufficient to meet the challenge of this physiological insulin resistance and to maintain normal glucose levels. However, in people with diabetes, hyperglycemia occurs if treatment is not adjusted appropriately.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "Insulin Physiology",
+      "page_number": 4,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "## Glycemic Goals in Pregnancy  \n### Recommendations\n- **15.8** Fasting, preprandial, and postprandial blood glucose monitoring are recommended in individuals with diabetes in pregnancy to achieve optimal glucose levels. Glucose goals are:\n- Fasting plasma glucose: &#x3C;95 mg/dL (&#x3C;5.3 mmol/L)\n- 1-h postprandial glucose: &#x3C;140 mg/dL (&#x3C;7.8 mmol/L)\n- 2-h postprandial glucose: &#x3C;120 mg/dL (&#x3C;6.7 mmol/L)  \n- **15.9** Due to increased red blood cell turnover, A1C is slightly lower during pregnancy in people with and without diabetes. Ideally, the A1C goal in pregnancy is &#x3C;6% (&#x3C;42 mmol/mol) if this can be achieved without significant hypoglycemia, but the goal may be relaxed to &#x3C;7% (&#x3C;53 mmol/mol) if necessary to prevent hypoglycemia.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "Glycemic Goals in Pregnancy",
+      "subsection_heading": "Recommendations",
+      "page_number": 4,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "- **15.10** Continuous glucose monitoring (CGM) can help to achieve glycemic goals (e.g., time in range, time above range) in type 1 diabetes and pregnancy and may be beneficial for other types of diabetes in pregnancy.  \n- **15.11** Recommend CGM to pregnant individuals with type 1 diabetes. In conjunction with aims to achieve traditional pre- and postprandial glycemic goals, CGM can reduce the risk for large-for-gestational-age infants and neonatal hypoglycemia in pregnancy complicated by type 1 diabetes.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "Glycemic Goals in Pregnancy",
+      "subsection_heading": "Recommendations",
+      "page_number": 4,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "### Table 15.2: Recommended Goals for Pregnant People with Type 1 or Type 2 Diabetes\n| Measurement | Goal |\n|-------------|------|\n| Fasting plasma glucose | &#x3C;95 mg/dL (&#x3C;5.3 mmol/L) |\n| 1-h postprandial glucose | &#x3C;140 mg/dL (&#x3C;7.8 mmol/L) |\n| 2-h postprandial glucose | &#x3C;120 mg/dL (&#x3C;6.7 mmol/L) |\n| A1C | &#x3C;6% (&#x3C;42 mmol/mol) if achievable without significant hypoglycemia; &#x3C;7% (&#x3C;53 mmol/mol) if necessary |  \nHypoglycemia in pregnancy is defined and discussed in Recommendations 6.10–6.19.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "Glycemic Goals in Pregnancy",
+      "subsection_heading": "Table 15.2: Recommended Goals for Pregnant People with Type 1 or Type 2 Diabetes",
+      "page_number": 4,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "# Management of Diabetes in Pregnancy  \n## Table 15.2—Blood glucose goals in pregnancies associated with diabetes  \n| Glucose measurement              | Type 1 diabetes or type 2 diabetes^ | GDM treated with insulin | GDM not treated with insulin |\n|----------------------------------|-------------------------------------|--------------------------|------------------------------|\n| Fasting glucose                  | 70–95 mg/dL (3.9–5.3 mmol/L)      | 70–95 mg/dL (3.9–5.3 mmol/L) | &#x3C;95 mg/dL (&#x3C;5.3 mmol/L)      |\n| 1-h postprandial glucose         | 110–140 mg/dL* (6.1–7.8 mmol/L)   | 110–140 mg/dL* (6.1–7.8 mmol/L) | &#x3C;140 mg/dL* (&#x3C;7.8 mmol/L)    |\n| 2-h postprandial glucose         | 100–120 mg/dL (5.6–6.7 mmol/L)    | 100–120 mg/dL (5.6–6.7 mmol/L) | &#x3C;120 mg/dL (&#x3C;6.7 mmol/L)      |",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "Table 15.2—Blood glucose goals in pregnancies associated with diabetes",
+      "page_number": 5,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "| 2-h postprandial glucose         | 100–120 mg/dL (5.6–6.7 mmol/L)    | 100–120 mg/dL (5.6–6.7 mmol/L) | &#x3C;120 mg/dL (&#x3C;6.7 mmol/L)      |  \nGestational diabetes mellitus (GDM) blood glucose goals shown are recommended by the Fifth International Workshop-Conference on Gestational Diabetes Mellitus (45). Lower glucose limits do not apply to individuals with type 2 diabetes treated with nutrition alone. Aim for less stringent goals if these cannot be achieved without significant hypoglycemia, based on clinical experience and individualization of care. Optimal goal includes either a 1-h postprandial glucose level or 2-h postprandial glucose level within the column of type of diabetes.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "Table 15.2—Blood glucose goals in pregnancies associated with diabetes",
+      "page_number": 5,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "## Goals, Hypoglycemia, and Hyperglycemic Crises  \nThe most appropriate hypoglycemia threshold level in pregnancy has not been validated but has ranged from &#x3C;60 to &#x3C;70 mg/dL (&#x3C;3.3 to &#x3C;3.9 mmol/L) in the past. Current recommendations for hypoglycemia thresholds include blood glucose &#x3C;70 mg/dL (&#x3C;3.9 mmol/L) and sensor glucose &#x3C;63 mg/dL (&#x3C;3.5 mmol/L) (43,44). These fasting or premeal and postprandial glucose values represent optimal levels if they can be achieved safely. In practice, it may be challenging for a person with type 1 diabetes to achieve these goals without hypoglycemia, particularly those with a history of recurrent hypoglycemia or impaired awareness of hypoglycemia. If an individual cannot achieve these goals without significant hypoglycemia, aim for less stringent goals based on clinical experience and individualization of care.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "page_number": 5,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "For individuals with GDM, the glucose goals recommended by the Fifth International Workshop-Conference on Gestational Diabetes Mellitus should be used (45) (Table 15.2). For individuals found to have hyperglycemia less than overt diabetes on early pregnancy screening, the benefits of treatment remain uncertain, and controversy exists regarding optimal management strategies, with professional society guidance being conflicting (46,47). While hyperglycemia less than overt diabetes in early pregnancy has been associated with increased risk of adverse pregnancy and neonatal outcomes and higher risk of a later GDM diagnosis (see Recommendation 2.32b) (48–52), it has not been established that universal treatment in early pregnancy (prior to the usual time of GDM diagnosis and treatment at 24–28 weeks’ gestation) is beneficial for all individuals in this group.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "page_number": 5,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "Most randomized controlled trials (RCTs) of treatment of early abnormal glucose have been underpowered for outcomes. One large multicenter RCT (Treatment of Booking Gestational Diabetes Mellitus [TOBOGM] trial), which enrolled pregnant individuals with at least one risk factor for hyperglycemia, administered early screening (mean 15.6 ± 2.5 weeks) for GDM with a 75-g OGTT (53). Individuals who met World Health Organization criteria for GDM were randomized to receive early treatment or a repeat OGTT at 24–28 weeks (with deferred treatment if indicated). The first primary outcome measure was an adverse neonatal composite outcome including birth &#x3C;37 weeks, birth weight ≥4.5 kg, birth trauma, neonatal respiratory distress within 24 h of birth, phototherapy, stillbirth neonatal death, or shoulder dystocia. Early GDM treatment resulted in a modest improvement in the composite adverse neonatal outcome (24.9% early treatment vs. 30.5% control group, relative risk 0.82 [0.68–0",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "page_number": 5,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": ". Early GDM treatment resulted in a modest improvement in the composite adverse neonatal outcome (24.9% early treatment vs. 30.5% control group, relative risk 0.82 [0.68–0.98]), although this was driven primarily by differences in rates of neonatal respiratory distress between groups that included neonates requiring ≥4 h of supplemental oxygen who may not have required a higher level of respiratory care. In prespecified subgroup analyses, there was a suggestion of more benefit among individuals who had the OGTT at &#x3C;14 weeks and among those with OGTT glycemic values in higher glycemic ranges (53).",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "page_number": 5,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "Subsequent secondary analyses have shed additional light on which subgroups may derive greatest benefit from treatment. Importantly, almost one-third of individuals randomized to observation demonstrated regression of GDM when retested at 24–28 weeks’ gestation. Pregnancy outcomes among participants with regression were similar to those of individuals without GDM (54), and these individuals are therefore unlikely to benefit from treatment in this subgroup. While RCT data to guide clinical practice in this subgroup are lacking, it is possible that selective treatment of early pregnancy hyperglycemia within this subgroup would lead to more pronounced reductions in adverse pregnancy and neonatal outcomes.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "page_number": 5,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "# Management of Diabetes in Pregnancy\nDiabetes Care Volume 49, Supplement 1, January 2026  \nTherefore, the benefits of treatment of early abnormal glucose metabolism remain uncertain. Nutrition counseling and periodic testing of fasting glucose levels (e.g., 3–4 times per week) are suggested. Testing frequency may proceed to daily, and treatment may be intensified if fasting plasma glucose is predominantly ≥110 mg/dL (≥6.1 mmol/L) prior to 15 weeks of gestation. Individualized discussion of areas of uncertainty and the option to treat for fasting glucose ≥110 mg/dL (≥6.1 mmol/L) via shared decision-making is reasonable. When treatment for early abnormal glucose metabolism is initiated, fasting and postprandial glucose levels should be monitored, and the standard glucose goals recommended in pregnancies associated with diabetes (Table 15.2) should be used.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "page_number": 6,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "## A1C in Pregnancy\nIn studies of individuals without preexisting diabetes, increasing A1C levels within the normal range are associated with adverse outcomes. In the Hyperglycemia and Adverse Pregnancy Outcome (HAPO) study, increasing levels of glycemia were also associated with worsening outcomes. Observational studies in preexisting diabetes and pregnancy show the lowest rates of adverse fetal outcomes in association with A1C &#x3C;6–6.5% (&#x3C;42–48 mmol/mol) early in gestation. Clinical trials have not evaluated the risks and benefits of achieving these goals, and treatment goals should account for the risk of maternal hypoglycemia in setting an individualized goal of &#x3C;6% (&#x3C;42 mmol/mol) to &#x3C;7% (&#x3C;53 mmol/mol). Due to physiological increases in red blood cell turnover, A1C levels fall during normal pregnancy. Additionally, as A1C represents an integrated measure of glucose, it may not fully capture postprandial hyperglycemia, which drives macrosomia.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "A1C in Pregnancy",
+      "page_number": 6,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "Thus, although A1C may be useful, it should be used as a secondary measure of glycemia in pregnancy, after glucose monitoring. In the second and third trimesters, A1C &#x3C;6% (&#x3C;42 mmol/mol) has the lowest risk of large-for-gestational-age infants, preterm delivery, and preeclampsia. Taking all of this into account, a goal of &#x3C;6% (&#x3C;42 mmol/mol) is optimal during pregnancy if it can be achieved without significant hypoglycemia, which, in addition to the usual adverse sequelae, may increase the risk of low birth weight.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "A1C in Pregnancy",
+      "page_number": 6,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "## Continuous Glucose Monitoring in Pregnancy\nThe Continuous Glucose Monitoring in Pregnant Women With Type 1 Diabetes Trial (CONCEPTT) was an RCT of CGM in addition to standard care, including optimization of pre- and postprandial glucose goals, versus standard care for pregnant people with type 1 diabetes. It demonstrated the value of using real-time CGM in pregnant individuals with type 1 diabetes by showing a mild improvement in A1C and significant improvements in the maternal glucose time in range (TIR) and time above range (TAR), without an increase in hypoglycemia, and reductions in large-for-gestational-age births, length of infant hospital stays, and severe neonatal hypoglycemia.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "Continuous Glucose Monitoring in Pregnancy",
+      "page_number": 6,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "An observational cohort study that evaluated the glycemic variables reported using CGM systems found that lower mean glucose, lower SD, and higher percentage of TIR were associated with lower risks of large-for-gestational-age births and other adverse neonatal outcomes. Data from one study suggest that use of the CGM-reported mean glucose is superior to use of estimated A1C, glucose management indicator, and other calculations to estimate A1C, given the changes to A1C that occur in pregnancy.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "Continuous Glucose Monitoring in Pregnancy",
+      "page_number": 6,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "One RCT and several observational studies have found that a 5% increase in CGM TIR was associated with improvements in neonatal morbidity, including large-for-gestational-age births and neonatal intensive care unit admissions. CGM TIR can be used for assessment of glycemic outcomes in people with type 1 diabetes, but it does not provide actionable data to address fasting and postprandial hypoglycemia or hyperglycemia. The cost of CGM use by pregnant individuals with type 1 diabetes is offset by improved maternal and neonatal outcomes.  \nAt this time, there are insufficient data to support the use of CGM in all people with type 2 diabetes or GDM. One RCT evaluating the use of CGM or standard BGM in GDM found no significant difference in the primary endpoint, a composite of adverse perinatal and neonatal outcomes. TIR was lower in the CGM group, though CGM use was preferred by participants.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "Continuous Glucose Monitoring in Pregnancy",
+      "page_number": 6,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "In contrast, another study found that the accuracy of one CGM system among pregnant individuals with type 1 diabetes, type 2 diabetes, and GDM has been demonstrated, supporting its use in pregnancy without confirmatory capillary blood glucose measurements. The proportion of CGM values within 20% or 20 mg/dL of comparator values was 78.6% on day 1 of sensor wear, increased to 96.3% on days 4 and 7, and increased to 97.3% on day 10. Although CGM systems for use in pregnancy do not require calibrations and are approved for nonadjunctive use, determination of glucose levels by finger stick is advised in certain circumstances, such as following correction of hypoglycemia, when symptoms do not match sensor glucose reading, and on the first day of use when sensor accuracy may be lower. Selection of CGM device should be based on an individual’s circumstances, preferences, and needs.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "Continuous Glucose Monitoring in Pregnancy",
+      "page_number": 6,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "## Goals for Sensor Glucose Ranges in Pregnancy\nGoals for sensor glucose ranges in pregnancy are as follows:  \n| Glucose Measurement | Target Range |\n|---------------------|--------------|\n| Fasting              | &#x3C;95 mg/dL   |\n| 1-hour postprandial  | &#x3C;140 mg/dL  |\n| 2-hour postprandial  | &#x3C;120 mg/dL  |  \nThis table summarizes the recommended glucose targets for pregnant individuals with diabetes.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "Goals for Sensor Glucose Ranges in Pregnancy",
+      "page_number": 6,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "# Management of Diabetes in Pregnancy  \n## Recommendations  \n### Nutrition Counseling\n15.14 Nutrition counseling before and during pregnancy should promote an eating pattern including fruits, vegetables, legumes, whole grains, nuts, seeds, fish, and other lean protein, which will provide a balance of macronutrients and healthy n-3 fatty acids.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "Recommendations",
+      "subsection_heading": "Nutrition Counseling",
+      "page_number": 7,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "### Lifestyle Behavior Change\n15.15 Lifestyle behavior change is an essential component of management of GDM and may suffice as treatment for many individuals. Insulin should be added if needed to achieve glycemic goals.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "Recommendations",
+      "subsection_heading": "Lifestyle Behavior Change",
+      "page_number": 7,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "### Telehealth Visits\n15.16 Telehealth visits used in combination with in-person visits for pregnant people with GDM can improve outcomes compared with standard in-person care alone.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "Recommendations",
+      "subsection_heading": "Telehealth Visits",
+      "page_number": 7,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "### Insulin Management\n15.17 Insulin should be used to manage type 1 diabetes in pregnancy and is the preferred agent for the management of GDM and type 2 diabetes in pregnancy.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "Recommendations",
+      "subsection_heading": "Insulin Management",
+      "page_number": 7,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "### Insulin Delivery Methods\n15.18 Either multiple daily injections or insulin pump technology can be used in pregnancy complicated by type 1 diabetes.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "Recommendations",
+      "subsection_heading": "Insulin Delivery Methods",
+      "page_number": 7,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "### Automated Insulin Delivery Systems\n15.19 Automated insulin delivery (AID) systems with pregnancy-specific glucose targets are recommended for pregnant individuals with type 1 diabetes.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "Recommendations",
+      "subsection_heading": "Automated Insulin Delivery Systems",
+      "page_number": 7,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "### AID Systems Without Specific Targets\n15.20 AID systems without pregnancy-specific glucose targets or a pregnancy-specific algorithm may be considered for select pregnant individuals with type 1 diabetes when used with assistive techniques and working with experienced health care teams.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "Recommendations",
+      "subsection_heading": "AID Systems Without Specific Targets",
+      "page_number": 7,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "### Metformin and Glyburide\n15.21 Metformin and glyburide, individually or in combination, should not be used as first-line agents for management of diabetes in pregnancy, as both cross the placenta to the fetus.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "Recommendations",
+      "subsection_heading": "Metformin and Glyburide",
+      "page_number": 7,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "## Medical Nutrition Therapy\nThe management of pregnancies associated with diabetes includes appropriate nutrition, lifestyle and behavior management, physical activity goals, and pharmacotherapy to support the maternal, fetal, and placental needs and reach glycemic goals regardless of the diabetes type.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "Medical Nutrition Therapy",
+      "page_number": 7,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "### Goals for Time in Glucose Ranges\n- Goal sensor glucose range: 63–140 mg/dL (3.5–7.8 mmol/L)\n- Time in Range (TIR), goal >70%\n- Time Below Range (TBR) (&#x3C;63 mg/dL [&#x3C;3.5 mmol/L]): level 1 TBR, goal &#x3C;4%\n- TBR (&#x3C;54 mg/dL [&#x3C;3.0 mmol/L]): level 2 TBR, goal &#x3C;1%\n- Time Above Range (TAR) (>140 mg/dL [>7.8 mmol/L]): TAR, goal &#x3C;25%",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "Medical Nutrition Therapy",
+      "subsection_heading": "Goals for Time in Glucose Ranges",
+      "page_number": 7,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "### Dietary Reference Intake\nThe recommended dietary reference intake for all pregnant people is a minimum of 175 g of carbohydrate (∼35% of a 2,000-calorie diet), a minimum of 71 g of protein, and 28 g of fiber. The nutrition plan should emphasize monounsaturated and polyunsaturated fats while limiting saturated fats and avoiding trans fats.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "Medical Nutrition Therapy",
+      "subsection_heading": "Dietary Reference Intake",
+      "page_number": 7,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "### Carbohydrate Quality\nThe amount and type of carbohydrate will impact glucose levels. Promoting higher-quality, nutrient-dense carbohydrates results in improved fasting or postprandial glucose levels, lower free fatty acids, improved insulin action, and vascular benefits, and it may reduce excess infant adiposity.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "Medical Nutrition Therapy",
+      "subsection_heading": "Carbohydrate Quality",
+      "page_number": 7,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "### Risks of Carbohydrate Restriction\nCarbohydrate restriction can increase the risk of higher dietary fat consumption, which may lead to fetal overgrowth. Simple carbohydrates will result in higher postmeal excursions.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "Medical Nutrition Therapy",
+      "subsection_heading": "Risks of Carbohydrate Restriction",
+      "page_number": 7,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "### Medical Nutrition Therapy for GDM\nMedical nutrition therapy for GDM is an individualized nutrition plan developed between the pregnant person and a Registered Dietitian Nutritionist (RDN) familiar with the management of GDM. The food plan should provide adequate calorie intake to promote fetal, neonatal, and maternal health, achieve glycemic goals, and promote appropriate weight gain.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "Medical Nutrition Therapy",
+      "subsection_heading": "Medical Nutrition Therapy for GDM",
+      "page_number": 7,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "### Nutritional Assessment\nThe food plan should be based on a nutrition assessment with dietary reference intake guidance from the National Academy of Medicine. An expert panel on nutrition in pregnancy and the U.S. Department of Health and Human Services recommend a balance of macronutrients. An eating pattern that severely restricts any macronutrient class should be avoided, specifically the ketogenic eating pattern that lacks carbohydrates, the paleo eating pattern because of dairy restriction, and any eating pattern characterized by excess saturated fats.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "Medical Nutrition Therapy",
+      "subsection_heading": "Nutritional Assessment",
+      "page_number": 7,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "### Conclusion\nPregnant individuals with diabetes are recommended to consume whole foods, emphasizing a balanced diet to support their health and the health of their fetus.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "Medical Nutrition Therapy",
+      "subsection_heading": "Conclusion",
+      "page_number": 7,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "# Management of Diabetes in Pregnancy\n**Diabetes Care Volume 49, Supplement 1, January 2026**",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "page_number": 8,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "## Lifestyle Counseling\nLifestyle counseling, particularly when interventions are started during the first trimester or early in the second trimester, is crucial. After diagnosis of gestational diabetes mellitus (GDM), treatment starts with medical nutrition therapy, physical activity, and weight management, depending on pregestational weight. Studies suggest that 70–85% of people diagnosed with GDM under Carpenter-Coustan criteria can manage GDM with lifestyle modification alone; this proportion may be higher with lower diagnostic thresholds.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "Lifestyle Counseling",
+      "page_number": 8,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "## Physical Activity\nIt is recommended that generally healthy people do at least 150 minutes of moderate-intensity aerobic activity each week during pregnancy and postpartum, preferably spread throughout the week. Adjustments to a physical activity routine should be done in consultation with a healthcare professional, especially if considering significant changes in physical activity intensity. Regular exercise has been reported to reduce the odds of developing GDM, gestational hypertension, and preeclampsia.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "Physical Activity",
+      "page_number": 8,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "## Pharmacologic Therapy  \n### Insulin\nInsulin should be used to manage type 1 diabetes in pregnancy and is preferred for the management of type 2 diabetes and GDM. The physiology of pregnancy necessitates frequent titration of insulin to match changing requirements. In early pregnancy, many people with type 1 diabetes will have lower insulin requirements and an increased risk for hypoglycemia. Insulin resistance begins to increase around 16 weeks, and total daily insulin doses increase linearly by approximately 5% per week through week 36.  \n#### Insulin Options\n- **Basal Insulin**: Options include insulin glargine (long-acting), NPH insulin (intermediate-acting), and insulin degludec (ultralong-acting). Insulin detemir was removed from the market and is no longer available.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "Pharmacologic Therapy",
+      "subsection_heading": "Insulin",
+      "page_number": 8,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "- **Rapid-Acting Insulin**: Insulin aspart and insulin lispro are widely considered safe and effective for use during pregnancy. Faster-acting insulin aspart has shown similar fetal growth and A1C relative to insulin aspart.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "Pharmacologic Therapy",
+      "subsection_heading": "Insulin",
+      "page_number": 8,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "### Delivery Strategies\nBoth multiple daily insulin injections and continuous subcutaneous insulin infusion are reasonable delivery strategies in pregnancy, with neither showing superiority over the other. Automated insulin delivery (AID) systems have been studied in pregnancy and postpartum, but current FDA-approved AID systems do not have algorithms designed to achieve pregnancy-specific glucose goals.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "Pharmacologic Therapy",
+      "subsection_heading": "Delivery Strategies",
+      "page_number": 8,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "## Health Care Delivery for People With Diabetes in Pregnancy\nTeam-based care is recommended either through a single specialized center or multiple centers with interprofessional team members as part of the care plan. None of the currently available human insulin preparations have been demonstrated to cross the placenta. Insulins studied in randomized controlled trials (RCTs) are preferred over those studied in cohort studies.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "Health Care Delivery for People With Diabetes in Pregnancy",
+      "page_number": 8,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "### Summary of Recommendations\n- **Lifestyle Modifications**: Emphasize medical nutrition therapy, physical activity, and weight management.\n- **Insulin Management**: Frequent monitoring and titration of insulin are essential.\n- **Exercise**: Encourage regular physical activity to improve glycemic control and reduce risks.\n- **Team-Based Care**: Utilize interprofessional teams for comprehensive management.  \nThis document outlines the management strategies for diabetes in pregnancy, emphasizing the importance of lifestyle modifications, pharmacologic therapy, and coordinated healthcare delivery.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "Health Care Delivery for People With Diabetes in Pregnancy",
+      "subsection_heading": "Summary of Recommendations",
+      "page_number": 8,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "# Management of Diabetes in Pregnancy  \n## Automated Insulin Delivery (AID) Systems  \nThe lowest glucose target available for most systems is higher than the fasting glucose target range recommended during pregnancy. Initiating or continuing AID systems during pregnancy therefore needs to be assessed carefully. Selected individuals with type 1 diabetes should be evaluated as potential candidates for AID systems in the setting of expert guidance. Recent data have shown the clinical benefits and safety of AID use, though only one study used an AID system with a pregnancy-specific glucose target.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "Automated Insulin Delivery (AID) Systems",
+      "page_number": 9,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "In the Automated Insulin Delivery Among Pregnant women with Type 1 diabetes [AiDAPT] trial, 124 pregnant individuals with type 1 diabetes were randomized to either an AID system with glucose targets that could be set near or in the pregnancy-specific fasting glucose range or standard of care (CGM with either multiple daily injections or standard insulin pump therapy). Investigators recommended pump glucose targets of 100 mg/dL in early pregnancy and 81–90 mg/dL from 16 to 20 weeks onward.  \nThe AID group had a higher Time in Range (TIR) (10.5% difference between groups, P &#x3C; 0.001), lower Time Above Range (TAR) (−10.2% [95% CI −13.8 to −6.6]), and lower A1C (−0.31% [−0.50 to −0.12]). A subset of participants who were interviewed reported benefits with AID use during pregnancy (e.g., more enjoyment of pregnancy, better sleep, less worry). The AID system evaluated in this study is FDA approved but is not currently available in the U.S.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "Automated Insulin Delivery (AID) Systems",
+      "page_number": 9,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "There have additionally been RCTs examining AID systems that do not have either pregnancy-specific glucose targets in the algorithms or algorithms that adapt specifically to pregnancy but were used with assistive techniques. In a study with 95 pregnant individuals with type 1 diabetes, participants used an AID system set to a glucose target of 100 mg/dL or to standard of care. The 24-h TIR was similar between groups, but the nocturnal TIR was higher (6.58%, P = 0.003), the 24-h Time Below Range (TBR) was lower (−1.34%, P = 0.002), and the nocturnal TBR was lower (−1.86%, P = 0.0005) in the AID group. AID users reported higher diabetes treatment satisfaction and had less hypoglycemia unawareness.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "Automated Insulin Delivery (AID) Systems",
+      "page_number": 9,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "### Postpartum Adjustment of AID  \nIn a pre-specified extension to the AiDAPT trial, participants continued either AID or standard insulin therapy for 6 months postpartum. TIR was higher and mean glucose lower in the AID group, without significant differences in hypoglycemia. Suggested strategies for postpartum adjustment of AID pump settings have been described.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "Automated Insulin Delivery (AID) Systems",
+      "subsection_heading": "Postpartum Adjustment of AID",
+      "page_number": 9,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "## Treatment of Gestational Diabetes Mellitus (GDM)  \nTreatment of GDM with lifestyle and insulin has been demonstrated to improve perinatal outcomes in two large RCTs, as summarized in a U.S. Preventive Services Task Force review. Insulin is the first-line agent recommended for the treatment of GDM in the U.S. While individual studies support limited efficacy of metformin and glyburide in reducing glucose levels for the treatment of GDM, these agents are not recommended as the first-line treatment of GDM because they are known to cross the placenta and data on long-term safety for offspring is of some concern.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "Treatment of Gestational Diabetes Mellitus (GDM)",
+      "page_number": 9,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "### Sulfonylureas  \nSulfonylureas are known to cross the placenta and have been associated with increased neonatal hypoglycemia. Concentrations of glyburide in umbilical cord plasma are approximately 50–70% of maternal levels. In systematic reviews and meta-analyses, compared with insulin or metformin, glyburide was associated with a higher rate of neonatal hypoglycemia and macrosomia and an increased neonatal abdominal circumference.  \nGlyburide was not found to be noninferior to insulin based on a composite outcome of neonatal hypoglycemia, macrosomia, and hyperbilirubinemia among individuals with GDM. In a randomized noninferiority trial evaluating insulin compared with an oral glucose-lowering medication strategy (metformin with addition of glyburide and then insulin substitution for glyburide if glycemic goals were not met), the oral glucose-lowering medication strategy failed to meet criteria for noninferiority compared with insulin.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "Treatment of Gestational Diabetes Mellitus (GDM)",
+      "subsection_heading": "Sulfonylureas",
+      "page_number": 9,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "# Management of Diabetes in Pregnancy\nDiabetes Care Volume 49, Supplement 1, January 2026",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "page_number": 10,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "## Metformin\nMetformin was associated with a lower risk of neonatal hypoglycemia and less maternal weight gain than insulin in systematic reviews and RCTs for GDM treatment, but treatment monotherapy failure occurred in 14–46% of individuals. A meta-analysis of 11 RCTs demonstrated that metformin treatment in pregnancy does not reduce the risk of GDM in high-risk individuals with obesity, polycystic ovary syndrome, or preexisting insulin resistance. RCTs of individuals with preexisting type 2 diabetes treated either with insulin alone or insulin plus metformin did not show differences in composite neonatal health outcomes between groups, and one of these also included individuals diagnosed with diabetes early in gestation. Neonatal birth weights were smaller in the metformin groups of these studies, but the metformin group experienced more drug intolerance in one study and there was a doubling of small-for-gestational-age neonates in the other.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "Metformin",
+      "page_number": 10,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "RCTs comparing metformin with other therapies for ovulation induction in individuals with polycystic ovary syndrome have not demonstrated benefit in preventing spontaneous abortion or GDM, and there is no evidence-based need to continue metformin in these individuals. Of note, metformin readily crosses the placenta, resulting in umbilical cord blood levels of metformin as high or higher than simultaneous maternal levels. In a primate model, metformin initiated early in gestation led to fetal bioaccumulation of metformin, growth restriction, and renal dysmorphology. In the Metformin in Gestational Diabetes: The Offspring Follow-Up (MiG TOFU) study’s analyses of 7- to 9-year-old offspring, the 9-year-old offspring exposed to metformin for the treatment of GDM in the Auckland cohort (but not the Adelaide cohort) were heavier and had a higher waist-to-height ratio and waist circumference than those exposed to insulin.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "Metformin",
+      "page_number": 10,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "There are some people with GDM requiring medical therapy who may not be able to use insulin safely or effectively during pregnancy due to cost, comprehension, or cultural influences. Oral agents may be an alternative for these individuals after discussing the known risks and the need for more long-term safety data in offspring. However, due to the potential for growth restriction or acidosis in the setting of placental insufficiency, metformin should not be used in pregnant people with hypertension or preeclampsia or those at risk for intrauterine growth restriction.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "Metformin",
+      "page_number": 10,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "## Special Considerations for Management of Pregnancies With Diabetes  \n### Recommendation\n15.23 Pregnant individuals with type 1 or type 2 diabetes should be prescribed low-dose aspirin 100–150 mg/day starting at 12–16 weeks of gestation to lower the risk of preeclampsia. A dosage of 162 mg/day may be acceptable; currently, in the U.S., low-dose aspirin is available in 81-mg tablets.  \nDiabetes in pregnancy is associated with an increased risk of preeclampsia. The U.S. Preventive Services Task Force recommends that blood pressure measurements be obtained throughout gestation to screen for hypertensive disorders of pregnancy.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "Special Considerations for Management of Pregnancies With Diabetes",
+      "subsection_heading": "Recommendation",
+      "page_number": 10,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "Pregnant individuals with type 1 diabetes have an increased risk of hypoglycemia in the first trimester and after delivery, and like all pregnant people, they have altered counterregulatory response in pregnancy that may decrease hypoglycemia awareness. Education for people with diabetes and family members about the prevention, recognition, and treatment of hypoglycemia is important before, during, and after pregnancy to help prevent and manage hypoglycemia risk.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "Special Considerations for Management of Pregnancies With Diabetes",
+      "subsection_heading": "Recommendation",
+      "page_number": 10,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "Pregnancy is a ketogenic state, and people with type 1 diabetes and, to a lesser extent, those with type 2 diabetes are at risk for diabetic ketoacidosis (DKA) at lower blood glucose levels than in the nonpregnant state. Pregnant people with type 1 diabetes should be advised to obtain ketone test strips and receive education on DKA prevention and detection. DKA carries a high risk of stillbirth. Those in DKA who are unable to eat often require intravenous fluid containing dextrose with an insulin drip to adequately meet the higher carbohydrate demands of the placenta and fetus in the third trimester to resolve their ketosis.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "Special Considerations for Management of Pregnancies With Diabetes",
+      "subsection_heading": "Recommendation",
+      "page_number": 10,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "Retinopathy is a special concern in pregnancy. The necessary rapid implementation of euglycemia in the setting of retinopathy is associated with worsening of retinopathy. Meta-analyses have also demonstrated a high risk of new-onset retinopathy and progression of existing retinopathy in pregnant individuals with type 1 or type 2 diabetes. Therefore, it is recommended that individuals with preexisting diabetes have dilated eye examinations before pregnancy, in each trimester of pregnancy, and for 1 year postpartum as indicated by the degree of retinopathy and as recommended by the eye care health care professional.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "Special Considerations for Management of Pregnancies With Diabetes",
+      "subsection_heading": "Recommendation",
+      "page_number": 10,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "### Recommended Weight Gain\nRecommended weight gain during pregnancy for people with overweight status is 15–25 lbs (6.8–11.3 kg) and for those with obesity is 10–20 lbs (4.5–9.1 kg). There are no adequate data on optimal weight gain versus weight maintenance in pregnant people with BMI >35 kg/m²; however, losing weight is not recommended because of the increased risk of small-for-gestational-age infants.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "Special Considerations for Management of Pregnancies With Diabetes",
+      "subsection_heading": "Recommended Weight Gain",
+      "page_number": 10,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "# Management of Diabetes in Pregnancy  \n## Recommendations  \n### 15.24\nIn pregnant individuals with diabetes and chronic hypertension, a blood pressure threshold &#x3C;140/90 mmHg is recommended for initiation and titration of therapy for better pregnancy outcomes. Therapy should be deintensified if blood pressure is &#x3C;90/60 mmHg.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "Recommendations",
+      "subsection_heading": "15.24",
+      "page_number": 11,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "### 15.25a\nPotentially harmful medications in pregnancy (e.g., ACE inhibitors, angiotensin receptor blockers, mineralocorticoid receptor antagonists) should be stopped prior to conception and avoided in sexually active individuals of childbearing potential who are not using reliable contraception.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "Recommendations",
+      "subsection_heading": "15.25a",
+      "page_number": 11,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "### 15.25b\nIn most circumstances, lipid-lowering medications should be stopped prior to conception and avoided in sexually active individuals of childbearing potential with diabetes who are not using reliable contraception.  \nIn some circumstances (familial hypercholesterolemia, severe hypertriglyceridemia, prior atherosclerotic cardiovascular disease event), lipid-lowering therapy may be continued when the benefits outweigh risks.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "Recommendations",
+      "subsection_heading": "15.25b",
+      "page_number": 11,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "## Additional Considerations\nACE inhibitors and angiotensin receptor blockers should be stopped prior to pregnancy or as soon as possible in the first trimester to avoid second- and third-trimester fetopathy. Antihypertensive drugs known to be effective and safe in pregnancy include methyldopa, nifedipine, labetalol, and clonidine. Atenolol is not recommended, but other β-blockers may be used if necessary. Diuretic use during pregnancy is generally not recommended, although it may be used safely when prescribed at lower doses for individuals in certain circumstances (e.g., chronic kidney disease and reduced glomerular filtration rate).",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "Additional Considerations",
+      "page_number": 11,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "For most individuals, lipid-lowering medications (e.g., bempedoic acid, PCSK9 therapies, fibrates) should be stopped prior to pregnancy or at the first pregnancy visit. Based on available evidence, statins should also be avoided in pregnancy in most circumstances. The risk of teratogenicity with statins appears to be low, but data are limited. Statins can be considered in a shared decision-making process between pregnant people with diabetes and their health care teams.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "Additional Considerations",
+      "page_number": 11,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "## Summary of Findings\n- A blood pressure threshold of &#x3C;140/90 mmHg is recommended for better pregnancy outcomes.\n- Potentially harmful medications should be avoided in individuals of childbearing potential.\n- Lipid-lowering medications should generally be stopped prior to conception.\n- Safe antihypertensive medications include methyldopa, nifedipine, labetalol, and clonidine.\n- Statins may be considered in specific cases after thorough discussion with healthcare providers.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "Summary of Findings",
+      "page_number": 11,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "## Conclusion\nThe management of diabetes in pregnancy requires careful consideration of blood pressure thresholds, medication safety, and the potential risks and benefits of treatment options. Ongoing research and clinical trials are essential to further refine these guidelines and improve outcomes for pregnant individuals with diabetes.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "Conclusion",
+      "page_number": 11,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "# Management of Diabetes in Pregnancy\nDiabetes Care Volume 49, Supplement 1, January 2026",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "page_number": 12,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "## Discussion of Risks and Benefits in Pregnant Individuals\n- Individuals at high risk, such as those with a history of atherosclerotic cardiovascular disease or familial hypercholesterolemia, may benefit from intensive lifestyle interventions and/or metformin to prevent diabetes.\n- A study indicated that breastfeeding is associated with improved maternal health outcomes, including reduced risks of breast cancer (OR 0.81 [95% CI 0.77–0.86]), ovarian cancer (OR 0.70 [95% CI 0.64–0.75]), and type 2 diabetes (OR 0.68 [95% CI 0.57–0.82]).\n- Breastfeeding may also confer longer-term metabolic benefits to both mother and offspring.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "Discussion of Risks and Benefits in Pregnant Individuals",
+      "page_number": 12,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "## Diabetes Treatment Postpartum\n- For individuals requiring insulin after delivery, insulin sensitivity increases dramatically with the delivery of the placenta. Insulin requirements in the immediate postpartum period are roughly 34% lower than prepregnancy insulin requirements.\n- Individuals with gestational diabetes mellitus (GDM) usually do not require diabetes medications in the postpartum period.\n- A major barrier to effective preconception care is that many pregnancies are unplanned. Therefore, planning pregnancy is critical in individuals with preexisting diabetes to achieve optimal glycemic goals.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "Diabetes Treatment Postpartum",
+      "page_number": 12,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "## Recommendations\n- **15.26** Insulin requirements need to be evaluated and adjusted for individuals requiring insulin after delivery because insulin resistance decreases dramatically immediately postpartum. (C)\n- **15.27** A contraceptive plan should be discussed and implemented with all people with diabetes of childbearing potential. (A)\n- **15.28** Breastfeeding efforts are recommended for all individuals with diabetes. Breastfeeding is recommended for individuals with a history of GDM for multiple benefits, including a reduced risk for type 2 diabetes later in life. (A)\n- **15.29** Postpartum care should include psychosocial assessment and support for self-care. (E)\n- **15.30** Screen individuals with a recent history of GDM at 4–12 weeks postpartum, using the 75-g oral glucose tolerance test and clinically appropriate nonpregnancy diagnostic criteria. (B)",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "Recommendations",
+      "page_number": 12,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "- **15.30** Screen individuals with a recent history of GDM at 4–12 weeks postpartum, using the 75-g oral glucose tolerance test and clinically appropriate nonpregnancy diagnostic criteria. (B)\n- **15.31** Individuals with a history of GDM should have lifelong screening for the development of type 2 diabetes or prediabetes every 1–3 years. (B)\n- **15.32** Individuals with overweight or obesity and a history of GDM found to have prediabetes should receive appropriate interventions.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "Recommendations",
+      "page_number": 12,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "## Special Postpartum Considerations for Individuals With Gestational Diabetes Mellitus\n- Because GDM often represents previously undiagnosed prediabetes, type 2 diabetes, maturity-onset diabetes of the young, or even developing type 1 diabetes, individuals with GDM should be tested for persistent diabetes or prediabetes at 4–12 weeks postpartum with a fasting 75-g OGTT using nonpregnancy criteria.\n- The OGTT is recommended over A1C at 4–12 weeks postpartum, as A1C may be persistently impacted by increased red blood cell turnover related to pregnancy, blood loss at delivery, or by the preceding 3-month glucose profile.\n- The OGTT is more sensitive at detecting glucose intolerance, including both prediabetes and diabetes, and has been examined as a screening tool for these conditions in the first 12 weeks after delivery in individuals who had a recent pregnancy with GDM.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "Special Postpartum Considerations for Individuals With Gestational Diabetes Mellitus",
+      "page_number": 12,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "## Lactation\n- Considering the immediate nutritional and immunological benefits of breastfeeding for the baby, all mothers, including those with diabetes, should be supported in attempts to breastfeed.\n- An analysis of systematic reviews and meta-analyses found that breastfeeding was associated with numerous health benefits for children.  \n----  \nThis document outlines the management of diabetes in pregnancy, emphasizing the importance of postpartum care, breastfeeding, and the need for ongoing screening for diabetes in individuals with a history of gestational diabetes.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "Lactation",
+      "page_number": 12,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "# Management of Diabetes in Pregnancy  \n## Screening and Diagnosis  \nA retrospective study aimed to evaluate the performance of A1C as a postpartum screening test. The study included 677 out of 9,118 individuals with a recent GDM diagnosis who had both A1C and 2-h 75-g OGTT testing performed for clinical purposes between delivery and 12 months postpartum. An A1C level of 5.7% had 80% sensitivity and 80.8% specificity for the detection of a 2-h plasma glucose value ≥200 mg/dL (≥11.1 mmol/L). A weakness of this study is the likelihood of selection bias, as it is not standard of care to perform both tests unless there is higher concern for a diagnosis of diabetes.  \nIndividuals with a history of GDM should have ongoing screening for prediabetes or type 2 diabetes every 1–3 years, even if results of the initial 75-g OGTT at 4–12 weeks postpartum are normal. Ongoing evaluation may be performed with any recommended glycemic test.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "Screening and Diagnosis",
+      "page_number": 13,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "## Risk Assessment  \nIndividuals with a history of GDM have an increased lifetime maternal risk for diabetes estimated at 50–60%. Those with GDM have a 10-fold increased risk of developing type 2 diabetes compared with those without GDM. Absolute risk of developing type 2 diabetes after GDM increases linearly through a person’s lifetime, being approximately 20% at 10 years, 30% at 20 years, 40% at 30 years, 50% at 40 years, and 60% at 50 years. Hazard ratios for incident diabetes were significantly elevated for a history of GDM in a single pregnancy but were even higher for a history of two GDM pregnancies.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "Risk Assessment",
+      "page_number": 13,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "In the prospective Nurses’ Health Study II (NHS II), subsequent diabetes risk after a history of GDM was significantly lower in those who followed healthy eating patterns. Adjusting for BMI moderately attenuated this association. Interpregnancy weight gain is associated with increased risk of adverse pregnancy outcomes and higher risk of GDM, while in people with BMI >25 kg/m², weight loss is associated with lower risk of developing GDM in the subsequent pregnancy.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "Risk Assessment",
+      "page_number": 13,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "## Prevention or Delay of Diabetes and Associated Comorbidities  \nBoth metformin and intensive lifestyle intervention prevent or delay progression to diabetes in individuals with prediabetes and a history of GDM. Only five to six individuals with prediabetes and a history of GDM need to be treated with either intervention to prevent one case of diabetes over 3 years. In these individuals, lifestyle intervention and metformin reduced progression to diabetes by 35% and 40%, respectively, over 10 years.  \nIf pregnancy has motivated the adoption of healthy nutrition, building on these gains to support weight loss is recommended in the postpartum period.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "Prevention or Delay of Diabetes and Associated Comorbidities",
+      "page_number": 13,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "## References  \n1. Dabelea D, Hanson RL, Lindsay RS, et al. Intrauterine exposure to diabetes conveys risks for type 2 diabetes and obesity: a study of discordant sibships. Diabetes 2000;49:2208–2211\n2. Holmes VA, Young IS, Patterson CC, et al.; Diabetes and Pre-eclampsia Intervention Trial Study Group. Optimal glycemic control, preeclampsia, and gestational hypertension in women with type 1 diabetes in the diabetes and pre-eclampsia intervention trial. Diabetes Care 2011;34:1683–1688\n3. Wahabi HA, Fayed A, Esmaeil S, et al. Systematic review and meta-analysis of the effectiveness of pre-pregnancy care for women with diabetes for improving maternal and perinatal outcomes. PLoS One 2020;15:e0237571\n4. Charron-Prochownik D, Sereika SM, Becker D, et al. Long-term effects of the booster-enhanced READY-Girls preconception counseling program on intentions and behaviors for family planning in teens with diabetes. Diabetes Care 2013;36:3870–3874",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "References",
+      "page_number": 13,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "5. ACOG Committee Opinion No. 762. Pre-pregnancy Counseling. Obstet Gynecol 2019;133:e78–e89\n6. Peterson C, Grosse SD, Li R, et al. Preventable health and cost burden of adverse birth outcomes associated with pregestational diabetes in the United States. Am J Obstet Gynecol 2015;212:74.e71–74.e9\n7. Britton LE, Hussey JM, Berry DC, Crandell JL, Brooks JL, Bryant AG. Contraceptive use among women with prediabetes and diabetes in a US national sample. J Midwifery Womens Health 2019;64:36–45\n8. Morris JR, Tepper NK. Description and comparison of postpartum use of effective contraception among women with and without diabetes. Contraception 2019;100:474–479\n9. Goldstuck ND, Steyn PS. The intrauterine device in women with diabetes mellitus type I.\n10. ACOG Practice Bulletin No. 190. Gestational Diabetes Mellitus. Obstet Gynecol 2018;131:e49–e64",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "References",
+      "page_number": 13,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "9. Goldstuck ND, Steyn PS. The intrauterine device in women with diabetes mellitus type I.\n10. ACOG Practice Bulletin No. 190. Gestational Diabetes Mellitus. Obstet Gynecol 2018;131:e49–e64\n11. Metzger BE, Lowe LP, Dyer AR, et al.; HAPO Study Cooperative Research Group. Hyperglycemia and adverse pregnancy outcomes. N Engl J Med 2008;358:1991–2002\n12. Scholtens DM, Kuang A, Lowe LP, et al.; HAPO Follow-Up Study Cooperative Research Group. Hyperglycemia and Adverse Pregnancy Outcome Follow-up Study (HAPO FUS): maternal glycemia and childhood glucose metabolism. Diabetes Care 2019;42:381–392\n13. Lowe WL, Scholtens DM, Kuang A, et al.; HAPO Follow-up Study Cooperative Research Group. Hyperglycemia and Adverse Pregnancy Outcome Follow-up Study (HAPO FUS): maternal gestational diabetes mellitus and childhood glucose metabolism. Diabetes Care 2019;42:372–380\n14. Obesity in pregnancy: ACOG Practice Bulletin, Number 230. Obstet Gynecol 2021;137:e128–e144",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "References",
+      "page_number": 13,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "14. Obesity in pregnancy: ACOG Practice Bulletin, Number 230. Obstet Gynecol 2021;137:e128–e144\n15. Phelan S, Jelalian E, Coustan D, et al. Randomized controlled trial of prepregnancy lifestyle intervention to reduce recurrence of GDM.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "References",
+      "page_number": 13,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "# Management of Diabetes in Pregnancy\nDiabetes Care Volume 49, Supplement 1, January 2026",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "page_number": 14,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "## References\n1. Clausen TD, Mathiesen E, Ekbom P, Hellmuth E, Mandrup-Poulsen T, Damm P. Poor pregnancy outcome in women with type 2 diabetes. Diabetes Care 2005;28:323–328.\n2. Cundy T, Gamble G, Neale L, et al. Differing causes of pregnancy loss in type 1 and type 2 diabetes. Diabetes Care 2007;30:2603–2607.\n3. Barry MJ, Nicholson WK, Silverstein M, et al.; US Preventive Services Task Force. Folic acid supplementation to prevent neural tube defects: US Preventive Services Task Force reaffirmation recommendation statement. JAMA 2023;330:454–459.\n4. Alexander EK, Pearce EN, Brent GA, et al. 2017 Guidelines of the American Thyroid Association for the diagnosis and management of thyroid disease during pregnancy and the postpartum. Thyroid 2017;27:315–389.\n5. Ramos DE. Preconception health: changing the paradigm on well-woman health. Obstet Gynecol Clin North Am 2019;46:399–408.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "References",
+      "page_number": 14,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "5. Ramos DE. Preconception health: changing the paradigm on well-woman health. Obstet Gynecol Clin North Am 2019;46:399–408.\n6. American Diabetes Association. Preconception care of women with diabetes. Diabetes Care 2004;27(Suppl 1):S76–S78.\n7. Relph S, Patel T, Delaney L, Sobhy S, Thangaratinam S. Adverse pregnancy outcomes in women with diabetes-related microvascular disease and risks of disease progression in pregnancy: a systematic review and meta-analysis. PLoS Med 2021;18:e1003856.\n8. Bullo M, Tschumi S, Bucher BS, Bianchetti MG, Simonetti GD. Pregnancy outcome following exposure to angiotensin-converting enzyme inhibitors or angiotensin receptor antagonists: a systematic review. Hypertension 2012;60:444–450.\n9. Agarwala A, Dixon DL, Gianos E, et al. Dyslipidemia management in women of reproductive potential: an expert clinical consensus from the National Lipid Association. J Clin Lipidol 2024;18:e664–e684.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "References",
+      "page_number": 14,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "10. Novo Nordisk. Semaglutide prescribing information. 2023. Accessed 15 August 2025. Available from https://www.novo-pi.com/ozempic.pdf.\n11. Eli Lilly Canada Inc. Tirzepatide product monograph. 2022. Accessed 15 August 2025. Available from https://pdf.hres.ca/dpd_pm/00068421.PDF.\n12. Widyaputri F, Rogers S, Lim L. Global estimates of diabetic retinopathy prevalence and progression in pregnant individuals with preexisting diabetes: a meta-analysis. JAMA Ophthalmol 2022;140:1137–1138.\n13. García-Patterson A, Gich I, Amini SB, Catalano PM, de Leiva A, Corcoy R. Insulin requirements throughout pregnancy in women with type 1 diabetes mellitus: three changes of direction. Diabetologia 2010;53:446–451.\n14. Mathiesen JM, Secher AL, Ringholm L, et al. Changes in basal rates and bolus calculator settings in insulin pumps during pregnancy in women with type 1 diabetes. J Matern Fetal Neonatal Med 2014;27:724–728.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "References",
+      "page_number": 14,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "15. Diabetes Technology Network UK. Best Practice Guide: Using Diabetes Technology in Pregnancy, 2020. Accessed 15 August 2025. Available from https://abcd.care/sites/abcd.care/files/site_uploads/Resources/DTN/BP-Pregnancy-DTN-V2.0.pdf.\n16. de Veciana M, Major CA, Morgan MA, et al. Postprandial versus preprandial blood glucose monitoring in women with gestational diabetes mellitus requiring insulin therapy. N Engl J Med 1995;333:1237–1241.\n17. Jovanovic-Peterson L, Peterson CM, Reed GF, et al. Maternal postprandial glucose levels and infant birth weight: the Diabetes in Early Pregnancy Study. The National Institute of Child Health and Human Development-Diabetes in Early Pregnancy Study. Am J Obstet Gynecol 1991;164:103–111.\n18. Hernandez TL, Friedman JE, Van Pelt RE, Barbour LA. Patterns of glycemia in normal pregnancy: should the current therapeutic targets be challenged? Diabetes Care 2011;34:1660–1668.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "References",
+      "page_number": 14,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "18. Hernandez TL, Friedman JE, Van Pelt RE, Barbour LA. Patterns of glycemia in normal pregnancy: should the current therapeutic targets be challenged? Diabetes Care 2011;34:1660–1668.\n19. Battelino T, Danne T, Bergenstal RM, et al. Clinical targets for continuous glucose monitoring data interpretation: recommendations from the International Consensus on Time in Range. Diabetes Care 2019;42:1593–1603.\n20. Metzger BE, Buchanan TA, Coustan DR, et al. Summary and recommendations of the Fifth International Workshop-Conference on Gestational Diabetes Mellitus. Diabetes Care 2007;30(Suppl 2):S251–S260.\n21. ACOG Clinical Practice Update: Screening for Gestational and Pregestational Diabetes in Pregnancy and Postpartum. Obstet Gynecol 2024;144:e20–e23.\n22. Sweeting A, Hare MJ, de Jersey SJ, et al. Australasian Diabetes in Pregnancy Society (ADIPS) 2025 consensus recommendations for the screening, diagnosis and classification of gestational diabetes. Med J Aust 2025;223:161–167.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "References",
+      "page_number": 14,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "23. Zhu W-W, Yang H-X, Wei Y-M, et al. Evaluation of the value of fasting plasma glucose in the first prenatal visit to diagnose gestational diabetes mellitus in China. Diabetes Care 2013;36:586–590.\n24. Kattini R, Hummelen R, Kelly L. Early gestational diabetes mellitus screening with glycated hemoglobin: a systematic review. J Obstet Gynaecol Can 2020;42:1379–1384.\n25. Mané L, Flores-Le Roux JA, Benaiges D, et al. Role of first-trimester HbA1c as a predictor of adverse obstetric outcomes in a multiethnic cohort. J Clin Endocrinol Metab 2017;102:390–397.\n26. Hughes RCE, Moore MP, Gullam JE, Mohamed K, Rowan J. An early pregnancy HbA1c ≥5.9% (41 mmol/mol) is optimal for detecting diabetes and identifies women at increased risk of adverse pregnancy outcomes. Diabetes Care 2014;37:2953–2959.\n27. Shen L, Zhang S, Wen J, et al. Universal screening for hyperglycemia in early pregnancy and the risk of adverse pregnancy outcomes. BMC Pregnancy Childbirth 2025;25:203.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "References",
+      "page_number": 14,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "27. Shen L, Zhang S, Wen J, et al. Universal screening for hyperglycemia in early pregnancy and the risk of adverse pregnancy outcomes. BMC Pregnancy Childbirth 2025;25:203.\n28. Simmons D, Immanuel J, Hague WM, et al.; TOBOGM Research Group. Treatment of gestational diabetes mellitus diagnosed early in pregnancy. N Engl J Med 2023;388:2132–2144.\n29. Simmons D, Immanuel J, Hague WM, et al.; TOBOGM Research Group. Regression from early GDM to normal glucose tolerance and adverse pregnancy outcomes in the Treatment of Booking Gestational Diabetes Mellitus study. Diabetes Care 2024;47:2079–2084.\n30. Sweeting A, Enticott J, Immanuel J, et al.; TOBOGM Research Group. Relationship between early-pregnancy glycemia and adverse outcomes: findings from the TOBOGM study. Diabetes Care 2024;47:2085–2092.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "References",
+      "page_number": 14,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "31. Kristensen K, Ögge LE, Sengpiel V, et al. Continuous glucose monitoring in pregnant women with type 1 diabetes: an observational cohort study of 186 pregnancies. Diabetologia 2019;62:1143–1153.\n32. Law GR, Gilthorpe MS, Secher AL, et al. Translating HbA1c measurements into estimated average glucose levels in pregnancy.  \n----  \nThis document provides a comprehensive overview of the management of diabetes in pregnancy, including references to various studies and guidelines that inform clinical practice.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "References",
+      "page_number": 14,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "# Management of Diabetes in Pregnancy  \n## References  \n1. Otten JJ, Hellwig JP, Meyers LD, Eds. Washington, DC, National Academies Press, 2006.\n2. Sanusi AA, Xue Y, McIlwraith C, et al. Association of continuous glucose monitoring metrics with pregnancy outcomes in patients with preexisting diabetes. Diabetes Care 2024;47:89–96.\n3. Sobhani NC, Goemans S, Nguyen A, et al. Continuous glucose monitoring in pregnancies with type 1 diabetes: small increases in time-in-range improve maternal and perinatal outcomes. Am J Obstet Gynecol 2024;231:467.e1–467.e8.\n4. Ahmed RJ, Gafni A, Hutton EK, et al.; CONCEPTT Collaborative Group. The cost implications of continuous glucose monitoring in pregnant women with type 1 diabetes in 3 Canadian provinces: a posthoc cost analysis of the CONCEPTT trial. CMAJ Open 2021;9:E627–E634.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "References",
+      "page_number": 15,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "5. Szmuilowicz ED, Barbour L, Brown FM, et al. Continuous glucose monitoring metrics for pregnancies complicated by diabetes: critical appraisal of current evidence. J Diabetes Sci Technol 2024;18:819–834.\n6. Wei Q, Sun Z, Yang Y, Yu H, Ding H, Wang S. Effect of a CGMS and SMBG on maternal and neonatal outcomes in gestational diabetes mellitus: a randomized controlled trial. Sci Rep 2016;6:19920.\n7. Burk J, Ross GP, Hernandez TL, Colagiuri S, Sweeting A. Evidence for improved glucose metrics and perinatal outcomes with continuous glucose monitoring compared to self-monitoring in diabetes during pregnancy. Am J Obstet Gynecol 2025;233:162–175.\n8. Lai M, Weng J, Yang J, et al. Effect of continuous glucose monitoring compared with self-monitoring of blood glucose in gestational diabetes patients with HbA1c&#x3C;6%: a randomized controlled trial. Front Endocrinol 2023;14:1174239.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "References",
+      "page_number": 15,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "9. Amylidi-Mohr S, Zennaro G, Schneider S, Raio L, Mosimann B, Surbek D. Continuous glucose monitoring in the management of gestational diabetes in Switzerland (DipGluMo): an open-label, single-centre, randomized, controlled trial. Lancet Diabetes Endocrinol 2025;13:591–599.\n10. Valent AM, Rickert M, Pagan CH, Ward L, Dunn E, Rincon M. Real-time continuous glucose monitoring in pregnancies with gestational diabetes mellitus: a randomized controlled trial. Diabetes Care 2025;48:1581–1588.\n11. Polsky S, Valent AM, Isganaitis E, et al. Performance of the Dexcom G7 continuous glucose monitoring system in pregnant women with diabetes. Diabetes Technol Ther 2024;26:307–312.\n12. Neoh SL, Grisoni JA, Feig DS, Murphy HR; CONCEPTT Collaborative Group. Dietary intakes of women with type 1 diabetes before and during pregnancy: a pre-specified secondary subgroup analysis among CONCEPTT participants. Diabet Med 2020;37:1841–1848.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "References",
+      "page_number": 15,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "13. Marshall NE, Abrams B, Barbour LA, et al. The importance of nutrition in pregnancy and lactation: lifelong consequences. Am J Obstet Gynecol 2022;226:607–632.\n14. U.S. Department of Agriculture and U.S. Department of Health and Human Services. Dietary Guidelines for Americans, 2020–2025. Accessed 15 August 2025. Available from https://www.dietaryguidelines.gov/sites/default/files/2020-12/Dietary_Guidelines_for_Americans_2020-2025.pdf.\n15. Medeiros DM. In Dietary Reference Intakes: The Essential Guide to Nutrient Requirements. Washington, DC, 2006.\n16. Hernandez TL, Mande A, Barbour LA. Nutrition therapy within and beyond gestational diabetes. Diabetes Res Clin Pract 2018;145:39–50.\n17. Viana LV, Gross JL, Azevedo MJ. Dietary intervention in patients with gestational diabetes mellitus: a systematic review and meta-analysis of randomized clinical trials on maternal and newborn outcomes. Diabetes Care 2014;37:3345–3355.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "References",
+      "page_number": 15,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "18. Weight Gain During Pregnancy: Reexamining the Guidelines. Rasmussen KM, Yaktine AL, Eds. Washington, DC, 2009. Available from https://nap.nationalacademies.org/catalog/12584/weight-gain-during-pregnancy-reexamining-the-guidelines.\n19. Koivusalo SB, Rono K, Klemetti MM, et al. Erratum. Gestational diabetes mellitus can be prevented by lifestyle intervention: the Finnish Gestational Diabetes Prevention Study (RADIEL). A randomized controlled trial. Diabetes Care 2016;39:24–30.\n20. Wang C, Wei Y, Zhang X, et al. A randomized clinical trial of exercise during pregnancy to prevent gestational diabetes mellitus and improve pregnancy outcome in overweight and obese pregnant women. Am J Obstet Gynecol 2017;216:340–351.\n21. Griffith RJ, Alsweiler J, Moore AE, et al. Interventions to prevent women from developing gestational diabetes mellitus: an overview of Cochrane Reviews. Cochrane Database Syst Rev 2020;6:Cd012394.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "References",
+      "page_number": 15,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "22. Mayo K, Melamed N, Vandenberghe H, Berger H. The impact of adoption of the international association of diabetes in pregnancy study group criteria for the screening and diagnosis of gestational diabetes. Am J Obstet Gynecol 2015;212:224.e1–e221.\n23. U.S. Department of Health and Human Services. Physical Activity Guidelines for Americans, 2nd edition. 2018. Accessed 15 August 2025. Available from https://health.gov/sites/default/files/2019-09/Physical_Activity_Guidelines_2nd_edition.pdf.\n24. Davenport MH, Ruchat S-M, Poitras VJ, et al. Prenatal exercise for the prevention of gestational diabetes mellitus and hypertensive disorders of pregnancy: a systematic review and meta-analysis. Br J Sports Med 2018;52:1367–1375.\n25. Davenport MH, Sobierajski F, Mottola MF, et al. Glucose responses to acute and chronic exercise during pregnancy: a systematic review and meta-analysis. Br J Sports Med 2018;52:1357–1366.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "References",
+      "page_number": 15,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "25. Davenport MH, Sobierajski F, Mottola MF, et al. Glucose responses to acute and chronic exercise during pregnancy: a systematic review and meta-analysis. Br J Sports Med 2018;52:1357–1366.\n26. Laredo-Aguilera JA, Gallardo-Bravo M, Rabanales-Sotos JA, Cobo-Cuenca AI, Carmona-Torres JM. Physical activity programs during pregnancy are effective for the control of gestational diabetes mellitus. Int J Environ Res Public Health 2020;17:6151.\n27. Xie W, Dai P, Qin Y, Wu M, Yang B, Yu X. Effectiveness of telemedicine for pregnant women with gestational diabetes mellitus: an updated meta-analysis of 32 randomized controlled trials.\n28. Fishel Bartal M, Ward C, Blackwell SC, et al. Detemir vs neutral protamine Hagedorn insulin for diabetes mellitus in pregnancy: a comparative effectiveness, randomized controlled trial. Am J Obstet Gynecol 2021;225:87 e81–87 e10.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "References",
+      "page_number": 15,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "29. Pollex E, Moretti ME, Koren G, Feig DS. Safety of insulin glargine use in pregnancy: a systematic review and meta-analysis. Ann Pharmacother 2011;45:9–16.\n30. Novo Nordisk. Insulin degludec prescribing information, 2025. Accessed 15 August 2025. Available from https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/203314s018s020lbl.pdf.\n31. Hirsch IB. Insulin analogues. N Engl J Med 2005;352:174–183.\n32. Hod M, Damm P, Kaaja R, et al.; Insulin Aspart Pregnancy Study Group. Fetal and perinatal outcomes in type 1 diabetes pregnancy: a randomized study comparing insulin aspart.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "References",
+      "page_number": 15,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "# Management of Diabetes in Pregnancy\nDiabetes Care Volume 49, Supplement 1, January 2026",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "page_number": 16,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "## References  \n1. Mathiesen ER, Kinsley B, Amiel SA, et al.; Insulin Aspart Pregnancy Study Group. Maternal glycemic control and hypoglycemia in type 1 diabetic pregnancy: a randomized trial of insulin aspart versus human insulin in 322 pregnant women. Diabetes Care 2007;30:771–776.  \n2. Nørgaard SK, Søholm JC, Mathiesen ER, et al. Faster-acting insulin aspart versus insulin aspart in the treatment of type 1 or type 2 diabetes during pregnancy and post-delivery (CopenFast): an open-label, single-centre, randomised controlled trial. Lancet Diabetes Endocrinol 2023;11:811–821.  \n3. Søholm JC, Nørgaard SK, Nørgaard K, et al. Sensor-derived glycaemic metrics in pregnant women with type 1 diabetes randomised to faster acting insulin aspart or insulin aspart—a secondary analysis of the CopenFast trial. Diabet Med 2025;42:e15467.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "References",
+      "page_number": 16,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "4. Kernaghan D, Farrell T, Hammond P, Owen P. Fetal growth in women managed with insulin pump therapy compared to conventional insulin. Eur J Obstet Gynecol Reprod Biol 2008;137:47–49.  \n5. Lee TTM, Collett C, Bergford S, et al.; AiDAPT Collaborative Group. Automated insulin delivery in women with pregnancy complicated by type 1 diabetes. N Engl J Med 2023;389:1566–1578.  \n6. Lawton J, Kimbell B, Closs M, et al. Listening to women: experiences of using closed-loop in type 1 diabetes pregnancy. Diabetes Technol Ther 2023;25:845–855.  \n7. Benhalima K, Beunen K, Van Wilder N, et al. Comparing advanced hybrid closed loop therapy and standard insulin therapy in pregnant women with type 1 diabetes (CRISTAL): a parallel-group, open-label, randomised controlled trial. Lancet Diabetes Endocrinol 2024;12:390–403.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "References",
+      "page_number": 16,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "8. Polsky S, Buschur E, Dungan K, et al. Randomized trial of assisted hybrid closed-loop therapy versus sensor-augmented pump therapy in pregnancy. Diabetes Technol Ther 2024;26:547–555.  \n9. Szmuilowicz ED, Levy CJ, Buschur EO, Polsky S. Expert guidance on off-label use of hybrid closed-loop therapy in pregnancies complicated by diabetes. Diabetes Technol Ther 2023;25:363–373.  \n10. Wilkie GL, Delpapa E, Leftwich HK. Intrapartum continuous subcutaneous insulin infusion vs intravenous insulin infusion among pregnant individuals with type 1 diabetes mellitus: a randomized controlled trial. Am J Obstet Gynecol 2023;229:680.e681–680.e688.  \n11. Donovan LE, Feig DS, Lemieux P, et al. A randomized trial of closed-loop insulin delivery postpartum in type 1 diabetes. Diabetes Care 2023;46:2258–2266.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "References",
+      "page_number": 16,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "11. Donovan LE, Feig DS, Lemieux P, et al. A randomized trial of closed-loop insulin delivery postpartum in type 1 diabetes. Diabetes Care 2023;46:2258–2266.  \n12. Beunen K, Gillard P, Van Wilder N, et al. Advanced hybrid closed-loop therapy compared with standard insulin therapy intrapartum and early postpartum in women with type 1 diabetes: a secondary observational analysis from the CRISTAL randomized controlled trial. Diabetes Care 2024;47:2002–2011.  \n13. Lee TTM, Collett C, Bergford S, et al.; AiDAPT Collaborative Group. Automated insulin delivery during the first 6 months postpartum (AiDAPT): a prespecified extension study. Lancet Diabetes Endocrinol 2025;13:210–220.  \n14. Szmuilowicz ED, Durnwald C, Feig DS. Practical approach to continuous glucose monitoring.  \n15. Doi SAR, Furuya-Kanamori L, Toft E, et al. CGM interpretation and automated insulin delivery (AID) use in pregnancy: considerations for obstetric providers. J Diabetes Sci Technol 2025:19322968.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "References",
+      "page_number": 16,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "16. Hartling L, Dryden DM, Guthrie A, Muise M, Vandermeer B, Donovan L. Benefits and harms of treating gestational diabetes mellitus: a systematic review and meta-analysis for the U.S. Preventive Services Task Force and the National Institutes of Health Office of Medical Applications of Research. Ann Intern Med 2013;159:123–129.  \n17. Rowan JA, Hague WM, Gao W, Battin MR, Moore MP; MiG Trial Investigators. Metformin versus insulin for the treatment of gestational diabetes. N Engl J Med 2008;358:2003–2015.  \n18. Gui J, Liu Q, Feng L. Metformin vs insulin in the management of gestational diabetes: a meta-analysis. PLoS One 2013;8:e64585.  \n19. Song R, Chen L, Chen Y, et al. Comparison of glyburide and insulin in the management of gestational diabetes: a meta-analysis. PLoS One 2017;12:e0182488.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "References",
+      "page_number": 16,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "19. Song R, Chen L, Chen Y, et al. Comparison of glyburide and insulin in the management of gestational diabetes: a meta-analysis. PLoS One 2017;12:e0182488.  \n20. Palomba S, Orio F, Falbo A, et al. Prospective parallel randomized, double-blind, double-dummy controlled clinical trial comparing clomiphene citrate and metformin as the first-line treatment for ovulation induction in nonobese anovulatory women with polycystic ovary syndrome. J Clin Endocrinol Metab 2005;90:4068–4074.  \n21. Vanky E, Stridsklev S, Heimstad R, et al. Metformin versus placebo from first trimester to delivery in polycystic ovary syndrome: a randomized, controlled multicenter study. J Clin Endocrinol Metab 2010;95:E448–455.  \n22. Legro RS, Barnhart HX, Schlaff WD, et al.; Cooperative Multicenter Reproductive Medicine Network. Clomiphene, metformin, or both for infertility in the polycystic ovary syndrome. N Engl J Med 2007;356:551–566.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "References",
+      "page_number": 16,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "23. Charles B, Norris R, Xiao X, Hague W. Population pharmacokinetics of metformin in late pregnancy. Ther Drug Monit 2006;28:67–72.  \n24. Bolte E, Dean T, Garcia B, et al. Initiation of metformin in early pregnancy results in fetal bioaccumulation, growth restriction, and renal dysmorphology in a primate model. Am J Obstet Gynecol 2024;231:352.e1–352.e16.  \n25. Rowan JA, Rush EC, Plank LD, et al. Metformin in gestational diabetes: the offspring follow-up (MiG TOFU): body composition and metabolic outcomes at 7-9 years of age. BMJ Open Diabetes Res Care 2018;6:e000456.  \n26. Hanem LGE, Stridsklev S, Júlíusson PB, et al. Metformin use in PCOS pregnancies increases the risk of offspring overweight at 4 years of age: follow-up of two RCTs. J Clin Endocrinol Metab 2018;103:1612–1621.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "References",
+      "page_number": 16,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "27. Tarry-Adkins JL, Aiken CE, Ozanne SE. Neonatal, infant, and childhood growth following metformin versus insulin treatment for gestational diabetes: a systematic review and meta-analysis. PLoS Med 2019;16:e1002848.  \n28. Hanem LGE, Salvesen Ø, Juliusson PB, et al. Intrauterine metformin exposure and offspring cardiometabolic risk factors (PedMet study): a 5-10 year follow-up of the PregMet randomised controlled trial. Lancet Child Adolesc Health 2019;3:166–174.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "References",
+      "page_number": 16,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "# Management of Diabetes in Pregnancy  \n## References  \n1. Feig DS, Sanchez JJ, Murphy KE, et al.; MiTy Kids Collaborative Group. Outcomes in children of women with type 2 diabetes exposed to metformin versus placebo during pregnancy (MiTy Kids): a 24-month follow-up of the MiTy randomised controlled trial. Lancet Diabetes Endocrinol 2023;11:191–202.\n2. Wyckoff JA, Lapolla A, Asias-Dinh BD, et al. Preexisting diabetes and pregnancy: an Endocrine Society and European Society of Endocrinology joint clinical practice guideline. J Clin Endocrinol Metab 2025;110:2405–2452.\n3. Chiu Y-H, Huybrechts KF, Patorno E, et al. Metformin use in the first trimester of pregnancy and risk for nonlive birth and congenital malformations: emulating a target trial using real-world data. Ann Intern Med 2024;177:862–870.\n4. Gilbert C, Valois M, Koren G. Pregnancy outcome after first-trimester exposure to metformin: a meta-analysis. Fertil Steril 2006;86:658–663.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "References",
+      "page_number": 17,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "4. Gilbert C, Valois M, Koren G. Pregnancy outcome after first-trimester exposure to metformin: a meta-analysis. Fertil Steril 2006;86:658–663.\n5. Barbour LA, Feig DS. Metformin for gestational diabetes mellitus: progeny, perspective, and a personalized approach. Diabetes Care 2019;42:396–399.\n6. Barbour LA, Scifres C, Valent AM, et al. A cautionary response to SMFM statement: pharmacological treatment of gestational diabetes. Am J Obstet Gynecol 2018;219:367.e1–367.e7.\n7. Chew EY, Mills JL, Metzger BE, et al. Metabolic control and progression of retinopathy. The Diabetes in Early Pregnancy Study. National Institute of Child Health and Human Development Diabetes in Early Pregnancy Study. Diabetes Care 1995;18:631–637.\n8. Sarvepalli SM, Bailey BA, D’Alessio D, et al. Risk factors for the development or progression of diabetic retinopathy in pregnancy: meta-analysis and systematic review. Clin Exp Ophthalmol 2023;51:195–204.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "References",
+      "page_number": 17,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "9. Duckitt K, Harrington D. Risk factors for pre-eclampsia at antenatal booking: systematic review of controlled studies. BMJ 2005;330:565.\n10. Barry MJ, Nicholson WK, Silverstein M, et al.; US Preventive Services Task Force. Screening for hypertensive disorders of pregnancy: U.S. Preventive Services Task Force final recommendation statement. JAMA 2023;330:1074–1082.\n11. Henderson JT, Whitlock EP, O’Conner E, Senger CA, Thompson JH, Rowland MG. Low-Dose Aspirin for the Prevention of Morbidity and Mortality From Preeclampsia: A Systematic Evidence Review for the US Preventive Services Task Force. Rockville, MD, Agency for Healthcare Research and Quality, 2014.\n12. Roberge S, Bujold E, Nicolaides KH. Aspirin for the prevention of preterm and term preeclampsia: systematic review and metaanalysis. Am J Obstet Gynecol 2018;218:287–293.\n13. Rolnik DL, Wright D, Poon LC, et al. Aspirin versus placebo in pregnancies at high risk for preterm preeclampsia. N Engl J Med 2017;377:613–622.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "References",
+      "page_number": 17,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "13. Rolnik DL, Wright D, Poon LC, et al. Aspirin versus placebo in pregnancies at high risk for preterm preeclampsia. N Engl J Med 2017;377:613–622.\n14. Hoffman MK, Goudar SS, Kodkany BS, et al.; ASPIRIN Study Group. Low-dose aspirin for the prevention of preterm delivery in nulliparous women with a singleton pregnancy (ASPIRIN): a randomised, double-blind, placebo-controlled trial. Lancet 2020;395:285–293.\n15. Werner EF, Hauspurg AK, Rouse DJ. A cost-benefit analysis of low-dose aspirin prophylaxis for the prevention of preeclampsia in the United States. Obstet Gynecol 2015;126:1242–1250.\n16. Zen M, Haider R, Simmons D, et al. Aspirin for the prevention of pre-eclampsia in women with pre-existing diabetes: systematic review. Aust N Z J Obstet Gynaecol 2022;62:12–21.\n17. Voutetakis A, Pervanidou P, Kanaka-Gantenbein C. Aspirin for the prevention of pre-eclampsia and potential consequences for fetal brain development. JAMA Pediatr 2019;173:619–620.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "References",
+      "page_number": 17,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "17. Voutetakis A, Pervanidou P, Kanaka-Gantenbein C. Aspirin for the prevention of pre-eclampsia and potential consequences for fetal brain development. JAMA Pediatr 2019;173:619–620.\n18. Tita AT, Szychowski JM, Boggess K, et al.; Chronic Hypertension and Pregnancy (CHAP) Trial Consortium. Treatment for mild chronic hypertension during pregnancy. N Engl J Med 2022;386:1781–1792.\n19. Harper LM, Kuo HC, Boggess K, et al. Blood pressure control in pregnant patients with chronic hypertension and diabetes: should &#x3C;130/80 be the target? Am J Obstet Gynecol 2025;232:482–e481-482 e488.\n20. American College of Obstetricians and Gynecologists. Clinical guidance for the integration of the findings of the Chronic Hypertension and Pregnancy (CHAP) study, 2022. Accessed 15 Aug 2025. Available from https://www.acog.org/clinical/clinical-guidance/practice-advisory/articles/2022/04/clinical-guidance-for-the-integration-of-the-findings-of-the-chronic-hypertension-and-pregnancy-chap-study.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "References",
+      "page_number": 17,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "21. Noctor E, Crowe C, Carmody LA, et al.; ATLANTIC-DIP investigators. Abnormal glucose tolerance post-gestational diabetes mellitus as defined by the International Association of Diabetes and Pregnancy Study Groups criteria. Eur J Endocrinol 2016;175:287–297.\n22. Liu Z, Zhang Q, Liu L, Liu W. Risk factors associated with early postpartum glucose intolerance in women with a history of gestational diabetes mellitus: a systematic review and meta-analysis. Endocrine 2023;82:498–512.\n23. Waters TP, Kim SY, Werner E, et al. Should women with gestational diabetes be screened at delivery hospitalization for type 2 diabetes? Am J Obstet Gynecol 2020;222:73.e71–73.e11.\n24. Werner EF, Has P, Rouse D, Clark MA. Two-day postpartum compared with 4- to 12-week postpartum glucose tolerance testing for women with gestational diabetes. Am J Obstet Gynecol 2020;223:439.e1–439.e7.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "References",
+      "page_number": 17,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "25. Cohen N, Toledano Y, Shafir M, Lavie O, Zilberlicht A. Evaluation of postpartum dysglycemia by serum glycosylated hemoglobin in patients with gestational diabetes mellitus: a national data analysis. Arch Gynecol Obstet 2024;310:3029–3035.\n26. Vounzoulaki E, Khunti K, Abner SC, Tan BK, Davies MJ, Gillies CL. Progression to type 2 diabetes in women with a known history of gestational diabetes: systematic review and meta-analysis. Bmj 2020;369:m1361.\n27. Li Z, Cheng Y, Wang D, et al. Incidence rate of type 2 diabetes mellitus after gestational diabetes mellitus: a systematic review and meta-analysis of 170,139 women. J Diabetes Res 2020;2020:3076463.\n28. Mussa J, Rahme E, Dahhou M, Nakhla M, Dasgupta K. Incident diabetes in women with patterns of gestational diabetes occurrences across 2 pregnancies. JAMA Netw Open 2024;7:e2410279.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "References",
+      "page_number": 17,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "28. Mussa J, Rahme E, Dahhou M, Nakhla M, Dasgupta K. Incident diabetes in women with patterns of gestational diabetes occurrences across 2 pregnancies. JAMA Netw Open 2024;7:e2410279.\n29. Tobias DK, Hu FB, Chavarro J, Rosner B, Mozaffarian D, Zhang C. Healthful dietary patterns and type 2 diabetes mellitus risk among women with a history of gestational diabetes mellitus. Arch Intern Med 2012;172:1566–1572.\n30. Villamor E, Cnattingius S. Interpregnancy weight change and risk of adverse pregnancy outcomes: a population-based study. Lancet 2006;368:1164–1170.\n31. Martínez-Hortelano JA, Cavero-Redondo I, Alvarez-Bueno C, Díez-Fernández A, Hernández-Luengo M, Martínez-Vizcaíno V. Interpregnancy weight change and gestational diabetes mellitus: a systematic review and meta-analysis. Obesity (Silver Spring) 2021;29:454–464.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "References",
+      "page_number": 17,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "32. Dennison RA, Chen ES, Green ME, et al. The absolute and relative risk of type 2 diabetes after gestational diabetes: a systematic review and meta-analysis of 129 studies. Diabetes Res Clin Pract 2021;171:108625.\n33. Li N, Yang Y, Cui D, et al. Effects of lifestyle intervention on long-term risk of diabetes in women with prior gestational diabetes: a systematic review and meta-analysis of randomized controlled trials. Obes Rev 2021;22:e13122.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "References",
+      "page_number": 17,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "# Management of Diabetes in Pregnancy\nDiabetes Care Volume 49, Supplement 1, January 2026",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "page_number": 18,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "## References\n1. Ratner RE, Christophi CA, Metzger BE, et al.; Diabetes Prevention Program Research Group. Prevention of diabetes in women with a history of gestational diabetes: effects of metformin and lifestyle interventions. J Clin Endocrinol Metab 2008;93:4774–4779.\n2. Aroda VR, Christophi CA, Edelstein SL, et al.; Diabetes Prevention Program Research Group. The effect of lifestyle intervention and metformin on preventing or delaying diabetes among women with and without gestational diabetes: the Diabetes Prevention Program Outcomes Study 10-year follow-up. J Clin Endocrinol Metab 2015;100:1646–1653.\n3. ACOG Clinical Practice Guideline No. 6. Viral Hepatitis in Pregnancy. Obstet Gynecol 2023;142:745–759.\n4. ACOG Committee Opinion No. 741: Maternal Immunization. Obstet Gynecol 2018;131:e214–e217.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "References",
+      "page_number": 18,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "## Maternal Immunization Practice Advisory\n- October 2022. Accessed 15 August 2025. Available from ACOG Clinical Guidance.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "Maternal Immunization Practice Advisory",
+      "page_number": 18,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  },
+  {
+    "page_content": "## Download Information\n- Downloaded from Diabetes Journals on February 01, 2026.",
+    "metadata": {
+      "chapter_name": "Management of Diabetes in Pregnancy",
+      "section_heading": "Download Information",
+      "page_number": 18,
+      "source": "ada_chapter15.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+    }
+  }
+]

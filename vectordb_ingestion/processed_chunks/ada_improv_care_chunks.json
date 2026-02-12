@@ -1,0 +1,1117 @@
+[
+  {
+    "page_content": "# Improving Care and Promoting Health in Populations: Standards of Care in Diabetes—2026  \n**American Diabetes Association Professional Practice Committee for Diabetes**\nDiabetes Care 2026;49(Suppl. 1):S13–S26 | https://doi.org/10.2337/dc26-S001",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations: Standards of Care in Diabetes—2026",
+      "page_number": 1,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "**American Diabetes Association Professional Practice Committee for Diabetes**\nDiabetes Care 2026;49(Suppl. 1):S13–S26 | https://doi.org/10.2337/dc26-S001  \nThe American Diabetes Association (ADA) “Standards of Care in Diabetes” includes the ADA’s current clinical practice recommendations and is intended to provide the components of diabetes care, general treatment goals and guidelines, and tools to evaluate quality of care. Members of the ADA Professional Practice Committee for Diabetes, an interprofessional expert committee, are responsible for updating the Standards of Care annually, or more frequently as warranted. For a detailed description of ADA standards, statements, and reports, as well as the evidence-grading system for ADA’s clinical practice recommendations and a full list of Professional Practice Committee members, please refer to Introduction and Methodology. Readers who wish to comment on the Standards of Care are invited to do so at professional.diabetes.org/SOC.",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations: Standards of Care in Diabetes—2026",
+      "page_number": 1,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "## SYSTEMS TO SUPPORT DIABETES POPULATION HEALTH  \n### Recommendations  \n1.1 Ensure treatment decisions are timely, rely on evidence-based guidelines, address social determinants of health, and incorporate shared decision-making based on individual values, preferences, prognoses, comorbidities, and informed financial considerations. **B**  \n1.2 Align approaches to diabetes management with evidence-based care models. These models emphasize person-centered team care, integrated long-term treatment approaches to diabetes and comorbidities, and ongoing collaborative communication and goal setting among all team members and with people with diabetes. **A**  \n1.3 Care systems should facilitate in-person and virtual team-based care, include those knowledgeable and experienced in diabetes management as part of the team, and utilize patient registries, decision support tools, proactive care planning, and community involvement to meet needs of individuals with diabetes. **B**",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations: Standards of Care in Diabetes—2026",
+      "section_heading": "SYSTEMS TO SUPPORT DIABETES POPULATION HEALTH",
+      "subsection_heading": "Recommendations",
+      "page_number": 1,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "1.4 Assess diabetes management, risk factors, and complications using reliable and relevant data metrics to improve processes of care and health outcomes, with attention to individual values, preferences, goals for care, and treatment burden, including costs of care. **B**  \n1.5 Health systems should adopt a culture of continuous quality improvement, implement benchmarking programs, and engage interprofessional teams to support sustainable and scalable process changes to improve quality of care and health outcomes. **A**  \n----",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations: Standards of Care in Diabetes—2026",
+      "section_heading": "SYSTEMS TO SUPPORT DIABETES POPULATION HEALTH",
+      "subsection_heading": "Recommendations",
+      "page_number": 1,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "*A complete list of members of the American Diabetes Association Professional Practice Committee for Diabetes can be found at https://doi.org/10.2337/dc26-SINT. Duality of interest information for each contributor is available at https://doi.org/10.2337/dc26-SDIS. Suggested citation: American Diabetes Association Professional Practice Committee for Diabetes. 1. Improving care and promoting health in populations: Standards of Care in Diabetes—2026. Diabetes Care 2026;49(Suppl. 1):S13–S26 © 2025 by the American Diabetes Association. Readers may use this work for educational, noncommercial purposes if properly cited and unaltered. The version of record may be linked at https://diabetesjournals.org/care, but ADA permission is required to post this work on any third-party site or platform. This publication and its contents may not be reproduced, distributed, or used for text or data mining, machine learning, or similar technologies without prior written permission",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations: Standards of Care in Diabetes—2026",
+      "section_heading": "SYSTEMS TO SUPPORT DIABETES POPULATION HEALTH",
+      "subsection_heading": "Recommendations",
+      "page_number": 1,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": ". This publication and its contents may not be reproduced, distributed, or used for text or data mining, machine learning, or similar technologies without prior written permission. Requests to reuse, adapt, or distribute this work may be sent to permissions@diabetes.org. More information is available at https://diabetesjournals.org/journals/pages/license.*",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations: Standards of Care in Diabetes—2026",
+      "section_heading": "SYSTEMS TO SUPPORT DIABETES POPULATION HEALTH",
+      "subsection_heading": "Recommendations",
+      "page_number": 1,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "# Improving Care and Promoting Health in Populations  \n## Diabetes Care Volume 49, Supplement 1, January 2026  \n### Diabetes and Population Health",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "Diabetes Care Volume 49, Supplement 1, January 2026",
+      "subsection_heading": "Diabetes and Population Health",
+      "page_number": 2,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "### Diabetes and Population Health\nPopulation health is a multidimensional concept that refers to the health outcomes of a group of individuals and the potentially varied distribution of those outcomes within the group. These outcomes can be measured in terms of health indicators (mortality, morbidity, quality of life, and functional status), disease epidemiology (incidence and prevalence), and behavioral and metabolic factors (physical activity, nutrition, A1C, time in range, etc.). In clinical practice, population health commonly refers to the measurement and improvement of health outcomes for a defined group of individuals, often those receiving care within a particular health system or practice, and is central to operational “population health management,” or the proactive, team-based, and data-driven approaches to improving health care experiences and team well-being while minimizing costs and addressing inequities, in alignment with the Quadruple Aim.",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "Diabetes Care Volume 49, Supplement 1, January 2026",
+      "subsection_heading": "Diabetes and Population Health",
+      "page_number": 2,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "More broadly, population health refers to the health of all people living in a geographic area or community, and it centers on upstream drivers of health that must be addressed, often through cross-sector collaboration and policy, to improve the broader conditions that influence health. Clinical practice recommendations are tools for health care professionals who seek to improve health across populations; however, for optimal outcomes, diabetes care must also be individualized for each person with diabetes and for each person’s context, as well as across the life span. Thus, efforts to improve population health will require a combination of policy-level, system-level, and person-level approaches",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "Diabetes Care Volume 49, Supplement 1, January 2026",
+      "subsection_heading": "Diabetes and Population Health",
+      "page_number": 2,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": ". Thus, efforts to improve population health will require a combination of policy-level, system-level, and person-level approaches. With such an integrated approach in mind, the American Diabetes Association (ADA) highlights the importance of person-centered care, defined as care that considers an individual’s comorbidities and prognoses; is respectful of and responsive to individual preferences, needs, and values; and ensures that the individual’s values guide all clinical decisions. Social determinants of health (SDOH)—factors often beyond an individual’s direct control and potentially representing lifelong risks—play a significant role in both clinical and psychosocial outcomes. SDOH are defined as the economic, environmental, political, and social conditions in which people live, and their uneven distribution is responsible for a major part of health inequality worldwide.",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "Diabetes Care Volume 49, Supplement 1, January 2026",
+      "subsection_heading": "Diabetes and Population Health",
+      "page_number": 2,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "### State of Diabetes and Diabetes Care\nIn 2021, an estimated 38.4 million people were living with diabetes, representing 11.6% of the U.S. population. This includes 38.1 million adults aged 18 years and older (14.7% of U.S. adults), of whom 8.7 million were unaware of their diagnosis. An additional 97.6 million adults aged 18 years and older (38.0% of the U.S. population) were living with prediabetes, and over 100 million adults 20 years and older (41.9% of U.S. adults) were living with obesity, placing them at high risk for developing type 2 diabetes. The prevalence of diabetes is increasing among children and adolescents as well. In 2017, the year for which the most recent data are available, the prevalence of type 1 diabetes was 2.15 per 10,000 individuals aged 19 years and under, and the prevalence of type 2 diabetes was 0.67 per 1,000 individuals 10–19 years of age. Obesity prevalence has also increased significantly among children and adolescents in recent years.",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "Diabetes Care Volume 49, Supplement 1, January 2026",
+      "subsection_heading": "State of Diabetes and Diabetes Care",
+      "page_number": 2,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "Many segments of the population face additional and unique challenges to diabetes management, resulting in higher rates of diabetes complications, morbidity, and mortality. These include children, adolescents, and young adults; individuals with complex health needs, financial or other social hardships, and/or limited English proficiency; and individuals in groups and communities that have been historically marginalized. The prevalence of diabetes among adults is higher among non-Hispanic Black individuals (17.4%), non-Hispanic Asian individuals (16.7%), and Hispanic individuals (15.5%) than among White individuals (13.6%). Diabetes prevalence is also higher among adults with less than a high school education (13.1%) than among those with more than a high school education (6.9%).  \n| Health Indicator | Percentage Achieved |\n|------------------|---------------------|\n| A1C &#x3C; 7%         | 50.5%               |\n| A1C &#x3C; 8%         | 75.4%               |",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "Diabetes Care Volume 49, Supplement 1, January 2026",
+      "subsection_heading": "State of Diabetes and Diabetes Care",
+      "page_number": 2,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "| Health Indicator | Percentage Achieved |\n|------------------|---------------------|\n| A1C &#x3C; 7%         | 50.5%               |\n| A1C &#x3C; 8%         | 75.4%               |\n| Blood Pressure &#x3C; 130/80 mmHg | 47.7%   |\n| Non-HDL Cholesterol &#x3C; 130 mg/dL | 55.7% |\n| All Three Risk Factors Treated to Goal | 22.2% |  \nImportantly, many people who did not attain A1C, blood pressure, and lipid goals were not receiving any or adequate pharmacotherapy for glycemia, hypertension, and dyslipidemia management, respectively (i.e., were undertreated), which underscores the urgent need for care delivery systems and structural facilitators (i.e., health and public health policies and payment models) that enable timely and equitable delivery of evidence-based care and address diabetes prevention and treatment in communities.",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "Diabetes Care Volume 49, Supplement 1, January 2026",
+      "subsection_heading": "State of Diabetes and Diabetes Care",
+      "page_number": 2,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "# Improving Care and Promoting Health in Populations  \n## Economic Impact of Diabetes\nAmong those from families living below the federal poverty level (13.1%) compared to those at 500% of federal poverty level or higher (5.1%), and higher among those living in nonmetropolitan areas (9.5%) than among those living in metropolitan areas (8.1%). There is also substantial county-level variation in diabetes complications, mortality, and disparities in complications and mortality experienced by minoritized racial and ethnic groups across the U.S. It is estimated that the annual cost of diagnosed diabetes in the U.S. in 2022 was ≥$413 billion, including ≥$307 billion in direct health care costs and ≥$106 billion in reduced productivity. After adjusting for inflation, the economic costs of diabetes increased by 7% between 2017 and 2022 and by 35% between 2012 and 2022. This is attributed to both the increased prevalence of diabetes and the higher cost per person with diabetes.",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "Economic Impact of Diabetes",
+      "page_number": 3,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "People living with diabetes also face individual financial hardship, resulting in rationing or not taking prescribed medications, delaying care, and foregoing or rationing other expenditures, among other behaviors, ultimately correlating with higher A1C, greater diabetes distress, and depressive symptoms. The growing gaps in diabetes care quality and outcomes, the high and rising costs of diabetes care across the U.S., and the disparities experienced by individuals from racial and ethnic minoritized backgrounds and those facing socioeconomic barriers to care call for urgent, substantial, and multisectoral system-level improvements to care delivery.",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "Economic Impact of Diabetes",
+      "page_number": 3,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "## Evidence-Based Care Delivery and Payment Models to Improve Population Health\nA major barrier to comprehensive high-quality diabetes care is a delivery system that is often fragmented, lacks clinical information capabilities, is not appropriately incentivized and funded, does not adequately engage people with diabetes and the communities where they live, and is poorly designed for the coordinated and longitudinal delivery of chronic care. Several models have been demonstrated to improve aspects of diabetes care delivery and health outcomes.  \nThe Chronic Care Model (CCM) is a commonly used framework for describing diabetes care programs. It includes six core elements to optimize the care of people with chronic disease:  \n| Core Element | Description |\n|--------------|-------------|\n| 1. Delivery system design | Moving from a reactive to a proactive care delivery system where planned visits are coordinated through a team-based approach. |",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "Evidence-Based Care Delivery and Payment Models to Improve Population Health",
+      "page_number": 3,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "|--------------|-------------|\n| 1. Delivery system design | Moving from a reactive to a proactive care delivery system where planned visits are coordinated through a team-based approach. |\n| 2. Self-management support | Providing support for individuals to manage their own health. |\n| 3. Decision support | Offering evidence-based care guidelines at the point of care during clinical encounters. |\n| 4. Clinical information systems | Using registries that can provide person-specific and population-based support to the care team. |\n| 5. Community resources and policies | Identifying or developing resources to support healthy lifestyles. |\n| 6. Health systems | Creating a quality-oriented culture. |",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "Evidence-Based Care Delivery and Payment Models to Improve Population Health",
+      "page_number": 3,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "| 6. Health systems | Creating a quality-oriented culture. |  \nCollaborative, interprofessional teams, which can bring together multiple disciplines within the health care system, payors, and community partners, are best suited to provide care for people with chronic conditions such as diabetes and to facilitate individuals’ self-management. The care team, which centers around the person with diabetes, should avoid therapeutic inertia and prioritize timely and appropriate modification of behavior change interventions (nutrition and physical activity), pharmacologic therapy, technology use, and/or social and financial support systems for individuals who have not achieved recommended individualized metabolic goals or are experiencing high burden of treatment. Engagement of an endocrinology team with expertise in diabetes management is important in situations when the complexity of diabetes care is high.",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "Evidence-Based Care Delivery and Payment Models to Improve Population Health",
+      "page_number": 3,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "# Improving Care and Promoting Health in Populations\nDiabetes Care Volume 49, Supplement 1, January 2026",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "page_number": 4,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "## Table 1.1—Considerations for engaging interprofessional members of a comprehensive, person-centered diabetes care team to identify and meet the needs of people with diabetes across the life span  \n| Subpopulation of a person with diabetes | Team members to engage in care | Unique care considerations |\n|-----------------------------------------|--------------------------------|---------------------------|\n| All adults with diabetes                | Primary care clinician, CDCES, RDN, and other specialists as available and appropriate to treat comorbidities (Table 4.1) | Assess for and address social determinants of health. |\n| Adults treated with intensive insulin therapy, including multiple daily injections of insulin and insulin pump therapy | Clinicians and other health care team members experienced in advanced diabetes management, including technology use | - |",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "Table 1.1—Considerations for engaging interprofessional members of a comprehensive, person-centered diabetes care team to identify and meet the needs of people with diabetes across the life span",
+      "page_number": 4,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "| All children and adolescents with diabetes | Primary care clinician, pediatric endocrinologist, CDCES, RDN, other specialists as available and appropriate to treat comorbidities (Table 14.1), daycare or school nurse or other professional, behavioral health professional (as needed), and parent(s) or caregiver(s) | Assess for and address social determinants of health and barriers to safety, well-being, and academic performance in school. Engage professionals within the school and extracurricular/after-school activities to ensure safe diabetes management. An individualized diabetes medical management plan should be developed in collaboration with school professionals and parent(s) or caregiver(s). Support gradual developmentally appropriate transfer of self-management from caregivers to the children and adolescents with diabetes. |",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "Table 1.1—Considerations for engaging interprofessional members of a comprehensive, person-centered diabetes care team to identify and meet the needs of people with diabetes across the life span",
+      "page_number": 4,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "| Individuals with diabetes and diabetes-related complications or comorbidities | Specialist referrals as appropriate and available (e.g., behavioral health professional, cardiologist, endocrinologist, eye specialist, gastroenterologist or hepatologist, neurologist, nephrologist, obesity medicine specialist, or podiatrist), care coordinator/navigator or case manager, and clinical pharmacist (for those with polypharmacy or complex medication plans) | Screen for functional, cognitive, financial, and logistical barriers to self-management and evidence that self-care demands exceed capacity and available resources and support systems. |",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "Table 1.1—Considerations for engaging interprofessional members of a comprehensive, person-centered diabetes care team to identify and meet the needs of people with diabetes across the life span",
+      "page_number": 4,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "| Individuals with social and/or structural barriers to care | Care coordinator/navigator, social services professional, insurance specialist/navigator, peer-to-peer support (as available), community health worker and/or community paramedic (as available), public health professional, and interpreter (as applicable) | Consider each person’s psychosocial needs, available resources, and support systems. |",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "Table 1.1—Considerations for engaging interprofessional members of a comprehensive, person-centered diabetes care team to identify and meet the needs of people with diabetes across the life span",
+      "page_number": 4,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "| Older adults                             | Geriatric medicine specialist, clinical pharmacist (for those with polypharmacy or complex medication plans), CDCES and/or RDN with expertise in the care for older adults, social services professional, case manager, community services provider, and physical and/or occupational therapist as available and appropriate based on functional status and independence | Consider the older adult’s nutritional status, including ability to afford (financial barriers), acquire (accessibility), prepare (cooking), and consume (oral health) nutritious food. Assess for and address needs related to vision, hearing, dexterity, cognition, mobility, and other challenges. |\n| Individuals in long-term care settings   | Long-term care facility clinicians, nurses, other health care professionals, physical and occupational therapists, and RDN | Engage professionals within the long-term care facility to ensure safe and appropriate diabetes management. |",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "Table 1.1—Considerations for engaging interprofessional members of a comprehensive, person-centered diabetes care team to identify and meet the needs of people with diabetes across the life span",
+      "page_number": 4,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "| Pregnant individuals with diabetes       | Maternal-fetal medicine specialist or obstetrician experienced in the care of pregnant individuals with diabetes (particularly for individuals with type 1 diabetes or requiring intensive insulin therapy), CDCES, RDN, eye specialist (particularly for individuals with preexisting type 1 or type 2 diabetes), other specialists as appropriate, and lactation consultant as appropriate | Ensure appropriate postpartum follow-up and care, including transition from obstetric care to established primary care. |\n| Individuals with behavioral health conditions | Behavioral health professional, care coordinator/navigator, and social services professional as age and situation appropriate | Use age- and situation-appropriate screening protocols for general and diabetes-related psychosocial concerns. |  \nCDCES, certified diabetes care and education specialist; RDN, registered dietitian nutritionist.",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "Table 1.1—Considerations for engaging interprofessional members of a comprehensive, person-centered diabetes care team to identify and meet the needs of people with diabetes across the life span",
+      "page_number": 4,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "# Improving Care and Promoting Health in Populations  \n## Telehealth and Support for Behavioral Change and Well-being  \nTelehealth uses digital tools like video conferencing, mobile apps, and remote monitoring to deliver a range of health services remotely, including clinical care, education, and administrative support. Telemedicine, a subset of telehealth, focuses specifically on remote clinical care, supporting diagnosis, treatment, and consultations through real-time communication. Increased access to and effective use of telehealth services, alongside in-person care, can enhance timely access to diabetes care.",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "Telehealth and Support for Behavioral Change and Well-being",
+      "page_number": 5,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "### Effectiveness of Telehealth  \nTelehealth has demonstrated effectiveness in reducing disparities and improving glycemic outcomes in racially and ethnically diverse adults with type 2 diabetes. A systematic review and meta-analysis of nine telehealth randomized controlled trials aimed at improving A1C among Black and Hispanic adults with type 2 diabetes found a significant reduction in A1C of −0.47% (95% CI −0.65% to −0.28%).  \n| Study Type | A1C Reduction | Confidence Interval |\n|------------|---------------|---------------------|\n| Systematic Review | −0.47% | (−0.65% to −0.28%) |  \nAnother systematic review and meta-analysis of 54 randomized controlled trials with people with type 2 diabetes and hypertension found a reduction in A1C of 0.45% (95% CI −0.90% to 0.00%) at 6 months and 0.18% (95% CI −0.41% to −0.05%) at 12 months compared with standard care.  \n| Time Point | A1C Reduction | Confidence Interval |\n|------------|---------------|---------------------|",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "Telehealth and Support for Behavioral Change and Well-being",
+      "subsection_heading": "Effectiveness of Telehealth",
+      "page_number": 5,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "| Time Point | A1C Reduction | Confidence Interval |\n|------------|---------------|---------------------|\n| 6 Months   | 0.45%        | (−0.90% to 0.00%)   |\n| 12 Months  | 0.18%        | (−0.41% to −0.05%)  |",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "Telehealth and Support for Behavioral Change and Well-being",
+      "subsection_heading": "Effectiveness of Telehealth",
+      "page_number": 5,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "### Challenges and Considerations  \nDespite the successes of telehealth, these improvements typically depend on substantial investments in infrastructure (laptops, mobile phone access, internet access) and targeted support (digital literacy education, community health workers) that are rarely part of routine care. Without this infrastructure and support, attrition is high. Research on technology and inequities highlights that the digital divide is driven by financial, informational, and technical barriers.",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "Telehealth and Support for Behavioral Change and Well-being",
+      "subsection_heading": "Challenges and Considerations",
+      "page_number": 5,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "### Systematic Approach to Diabetes Care  \nSuccessful diabetes care requires a systematic approach to supporting the behavior change efforts of people with diabetes. High-quality Diabetes Self-Management Education and Support (DSMES) has been shown to improve a person’s self-management, satisfaction, and glycemic outcomes. National DSMES standards call for an integrated approach that includes clinical content and skills, behavioral strategies (goal setting, problem-solving), and engagement with psychosocial concerns.  \n| Component | Description |\n|-----------|-------------|\n| Clinical Content | Skills and knowledge related to diabetes management |\n| Behavioral Strategies | Goal setting, problem-solving, etc. |\n| Psychosocial Engagement | Addressing emotional and social factors affecting diabetes management |",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "Telehealth and Support for Behavioral Change and Well-being",
+      "subsection_heading": "Systematic Approach to Diabetes Care",
+      "page_number": 5,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "| Behavioral Strategies | Goal setting, problem-solving, etc. |\n| Psychosocial Engagement | Addressing emotional and social factors affecting diabetes management |  \nTelehealth and other virtual environments can be used to offer diabetes self-management education (DSME), carbohydrate counting instruction, and clinical support while reducing geographic and transportation barriers for individuals living in under-resourced areas or with disabilities.",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "Telehealth and Support for Behavioral Change and Well-being",
+      "subsection_heading": "Systematic Approach to Diabetes Care",
+      "page_number": 5,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "### Conclusion  \nIncreasingly, support is available through online or mobile platforms that can enhance user access and effectiveness. Findings from systematic reviews indicate that telehealth resources can play a significant role in improving diabetes management, particularly for populations with limited physical access to health care.",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "Telehealth and Support for Behavioral Change and Well-being",
+      "subsection_heading": "Conclusion",
+      "page_number": 5,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "# Improving Care and Promoting Health in Populations\n**Diabetes Care Volume 49, Supplement 1, January 2026**",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "page_number": 6,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "## Strategies for System-Level Improvement",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "Strategies for System-Level Improvement",
+      "page_number": 6,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "Optimal diabetes management requires a systematic approach and coordinated team of health care professionals working in an environment where person-centered, high-quality care is a priority. While many diabetes care processes and access to technologies have improved nationally in the past decade, the overall quality of care for people with diabetes remains suboptimal. Efforts to increase the quality of diabetes care include providing care that is concordant with evidence-based guidelines, expanding the role of teams to implement more intensive disease management strategies, tracking medication-taking behavior, redesigning care processes, implementing electronic health record (EHR) population health tools, empowering and educating people with diabetes, reducing financial barriers, leveraging telehealth to improve access to care, assessing and addressing psychosocial issues, and engaging community resources and public policies that support healthy lifestyles.",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "Strategies for System-Level Improvement",
+      "page_number": 6,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "The National Diabetes Education Program maintains an online resource to help health care professionals design and implement more effective health care delivery systems for people with diabetes. Given the pluralistic needs of people with diabetes and the challenges they experience, engagement of an interprofessional team with complementary expertise is essential.",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "Strategies for System-Level Improvement",
+      "page_number": 6,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "## Access to Care\nThe Affordable Care Act and Medicaid expansion have increased access to care for many individuals with diabetes, emphasizing the protection of people with preexisting conditions, health promotion, and disease prevention. In 2024, population-level data for the U.S. civilian noninstitutionalized population showed that just 4.9% of children and adolescents (aged 17 years and younger), 11.1% of adults aged 18–64 years, and 0.6% of adults aged 65 years and older were uninsured. People with diabetes who have consistent private or public insurance coverage are more likely to meet quality indicators for diabetes care. However, even individuals with insurance coverage can experience financial barriers to care, particularly if enrolled in high-deductible health plans.",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "Access to Care",
+      "page_number": 6,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "A successful quality improvement (QI) team should include a clinical champion, administrative leader, QI/data specialist, and an individual living with or affected by diabetes. Using patient registries and EHRs, health systems can evaluate the quality of diabetes care being delivered, benchmark metrics, and perform intervention cycles as part of QI strategies. QI can also be used as an effective strategy to support application of clinical practice recommendations by health care professionals.  \nThe ADA recommends that health systems use proven QI methods to translate the Standards of Care recommendations into routine standards of practice. In addition to QI approaches, other strategies that simultaneously improve the quality of care and potentially reduce the risks of experiencing both acute and chronic complications are essential.  \n| Measure | Change | 95% CI |\n|---------|--------|--------|\n| A1C     | -0.5%  | -0.7 to -0.3 |\n| Systolic Blood Pressure | -5.5 mmHg | -8.1 to -3.0 |",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "Access to Care",
+      "page_number": 6,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "| Measure | Change | 95% CI |\n|---------|--------|--------|\n| A1C     | -0.5%  | -0.7 to -0.3 |\n| Systolic Blood Pressure | -5.5 mmHg | -8.1 to -3.0 |\n| Diastolic Blood Pressure | -3.2 mmHg | -4.8 to -1.5 |  \nThe findings from a systematic review and meta-analysis of 35 team-based care interventions with adults with type 1 or type 2 diabetes indicate significant improvements in various health metrics.",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "Access to Care",
+      "page_number": 6,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "## Conclusion\nTo fully support whole-person, comprehensive care for people with diabetes, alignment of payment models, health system care delivery models, resource availability, community-based organizations and supports, and regulatory policies is needed.",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "Conclusion",
+      "page_number": 6,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "# Improving Care and Promoting Health in Populations  \n## Cost Considerations\nThe cost of diabetes medications and devices is an ongoing barrier to achieving glycemic goals and preventing diabetes complications. Medication underuse due to cost has been termed “cost-related medication nonadherence” (here referred to as cost-related barriers to medication use). Based on a national survey conducted in 2021, 18.6% of U.S. adults with type 1 diabetes and 15.8% of adults with insulin-treated type 2 diabetes reported rationing (i.e., skipping, taking less, and/or delaying) their insulin to save money.",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "Cost Considerations",
+      "page_number": 7,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "The ADA Insulin Access and Affordability Working Group has recommended system-level approaches to address this issue, including concepts such as cost-sharing for insured people with diabetes based on the lowest price available, a list price for insulins that closely reflects the net price, and health plans that ensure people with diabetes can access insulin without undue administrative burden or excessive cost.  \nIn 2021, the Centers for Medicare &#x26; Medicaid Services (CMS) launched the Part D Senior Savings Model, which required capped monthly out-of-pocket payments for covered insulins at $35 per insulin per month. In 2022, 43% of stand-alone Part D plan enrollees and 60% of Medicare Advantage Part D plan enrollees participated in the Senior Savings Model. Most recently, the Inflation Reduction Act of 2022 capped out-of-pocket payments for insulin at $35 per insulin per month for all Medicare beneficiaries.",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "Cost Considerations",
+      "page_number": 7,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "A patchwork of solutions has also been introduced for individuals with commercial insurance and those without health insurance. Over the past 5 years, 25 states and the District of Columbia have capped out-of-pocket expenditures for insulin in select state-regulated commercial health plans, which has resulted in modest decreases in insulin out-of-pocket spending for eligible enrollees. Between 2023 and 2024, three major insulin manufacturers similarly lowered the price of insulin to $35 per month in select circumstances.  \nThese programs may help reduce the financial hardship of diabetes management, though many are challenging to navigate, not all people with diabetes can benefit, and costs for insulin delivery and glucose monitoring remain high. Thus, all people with diabetes should be screened for financial hardship of treatment, cost-related barriers to medication use, and rationing of other essential services due to medical costs.",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "Cost Considerations",
+      "page_number": 7,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "## Tailoring Treatment for Social Context  \n### Recommendations\n1. Health systems should assess and address gaps in diabetes care and health outcomes (e.g., by stratifying clinical quality data by factors such as insurance status, race, ethnicity, preferred language for health care discussions, disability, and social determinants of health).\n2. During clinical encounters, assess for social determinants of health, including food insecurity, housing insecurity, financial barriers, health insurance and health care access, environmental and neighborhood factors, and social capital/social community support, to inform treatment decisions, with referral to appropriate local community resources.\n3. Provide people with diabetes additional self-management support from lay health coaches, navigators, or community health workers when available. Digital self-management tools or coaches may be considered as appropriate.",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "Tailoring Treatment for Social Context",
+      "subsection_heading": "Recommendations",
+      "page_number": 7,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "4. Consider the involvement of community health workers to support management of diabetes and cardiovascular and kidney risk factors, especially in underserved communities and health care systems.",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "Tailoring Treatment for Social Context",
+      "subsection_heading": "Recommendations",
+      "page_number": 7,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "## Health Inequities\nHealth inequities related to diabetes and its complications are well documented, are heavily influenced by social determinants of health (SDOH), and have been associated with greater risk for developing diabetes, higher disease prevalence, and worse diabetes-related outcomes. Greater exposure to adverse SDOH over the life course results in poor health. Interventions to address SDOH can improve diabetes-related outcomes. Using clinical quality data to identify inequities is essential for improving care.  \n| Table 1.1 | Diabetes Care Team |\n|-----------|--------------------|\n| Primary Care Clinician | Essential for ongoing management |\n| Endocrinologist | Specialized care for complex cases |\n| Diabetes Educator | Education and self-management support |\n| Dietitian | Nutritional guidance |\n| Mental Health Professional | Support for psychological aspects of diabetes management |\n| Community Health Worker | Support for social determinants of health |",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "Health Inequities",
+      "page_number": 7,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "| Mental Health Professional | Support for psychological aspects of diabetes management |\n| Community Health Worker | Support for social determinants of health |  \nThis structured approach aims to improve the overall health outcomes for individuals with diabetes by addressing both medical and social factors.",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "Health Inequities",
+      "page_number": 7,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "S20   Improving Care and Promoting Health  in  Populations     Diabetes Care Volume  49,  Supplement  1,  January  2026  \nand  opportunities  for  improvement  is              disparities  in  populations  is  yet  to  be  for-     quality  or  health  outcomes  in  people  with\nvaluable  for  health  care  professionals,           mally  studied,  general  recommendations               diabetes (116,128).\nhealth  systems,  payors,  policymakers,  and         from  other  chronic  disease  management               A population in which such issues must\npeople with diabetes (116). The Joint Com-            and  prevention  models  can  be  drawn                 be  particularly  considered  is  older adults,\nmission  requires that all accredited organi-         upon  to  inform  system-level  strategies  in          for  whom  social  difficulties  may  further",
+    "metadata": {
+      "page_number": 8,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "mission  requires that all accredited organi-         upon  to  inform  system-level  strategies  in          for  whom  social  difficulties  may  further\nzations  in  its  ambulatory  health  care,           diabetes  (62).  For  example,  the  National           impair  quality  of  life  and  increase  the\nbehavioral health care and human services,            Academy  of  Medicine  has  published  a                risk of functional dependency (129) (see\ncritical access hospital, and hospital accredi-       framework  for  educating  health  care                 section 13, “Older Adults,” for a detailed\ntation programs collect race and ethnicity            professionals  on  the  importance  of                  discussion  of  social  considerations  in\ninformation and implement specific steps              SDOH  (123).  Furthermore,  there  are  re-             older adults).",
+    "metadata": {
+      "page_number": 8,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "information and implement specific steps              SDOH  (123).  Furthermore,  there  are  re-             older adults).\nto reduce health care disparities. The Joint          sources available for the inclusion of stan-            Creating  system-level  mechanisms  to\nCommission  specifically  requires  that  or-         dardized  sociodemographic  variables  in               screen  for  SDOH  may  help  overcome\nganizations designate an individual or in-            EHRs to facilitate the assessment of health             structural  barriers  and  communication\ndividuals to lead efforts to reduce health            disparities  and  the  impact  of  interven-            gaps  between  people  with  diabetes  and\ncare disparities,  assess  health-related so-         tions  designed  to  reduce  those  dispar-             health  care  professionals  (126,130).  A",
+    "metadata": {
+      "page_number": 8,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "care disparities,  assess  health-related so-         tions  designed  to  reduce  those  dispar-             health  care  professionals  (126,130).  A\ncial  needs  and  provide  information  on            ities (78,124,125).                                     number of studies have proven the effec-\ncommunity resources to meet these needs,              SDOH  are  not  consistently  recognized                tiveness of identifying SDOH by using vali-\nidentify health care disparities by stratifying       and  often  go  undiscussed—and  are  ulti-             dated  screening  tools  (131).  In  addition,\nquality  and  safety  data  using  sociodemo-         mately not addressed—during clinical en-                brief,  validated  screening  tools  for  some\ngraphic  characteristics,  develop  an  action        counters (126).  Even  financial  barriers to           SDOH exist and could facilitate discussion",
+    "metadata": {
+      "page_number": 8,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "graphic  characteristics,  develop  an  action        counters (126).  Even  financial  barriers to           SDOH exist and could facilitate discussion\nplan  to  address  health  care  disparities,         care and health, which directly affect the              around  factors  that  significantly  impact\nwork  to  actively  reduce  health  care  dis-        ability  to  implement  prescribed  care                treatment during clinical encounters.\nparities,  and  inform  key  stakeholders             plans,  are rarely discussed.  Among  peo-\nabout progress to reduce health care dis-             ple  with  chronic  illnesses,  two-thirds  of          Food Insecurity\nparities  (117).  The  CMS  Framework  for            those  who  reported  not  taking  medica-              Food  insecurity  is  a household-level  eco-\nHealth  Equity  similarly  prioritizes  collec-       tions  as  prescribed  due  to  cost-related            nomic  and  social  condition  of  limited  or",
+    "metadata": {
+      "page_number": 8,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "Health  Equity  similarly  prioritizes  collec-       tions  as  prescribed  due  to  cost-related            nomic  and  social  condition  of  limited  or\ntion, reporting, and analysis of standardized         barriers  never  shared  this  information              uncertain access to adequate food (132).\nindividual-level demographic (including race,         with their physician (123). A study using               In  2022,  almost  13%  of  Americans  were\nethnicity, language, gender identity, sex, sex-       data  from  the  NHIS  found  that  half  of            food insecure (132), and food insecurity is\nual  orientation,  and  disability  status)  and      adults  with  diabetes  reported  financial             associated  with  increased  risk  of  type  2\nSDOH data as well as assessing for and ad-            stress  and  about  20%  reported  food  in-            diabetes  and  higher-than-recommended",
+    "metadata": {
+      "page_number": 8,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "SDOH data as well as assessing for and ad-            stress  and  about  20%  reported  food  in-            diabetes  and  higher-than-recommended\ndressing disparities through improved access          security (126). Studies of both type 1 dia-             glycemia (133–135). The rate is dispropor-\nto  culturally  tailored  services,  team-based       betes and type 2 diabetes have noted an                 tionately higher among some groups that\ncare, and community resources (118). Qual-            association  of  one  or  more  adverse                 have  been  historically  marginalized,  low-\nity measures assessing SDOH screening and             SDOH  with  health  care  utilization  and              income households, and households headed\nintervention  have  been  introduced  by  the         poor diabetes outcomes among individ-                   by  single  mothers.  Additionally,  those  fac-",
+    "metadata": {
+      "page_number": 8,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "intervention  have  been  introduced  by  the         poor diabetes outcomes among individ-                   by  single  mothers.  Additionally,  those  fac-\nNational  Committee  for  Quality  Assurance          uals with diabetes (123,127). It is there-              ing food insecurity have lower engagement\n(focused on food, housing, and transporta-            fore important for people with diabetes to              in self-care behaviors and medication use,\ntion insecurity) (113) and CMS (focused on            be  screened  for  SDOH  during  clinical  en-          have higher rates of depression and diabe-\nfood, housing, and transportation insecu-             counters  and  be  referred  to  appropriate            tes distress, and have worse glycemic man-\nrity,  utility  difficulties,  and  interpersonal     clinical  and  community  resources  to  ad-            agement  compared  with  individuals  who",
+    "metadata": {
+      "page_number": 8,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "rity,  utility  difficulties,  and  interpersonal     clinical  and  community  resources  to  ad-            agement  compared  with  individuals  who\nsafety) (119).                                        dress these needs (Table 1.1). Furthermore,             are  food  secure  (133,134).  Older  adults\nOther than the SDOH, there are many                   health systems may benefit from compiling               with food insecurity are more likely to have\ncontributors  to  inequities,  including  im-         an inventory of local resources to facilitate           emergency department visits and hospital-\nplicit and explicit bias, discriminatory poli-        referrals at the point of care, augmenting              izations  compared  with  older  adults  who\ncies and procedures, institutional practices,         as  necessary  existing  tools  such  as  find-         do  not  report  food  insecurity  (136).  The",
+    "metadata": {
+      "page_number": 8,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "cies and procedures, institutional practices,         as  necessary  existing  tools  such  as  find-         do  not  report  food  insecurity  (136).  The\nand  both  current  and  historical  structural       help.org, Unite Us, 211 (United Way), and               risk  for  food  insecurity  can  be  assessed\nfactors  that  affect  health  and  well-being\nfor individuals and communities (120–122).            others. Policies and payment models that                with a validated two-item screening tool\nThe  ADA  recognizes  the  association  be-           support  addressing  SDOH,  both  within                that  includes  the  following  statements:\ntween  interpersonal,  social,  economic,  and        and  outside  the  health  care  setting,  are          1) “Within the past 12 months, we worried\nenvironmental factors and the prevention              needed  to  ensure  that  these  efforts  are           whether our food would run out before we",
+    "metadata": {
+      "page_number": 8,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "environmental factors and the prevention              needed  to  ensure  that  these  efforts  are           whether our food would run out before we\nand treatment of diabetes and has issued              both feasible and sustainable. One exam-                got  money  to  buy  more”  and 2)  “Within\na call for research that seeks to better un-          ple  of  a  statewide  payment  model  that             the  past 12  months the  food  we  bought\nderstand how social determinants influence            incentivizes value-based care, addressing               just didn’t last, and we didn’t have money\nbehaviors  and  how  the  relationships  be-          SDOH and funding community-based health                 to get more” (137). Interventions such as\ntween  these  variables  can  be  modified  for       care  professionals,  is  the  Maryland  Total          food  prescription  programs  are  consid-",
+    "metadata": {
+      "page_number": 8,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "tween  these  variables  can  be  modified  for       care  professionals,  is  the  Maryland  Total          food  prescription  programs  are  consid-\nenhancing the prevention and management               Cost of Care Model, although it is currently            ered promising to address food insecurity\nof  diabetes  (114).  While  a  comprehensive         limited by a narrow focus on preventing di-             by  integrating  community  resources  into\nstrategy to reduce diabetes-related health            abetes and does not consider diabetes care              primary care settings and directly dealing  \n2026  January\n29 on  guest\nby     http://diabetesjournals.org/care/article-pdf/49/Supplement_1/S13/848832/dc26s001.pdf\nfrom   Downloaded",
+    "metadata": {
+      "page_number": 8,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "# Improving Care and Promoting Health in Populations  \n## Food Insecurity and Diabetes\nIn those with diabetes and food insecurity, the priority is mitigating the increased risk for severe hyperglycemia and hypoglycemia. The reasons for the increased risk of hyperglycemia can include the consumption of inexpensive carbohydrate-rich processed foods, binge eating, financial constraints to filling diabetes medication prescriptions, anxiety and depression, and poor sleep, all contributing to hyperglycemia and poor diabetes self-care behaviors. Hypoglycemia can occur as a result of inadequate or inconsistent carbohydrate consumption following the administration of a sulfonylurea or insulin. Health care professionals should consider these factors when making treatment decisions for people with food insecurity and seek local resources to help people with diabetes and their family members obtain appropriate food more regularly.",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "Food Insecurity and Diabetes",
+      "page_number": 9,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "## Language Barriers\nHealth systems and health care professionals caring for those with limited English proficiency should develop or offer educational programs and materials in culturally appropriate languages. Professional language assistance (i.e., interpreters) should be provided to individuals with limited English proficiency and/or other communication needs at no cost to them. Use of untrained interpreters, including family members, should be avoided when possible, as this can result in confusing or inaccurate conveyance of information. Accompanying written materials should be in the language appropriate for the individual being supported and at a reading level that is not overly complicated—typically this is defined as a sixth-grade reading level. Numerous medical translation tools are available and show promise in addressing language barriers, although further research is needed to establish their efficacy in diabetes care.",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "Language Barriers",
+      "page_number": 9,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "The National Standards for Culturally and Linguistically Appropriate Services in Health and Health Care (National CLAS Standards) provide guidance on how health care professionals can reduce language barriers by improving their cultural competency, addressing health literacy, and ensuring communication with professional language assistance. In addition, the National CLAS Standards website offers several resources and materials that can be used to improve the quality of care delivery to individuals with limited English proficiency.",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "Language Barriers",
+      "page_number": 9,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "## Housing Insecurity",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "Housing Insecurity",
+      "page_number": 9,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "Housing insecurity has been shown to be directly associated with a person’s ability to maintain appropriate diabetes self-management. Housing insecurity often coexists with other barriers that challenge diabetes self-management. Food insecurity, lack of health insurance, cognitive impairment, behavioral health concerns, and low literacy and numeracy skills are also factors. The prevalence of diabetes among people experiencing housing insecurity is estimated to be around 8% in the U.S. Additionally, people with diabetes and housing insecurity need secure places to keep their diabetes medications and supplies as well as refrigerator access to safely store insulin. The risk for housing insecurity can be ascertained using a brief risk assessment tool developed and validated for use among veterans",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "Housing Insecurity",
+      "page_number": 9,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": ". The risk for housing insecurity can be ascertained using a brief risk assessment tool developed and validated for use among veterans. Given the potential challenges, health care professionals who care for housing-insecure individuals should be familiar with resources to support these individuals or have access to social workers who can facilitate stable housing as a way to improve diabetes care.",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "Housing Insecurity",
+      "page_number": 9,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "## Refugee Populations and Migrant and Seasonal Agricultural Workers",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "Refugee Populations and Migrant and Seasonal Agricultural Workers",
+      "page_number": 9,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "Refugee status, like having a diabetes diagnosis, is an independent risk factor for cardiovascular disease. In areas experiencing humanitarian crises, refugees are at greater risk for obstacles to optimal chronic disease management. There have been efforts to develop models of care specifically aimed at improving the health of refugee populations, but more work is needed to demonstrate the effectiveness of those care models and approaches. Migrant and seasonal agricultural workers likely have a higher risk of type 2 diabetes than the general population. While migrant farmworker-specific data are lacking, most agricultural workers in the U.S. are Latino, a population with a high rate of type 2 diabetes. In addition, living in severe poverty brings with it food insecurity, high chronic stress, and an increased risk of diabetes; there is also an association between the exposure to certain pesticides and the incidence of diabetes.",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "Refugee Populations and Migrant and Seasonal Agricultural Workers",
+      "page_number": 9,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "Data from the Department of Labor indicate that there are approximately 2.18 million agricultural workers in the U.S. These agricultural workers often travel throughout the country seasonally. In 2022, 175 health centers across the U.S. reported providing care to 843,071 adult migrant farmworkers, and 91,839 had encounters for diabetes. In a 2023 report on the National Agricultural Workers Survey, age-adjusted self-reported diabetes prevalence was 13.51% among migrant farmworkers and 10.8% among nonmigrant farmworkers. Migrant farmworkers and other agricultural workers encounter numerous and overlapping barriers to receiving care. Migration, which might occur as frequently as every few weeks for some, disrupts care. Common barriers to adequate diabetes care include those related to cost, culture, language, literacy, transportation, geographic distance, food access, long work hours, unfamiliarity with new communities, the complexity of the U.S",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "Refugee Populations and Migrant and Seasonal Agricultural Workers",
+      "page_number": 9,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": ".S. health care system, and limited access to various other resources like medications and DSMES. Without regular care, farmworkers with diabetes can experience severe and often expensive complications that incur morbidity and mortality and affect quality of life. Nontraditional care delivery models, including mobile integrated health and telehealth, should be leveraged to improve access to care.",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "Refugee Populations and Migrant and Seasonal Agricultural Workers",
+      "page_number": 9,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "## Health Literacy and Numeracy\nHealth literacy is the degree to which individuals can obtain, process, and understand basic health information and services needed to make appropriate decisions. Health literacy is strongly associated with individuals engaging in complex disease management and self-care. Approximately 9 out of 10 American adults are estimated to have limited or low health literacy. Health care professionals and diabetes care and education specialists should provide easy-to-understand information to support individuals in managing their diabetes effectively.",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "Health Literacy and Numeracy",
+      "page_number": 9,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "# Improving Care and Promoting Health in Populations\n**Diabetes Care Volume 49, Supplement 1, January 2026**  \nInterventions addressing low health literacy in populations with diabetes demonstrate improvements in A1C, diabetes knowledge, and self-management behaviors. However, more research is needed to establish the most effective strategies for enhancing retention and application of diabetes knowledge among various populations of people with diabetes. Health numeracy is also essential in diabetes prevention and management.",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "page_number": 10,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "Health numeracy requires primary numeric skills, applied health numeracy, and interpretive health numeracy, which is especially important for people using diabetes technologies like insulin pumps. People with prediabetes or diabetes often need to perform numeric tasks, such as interpreting glucose readings, decoding food labels, and understanding medication doses, timings, and refills, to make treatment decisions. Thus, both health literacy and numeracy are necessary for enabling effective communication between people with diabetes and health care professionals, arriving at a treatment plan, and making diabetes self-management task decisions.  \nIf people with diabetes appear not to understand concepts associated with treatment decisions, both can be assessed using standardized screening measures. Adjunctive education and support may be indicated if limited health literacy and numeracy are barriers to optimal care decisions.",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "page_number": 10,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "## Social and Community Support\nSocial support, which comprises community and personal network instrumental support, promotes better health, whereas lack of social support is associated with poorer health outcomes in individuals with diabetes. Of particular concern are the social determinants of health (SDOH), including, among others, racism and discrimination. These factors are rarely addressed in routine clinical practice but may be drivers of adverse health outcomes and lower engagement in beneficial self-care behaviors and medication use. Identifying and leveraging community resources are core components of chronic care management.  \nVarious organizations, including the American Medical Association and the Agency for Healthcare Research and Quality, among others, promote the translation of clinical recommendations for nutrition and physical activity into practice through health care community linkages and community-based care delivery.",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "Social and Community Support",
+      "page_number": 10,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "## Summary\nImproving individual and population health for people with and at risk for diabetes requires engagement of and collaboration between people with diabetes and their caregivers, interprofessional health care teams, health systems, community partners, payors, policymakers, and public health agencies. This section provides guidance to facilitate implementation of evidence-based diabetes care recommendations.",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "Summary",
+      "page_number": 10,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "### References\n1. Silberberg M, Martinez-Bianchi V, Lyn MJ. What is population health? Prim Care 2019;46:475–484\n2. Bodenheimer T, Sinsky C. From triple to quadruple aim: care of the patient requires care of the provider. Ann Fam Med 2014;12:573–576\n3. Institute of Medicine (US) Committee on Quality of Health Care in America. Crossing the Quality Chasm: A New Health System for the 21st Century. Washington, DC, National Academies Press, 2001\n4. Hill-Briggs F, Adler NE, Berkowitz SA, et al. Social determinants of health and diabetes: a scientific review. Diabetes Care 2020;44:258–279\n5. Haire-Joshu D, Hill-Briggs F. The next generation of diabetes translation: a path to health equity. Annu Rev Public Health 2019;40:391–410\n6. Centers for Disease Control and Prevention. National Diabetes Statistics Report. Accessed 4 August 2025. Available from https://www.cdc.gov/diabetes/php/data-research/index.html",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "Summary",
+      "subsection_heading": "References",
+      "page_number": 10,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "6. Centers for Disease Control and Prevention. National Diabetes Statistics Report. Accessed 4 August 2025. Available from https://www.cdc.gov/diabetes/php/data-research/index.html\n7. Centers for Disease Control and Prevention. Adult Obesity Facts. Accessed 4 August 2025. Available from https://www.cdc.gov/obesity/adult-obesity-facts/index.html\n8. Lawrence JM, Divers J, Isom S, et al.; SEARCH for Diabetes in Youth Study Group. Trends in prevalence of type 1 and type 2 diabetes in children and adolescents in the US, 2001–2017. JAMA 2021;326:717–727\n9. Centers for Disease Control and Prevention. Childhood Obesity Facts. Accessed 4 August 2025. Available from https://www.cdc.gov/obesity/childhood-obesity-facts/childhood-obesity-facts.html\n10. Saelee R, Bullard KM, Hora IA, et al. Trends and inequalities in diabetes-related complications among U.S. Adults, 2000–2020. Diabetes Care 2025;48:18–28",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "Summary",
+      "subsection_heading": "References",
+      "page_number": 10,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "10. Saelee R, Bullard KM, Hora IA, et al. Trends and inequalities in diabetes-related complications among U.S. Adults, 2000–2020. Diabetes Care 2025;48:18–28\n11. Ebekozien O, Mungmode A, Sanchez J, et al. Longitudinal trends in glycemic outcomes and technology use for over 48,000 people with type 1 diabetes (2016-2022) from the T1D Exchange Quality Improvement Collaborative. Diabetes Technol Ther 2023;25:765–773\n12. Fang M, Wang D, Coresh J, Selvin E. Trends in diabetes treatment and control in U.S. adults, 1999–2018. N Engl J Med 2021;384:2219–2228\n13. Nassereldine H, Li Z, Compton K, et al. The burden of diabetes mortality by county, race, and ethnicity in the U.S., 2000–2019. Diabetes Care 2025;48:546–555\n14. Chiang JL, Maahs DM, Garvey KC, et al. Type 1 diabetes in children and adolescents: a position statement by the American Diabetes Association. Diabetes Care 2018;41:2026–2044",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "Summary",
+      "subsection_heading": "References",
+      "page_number": 10,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "14. Chiang JL, Maahs DM, Garvey KC, et al. Type 1 diabetes in children and adolescents: a position statement by the American Diabetes Association. Diabetes Care 2018;41:2026–2044\n15. Malik FS, Sauder KA, Isom S, et al.; SEARCH for Diabetes in Youth Study. Trends in glycemic control among youth and young adults with diabetes: the SEARCH for Diabetes in Youth Study. Diabetes Care 2022;45:285–294\n16. Foster NC, Beck RW, Miller KM, et al. State of type 1 diabetes management and outcomes from the T1D Exchange in 2016–2018. Diabetes Technol Ther 2019;21:66–72",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "Summary",
+      "subsection_heading": "References",
+      "page_number": 10,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "# Improving Care and Promoting Health in Populations  \n## References  \n1. Parker ED, Lin J, Mahoney T, et al. Economic costs of diabetes in the U.S. in 2022. Diabetes Care 2024;47:26–43\n2. Patel MR, Zhang G, Heisler M, et al. Measurement and validation of the Comprehensive Score for Financial Toxicity (COST) in a population with diabetes. Diabetes Care 2022;45:2535–2543\n3. Prahalad P, Hardison H, Odugbesan O, et al.; T1D Exchange Quality Improvement Collaborative. Benchmarking diabetes technology use among 21 U.S. pediatric diabetes centers. Clin Diabetes 2024;42:27–33\n4. Chehal PK, Selvin E, DeVoe JE, Mangione CM, Ali MK. Diabetes and the fragmented state of US health care and policy. Health Aff (Millwood) 2022;41:939–946\n5. Stellefson M, Dipnarine K, Stopka C. The chronic care model and diabetes management in US primary care settings: a systematic review. Prev Chronic Dis 2013;10:E26",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "References",
+      "page_number": 11,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "5. Stellefson M, Dipnarine K, Stopka C. The chronic care model and diabetes management in US primary care settings: a systematic review. Prev Chronic Dis 2013;10:E26\n6. Goh LH, Siah CJR, Tam WWS, Tai ES, Young DYL. Effectiveness of the chronic care model for adults with type 2 diabetes in primary care: a systematic review and meta-analysis. Syst Rev 2022;11:273\n7. Tricco AC, Ivers NM, Grimshaw JM, et al. Effectiveness of quality improvement strategies on the management of diabetes: a systematic review and meta-analysis. Lancet 2012;379:2252–2261\n8. Konnyu KJ, Yogasingam S, Lépine J, et al. Quality improvement strategies for diabetes care: effects on outcomes for adults living with diabetes. Cochrane Database Syst Rev 2023;5:CD014513\n9. Levengood TW, Peng Y, Xiong KZ, et al.; Community Preventive Services Task Force. Team-based care to improve diabetes management: a community guide meta-analysis. Am J Prev Med 2019;57:e17–e26",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "References",
+      "page_number": 11,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "9. Levengood TW, Peng Y, Xiong KZ, et al.; Community Preventive Services Task Force. Team-based care to improve diabetes management: a community guide meta-analysis. Am J Prev Med 2019;57:e17–e26\n10. Lee JK, McCutcheon LRM, Fazel MT, Cooley JH, Slack MK. Assessment of interprofessional collaborative practices and outcomes in adults with diabetes and hypertension in primary care: a systematic review and meta-analysis. JAMA Netw Open 2021;4:e2036725\n11. Oshman L, Bhomia N, Diez HL, et al. The Michigan Collaborative for Type 2 Diabetes (MCT2D): development and implementation of a statewide collaborative quality initiative. BMC Health Serv Res 2024;24:1254\n12. Avnat E, Chodick G, Shalev V. Identifying profiles of patients with uncontrolled type 2 diabetes who would benefit from referral to an endocrinologist. Endocr Pract 2023;29:855–861",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "References",
+      "page_number": 11,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "12. Avnat E, Chodick G, Shalev V. Identifying profiles of patients with uncontrolled type 2 diabetes who would benefit from referral to an endocrinologist. Endocr Pract 2023;29:855–861\n13. Setji TL, Page C, Pagidipati N, Goldstein BA. Differences in achieving Hba1c goals among patients seen by endocrinologists and primary care providers. Endocr Pract 2019;25:461–469\n14. McCoy RG, Vandergrift JL, Gray B. Patient and physician factors driving the gaps in use of drugs with cardiovascular and kidney benefits by Medicare beneficiaries with type 2 diabetes treated by endocrinologists, nephrologists, and cardiologists: population-based cohort study. Diabetes Res Clin Pract 2025;221:112039\n15. Phan T-L, Hossain J, Lawless S, Werk LN. Quarterly visits with glycated hemoglobin monitoring: the sweet spot for glycemic control in youth with type 1 diabetes. Diabetes Care 2014;37:341–345",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "References",
+      "page_number": 11,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "15. Phan T-L, Hossain J, Lawless S, Werk LN. Quarterly visits with glycated hemoglobin monitoring: the sweet spot for glycemic control in youth with type 1 diabetes. Diabetes Care 2014;37:341–345\n16. Booth GL, Shah BR, Austin PC, Hux JE, Luo J, Lok CE. Early specialist care for diabetes: who benefits most? A propensity score-matched cohort study. Diabet Med 2016;33:111–118\n17. Adler-Milstein J, Linden A, Hollingsworth JM, Ryan AM. Association of primary care engagement in value-based reform programs with health services outcomes: participation and synergies. JAMA Health Forum 2022;3:e220005\n18. Bojadzievski T, Gabbay RA. Patient-centered medical home and diabetes. Diabetes Care 2011;34:1047–1053\n19. McManus LS, Dominguez-Cancino KA, Stanek MK, et al. The patient-centered medical home as an intervention strategy for diabetes mellitus: a systematic review of the literature. Curr Diabetes Rev 2021;17:317–331",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "References",
+      "page_number": 11,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "20. Fraze TK, Lewis VA, Tierney E, Colla CH. Quality of care improves for patients with diabetes in Medicare shared savings accountable care organizations: organizational characteristics associated with performance. Popul Health Manag 2018;21:401–408\n21. Centers for Medicare &#x26; Medicaid Services. Accountable Health Communities Model. Accessed 8 August 2025. Available from https://www.cms.gov/priorities/innovation/innovation-models/ahcm\n22. Centers for Medicare &#x26; Medicaid Services. Accountable Health Communities (AHC) Model Evaluation. Second Evaluation Report Accessed 8 August 2025. Available from https://www.cms.gov/priorities/innovation/data-and-reports/2023/ahc-second-eval-rpt\n23. Wang S, Weyer G, Duru OK, Gabbay RA, Huang ES. Can alternative payment models and value-based insurance design alter the course of diabetes in the United States? Health Aff (Millwood) 2022;41:980–984",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "References",
+      "page_number": 11,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "24. Gunter KE, Peek ME, Tanumihardjo JP, et al. Population health innovations and payment to address social needs among patients and communities with diabetes. Milbank Q 2021;99:928–973\n25. Katula JA, Dressler EV, Kittel CA, et al. Effects of a digital diabetes prevention program: an RCT. Am J Prev Med 2022;62:567–577\n26. Eberle C, Stichling S. Clinical improvements by telemedicine interventions managing type 1 and type 2 diabetes: systematic meta-review. J Med Internet Res 2021;23:e23244\n27. American Telemedicine Association. Telehealth: defining 21st Century Care. Accessed 8 August 2025. Available from https://www.americantelemed.org/resource/why-telemedicine/\n28. Health IT. Telehealth StartUp and Resource Guide Version 1.1. Accessed 8 August 2025. Available from https://www.healthit.gov/sites/default/files/telehealthguide_final_0.pdf",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "References",
+      "page_number": 11,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "28. Health IT. Telehealth StartUp and Resource Guide Version 1.1. Accessed 8 August 2025. Available from https://www.healthit.gov/sites/default/files/telehealthguide_final_0.pdf\n29. American Medical Association. AMA Telehealth Quick Guide. Accessed 8 August 2025. Available from https://www.ama-assn.org/practice-management/digital/ama-telehealth-quick-guide\n30. Zupa MF, Vimalananda VG, Rothenberger SD, et al. Patterns of telemedicine use and glycemic outcomes of endocrinology care for patients with type 2 diabetes. JAMA Netw Open 2023;6:e2346305\n31. Mullur RS, Hsiao JS, Mueller K. Telemedicine in diabetes care. Am Fam Physician 2022;105:281–288\n32. Ravi S, Meyerowitz-Katz G, Yung C, et al. Effect of virtual care in type 2 diabetes management—a systematic review and meta-analysis of randomized trials. CMAJ 2017;189:E341–E364",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "References",
+      "page_number": 11,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "32. Ravi S, Meyerowitz-Katz G, Yung C, et al. Effect of virtual care in type 2 diabetes management—a systematic review and meta-analysis of randomized trials. CMAJ 2017;189:E341–E364\n33. Li Y, Yang Y, Liu X, Zhang X, Li F. Effectiveness of telemedicine-delivered carbohydrate-counting interventions in patients with type 1 diabetes: systematic review and meta-analysis. J Med Internet Res 2025;27:e59579\n34. Zhang K, Huang Q, Wang Q, et al. Telemedicine in improving glycemic control among children and adolescents with type 1 diabetes mellitus: systematic review and meta-analysis. J Med Internet Res 2024;26:e51538\n35. Garcia JF, Fogel J, Reid M, Bisno DI, Raymond JK. Telehealth for young adults with diabetes: addressing social determinants of health. Diabetes Spectr 2021;34:357–362",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "References",
+      "page_number": 11,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "35. Garcia JF, Fogel J, Reid M, Bisno DI, Raymond JK. Telehealth for young adults with diabetes: addressing social determinants of health. Diabetes Spectr 2021;34:357–362\n36. Anderson A, O’Connell SS, Thomas C, Chimmanamada R. Telehealth interventions to improve diabetes management among Black and Hispanic patients: a systematic review and meta-analysis. J Racial Ethn Health Disparities 2022;9:2375–2386\n37. Mayberry LS, Lyles CR, Oldenburg B, Osborn CY, Parks M, Peek ME. mHealth interventions for disadvantaged and vulnerable people with type 2 diabetes. Curr Diab Rep 2019;19:148\n38. Ebekozien O, Fantasia K, Farrokhi F, Sabharwal A, Kerr D. Technology and health inequities in diabetes management.",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "References",
+      "page_number": 11,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "# Improving Care and Promoting Health in Populations  \n## Diabetes Care Volume 49, Supplement 1, January 2026  \n### Access to Patient-Centered, Team-Based Intervention\nHow do we widen access to patient-centered, team-based intervention for underserved populations and utilize technology to improve outcomes for all?",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "Diabetes Care Volume 49, Supplement 1, January 2026",
+      "subsection_heading": "Access to Patient-Centered, Team-Based Intervention",
+      "page_number": 12,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "### References\n1. Davis J, Fischl AH, Beck J, et al. 2022 National Standards for Diabetes Self-Management Education and Support. Diabetes Care 2022;45:484–494\n2. Versluis A, Boels AM, Huijden MCG, Mijnsbergen MD, Rutten GEHM, Vos RC. Diabetes self-management education and support delivered by mobile health (mHealth) interventions for adults with type 2 diabetes—a systematic review and meta-analysis. Diabet Med 2025;42:e70002\n3. Tanhapour M, Peimani M, Rostam Niakan Kalhori S, et al. The effect of personalized intelligent digital systems for self-care training on type II diabetes: a systematic review and meta-analysis of clinical trials. Acta Diabetol 2023;60:1599–1631\n4. Abu S, Llahana S. Factors influencing the uptake of culturally tailored diabetes self-management education and support programmes among ethnic minority patients with type 2 diabetes: a systematic review. Prim Care Diabetes 2025;19:103–110",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "Diabetes Care Volume 49, Supplement 1, January 2026",
+      "subsection_heading": "References",
+      "page_number": 12,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "5. TRIAD Study Group. Health systems, patients factors, and quality of care for diabetes: a synthesis of findings from the TRIAD study. Diabetes Care 2010;33:940–947\n6. Schmittdiel JA, Gopalan A, Lin MW, Banerjee S, Chau CV, Adams AS. Population health management for diabetes: health care system-level approaches for improving quality and addressing disparities. Curr Diab Rep 2017;17:31\n7. Peterson KA, Carlin CS, Solberg LI, Normington J, Lock EF. Care management processes important for high-quality diabetes care. Diabetes Care 2023;46:1762–1769\n8. Raebel MA, Schmittdiel J, Karter AJ, Konieczny JL, Steiner JF. Standardizing terminology and definitions of medication adherence and persistence in research employing electronic databases. Med Care 2013;51:S11–S21\n9. Feifer C, Nemeth L, Nietert PJ, et al. Different paths to high-quality care: three archetypes of top-performing practice sites. Ann Fam Med 2007;5:233–241",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "Diabetes Care Volume 49, Supplement 1, January 2026",
+      "subsection_heading": "References",
+      "page_number": 12,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "9. Feifer C, Nemeth L, Nietert PJ, et al. Different paths to high-quality care: three archetypes of top-performing practice sites. Ann Fam Med 2007;5:233–241\n10. Mungmode A, Noor N, Weinstock RS, et al. Making diabetes electronic medical record data actionable: promoting benchmarking and population health improvement using the T1D Exchange Quality Improvement Portal. Clin Diabetes 2022;41:45–55\n11. Powell RE, Zaccardi F, Beebe C, et al. Strategies for overcoming therapeutic inertia in type 2 diabetes: a systematic review and meta-analysis. Diabetes Obes Metab 2021;23:2137–2154\n12. Herges JR, Neumiller JJ, McCoy RG. Easing the financial burden of diabetes management: a guide for patients and primary care clinicians. Clin Diabetes 2021;39:427–436\n13. Young-Hyman D, de Groot M, Hill-Briggs F, Gonzalez JS, Hood K, Peyrot M. Psychosocial care for people with diabetes: a position statement of the American Diabetes Association. Diabetes Care 2016;39:2126–2140",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "Diabetes Care Volume 49, Supplement 1, January 2026",
+      "subsection_heading": "References",
+      "page_number": 12,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "14. Pullen-Smith B, Carter-Edwards L, Leathers KH. Community health ambassadors: a model for engaging community leaders to promote better health in North Carolina. J Public Health Manag Pract 2008;14(Suppl.):S73–S81\n15. Neeland IJ, Arafah A, Bourges-Sevenier B, et al. Second-year results from CINEMA: a novel, patient-centered diabetes management program.",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "Diabetes Care Volume 49, Supplement 1, January 2026",
+      "subsection_heading": "References",
+      "page_number": 12,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "### Additional References\n- Garabedian LF, Zhang F, LeCates R, Wallace J, et al. Trends in high deductible health plan enrollment and spending among commercially insured members with and without chronic conditions: a Natural Experiment for Translation in Diabetes (NEXT-D2) study. BMJ Open 2021;11:e044198\n- Agency for Healthcare Research and Quality. About the National Quality Strategy. Accessed 4 August 2025. Available from AHRQ\n- Wu YM, Huang J, Reed ME. Association between high-deductible health plans and engagement in routine medical care for type 2 diabetes in a privately insured population: a propensity score-matched study. Diabetes Care 2022;45:1193–1200\n- Jiang DH, Herrin J, Van Houten HK, McCoy RG. Evaluation of high-deductible health plans and acute glycemic complications among adults with diabetes. JAMA Netw Open 2023;6:e2250602",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "Diabetes Care Volume 49, Supplement 1, January 2026",
+      "subsection_heading": "Additional References",
+      "page_number": 12,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "- Jiang DH, Herrin J, Van Houten HK, McCoy RG. Evaluation of high-deductible health plans and acute glycemic complications among adults with diabetes. JAMA Netw Open 2023;6:e2250602\n- Lu CY, Argetsinger S, Lakoma M, Zhang F, Wharam JF, Ross-Degnan D. Effects of adopting preventive drug lists on medication costs and disparities by income over 2 years: a Natural Experiment for Translation in Diabetes (NEXT-D) study. Diabetes Care 2025;48:341–352\n- McCoy RG, Swarna KS, Jiang DH, et al. Enrollment in high-deductible health plans and incident diabetes complications. JAMA Netw Open 2024;7:e243394\n- Gibson DM. Estimates of the percentage of US adults with diabetes who could be screened for diabetic retinopathy in primary care settings. JAMA Ophthalmol 2019;137:440–444\n- Gaffney A, Himmelstein DU, Woolhandler S. Prevalence and correlates of patient rationing of insulin in the United States: a national survey. Ann Intern Med 2022;175:1623–1626",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "Diabetes Care Volume 49, Supplement 1, January 2026",
+      "subsection_heading": "Additional References",
+      "page_number": 12,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "- Gaffney A, Himmelstein DU, Woolhandler S. Prevalence and correlates of patient rationing of insulin in the United States: a national survey. Ann Intern Med 2022;175:1623–1626\n- Cefalu WT, Dawes DE, Gavlak G, et al. Insulin Access and Affordability Working Group: conclusions and recommendations. Diabetes Care 2018;41:1299–1311\n- Centers for Medicare &#x26; Medicaid Services. Part D Senior Savings Model. Accessed 8 August 2025. Available from CMS\n- Baig K, Dusetzina SB. Premiums and out-of-pocket spending for long-acting insulins under the Medicare Part D Senior Savings Model. JAMA 2022;328:2161–2162\n- Baig KA, Fry CE, Buntin MB, Powers AC, Dusetzina SB. Insulin out-of-pocket spending caps and employer-sponsored insurance: changes in out-of-pocket and total costs for insulin and healthcare. Health Serv Res 2025:e14656\n- American Diabetes Association. State Insulin Copay Caps. Accessed 8 August 2025. Available from ADA",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "Diabetes Care Volume 49, Supplement 1, January 2026",
+      "subsection_heading": "Additional References",
+      "page_number": 12,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "- American Diabetes Association. State Insulin Copay Caps. Accessed 8 August 2025. Available from ADA\n- Suran M. All 3 major insulin manufacturers are cutting their prices—here’s what the news means for patients with diabetes. JAMA 2023;329:1337–1339\n- American Diabetes Association. Insulin Cost and Affordability. Leading the Fight for Insulin Affordability. Accessed 8 August 2025. Available from ADA",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "Diabetes Care Volume 49, Supplement 1, January 2026",
+      "subsection_heading": "Additional References",
+      "page_number": 12,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "# Improving Care and Promoting Health in Populations  \n## Therapy for Type 2 Diabetes Management  \n### References\n1. Levi R, Bleich SN, Seligman HK. Food insecurity and diabetes: overview of intersections and potential dual solutions. Diabetes Care 2023; 46:1599–1608.\n2. Centers for Medicare &#x26; Medicaid Services. Quality Payment Program. Explore Measures &#x26; Activities. Accessed 6 August 2025. Available from CMS.\n3. Ebekozien O, Mungmode A, Buckingham D, et al. Achieving equity in diabetes research: borrowing from the field of quality improvement using a practical framework and improvement tools. Diabetes Spectr 2022; 35:304–312.\n4. Odugbesan O, Addala A, Nelson G, et al. Implicit racial-ethnic and insurance-mediated bias to recommending diabetes technology: insights from T1D Exchange Multicenter Pediatric and Adult Diabetes Provider Cohort. Diabetes Technol Ther 2022; 24:619–627.",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "Therapy for Type 2 Diabetes Management",
+      "subsection_heading": "References",
+      "page_number": 13,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "5. Centers for Medicare &#x26; Medicaid Services. Ensuring Proper Use of Electronic Health Record Features and Capabilities. 2016. Accessed 6 August 2025. Available from CMS.\n6. U.S. Department of Health and Human Services. Secretary’s Advisory Committee on National Health Promotion and Disease Prevention Objectives for 2030. Accessed 6 August 2025. Available from Health.gov.\n7. National Academy of Sciences. A Framework for Educating Health Professionals to Address the Social Determinants of Health. 2016. Accessed 6 August 2025. Available from NCBI.\n8. Walker RJ, Strom Williams J, Egede LE. Influence of race, ethnicity and social determinants of health on diabetes outcomes. Am J Med Sci 2016; 351:366–373.\n9. Hashemi R, Rabizadeh S, Yadegar A, et al. High prevalence of comorbidities in older adult patients with type 2 diabetes: a cross-sectional survey. BMC Geriatr 2024; 24:873.\n10. Huang ES. Management of diabetes mellitus in older people with comorbidities. BMJ 2016; 353:i2200.",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "Therapy for Type 2 Diabetes Management",
+      "subsection_heading": "References",
+      "page_number": 13,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "10. Huang ES. Management of diabetes mellitus in older people with comorbidities. BMJ 2016; 353:i2200.\n11. O’Gurek DT, Henke C. A practical approach to screening for social determinants of health. Fam Pract Manag 2018; 25:7–12.\n12. Yan AF, Chen Z, Wang Y, et al. Effectiveness of social needs screening and interventions in clinical settings on utilization, cost, and clinical outcomes: a systematic review. Health Equity 2022; 6:454–475.\n13. Rabbitt MP, Hales LJ, Burke MP, Coleman-Jensen A. Household Food Security in the United States in 2022 (Report No. ERR-325). U.S. Department of Agriculture, Economic Research Service, 2023. Accessed 11 September 2025. Available from USDA.\n14. Kirby JB, Bernard D, Liang L. The prevalence of food insecurity is highest among Americans for whom diet is most critical to health. Diabetes Care 2021; 44:e131–e132.",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "Therapy for Type 2 Diabetes Management",
+      "subsection_heading": "References",
+      "page_number": 13,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "### Additional References\n- McCoy RG, Van Houten HK, Deng Y, et al. Comparison of diabetes medications used by adults with commercial insurance vs Medicare Advantage, 2016 to 2019. JAMA Netw Open 2021; 4:e2035792.\n- Benning TJ, Heien HC, Herges JR, Creo AL, Al Nofal A, McCoy RG. Glucagon fill rates and cost among children and adolescents with type 1 diabetes in the United States, 2011-2021. Diabetes Res Clin Pract 2023; 206:111026.\n- Patel PM, Thomas D, Liu Z, Aldrich-Renner S, Clemons M, Patel BV. Systematic review of disparities in continuous glucose monitoring and insulin pump utilization in the United States: key themes and evidentiary gaps. Diabetes Obes Metab 2024; 26:4293–4301.\n- Eberly LA, Yang L, Essien UR, et al. Racial, ethnic, and socioeconomic inequities in glucagon-like peptide-1 receptor agonist use among patients with diabetes in the US. JAMA Health Forum 2021; 2:e214182.",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "Therapy for Type 2 Diabetes Management",
+      "subsection_heading": "Additional References",
+      "page_number": 13,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "- Essien UR, Singh B, Swabe G, et al. Association of prescription co-payment with adherence to glucagon-like peptide-1 receptor agonist and sodium-glucose cotransporter-2 inhibitor therapies in patients with heart failure and diabetes. JAMA Netw Open 2023; 6:e2316290.\n- Taha MB, Valero-Elizondo J, Yahya T, et al. Cost-related medication nonadherence in adults with diabetes in the United States: the National Health Interview Survey 2013–2018. Diabetes Care 2022; 45:594–603.\n- Washington AE, Lipstein SH. The Patient-Centered Outcomes Research Institute–promoting better information, decisions, and health. N Engl J Med 2011; 365:e31.\n- Dixon B, Pena M-M, Taveras EM. Lifecourse approach to racial/ethnic disparities in childhood obesity. Adv Nutr 2012; 3:73–82.\n- Egede LE, Walker RJ, Linde S, et al. Nonmedical interventions for type 2 diabetes: evidence, actionable strategies, and policy opportunities. Health Aff (Millwood) 2022; 41:963–970.",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "Therapy for Type 2 Diabetes Management",
+      "subsection_heading": "Additional References",
+      "page_number": 13,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "- Egede LE, Walker RJ, Linde S, et al. Nonmedical interventions for type 2 diabetes: evidence, actionable strategies, and policy opportunities. Health Aff (Millwood) 2022; 41:963–970.\n- Joint Commission. R3 Report. Requirement, Rationale, Reference. Accessed 11 September 2025. Available from Joint Commission.\n- National Committee for Quality Assurance. Healthcare Effectiveness Data and Information Set (HEDIS-MY) 2024. Accessed 6 August 2025. Available from NCQA.",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "Therapy for Type 2 Diabetes Management",
+      "subsection_heading": "Additional References",
+      "page_number": 13,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "# Improving Care and Promoting Health in Populations  \n## Diabetes Care Volume 49, Supplement 1, January 2026  \n### References  \n| No. | Authors | Title | Journal | Year | Volume | Pages |\n|-----|---------|-------|---------|------|--------|-------|\n| 150 | Soto S, Yoder AM, Aceves B, Nuño T, Sepulveda R, Rosales CB | Determining regional differences in barriers to accessing health care among farmworkers using the National Agricultural Workers Survey | J Immigr Minor Health | 2023 | 25 | 324–330 |\n| 151 | Thoñón F, Perrot S, Yergolkar AV, et al. | Electronic tools to bridge the language gap in health care for people who have migrated: systematic review | J Med Internet Res | 2021 | 23 | e25131 |",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "Diabetes Care Volume 49, Supplement 1, January 2026",
+      "subsection_heading": "References",
+      "page_number": 14,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "| 152 | U.S. Department of Health &#x26; Human Services | National Standards for Culturally and Linguistically Appropriate Services (CLAS) in Health and Health Care | - | - | - | Accessed 6 August 2025. Available from https://thinkculturalhealth.hhs.gov/assets/pdfs/EnhancedNationalCLASStandards_Revised_June2025.pdf |\n| 153 | Centers for Disease Control and Prevention | Health Literacy. Talking Points About Health Literacy | - | - | - | Accessed 06 August 2025. Available from https://www.cdc.gov/health-literacy/php/about/tell-others.html |\n| 154 | Nutbeam D, Lloyd JE | Understanding and responding to health literacy as a social determinant of health | Annu Rev Public Health | 2021 | 42 | 159–173 |\n| 155 | Marciaño L, Camerini A-L, Schulz PJ | The role of health literacy in diabetes knowledge, self-care, and glycemic control: a meta-analysis | J Gen Intern Med | 2019 | 34 | 1007–1017 |",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "Diabetes Care Volume 49, Supplement 1, January 2026",
+      "subsection_heading": "References",
+      "page_number": 14,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "| 155 | Marciaño L, Camerini A-L, Schulz PJ | The role of health literacy in diabetes knowledge, self-care, and glycemic control: a meta-analysis | J Gen Intern Med | 2019 | 34 | 1007–1017 |\n| 156 | Schaffler J, Leung K, Tremblay S, et al. | The effectiveness of self-management interventions for individuals with low health literacy and/or low income: a descriptive systematic review | J Gen Intern Med | 2018 | 33 | 510–523 |\n| 157 | Butayeva J, Ratan ZA, Downie S, Hosseinzadeh H | The impact of health literacy interventions on glycemic control in patients with type 2 diabetes: a systematic review and meta-analysis | - | - | - | - |\n| 158 | Baumeister A, Aldin A, Chakraverty D, et al. | Interventions for improving health literacy in migrants | Cochrane Database Syst Rev | 2023 | 11 | CD013303 |\n| 159 | Schapira MM, Fletcher KE, Gilligan MA, et al. | A framework for health numeracy: how patients use quantitative skills in health care | J Health Commun | 2008 | 13 | 501–517 |",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "Diabetes Care Volume 49, Supplement 1, January 2026",
+      "subsection_heading": "References",
+      "page_number": 14,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "| 159 | Schapira MM, Fletcher KE, Gilligan MA, et al. | A framework for health numeracy: how patients use quantitative skills in health care | J Health Commun | 2008 | 13 | 501–517 |\n| 160 | Agency for Healthcare Research and Quality | Clinical-community linkages | - | - | - | Accessed 6 August 2025. Available from https://archive.ahrq.gov/ncepcr/tools/community/index.html |\n| 161 | Herges JR, Matulis JC, Kessler ME, et al. | Evaluation of an enhanced primary care team model to improve diabetes care | Ann Fam Med | 2022 | 20 | 505–511 |\n| 162 | Kasper AL, Myers LA, Carlson PN, et al. | Diabetes management for community paramedics: development and implementation of a novel curriculum | Diabetes Spectr | 2022 | 35 | 367–376 |\n| 163 | Evans J, White P, Ha H | Evaluating the effectiveness of community health worker interventions on glycaemic control in type 2 diabetes | - | - | - | - |",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "Diabetes Care Volume 49, Supplement 1, January 2026",
+      "subsection_heading": "References",
+      "page_number": 14,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "| 163 | Evans J, White P, Ha H | Evaluating the effectiveness of community health worker interventions on glycaemic control in type 2 diabetes | - | - | - | - |\n| 164 | Ducharme-Smith A, Juntunen M, Espinoza A, et al. | Pilot pragmatic trial of a community paramedic diabetes self-management education program for adults with diabetes | Diabetes Care | 2025 | 48 | 2089–2094 |\n| 165 | Azmiardi A, Murti B, Febriñasari RP, Tamtomo DG | The effect of peer support in diabetes self-management education on glycemic control in patients with type 2 diabetes | - | - | - | - |\n| 166 | Fisher EB, Boothroyd RI, Elstad EA, et al. | Peer support of complex health behaviors in prevention and disease management with special reference to diabetes: systematic reviews | Clin Diabetes Endocrinol | 2017 | 3 | 4 |",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "Diabetes Care Volume 49, Supplement 1, January 2026",
+      "subsection_heading": "References",
+      "page_number": 14,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "| 167 | Foster G, Taylor SJC, Eldridge SE, Ramsay J, Griffiths CJ | Self-management education programmes by lay leaders for people with chronic conditions | Cochrane Database Syst Rev | 2007 | - | CD005108 |\n| 168 | Piatt GA, Rodgers EA, Xue L, Zgibor JC | Integration and utilization of peer leaders for diabetes self-management support: results from Project SEED (Support, Education, and Evaluation in Diabetes) | Diabetes Educ | 2018 | 44 | 373–382 |\n| 169 | Rosenthal EL, Rush CH, Allen CG | Understanding scope and competencies: a contemporary look at the United States community health worker field: progress report of the Community Health Worker (CHW) Core Consensus (C3) Project: building national consensus on CHW core roles, skills, and qualities | CHW Central | 2016 | - | Accessed 6 August 2025. Available from https://files.ctctcdn.com/a907c850501/1c1289f0-88cc-49c3-a238-66def942c147.pdf |",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "Diabetes Care Volume 49, Supplement 1, January 2026",
+      "subsection_heading": "References",
+      "page_number": 14,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  },
+  {
+    "page_content": "| 170 | Guide to Community Preventive Services | Community health workers help patients manage diabetes | - | - | - | Updated 25 October 2022. Accessed 06 August 2025. Available from https://www.thecommunityguide.org/content/community-health-workers-help-patients-manage-diabetes |\n| 171 | Cuellar AE, Calonge BN | The Community Preventive Services Task Force: 25 years of effectiveness, economics, and equity | Am J Prev Med | 2022 | 62 | e371–e373 |  \n2026 January 29 on guest by Diabetes Journals from Downloaded",
+    "metadata": {
+      "chapter_name": "Improving Care and Promoting Health in Populations",
+      "section_heading": "Diabetes Care Volume 49, Supplement 1, January 2026",
+      "subsection_heading": "References",
+      "page_number": 14,
+      "source": "ada_improv_care.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_improv_care.pdf"
+    }
+  }
+]

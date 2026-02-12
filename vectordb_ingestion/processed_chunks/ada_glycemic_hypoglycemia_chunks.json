@@ -1,0 +1,1348 @@
+[
+  {
+    "page_content": "# 6. Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises  \n**American Diabetes Association**\n**Professional Practice Committee for Diabetes**\n**Standards of Care in Diabetes—2026**\nDiabetes Care 2026;49(Suppl. 1):S132–S149 | https://doi.org/10.2337/dc26-S006",
+    "metadata": {
+      "chapter_name": "6. Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "page_number": 1,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "**Standards of Care in Diabetes—2026**\nDiabetes Care 2026;49(Suppl. 1):S132–S149 | https://doi.org/10.2337/dc26-S006  \nThe American Diabetes Association (ADA) “Standards of Care in Diabetes” includes the ADA’s current clinical practice recommendations and is intended to provide the components of diabetes care, general treatment goals and guidelines, and tools to evaluate quality of care. Members of the ADA Professional Practice Committee for Diabetes, an interprofessional expert committee, are responsible for updating the Standards of Care annually, or more frequently as warranted. For a detailed description of ADA standards, statements, and reports, as well as the evidence-grading system for ADA’s clinical practice recommendations and a full list of Professional Practice Committee members, please refer to Introduction and Methodology. Readers who wish to comment on the Standards of Care are invited to do so at professional.diabetes.org/SOC.",
+    "metadata": {
+      "chapter_name": "6. Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "page_number": 1,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "## Assessment of Glycemic Status",
+    "metadata": {
+      "chapter_name": "6. Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Assessment of Glycemic Status",
+      "page_number": 1,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "Glycemic status is assessed by A1C measurement, blood glucose monitoring (BGM) by capillary (finger-stick) devices, and different continuous glucose monitoring (CGM) metrics such as time in range (TIR), time below range (TBR), time above range (TAR), glucose management indicator (GMI), coefficient of variation, and mean glucose. Clinical trials of interventions that lower A1C have demonstrated the benefits of improved glycemia with respect to long-term diabetes complications. Glucose monitoring via CGM or BGM (discussed in detail in section 7, “Diabetes Technology”) is useful for diabetes self-management, can provide nuanced information on glucose responses to meals, physical activity, and medication changes, and is particularly useful for optimal medication management and safety in individuals taking insulin",
+    "metadata": {
+      "chapter_name": "6. Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Assessment of Glycemic Status",
+      "page_number": 1,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": ". CGM serves an increasingly important role in optimizing the effectiveness and safety of treatment in many people with type 1 diabetes, type 2 diabetes, diabetes in pregnancy, and other forms of diabetes (e.g., cystic fibrosis–related diabetes). Individuals on a variety of insulin treatment plans benefit from CGM with improved glucose levels, decreased hypoglycemia, and enhanced self-efficacy (section 7, “Diabetes Technology”).",
+    "metadata": {
+      "chapter_name": "6. Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Assessment of Glycemic Status",
+      "page_number": 1,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "### Glycemic Assessment Recommendations  \n- **6.1** Assess glycemic status by A1C A and/or continuous glucose monitoring (CGM) metrics such as time in range, time above range, and time below range.\n- **B** Fructosamine or CGM can be used for glycemic monitoring when an alternative to A1C is required.\n- **6.2** Assess glycemic status at least two times a year, and more frequently (e.g., every 3 months) for individuals not meeting glycemic goals or with recent treatment changes, frequent or severe hypoglycemia or hyperglycemia, or changes in health status, or during periods of rapid growth and development in children and adolescents.  \n----  \n*A complete list of members of the American Diabetes Association Professional Practice Committee for Diabetes can be found at https://doi.org/10.2337/dc26-SINT.*\n*Duality of interest information for each contributor is available at https://doi.org/10.2337/dc26-SDIS.*",
+    "metadata": {
+      "chapter_name": "6. Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Assessment of Glycemic Status",
+      "subsection_heading": "Glycemic Assessment Recommendations",
+      "page_number": 1,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "*Duality of interest information for each contributor is available at https://doi.org/10.2337/dc26-SDIS.*\n*Suggested citation: American Diabetes Association Professional Practice Committee for Diabetes. 6. Glycemic goals, hypoglycemia, and hyperglycemic crises: Standards of Care in Diabetes—2026. Diabetes Care 2026;49(Suppl. 1):S132–S149*",
+    "metadata": {
+      "chapter_name": "6. Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Assessment of Glycemic Status",
+      "subsection_heading": "Glycemic Assessment Recommendations",
+      "page_number": 1,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "© 2025 by the American Diabetes Association. Readers may use this work for educational, noncommercial purposes if properly cited and unaltered. The version of record may be linked at https://diabetesjournals.org/care, but ADA permission is required to post this work on any third-party site or platform. This publication and its contents may not be reproduced, distributed, or used for text or data mining, machine learning, or similar technologies without prior written permission. Requests to reuse, adapt, or distribute this work may be sent to permissions@diabetes.org. More information is available at https://diabetesjournals.org/journals/pages/license.",
+    "metadata": {
+      "chapter_name": "6. Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Assessment of Glycemic Status",
+      "subsection_heading": "Glycemic Assessment Recommendations",
+      "page_number": 1,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "# Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises  \n## Glycemic Assessment by A1C",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Glycemic Assessment by A1C",
+      "page_number": 2,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "The A1C test is the primary tool for assessing glycemic status in both clinical practice and clinical trials, and it is strongly linked to diabetes complications (2–4). A1C reflects average glycemia over approximately 2–3 months. The performance of laboratory tests for A1C is generally excellent for National Glycohemoglobin Standardization Program (NGSP)-certified assays (ngsp.org). Thus, A1C testing should be performed routinely in all people with diabetes at initial assessment and as part of continuing care. Measurement approximately every 3 months determines whether glycemic goals have been reached and maintained. Adults with type 1 or type 2 diabetes who have achieved and are maintaining glucose levels within their goal range may only need A1C testing twice a year. Individuals with less stable glucose levels, those with intensive care plans, or those not meeting their treatment goals may require more frequent testing, typically every 3 months, with additional assessments as needed",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Glycemic Assessment by A1C",
+      "page_number": 2,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": ". Point-of-care A1C testing can offer timely opportunities for treatment adjustments during appointments with health care professionals, although point-of-care tests may be less accurate than laboratory A1C assays (5).",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Glycemic Assessment by A1C",
+      "page_number": 2,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "The A1C test is an indirect measure of average glycemia. Factors that affect hemoglobin or red blood cells may affect A1C; see section 2, “Diagnosis and Classification of Diabetes,” for details. For example, conditions that affect red blood cell turnover (e.g., hemolytic anemia and other anemias, glucose-6-phosphate dehydrogenase deficiency, recent blood transfusion, use of drugs that stimulate erythropoiesis, kidney failure, and pregnancy) can interfere with the accuracy of A1C (6). Some hemoglobin variants can interfere with some A1C assays; however, most assays in use in the U.S. are accurate in individuals who are heterozygous for the most common variants (7). A1C cannot be measured in individuals with sickle cell disease (HbSS) or other homozygous hemoglobin variants (e.g., HbEE), since these individuals lack HbA (8)",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Glycemic Assessment by A1C",
+      "page_number": 2,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": ". A1C cannot be measured in individuals with sickle cell disease (HbSS) or other homozygous hemoglobin variants (e.g., HbEE), since these individuals lack HbA (8). In individuals with conditions that interfere with the interpretation of A1C, alternative approaches to monitoring glycemic status should be used, including self-monitoring of blood glucose, CGM, and/or the use of glycated serum protein assays (discussed below).",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Glycemic Assessment by A1C",
+      "page_number": 2,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "A1C does not provide a measure of glycemic variability, real-time glucose levels, or hypoglycemia. For individuals prone to glycemic variability, especially people with type 1 diabetes or type 2 diabetes with insulin deficiency and/or treatment with intensive insulin therapy, glycemic status is best evaluated by the combination of results from BGM or CGM and A1C. Discordant results between A1C and BGM or CGM can occur due to high glycemic variability, inaccurate BGM or CGM measurement, or inaccurate A1C due to the factors discussed above.",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Glycemic Assessment by A1C",
+      "page_number": 2,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "As discussed in section 2, “Diagnosis and Classification of Diabetes,” there is controversy regarding the clinical significance of differences in A1C by self-reported race and ethnicity (9–12). There is an emerging understanding of genetic determinants that may modify the association between A1C and glucose levels (13). However, race and ethnicity are not good proxies for these genetic differences that are likely present in a small fraction of individuals of all racial groups. Therefore, race and ethnicity should not be considerations for how A1C is used clinically for glycemic monitoring. Limitations of laboratory tests and within-person variability in glucose and A1C underscore the importance of using multiple approaches to glycemic monitoring and further evaluation of discordant results in all racial or ethnic groups.",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Glycemic Assessment by A1C",
+      "page_number": 2,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "## Serum Glycated Protein Assays as Alternatives to A1C",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Serum Glycated Protein Assays as Alternatives to A1C",
+      "page_number": 2,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "Fructosamine and glycated albumin are alternative measures of glycemia that are approved for clinical use for monitoring glycemic status in people with diabetes. Fructosamine reflects total glycated serum proteins (mostly albumin). Glycated albumin assays reflect the proportion of total albumin that is glycated. Due to the turnover rate of serum protein, fructosamine and glycated albumin reflect glycemia over the past 2–4 weeks, a shorter-term time frame than that of A1C. Fructosamine and glycated albumin are highly correlated in people with diabetes, and the performance of modern assays is typically excellent. Fructosamine and glycated albumin have been linked to long-term complications in epidemiologic cohort studies (14–18). However, there have been few clinical trials, and the evidence base supporting the use of these biomarkers to monitor glycemic status is much weaker than that for A1C",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Serum Glycated Protein Assays as Alternatives to A1C",
+      "page_number": 2,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": ". However, there have been few clinical trials, and the evidence base supporting the use of these biomarkers to monitor glycemic status is much weaker than that for A1C. In people with diabetes who have conditions where the interpretation of A1C may be problematic or when A1C cannot be measured (e.g., homozygous hemoglobin variants), fructosamine or glycated albumin may be useful alternatives to monitor glycemic status (8).",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Serum Glycated Protein Assays as Alternatives to A1C",
+      "page_number": 2,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "## Correlation Between A1C and Blood Glucose Monitoring and Continuous Glucose Monitoring  \nTable 6.1 provides rough equivalents of A1C and mean glucose levels based on data from the international A1C-Derived Average Glucose (ADAG) study. The ADAG study assessed the correlation between A1C and frequent BGM and CGM in 507 adults (83% non-Hispanic White) with type 1, type 2, and no diabetes (19,20).  \n| A1C (%) | A1C (mmol/mol) | eAG mg/dL* | eAG mmol/L* |\n|---------|----------------|-------------|--------------|\n| 5       | 31             | 97 (76–120) | 5.4 (4.2–6.7) |\n| 6       | 42             | 126 (100–152) | 7.0 (5.5–8.5) |\n| 7       | 53             | 154 (123–185) | 8.6 (6.8–10.3) |\n| 8       | 64             | 183 (147–217) | 10.2 (8.1–12.1) |\n| 9       | 75             | 212 (170–249) | 11.8 (9.4–13.9) |\n| 10      | 86             | 240 (193–282) | 13.4 (10.7–15.7) |\n| 11      | 97             | 269 (217–314) | 14.9 (12.0–17.5) |",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Correlation Between A1C and Blood Glucose Monitoring and Continuous Glucose Monitoring",
+      "page_number": 2,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "| 9       | 75             | 212 (170–249) | 11.8 (9.4–13.9) |\n| 10      | 86             | 240 (193–282) | 13.4 (10.7–15.7) |\n| 11      | 97             | 269 (217–314) | 14.9 (12.0–17.5) |\n| 12      | 108            | 298 (240–347) | 16.5 (13.3–19.3) |  \nData in parentheses are 95% CI. A calculator for converting A1C results into eAG, in either mg/dL or mmol/L, is available at professional.diabetes.org/eAG. *These estimates are based on ADAG data of ∼2,700 glucose measurements over 3 months per A1C measurement in 507 adults with type 1, type 2, or no diabetes. The correlation between A1C and average glucose was 0.92 (19,20). Adapted from Nathan et al. (19).",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Correlation Between A1C and Blood Glucose Monitoring and Continuous Glucose Monitoring",
+      "page_number": 2,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "# Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises\n**Diabetes Care Volume 49, Supplement 1, January 2026**",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "page_number": 3,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "## Glycemic Assessment by Blood Glucose Monitoring\nFor many people with diabetes, glucose monitoring, either using BGM by capillary (finger-stick) devices and/or CGM in addition to regular A1C testing, is key for achieving glycemic goals. Major clinical trials of insulin-treated individuals have included BGM as part of multifactorial interventions to demonstrate the benefit of intensive glycemic management on diabetes complications. BGM is thus an integral component of effective therapy for individuals taking insulin.  \nIn recent years, CGM has become a standard method for glucose monitoring for most people with type 1 diabetes and people with type 2 diabetes treated with insulin. Both approaches to glucose monitoring allow people with diabetes to evaluate individual responses to therapy and assess whether glycemic goals are being safely achieved. The specific needs and goals of individuals with diabetes should dictate BGM frequency and timing.",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Glycemic Assessment by Blood Glucose Monitoring",
+      "page_number": 3,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "### Glycemic Assessment by Continuous Glucose Monitoring\nCGM is particularly useful in people with diabetes who are at risk for hypoglycemia and in people with type 1 diabetes. Use of CGM in type 2 diabetes (as well as in several other forms of diabetes) is growing, especially in people who are taking insulin. TIR is a useful metric of glycemic status. A 10- to 14-day CGM assessment of TIR, with CGM wear of 70% or higher, and other CGM metrics can be used to assess glycemic status and are useful in clinical management.  \nPublished data from two retrospective studies suggest a strong correlation between TIR and A1C, with a goal of >70% TIR aligning with an A1C of ∼7% (∼53 mmol/mol).",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Glycemic Assessment by Blood Glucose Monitoring",
+      "subsection_heading": "Glycemic Assessment by Continuous Glucose Monitoring",
+      "page_number": 3,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "## Table 6.2—CGM metrics for clinical care in nonpregnant individuals with type 1 or type 2 diabetes  \n| Metric                                                  | Interpretation                                 | Goals                                           |\n|--------------------------------------------------------|------------------------------------------------|------------------------------------------------|\n| **Metrics for valid CGM wear**                         |                                                |                                                |\n| Wear time                                              | Number of days CGM device is worn             | ≥14-day wear for pattern management            |\n| Active percentage time                                  | Percent of time CGM device is active          | 70% of time active out of 14 days             |",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Table 6.2—CGM metrics for clinical care in nonpregnant individuals with type 1 or type 2 diabetes",
+      "page_number": 3,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "| Active percentage time                                  | Percent of time CGM device is active          | 70% of time active out of 14 days             |\n| **Glycemic metrics**                                   |                                                |                                                |\n| Mean glucose                                           | Mean of glucose values                         | *                                              |\n| Glucose management indicator (GMI)                     | Calculated value approximating A1C (not always equivalent) | *                                              |\n| Glucose coefficient of variation (CV)                  | Spread of glucose values                       | ≤36%†                                         |\n| TAR >250 mg/dL (>13.9 mmol/L)                         | Percent of time in level 2 hyperglycemia     | &#x3C;5% (most adults); &#x3C;10% (older adults with complex/intermediate health) |",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Table 6.2—CGM metrics for clinical care in nonpregnant individuals with type 1 or type 2 diabetes",
+      "page_number": 3,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "| TAR >250 mg/dL (>13.9 mmol/L)                         | Percent of time in level 2 hyperglycemia     | &#x3C;5% (most adults); &#x3C;10% (older adults with complex/intermediate health) |\n| TAR >180 mg/dL (>10 mmol/L)                           | Percent of time in level 1 hyperglycemia     | &#x3C;25% (most adults); &#x3C;50% (older adults with complex/intermediate health)‡ |\n| TIR 70–180 mg/dL (3.9–10.0 mmol/L)                   | Percent of time in range                       | >70% (most adults); >50% (older adults with complex/intermediate health) |\n| TBR &#x3C;70 mg/dL (&#x3C;3.9 mmol/L)                           | Percent of time in level 1 hypoglycemia      | &#x3C;4% (most adults); &#x3C;1% (older adults with complex/intermediate health)§ |\n| TBR &#x3C;54 mg/dL (&#x3C;3.0 mmol/L)                           | Percent of time in level 2 hypoglycemia      | &#x3C;1%                                            |",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Table 6.2—CGM metrics for clinical care in nonpregnant individuals with type 1 or type 2 diabetes",
+      "page_number": 3,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "| TBR &#x3C;54 mg/dL (&#x3C;3.0 mmol/L)                           | Percent of time in level 2 hypoglycemia      | &#x3C;1%                                            |  \nCGM, continuous glucose monitoring; TAR, time above range; TBR, time below range; TIR, time in range. *Goals for these values are not standardized. †Some studies suggest that lower coefficient of variation targets (&#x3C;33%) provide additional protection against hypoglycemia for those receiving insulin or sulfonylureas. ‡Goals are for level 1 and level 2 hyperglycemia combined. §Goals are for level 1 and level 2 hypoglycemia combined. Adapted from Battelino et al. (33).",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Table 6.2—CGM metrics for clinical care in nonpregnant individuals with type 1 or type 2 diabetes",
+      "page_number": 3,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "# Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises  \n## Glycemic Goals  \nFor older adults with complex or intermediate health using CGM, the recommended percent time spent in goal range of 70–180 mg/dL is 50% (or 12 h per day) and the recommended time spent in hypoglycemia of less than 70 mg/dL should not be more than 1%, or 15 min per day, to minimize hypoglycemia risk. In this population, more permissive hyperglycemia is allowed (up to 50% of the time in 24 h) if required to prevent hypoglycemia.  \nFor all populations, it is critical that glycemic goals be woven into an individualized, person-centered strategy. The glycemic goals for many nonpregnant adults are shown in Table 6.3, and Fig. 6.1 summarizes how A1C and CGM goals should be individualized by each person’s health, function, capacity for self-management, potential for the treatment plan to cause hypoglycemia, and other modifying factors.",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Glycemic Goals",
+      "page_number": 4,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "### Recommendations  \n- **6.3a** An A1C goal of &#x3C;7% (&#x3C;53 mmol/mol) is appropriate for many nonpregnant adults without severe hypoglycemia or hypoglycemia affecting health or quality of life. A\n- **6.3b** A goal time in range of >70% in people using CGM is appropriate for many nonpregnant adults. B\n- **6.3c** A goal percent time &#x3C;70 mg/dL (&#x3C;3.9 mmol/L) of &#x3C;4% (or &#x3C;1% for older adults) and a goal percent time &#x3C;54 mg/dL (&#x3C;3.0 mmol/L) of &#x3C;1% are recommended in people using CGM to prevent hypoglycemia. Deintensify or modify therapy if these goals are not met. B\n- **6.4** Lower A1C goals (e.g., &#x3C;6.5% [&#x3C;48 mmol/mol]) may be appropriate for individuals with diabetes with good health and function and low treatment risks (e.g., hypoglycemia) and burdens. B",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Glycemic Goals",
+      "subsection_heading": "Recommendations",
+      "page_number": 4,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "- **6.5** Less stringent glycemic goals may be appropriate for individuals with significant cognitive and/or functional limitations, frailty, or severe comorbidities or where the harms of treatment, including hypoglycemia, are greater than the benefits. B\n- **6.6** Deintensify hypoglycemia-causing medications (insulin, sulfonylureas, or meglitinides), or switch to a medication class with lower hypoglycemia risk, for individuals who are at high risk for hypoglycemia, within individualized glycemic goals. B\n- **6.7** Deintensify diabetes medications for individuals for whom the harms and/or burdens of treatment may be greater than the benefits, within individualized glycemic goals. B\n- **6.8** Reassess glycemic goals based on the individualized criteria shown in Fig. 6.1. E",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Glycemic Goals",
+      "subsection_heading": "Recommendations",
+      "page_number": 4,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "- **6.8** Reassess glycemic goals based on the individualized criteria shown in Fig. 6.1. E  \nHealth care professionals should engage in shared decision-making with the individual (as well as with family members and care partners) to establish treatment goals and should adjust goals to improve safety and medication-taking behavior particularly in the setting of changing health status. Setting specific glycemic (and other) treatment goals during clinical consultations has been demonstrated to improve glycemic outcomes for individuals with diabetes.",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Glycemic Goals",
+      "subsection_heading": "Recommendations",
+      "page_number": 4,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "### Glucose Lowering and Microvascular Complications  \nThe Diabetes Control and Complications Trial (DCCT), a prospective randomized controlled trial of intensive (mean A1C ∼7% [∼53 mmol/mol]) versus standard (mean A1C ∼9% [∼75 mmol/mol]) glycemic management in people with type 1 diabetes, showed definitively that better glycemic status is associated with 50–76% reductions in rates of development and progression of microvascular complications (retinopathy, neuropathy, and chronic kidney disease). Follow-up of the DCCT cohorts in the Epidemiology of Diabetes Interventions and Complications (EDIC) study demonstrated persistence of these microvascular benefits over two decades despite the fact that the glycemic separation between the treatment groups diminished and disappeared during follow-up.",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Glycemic Goals",
+      "subsection_heading": "Glucose Lowering and Microvascular Complications",
+      "page_number": 4,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "### Table 6.3—Summary of glycemic goals for many nonpregnant adults with diabetes  \n| A1C | Preprandial capillary plasma glucose | Peak postprandial capillary plasma glucose |\n|-----|--------------------------------------|-------------------------------------------|\n| &#x3C;7.0% (&#x3C;53 mmol/mol)*† | 80–130 mg/dL (4.4–7.2 mmol/L) | &#x3C;180 mg/dL (&#x3C;10.0 mmol/L) |  \n*More or less stringent glycemic goals may be appropriate for certain individuals.\n†CGM may be used to assess glycemic status as noted in Recommendations 6.3b and 6.3c. Goals should be individualized based on duration of diabetes, age and life expectancy, comorbid conditions, known cardiovascular disease or advanced microvascular complications, impaired awareness of hypoglycemia, and individual considerations (per Fig. 6.1).",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Glycemic Goals",
+      "subsection_heading": "Table 6.3—Summary of glycemic goals for many nonpregnant adults with diabetes",
+      "page_number": 4,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "Postprandial glucose may warrant special attention if A1C goals are not met despite reaching preprandial glucose goals. Postprandial glucose measurements should be made 1–2 h after the beginning of the meal, which is generally the timing for peak levels in people with diabetes.",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Glycemic Goals",
+      "subsection_heading": "Table 6.3—Summary of glycemic goals for many nonpregnant adults with diabetes",
+      "page_number": 4,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "# Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises\n**Diabetes Care Volume 49, Supplement 1, January 2026**",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "page_number": 5,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "## A1C Goals for Different Populations  \n| Population Type                     | A1C Goal  |\n|-------------------------------------|-----------|\n| Healthy Older Adults                | 6.5%      |\n| Older Adults with Complex Health     | 7.0%      |\n| Older Adults with Very Complex Health| No A1C Goal |\n| Any Adults with Limited Life Expectancy | No A1C Goal |",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "A1C Goals for Different Populations",
+      "page_number": 5,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "### Considerations for A1C Goals  \n- **Avoid symptomatic hyperglycemia**:\n- 70% of individuals should avoid symptomatic hyperglycemia.",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "A1C Goals for Different Populations",
+      "subsection_heading": "Considerations for A1C Goals",
+      "page_number": 5,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "### Modifying Factors for A1C Goals  \n| More Stringent Goal Factors         | Less Stringent Goal Factors         |\n|-------------------------------------|-------------------------------------|\n| Short diabetes duration              | Long diabetes duration               |\n| Low hypoglycemia risk               | High hypoglycemia risk               |\n| Low treatment risks and burdens      | High treatment risks and burdens     |\n| Pharmacotherapy with cardiovascular, kidney, weight, or other benefits | Pharmacotherapy without nonglycemic benefits |\n| No cardiovascular complications      | Established cardiovascular complications |\n| Few or minor comorbidities          | Severe, life-limiting comorbidities  |",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "A1C Goals for Different Populations",
+      "subsection_heading": "Modifying Factors for A1C Goals",
+      "page_number": 5,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "### Individualized A1C and CGM Goals for Nonpregnant Adults  \nSelect the glycemic goal based on individual health and function as described at the top of the figure. Consider modifying to a more or less stringent goal according to the factors listed in the table. Older adults are classified as:  \n- **Healthy**: Few co-existing chronic illnesses, intact cognitive and functional status.\n- **Complex/Intermediate Health**: Multiple coexisting chronic illnesses, two or more instrumental impairments to activities of daily living, or mild to moderate cognitive impairment.\n- **Very Complex/Poor Health**: Long-term care or end-stage chronic illnesses, moderate to severe cognitive impairment, or two or more impairments to activities of daily living.",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "A1C Goals for Different Populations",
+      "subsection_heading": "Individualized A1C and CGM Goals for Nonpregnant Adults",
+      "page_number": 5,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "- **Very Complex/Poor Health**: Long-term care or end-stage chronic illnesses, moderate to severe cognitive impairment, or two or more impairments to activities of daily living.  \nSelect glycemic goals that avoid symptomatic hypoglycemia and hyperglycemia in all individuals. Consider individuals’ resources and support systems to safely achieve glycemic goals. Incorporate the preferences and goals of people with diabetes through shared decision-making.",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "A1C Goals for Different Populations",
+      "subsection_heading": "Individualized A1C and CGM Goals for Nonpregnant Adults",
+      "page_number": 5,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "### Additional Considerations  \nThe risk of microvascular complications is present, but the absolute risk reductions become much smaller and may be outweighed by the increasing risk of hypoglycemia when using medications that cause hypoglycemia (e.g., insulin and insulin secretagogues) or requiring glucose-lowering polypharmacy.  \nThe implication of these findings is that A1C goals between 6% and 7% are appropriate, and treatment does not necessarily need to be deintensified in the setting of low hypoglycemia risk, low treatment risks, and long life expectancy (i.e., sufficient time horizon to derive benefit from glucose lowering).",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "A1C Goals for Different Populations",
+      "subsection_heading": "Additional Considerations",
+      "page_number": 5,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "Several glucose-lowering medication classes—notably, metformin, glucagon-like peptide 1 receptor agonists (GLP-1 RAs), dual GIP and GLP-1 RA, sodium–glucose cotransporter 2 (SGLT2) inhibitors, and dipeptidyl peptidase 4 inhibitors—are unlikely to cause hypoglycemia, making it possible for many individuals to achieve lower glycemic goals with a low risk for hypoglycemia.  \nAmong individuals with type 2 diabetes, three landmark trials (Action to Control Cardiovascular Risk in Diabetes [ACCORD], Action in Diabetes and Vascular Disease: Preterax and Diamicron Modified Release Controlled Evaluation [ADVANCE], and Veterans Affairs Diabetes Trial [VADT]) have provided insights into the management of diabetes and the associated risks.",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "A1C Goals for Different Populations",
+      "subsection_heading": "Additional Considerations",
+      "page_number": 5,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "# Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises  \n## Glucose Lowering and Cardiovascular Disease Outcomes  \nThe DCCT in individuals with type 1 diabetes and the UKPDS, ACCORD, ADVANCE, and VADT studies in type 2 diabetes all sought to address whether intensive glycemic management reduced cardiovascular disease (CVD) events. ACCORD, ADVANCE, and VADT were conducted in relatively older participants with a longer duration of diabetes (mean duration 8–11 years) and either CVD or multiple cardiovascular risk factors.",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Glucose Lowering and Cardiovascular Disease Outcomes",
+      "page_number": 6,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "Details of these studies are reviewed extensively in the joint ADA position statement “Intensive Glycemic Control and the Prevention of Cardiovascular Events: Implications of the ACCORD, ADVANCE, and VA Diabetes Trials.” No significant reduction in composite CVD events was demonstrated at the end of the intervention in any of these studies, and ACCORD was stopped prematurely at 3.5 years because of an increase in total mortality, particularly sudden CVD deaths. Serious concerns with the intensive glycemic treatment plan used in ACCORD included the rapid escalation of therapies, the early use of large doses of insulin, substantial weight gain, and frequent hypoglycemia.",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Glucose Lowering and Cardiovascular Disease Outcomes",
+      "page_number": 6,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "Blood glucose has subsequently been shown to be a weaker independent CVD risk factor compared with other CVD risk factors, such as hypertension or hypercholesterolemia. However, a meta-analysis of individual participant data from UKPDS, ACCORD, ADVANCE, and VADT demonstrated a significant reduction in myocardial infarctions and major CVD events but no difference in stroke, heart failure, or mortality between intensive and less intensive glycemic management. Additionally, longer-term epidemiological follow-up of these studies also showed a pattern of CVD benefit.",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Glucose Lowering and Cardiovascular Disease Outcomes",
+      "page_number": 6,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "In the post-DCCT follow-up of the EDIC cohort, participants previously randomized to the intensive treatment arm had a significant 57% reduction in the risk of the composite outcome of nonfatal myocardial infarction, nonfatal stroke, or cardiovascular death compared with those previously randomized to the standard treatment arm. The benefit of intensive glycemic management in the EDIC cohort of people with type 1 diabetes has been shown to persist for 30 years and was associated with a 32% reduction in CVD events.  \nAs discussed further below, severe hypoglycemia is strongly associated with cardiovascular events and mortality. Therefore, health care professionals should be vigilant in preventing hypoglycemia and should not aggressively attempt to achieve near-normal A1C levels in people in whom such goals cannot be safely and reasonably achieved.",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Glucose Lowering and Cardiovascular Disease Outcomes",
+      "page_number": 6,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "### Recommendations  \nBased on these considerations, the following two strategies are offered:  \n1. If already on dual therapy or multiple glucose-lowering therapies and:\n- Addition of SGLT2 inhibitors and/or GLP-1–based therapies that have demonstrated CVD and kidney benefits is recommended in individuals with established CVD, chronic kidney disease, and heart failure.  \n2. The cardiovascular benefits of SGLT2 inhibitors or GLP-1 RAs are not contingent upon A1C lowering; therefore, initiation should be considered in people with type 2 diabetes and CVD, kidney disease, heart failure, and/or obesity independent of the current A1C, A1C goal, or metformin therapy.  \nThe findings from these studies suggest that long-term intensive glycemic management may reduce CVD events, particularly myocardial infarctions, with heterogeneity of results likely driven by differences in study treatments and populations.",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Glucose Lowering and Cardiovascular Disease Outcomes",
+      "subsection_heading": "Recommendations",
+      "page_number": 6,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "# Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises\n**Diabetes Care Volume 49, Supplement 1, January 2026**",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "page_number": 7,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "## Hypoglycemia Assessment, Prevention, and Treatment  \n### Recommendations\n6.10 Review history of hypoglycemia benefit. Introduce SGLT2 inhibitors or GLP-1 RAs or a dual GIP and GLP-1 RA in people with CVD at A1C goal (independent of metformin) for cardiovascular benefit, independent of baseline A1C or individualized A1C goal.  \nSetting and Modifying Glycemic Goals\nGlycemic goals and management should be individualized, with focus on avoiding therapeutic inertia to reduce risks of acute and chronic diabetes complications as well as undue treatment burden and adverse effects of therapy. Multiple factors must be considered when setting a glycemic goal, using shared decision-making to integrate individual needs, goals, and preferences and considering characteristics that influence risks and benefits of therapy.",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Hypoglycemia Assessment, Prevention, and Treatment",
+      "subsection_heading": "Recommendations",
+      "page_number": 7,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "In addition to supporting the establishment of individualized glycemic goals, this approach may optimize engagement and self-efficacy. The factors to consider in individualizing goals are depicted in Fig. 6.1. This figure is not designed to be applied rigidly in the care of a given individual but rather to be used as a framework to guide clinical decision-making and engage people with type 1 and type 2 diabetes in shared decision-making. More aggressive goals may be recommended if they can be achieved safely, with an acceptable burden of therapy (including hypoglycemic risk), and if life expectancy is sufficient to derive benefits of greater glucose lowering.",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Hypoglycemia Assessment, Prevention, and Treatment",
+      "subsection_heading": "Recommendations",
+      "page_number": 7,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "Less stringent goals (e.g., A1C up to 8% [64 mmol/mol]) may be recommended for individuals with complex health status and/or limited life expectancy where benefits of more intensive treatment may not be realized or if the expected risks and burdens of treatment outweigh the potential benefits. Severe or frequent hypoglycemia is an absolute indication for the modification of treatment plans, including setting higher glycemic goals, if the treatment plan requires use of medications associated with high risk for hypoglycemia (i.e., insulin and insulin secretagogues).",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Hypoglycemia Assessment, Prevention, and Treatment",
+      "subsection_heading": "Recommendations",
+      "page_number": 7,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "Diabetes is a progressive chronic disease; thus, glycemic goals are likely to change over time. Newly diagnosed individuals and/or those without comorbidities that limit life expectancy may benefit from more intensive glycemic goals proven to prevent microvascular complications. Both DCCT/EDIC and UKPDS suggested that there is metabolic memory, or a legacy effect, in which a finite period of intensive glucose lowering yielded benefits that extended for decades after that period ended. However, there are no data on the long-term effects of early long-term glucose lowering using modern treatment strategies. Thus, a finite period of intensive treatment to near-normal A1C may yield enduring benefits even if treatment is subsequently deintensified as the individual’s situation and needs change, clinical complexity increases, and the treatment plan required to lower glucose levels becomes more complex and/or associated with hypoglycemia.",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Hypoglycemia Assessment, Prevention, and Treatment",
+      "subsection_heading": "Recommendations",
+      "page_number": 7,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "It is important to partner with people with diabetes during the deintensification process to understand their goals of diabetes treatment and agree upon appropriate glycemic monitoring, glucose levels, and goals of care.",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Hypoglycemia Assessment, Prevention, and Treatment",
+      "subsection_heading": "Recommendations",
+      "page_number": 7,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "### Hypoglycemia Risk Assessment\n6.11 Screen individuals at risk for hypoglycemia for impaired hypoglycemia awareness at least annually and when clinically appropriate. Refer to a trained health care professional for evidence-based intervention to improve hypoglycemia awareness.  \n6.12 Screen individuals at high risk for hypoglycemia or with severe and/or frequent hypoglycemia for fear of hypoglycemia at least annually and when clinically appropriate. Refer to a trained health care professional for evidence-based intervention.  \n6.13 Consider an individual’s risk for hypoglycemia (see Table 6.5) when selecting diabetes medications and glycemic goals.  \n6.14 Use of CGM is beneficial and recommended for individuals at high risk for hypoglycemia.",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Hypoglycemia Assessment, Prevention, and Treatment",
+      "subsection_heading": "Hypoglycemia Risk Assessment",
+      "page_number": 7,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "### Treatment of Hypoglycemia\n6.15 Glucose is the preferred treatment for the conscious individual with glucose &#x3C;70 mg/dL (&#x3C;3.9 mmol/L), although any form of carbohydrate that contains glucose may be used. Avoid using foods or beverages high in fat and/or protein for initial treatment of hypoglycemia. Fifteen minutes after initial treatment, repeat the treatment if hypoglycemia persists.  \n6.16 Glucagon should be prescribed for all individuals taking insulin or at high risk for hypoglycemia. Family, caregivers, school personnel, and others providing support to these individuals should know its location and be educated on how to administer it. Glucagon preparations that do not have to be reconstituted are preferred.  \n6.17 First aid kits should include oral glucose for use in treating hypoglycemia.",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Hypoglycemia Assessment, Prevention, and Treatment",
+      "subsection_heading": "Treatment of Hypoglycemia",
+      "page_number": 7,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "6.17 First aid kits should include oral glucose for use in treating hypoglycemia.  \n6.18 All individuals taking insulin or at risk for hypoglycemia should receive structured education for hypoglycemia prevention and treatment, with ongoing education for those who experience hypoglycemic events.  \n----  \n**Note:** The above text is a structured extraction of the provided medical document, maintaining the hierarchical format and clarity of the original content.",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Hypoglycemia Assessment, Prevention, and Treatment",
+      "subsection_heading": "Treatment of Hypoglycemia",
+      "page_number": 7,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "# Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises  \n## Assessment\n6.19 One or more episodes of level 2 or 3 hypoglycemia should prompt reevaluation of the treatment plan, including deintensifying or switching diabetes medications if appropriate.  \n6.20 Regularly assess cognitive function; if impaired or declining cognition is found, the clinician, person with diabetes, and caregiver should increase vigilance for hypoglycemia.  \nHypoglycemia has a broad range of negative health consequences. Level 3 hypoglycemia may be recognized or unrecognized and can progress to loss of consciousness, seizure, coma, or death. Hypoglycemia is often the major limiting factor in the glycemic management of type 1 and type 2 diabetes. Recommendations regarding the classification of hypoglycemia are outlined in Table 6.4.",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Assessment",
+      "page_number": 8,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "## Hypoglycemia Definitions and Event Rates\nHypoglycemia is defined as follows:\n- **Level 1**: Glucose &#x3C;70 mg/dL (&#x3C;3.9 mmol/L) and ≥54 mg/dL (≥3.0 mmol/L).\n- **Level 2**: Glucose &#x3C;54 mg/dL (&#x3C;3.0 mmol/L).\n- **Level 3**: A severe event characterized by altered mental and/or physical status requiring assistance for treatment of hypoglycemia, irrespective of glucose level.",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Hypoglycemia Definitions and Event Rates",
+      "page_number": 8,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "### Table 6.4—Classification of Hypoglycemia\n| Level  | Glycemic criteria/description                                                                 |\n|--------|------------------------------------------------------------------------------------------------|\n| Level 1| Glucose &#x3C;70 mg/dL (&#x3C;3.9 mmol/L) and ≥54 mg/dL (≥3.0 mmol/L)                                 |\n| Level 2| Glucose &#x3C;54 mg/dL (&#x3C;3.0 mmol/L)                                                              |\n| Level 3| A severe event characterized by altered mental and/or physical status requiring assistance for treatment of hypoglycemia, irrespective of glucose level |  \nAdapted from Agiostratidou et al. (71).",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Hypoglycemia Definitions and Event Rates",
+      "subsection_heading": "Table 6.4—Classification of Hypoglycemia",
+      "page_number": 8,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "Level 3 hypoglycemia was associated with mortality in both the standard and the intensive glycemia arms of the ACCORD trial, but the relationships between hypoglycemia, achieved A1C, and treatment intensity were not straightforward. An association of level 3 hypoglycemia with mortality was also found in the ADVANCE trial and in clinical practice. Hypoglycemia can cause acute harm to the person with diabetes or others, especially if it causes falls, motor vehicle accidents, or other injury. Hypoglycemia may also cause substantial anxiety that can reduce the quality of life of individuals with diabetes and their caregivers and may contribute to problems with diabetes self-management and treatment",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Hypoglycemia Definitions and Event Rates",
+      "subsection_heading": "Table 6.4—Classification of Hypoglycemia",
+      "page_number": 8,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": ". Recurrent level 2 hypoglycemia and/or level 3 hypoglycemia is an urgent medical issue and requires intervention with treatment plan adjustment, behavioral intervention, delivery of diabetes self-management education and support, and use of technology to assist with hypoglycemia prevention and identification.",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Hypoglycemia Definitions and Event Rates",
+      "subsection_heading": "Table 6.4—Classification of Hypoglycemia",
+      "page_number": 8,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "Epidemiologic studies of hypoglycemia predominantly rely on claims data to assess hypoglycemia-related hospitalizations and emergency department visits. These studies do not capture the level 1 and level 2 hypoglycemia that represent the vast majority of hypoglycemic events, and they also substantially underestimate level 3 hypoglycemia.  \nNevertheless, they reveal a substantial burden of hypoglycemia-related hospital utilization in the community. Level 1 and level 2 hypoglycemia can be ascertained from individual self-report and are strong risk factors for subsequent level 3 hypoglycemia.",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Hypoglycemia Definitions and Event Rates",
+      "subsection_heading": "Table 6.4—Classification of Hypoglycemia",
+      "page_number": 8,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "## Hypoglycemia Risk Assessment\nAssessment of an individual’s risk for hypoglycemia includes evaluating clinical risk factors as well as relevant social, cultural, and economic factors (Table 6.5). Recommendations 6.10–6.20 group individuals with diabetes into two hypoglycemia risk categories with clinical significance. Individuals at risk for hypoglycemia are those treated with insulin, sulfonylureas, or meglitinides; clinically significant hypoglycemia is rare among individuals taking other diabetes medication classes. Individuals at high risk for hypoglycemia are the subset of individuals at risk for hypoglycemia who either have a major hypoglycemia risk factor or have multiple other risk factors (determined by the health care professional incorporating clinical judgment). This risk stratification is based on epidemiologic studies of hypoglycemia risk.",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Hypoglycemia Risk Assessment",
+      "page_number": 8,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "Validated tools have been developed to estimate hypoglycemia risk using predominantly electronic health record data. However, these tools do not include all of the important hypoglycemia risk factors, and more research is needed to determine how they can best be incorporated into clinical care.",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Hypoglycemia Risk Assessment",
+      "page_number": 8,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "Among individuals at risk for hypoglycemia, prior hypoglycemic events, especially level 2 or 3 events, are the strongest risk factors for hypoglycemia recurrence. Hypoglycemia history should be assessed at every clinical encounter and should include hypoglycemic event frequency, severity, precipitants, symptoms (or lack thereof), and approach to treatment. It is essential to correlate glucose readings, both from glucose meters and CGM systems, with symptoms and treatment, as individuals may experience and treat hypoglycemic symptoms without checking their glucose level, treat normal glucose values as hypoglycemic, or tolerate hypoglycemia without treatment either because of lack of symptoms or to avoid hyperglycemia.",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Hypoglycemia Risk Assessment",
+      "page_number": 8,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "# Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises\nDiabetes Care Volume 49, Supplement 1, January 2026",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "page_number": 9,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "## Table 6.5—Assessment of Hypoglycemia Risk Among Individuals Treated with Insulin, Sulfonylureas, or Meglitinides  \n| Clinical and Biological Risk Factors | Social, Cultural, and Economic Risk Factors |\n|--------------------------------------|---------------------------------------------|\n| **Major Risk Factors**               | **Major Risk Factors**                       |\n| - Recent (within the past 3–6 months) level 2 or 3 hypoglycemia | - Food insecurity                           |\n| - Intensive insulin therapy*          | - Low-income status§                        |\n| - Impaired hypoglycemia awareness     | - Housing insecurity                        |\n| - Kidney failure                      | - Fasting for religious or cultural reasons |\n| - Cognitive impairment or dementia    | - Underinsurance                            |\n| **Other Risk Factors**               | **Other Risk Factors**                      |",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Table 6.5—Assessment of Hypoglycemia Risk Among Individuals Treated with Insulin, Sulfonylureas, or Meglitinides",
+      "page_number": 9,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "| - Cognitive impairment or dementia    | - Underinsurance                            |\n| **Other Risk Factors**               | **Other Risk Factors**                      |\n| - Multiple recent episodes of level 1 hypoglycemia | - Low health literacy                      |\n| - Alcohol or substance use disorder   |                                             |\n| - Basal insulin therapy*              |                                             |\n| - Age ≥75 years†                     |                                             |\n| - Female sex                          |                                             |\n| - High glycemic variability‡          |                                             |\n| - Polypharmacy                        |                                             |\n| - Cardiovascular disease              |                                             |",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Table 6.5—Assessment of Hypoglycemia Risk Among Individuals Treated with Insulin, Sulfonylureas, or Meglitinides",
+      "page_number": 9,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "| - Polypharmacy                        |                                             |\n| - Cardiovascular disease              |                                             |\n| - Chronic kidney disease (eGFR &#x3C;60 mL/min/1.73 m² or albuminuria) |                                             |\n| - Neuropathy                         |                                             |\n| - Retinopathy                        |                                             |\n| - Major depressive disorder           |                                             |\n| - Severe mental illness               |                                             |\n| - Gastroparesis                      |                                             |\n| - β-Blocker therapy                  |                                             |",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Table 6.5—Assessment of Hypoglycemia Risk Among Individuals Treated with Insulin, Sulfonylureas, or Meglitinides",
+      "page_number": 9,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "| - Gastroparesis                      |                                             |\n| - β-Blocker therapy                  |                                             |  \nMajor risk factors are those that have a consistent, independent association with a high risk for level 2 or 3 hypoglycemia. Other risk factors are those with less consistent evidence or a weaker association. These risk factors are identified through observational analyses and are intended to be used for hypoglycemia risk stratification. Individuals considered at high risk for hypoglycemia are those with ≥1 major risk factor or who have multiple other risk factors (determined by the health care professional incorporating clinical judgment). Proximal causes of hypoglycemic events (e.g., exercise and sleep) are not included. eGFR, estimated glomerular filtration rate.",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Table 6.5—Assessment of Hypoglycemia Risk Among Individuals Treated with Insulin, Sulfonylureas, or Meglitinides",
+      "page_number": 9,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "*Rates of hypoglycemia are highest for individuals treated with intensive insulin therapy (including multiple daily injections of insulin, continuous subcutaneous insulin infusion, or automated insulin delivery systems), followed by basal insulin, followed by sulfonylureas or meglitinides. Combining treatment with insulin and sulfonylureas further increases hypoglycemia risk.  \n†Accounting for treatment plan and diabetes subtype, the oldest individuals (aged ≥75 years) have the highest risk for hypoglycemia in type 2 diabetes; younger individuals with type 1 diabetes are also at very high risk.  \n‡Tight glycemic management in randomized trials increases hypoglycemia rates. In observational studies, both low and high A1C are associated with hypoglycemia in a J-shaped relationship.  \n§Includes factors associated with low income, such as living in a socioeconomically deprived area.",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Table 6.5—Assessment of Hypoglycemia Risk Among Individuals Treated with Insulin, Sulfonylureas, or Meglitinides",
+      "page_number": 9,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "§Includes factors associated with low income, such as living in a socioeconomically deprived area.  \nIndividuals at risk for hypoglycemia should also be screened for impaired hypoglycemia awareness (also called hypoglycemia unawareness or hypoglycemia-associated autonomic failure) at least yearly. Impaired hypoglycemia awareness is defined as not experiencing the typical counterregulatory hormone release at low glucose levels or the associated symptoms, which often occurs in individuals with long-standing diabetes or in low-risk individuals, or occur without associated symptoms. Causes of artifactual hypoglycemia should be investigated, such as compression of a CGM sensor during sleep.",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Table 6.5—Assessment of Hypoglycemia Risk Among Individuals Treated with Insulin, Sulfonylureas, or Meglitinides",
+      "page_number": 9,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "Individuals with impaired hypoglycemia awareness may experience confusion as the first sign of hypoglycemia, which can create fear of hypoglycemia and severely impact quality of life. Impaired hypoglycemia awareness dramatically increases the risk for level 3 hypoglycemia. Validated questionnaires for assessing impaired hypoglycemia awareness include the single-question Pedersen-Bjergaard and Gold tools; the Clarke and HypoA-Q tools.  \nClinicians should also be aware of cultural practices that may influence glycemic management.",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Table 6.5—Assessment of Hypoglycemia Risk Among Individuals Treated with Insulin, Sulfonylureas, or Meglitinides",
+      "page_number": 9,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "# Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises  \n## Hypoglycemia Treatment\nHealth care professionals should counsel individuals with diabetes to treat hypoglycemia with fast-acting carbohydrates at the hypoglycemia alert value of 70 mg/dL (3.9 mmol/L) or less. Individuals should be counseled to recheck their glucose 15 min after ingesting carbohydrates and to repeat carbohydrate ingestion and seek care for ongoing hypoglycemia. Emergency medical services should be called for people who are unalert or unable to administer carbohydrates. These instructions should be reviewed at each clinical visit. For most individuals, 15 g carbohydrates should be ingested. Individuals using automated insulin delivery systems should typically ingest 5–10 g carbohydrates unless there is hypoglycemia in conjunction with exercise or there has been significant insulin activity.",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Hypoglycemia Treatment",
+      "page_number": 10,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "## Glucagon\nThe use of glucagon is indicated for the treatment of hypoglycemia in people unable or unwilling to consume carbohydrates by mouth. All individuals treated with insulin or who are at high risk of hypoglycemia should be prescribed glucagon. Clinicians should routinely review their access to glucagon, as appropriate glucagon prescribing is very low in current practice. An individual does not need to be a health care professional to safely administer glucagon. Those in close contact with individuals with diabetes prescribed glucagon (e.g., family members, roommates, school personnel, coaches, childcare professionals, correctional institution staff, or coworkers) should be instructed on the use of glucagon, including where the glucagon product is kept and when and how to administer it. It is essential that they be explicitly educated to never administer insulin to individuals experiencing hypoglycemia.",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Glucagon",
+      "page_number": 10,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "## Hypoglycemia Prevention\nA multicomponent hypoglycemia prevention plan is critical to caring for individuals at risk for hypoglycemia. Hypoglycemia prevention begins by establishing an individual’s hypoglycemia history and risk factors. Structured education for hypoglycemia prevention and treatment is critical and has been shown to improve hypoglycemia outcomes. Education should ideally be provided through a diabetes self-management education and support program or by a trained diabetes care and education specialist, although these services are not available in many areas. If structured education is not available, clinicians should educate individuals at risk for hypoglycemia on hypoglycemia definitions, situations that may precipitate hypoglycemia (e.g., fasting, delayed meals, physical activity, and illness), blood glucose self-monitoring, avoidance of driving with hypoglycemia, step-by-step instructions on hypoglycemia treatment, and glucagon use as appropriate.",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Hypoglycemia Prevention",
+      "page_number": 10,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "## Table 6.6: Glucagon Products and Associated Costs\n| Product Type | Description | Cost |\n|--------------|-------------|------|\n| Glucose Tablets | Long shelf life, easy dosing | TBD |\n| Glucose Gel | Shorter shelf life, easier to ingest | TBD |",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Table 6.6: Glucagon Products and Associated Costs",
+      "page_number": 10,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "## Table 6.7: Hypoglycemia Prevention Plan\n| Component | Description |\n|-----------|-------------|\n| Education | Structured education on hypoglycemia |\n| Monitoring | Regular blood glucose monitoring |\n| Emergency Plan | Clear instructions for hypoglycemia treatment |\n| Support | Access to glucagon and support systems |  \nThis document outlines the importance of individualized glycemic goals, education, nutrition intervention, physical activity management, medication adjustment, glucose monitoring, and routine clinical surveillance to improve outcomes for individuals with diabetes.",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Table 6.7: Hypoglycemia Prevention Plan",
+      "page_number": 10,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "# Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises  \nDiabetes Care Volume 49, Supplement 1, January 2026  \nCGM can be a valuable tool for detecting and preventing hypoglycemia in many individuals with diabetes, and it is recommended for insulin-treated individuals, especially those using multiple daily insulin injections or continuous subcutaneous insulin infusion. There is clinical trial evidence that CGM reduces rates of hypoglycemia in these populations. CGM can reveal asymptomatic hypoglycemia and help identify patterns and precipitants of hypoglycemic events and provide alarms that can warn individuals of falling glucose so that they can intervene (150,151). CGM may also be helpful to reduce hypoglycemia and improve quality of life in people with hypoglycemia as a complication of metabolic surgery (152,153). For more information on using BGM and CGM for hypoglycemia prevention, see section 7, “Diabetes Technology.”",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "page_number": 11,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "An essential component of hypoglycemia prevention is appropriate modification to diabetes treatment in the setting of intercurrent illness (discussed in detail below) or to prevent recurrent hypoglycemic events. Level 2 or 3 hypoglycemic events in particular should trigger a reevaluation of the individual’s diabetes treatment plan, with consideration of deintensification of therapy within individualized glycemic goals.",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "page_number": 11,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "Individuals with impaired hypoglycemia awareness should be offered training to reestablish awareness of hypoglycemia. Fear of hypoglycemia and impaired hypoglycemia awareness often co-occur, so interventions aimed at treating one often benefit both (154). Several evidence-based training programs have been developed for this purpose and have been demonstrated to reduce rates of hypoglycemia and improve quality of life among people with type 1 diabetes and impaired hypoglycemia awareness (74,155,156). However, these programs are not currently available for clinical use. Similar training can be provided through qualified behavioral health professionals, diabetes care and education specialists, or other professionals with experience in this area, although this approach has not been evaluated in clinical trials",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "page_number": 11,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": ". In addition, several weeks of avoidance of hypoglycemia, typically accomplished through a temporary relaxation of glycemic goals, can improve counterregulation and hypoglycemia awareness in many people with diabetes (157). Hence, individuals with impaired hypoglycemia awareness and recurrent hypoglycemic episodes may benefit from short-term relaxation of glycemic goals.",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "page_number": 11,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "## Intercurrent Illness  \nStressful events (e.g., illness, trauma, and surgery) increase the risk for both hyperglycemia and hypoglycemia among individuals with diabetes, particularly in the setting of underlying clinical complexity and polypharmacy. In severe cases, they may precipitate hyperglycemic crises, which are life-threatening and require immediate medical care. Any individuals with diabetes experiencing illness or other stressful events should be assessed for the need for more frequent monitoring of glucose; ketosis-prone individuals also require urine or blood ketone monitoring. Clinicians should reevaluate diabetes treatment during these events and make adjustments as appropriate. Specifically, clinicians should consider holding metformin and SGLT2 inhibitors when oral intake cannot be maintained or if there is concern for acute kidney injury (158). GLP-1 RAs may need to be held for illnesses with significant gastrointestinal symptoms.",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Intercurrent Illness",
+      "page_number": 11,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "### Table 6.6—Median monthly (30-day) AWP and NADAC of glucagon formulations in the U.S.  \n| Product           | Form               | Median AWP* (min, max) | Median NADAC* (min, max) | Dosage   |\n|-------------------|--------------------|-------------------------|---------------------------|----------|\n| Glucagon          | Injection powder with diluent for reconstitution | $303 ($180, $337) | $242 ($207, $242) | 1 mg     |\n| Glucagon          | Nasal powder       | $357                   | $285                      | 3 mg     |\n| Glucagon          | Prefilled pen, prefilled syringe | $391                   | $303 ($303, $304)       | 0.5 mg, 1 mg |\n| Dasiglucagon      | Prefilled pen, prefilled syringe | $371                   | $298                      | 0.6 mg   |",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Intercurrent Illness",
+      "subsection_heading": "Table 6.6—Median monthly (30-day) AWP and NADAC of glucagon formulations in the U.S.",
+      "page_number": 11,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "| Dasiglucagon      | Prefilled pen, prefilled syringe | $371                   | $298                      | 0.6 mg   |  \nAWP, average wholesale price; max, maximum; min, minimum; NADAC, National Average Drug Acquisition Cost. AWP and NADAC prices are as of 1 July 2025. *Calculated per unit (AWP [192] or NADAC [193]); median AWP or NADAC is listed alone when only one product and/or price is described.",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Intercurrent Illness",
+      "subsection_heading": "Table 6.6—Median monthly (30-day) AWP and NADAC of glucagon formulations in the U.S.",
+      "page_number": 11,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "### Table 6.7—Components of hypoglycemia prevention for individuals at risk for hypoglycemia at initial, follow-up, and annual visits  \n| Hypoglycemia prevention action | Initial visit | Every follow-up visit | Annual visit |\n|--------------------------------|---------------|-----------------------|--------------|\n| Hypoglycemia history assessment | ✓             | ✓                     | ✓            |\n| Hypoglycemia awareness assessment | ✓           | -                     | ✓            |\n| Cognitive function and other hypoglycemia risk factor assessment | ✓ | - | ✓ |\n| Structured individual education for hypoglycemia prevention and treatment | ✓ | ✓* | ✓* |\n| Consideration of diabetes technology needs | ✓ | ✓ | ✓ |\n| Reevaluation of diabetes treatment plan with deintensification, simplification, or agent modification as appropriate | ✓ | ✓† | ✓† |",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Intercurrent Illness",
+      "subsection_heading": "Table 6.7—Components of hypoglycemia prevention for individuals at risk for hypoglycemia at initial, follow-up, and annual visits",
+      "page_number": 11,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "| Consideration of diabetes technology needs | ✓ | ✓ | ✓ |\n| Reevaluation of diabetes treatment plan with deintensification, simplification, or agent modification as appropriate | ✓ | ✓† | ✓† |\n| Glucagon prescription and training for close contacts for insulin-treated individuals or those at high hypoglycemic risk | ✓ | - | ✓ |\n| Training to improve hypoglycemia awareness | ✓‡ | - | ✓‡ |  \nThe listed frequencies are the recommended minimum; actions for hypoglycemia prevention should be taken more often as needed based on clinical judgment. *Indicated with recurrent hypoglycemic events or at initiation of medication with a high risk for hypoglycemia. †Indicated with any level 2 or 3 hypoglycemia, intercurrent illness, or initiating interacting medications. ‡Indicated when impaired hypoglycemia awareness is detected.",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Intercurrent Illness",
+      "subsection_heading": "Table 6.7—Components of hypoglycemia prevention for individuals at risk for hypoglycemia at initial, follow-up, and annual visits",
+      "page_number": 11,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "# Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises  \n## Hyperglycemic Crises: Diagnosis, Management, and Prevention  \n### Recommendations\n- **6.21** Review history of hyperglycemic crises (i.e., diabetic ketoacidosis and hyperglycemic hyperosmolar state) at every clinical encounter for all individuals with diabetes at risk for these events. (C)\n- **6.22** Provide structured education on the recognition, prevention, and management of hyperglycemic crisis to all individuals with type 1 diabetes, those with type 2 diabetes who have experienced these events, and people at high risk for these events. (B)  \nDiabetic ketoacidosis (DKA) and the hyperglycemic hyperosmolar state (HHS) are serious, acute, and life-threatening hyperglycemic emergencies. Over the past decade, rates of these hyperglycemic crises have increased in both type 1 and type 2 diabetes.",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Hyperglycemic Crises: Diagnosis, Management, and Prevention",
+      "subsection_heading": "Recommendations",
+      "page_number": 12,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "The risk of DKA is significantly increased with SGLT2 inhibitor use in type 1 diabetes. A number of educational initiatives have been suggested for prevention and early intervention to avert progression to severe DKA. The anticipated availability of continuous ketone monitoring devices may offer a future approach to preventing DKA with and without SGLT2 inhibitor use in type 1 diabetes.  \nIn contrast, observational studies and randomized controlled trials have shown that DKA is uncommon in people with type 2 diabetes treated with SGLT2 inhibitors. A meta-analysis of four randomized controlled trials found the relative risk of DKA in participants with type 2 diabetes treated with SGLT2 inhibitors versus placebo or active comparator arm to be 2.46 (95% CI 1.16–5.21).",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Hyperglycemic Crises: Diagnosis, Management, and Prevention",
+      "subsection_heading": "Recommendations",
+      "page_number": 12,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "### Risk Factors for DKA\nRisk factors for DKA in individuals with diabetes include:\n- Illness\n- Missed insulin doses\n- Eating disorders\n- Symptoms of hyperglycemia  \nIndividuals at risk for DKA should measure ketones in the presence of symptoms and potential precipitating factors, particularly if glucose levels exceed 200 mg/dL (11.1 mmol/L).",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Hyperglycemic Crises: Diagnosis, Management, and Prevention",
+      "subsection_heading": "Risk Factors for DKA",
+      "page_number": 12,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "### Table 6.8: Clinical Factors Associated with Increased Risk of Hyperglycemic Crises\n| Clinical Factor | Description |\n|----------------|-------------|\n| Dehydration | Increased risk of DKA and HHS |\n| Infection | Common precipitant of hyperglycemic crises |\n| Missed Insulin Doses | Can lead to significant hyperglycemia |\n| Stress | Physical or emotional stress can exacerbate hyperglycemia |\n| Medications | Certain medications can precipitate DKA or HHS |",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Hyperglycemic Crises: Diagnosis, Management, and Prevention",
+      "subsection_heading": "Table 6.8: Clinical Factors Associated with Increased Risk of Hyperglycemic Crises",
+      "page_number": 12,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "### Management and Prevention\nClinicians should review DKA prevention practices and the availability of ketone monitoring tools at each visit. Individuals treated with intensive insulin therapy should not stop or hold their basal insulin even if not eating. Clinicians should provide detailed instructions on insulin dose adjustments in the setting of illness or fasting to prevent DKA occurrence and worsening.  \nIndividuals concerned about or experiencing DKA should be encouraged to contact their diabetes care team immediately. Readily available clinical support can help individuals self-manage hyperglycemia during illness and prevent emergency department and hospital care.",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Hyperglycemic Crises: Diagnosis, Management, and Prevention",
+      "subsection_heading": "Management and Prevention",
+      "page_number": 12,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "### Conclusion\nHyperglycemic crisis should be considered in all individuals presenting with polyuria, polydipsia, weight loss, vomiting, dehydration, and change in cognitive state. It is crucial to provide specific, individualized guidance to people with diabetes and their caregivers on steps to prevent, detect, and treat significant hypoglycemia, hyperglycemia, and other adverse events during illness and stressful events.",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Hyperglycemic Crises: Diagnosis, Management, and Prevention",
+      "subsection_heading": "Conclusion",
+      "page_number": 12,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "# Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises\nDiabetes Care Volume 49, Supplement 1, January 2026",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "page_number": 13,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "## Table 6.8—Risk factors for hyperglycemic crises  \n| Risk Factor                                                                 | Description                                                                 |\n|-----------------------------------------------------------------------------|-----------------------------------------------------------------------------|\n| Type 1 diabetes/absolute insulin deficiency                                  |                                                                             |\n| Younger age                                                                 |                                                                             |\n| Prior history of hyperglycemic crises                                        |                                                                             |",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Table 6.8—Risk factors for hyperglycemic crises",
+      "page_number": 13,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "| Prior history of hyperglycemic crises                                        |                                                                             |\n| Prior history of hypoglycemic crises                                         |                                                                             |\n| Presence of other diabetes complications                                      |                                                                             |\n| Presence of other chronic health conditions (particularly in people with type 2 diabetes) |                                                                             |\n| Presence of behavioral health conditions (e.g., depression, bipolar disorder, and eating disorders) |                                                                             |\n| Alcohol and/or substance use                                                |                                                                             |",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Table 6.8—Risk factors for hyperglycemic crises",
+      "page_number": 13,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "| Alcohol and/or substance use                                                |                                                                             |\n| High A1C level                                                              |                                                                             |\n| Insulin rationing                                                            |                                                                             |\n| SGLT2 (SGLT1/2) inhibitor use                                               |                                                                             |\n| Social determinants of health                                                |                                                                             |  \nSGLT, sodium–glucose cotransporter. Data are from McCoy et al. (194), Gibb et al. (195), Randall et al. (196), Thomas et al. (197), and Borden et al. (198).",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Table 6.8—Risk factors for hyperglycemic crises",
+      "page_number": 13,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "## References\n1. Deshmukh H, Wilmot EG, Gregory R, et al. Effect of flash glucose monitoring on glycemic control, hypoglycemia, diabetes-related distress, and resource utilization in the Association of British Clinical Diabetologists (ABCD) nationwide audit. Diabetes Care 2020;43:2153–2160.\n2. Laiteerapong N, Ham SA, Gao Y, et al. The legacy effect in type 2 diabetes: impact of early glycemic control on future complications (The Diabetes &#x26; Aging Study). Diabetes Care 2019;42:416–426.\n3. Stratton IM, Adler AI, Neil HA, et al. Association of glycaemia with macrovascular and microvascular complications of type 2 diabetes (UKPDS 35): prospective observational study. BMJ 2000;321:405–412.\n4. Little RR, Rohlfing CL, Sacks DB, National Glycohemoglobin Standardization Program (NGSP) Steering Committee. Status of hemoglobin A1c measurement and goals for improvement: from chaos to order for improving diabetes care. Clin Chem 2011;57:205–214.",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "References",
+      "page_number": 13,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "5. Sacks DB, Kirkman MS, Little RR. Point-of-care HbA1c in clinical practice: caveats and considerations for optimal use. Diabetes Care 2024;47:1104–1110.\n6. Kidney Disease: Improving Global Outcomes (KDIGO) Work Group. KDIGO 2022 clinical practice guideline for diabetes management in chronic kidney disease. Kidney Int 2022;102:S1–S127.\n7. National Glycohemoglobin Standardization Program. HbA1c assay interferences. HbA1c methods: effects of hemoglobin variants (HbC, HbS, HbE and HbD traits) and elevated fetal hemoglobin (HbF). 2022. Accessed 14 August 2025. Available from https://ngsp.org/interf.asp.\n8. Sacks DB, Arnold M, Bakris GL, et al. Guidelines and recommendations for laboratory analysis in the diagnosis and management of diabetes mellitus. Diabetes Care 2023;46:e151–e199.",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "References",
+      "page_number": 13,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "8. Sacks DB, Arnold M, Bakris GL, et al. Guidelines and recommendations for laboratory analysis in the diagnosis and management of diabetes mellitus. Diabetes Care 2023;46:e151–e199.\n9. Bergenstal RM, Gal RL, Connor CG, et al.; T1D Exchange Racial Differences Study Group. Racial differences in the relationship of glucose concentrations and hemoglobin A1c levels. Ann Intern Med 2017;167:95–102.\n10. Herman WH, Ma Y, Uwaifo G, et al.; Diabetes Prevention Program Research Group. Differences in A1C by race and ethnicity among patients with impaired glucose tolerance in the Diabetes Prevention Program. Diabetes Care 2007;30:2453–2457.\n11. Saaddine JB, Fagot-Campagna A, Rolka D, et al. Distribution of HbA1c levels for children and young adults in the U.S.: Third National Health and Nutrition Examination Survey. Diabetes Care 2002;25:1326–1330.\n12. Selvin E, Steffes MW, Ballantyne CM, Hoogeveen RC, Coresh J, Brancati FL. Racial differences in glycemic markers: a cross-sectional study.",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "References",
+      "page_number": 13,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "# Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises  \n## References  \n1. Wheeler E, Leong A, Liu C-T, et al.; EPIC-CVD Consortium; EPIC-InterAct Consortium; Lifelines Cohort Study. Impact of common genetic determinants of hemoglobin A1c on type 2 diabetes risk and diagnosis in ancestrally diverse populations: a transethnic genome-wide meta-analysis. PLoS Med 2017;14:e1002383\n2. Parrinello CM, Selvin E. Beyond HbA1c and glucose: the role of nontraditional glycemic markers in diabetes diagnosis, prognosis, and management. Curr Diab Rep 2014;14:548\n3. Rooney MR, Daya N, Tang O, et al. Glycated albumin and risk of mortality in the US adult population. Clin Chem 2022;68:422–430\n4. Selvin E, Rawlings AM, Grams M, et al. Fructosamine and glycated albumin for risk stratification and prediction of incident diabetes and microvascular complications: a prospective cohort analysis of the Atherosclerosis Risk in Communities (ARIC) study. Lancet Diabetes Endocrinol 2014;2:279–288",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "References",
+      "page_number": 14,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "5. Selvin E, Rawlings AM, Lutsey PL, et al. Fructosamine and glycated albumin and the risk of cardiovascular outcomes and death. Circulation 2015;132:269–277\n6. Nathan DM, McGee P, Steffes MW, Lachin JM; DCCT/EDIC Research Group. Relationship of glycated albumin to blood glucose and HbA1c values and to retinopathy, nephropathy, and cardiovascular outcomes in the DCCT/EDIC study. Diabetes 2014;63:282–290\n7. Nathan DM, Kuenen J, Borg R, Zheng H, Schoenfeld D, Heine RJ; A1c-Derived Average Glucose Study Group. Translating the A1C assay into estimated average glucose values. Diabetes Care 2008;31:1473–1478\n8. Wei N, Zheng H, Nathan DM. Empirically establishing blood glucose targets to achieve HbA1c goals. Diabetes Care 2014;37:1048–1051\n9. Holt RIG, DeVries JH, Hess-Fischl A, et al. The management of type 1 diabetes in adults. A consensus report by the American Diabetes Association (ADA) and the European Association for the Study of Diabetes (EASD). Diabetes Care 2021;44:2589–2625",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "References",
+      "page_number": 14,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "10. Valenzano M, Cibrario Bertolotti A, Grassi G. Time in range-A1c relationship in continuous glucose monitoring of type 1 diabetes: a real-world study. BMJ Open Diabetes Res Care 2021;9:e001045\n11. Fabris C, Heinemann L, Beck R, Cobelli C, Kovatchev B. Estimation of hemoglobin A1c from continuous glucose monitoring data in individuals with type 1 diabetes: is time in range all we need? Diabetes Technol Ther 2020;22:501–508\n12. Ranjan AG, Rosenlund SV, Hansen TW, Rossing P, Andersen S, Nørgaard K. Improved time in range over 1 year is associated with reduced albuminuria in individuals with sensor-augmented insulin pump-treated type 1 diabetes. Diabetes Care 2020;43:2882–2885\n13. Beck RW, Bergenstal RM, Cheng P, et al. The relationships between time in range, hyperglycemia metrics, and HbA1c. J Diabetes Sci Technol 2019;13:614–626",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "References",
+      "page_number": 14,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "13. Beck RW, Bergenstal RM, Cheng P, et al. The relationships between time in range, hyperglycemia metrics, and HbA1c. J Diabetes Sci Technol 2019;13:614–626\n14. Soupal J, Petruzelková L, Grunberger G, et al. Glycemic outcomes in adults with T1D are impacted more by continuous glucose monitoring than by insulin delivery method: 3 years of follow-up. Diabetes Care 2021;44:2589–2625\n15. Advani A. Positioning time in range in diabetes management. Diabetologia 2020;63:242–252\n16. Vigersky RA, McMahon C. The relationship of hemoglobin A1C to time-in-range in patients with diabetes. Diabetes Technol Ther 2019;21:81–85\n17. Avari P, Uduku C, George D, Herrero P, Reddy M, Oliver N. Differences for percentage times in glycemic range between continuous glucose monitoring and capillary blood glucose monitoring in adults with type 1 diabetes: analysis of the REPLACE-BG dataset. Diabetes Technol Ther 2020;22:222–227",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "References",
+      "page_number": 14,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "18. Nathan DM, Genuth S, Lachin J, et al.; Diabetes Control and Complications Trial Research Group. The effect of intensive treatment of diabetes on the development and progression of long-term complications in insulin-dependent diabetes mellitus. N Engl J Med 1993;329:977–986\n19. Lachin JM, Genuth S, Cleary P, Davis MD, Nathan DM; Diabetes Control and Complications Trial/Epidemiology of Diabetes Interventions and Complications Research Group. Retinopathy and nephropathy in patients with type 1 diabetes four years after a trial of intensive therapy. N Engl J Med 2000;342:381–389\n20. Lachin JM, White NH, Hainsworth DP, Sun W, Cleary PA, Nathan DM, Diabetes Control and Complications Trial (DCCT)/Epidemiology of Diabetes Interventions and Complications (EDIC) Research Group. Effect of intensive diabetes therapy on the progression of diabetic retinopathy in patients with type 1 diabetes: 18 years of follow-up in the DCCT/EDIC. Diabetes 2015;64:631–642",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "References",
+      "page_number": 14,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "21. Ohkubo Y, Kishikawa H, Araki E, et al. Intensive insulin therapy prevents the progression of diabetic microvascular complications in Japanese patients with non-insulin-dependent diabetes mellitus: a randomized prospective 6-year study. Diabetes Res Clin Pract 1995;28:103–117\n22. UK Prospective Diabetes Study (UKPDS) Group. Effect of intensive blood-glucose control with metformin on complications in overweight patients with type 2 diabetes (UKPDS 34). Lancet 1998;352:854–865\n23. UK Prospective Diabetes Study (UKPDS) Group. Intensive blood-glucose control with sulphonylureas or insulin compared with conventional treatment and risk of complications in patients with type 2 diabetes (UKPDS 33). Lancet 1998;352:837–853\n24. Holman RR, Paul SK, Bethel MA, Matthews DR, Neil HAW. 10-year follow-up of intensive glucose control in type 2 diabetes. N Engl J Med 2008;359:1577–1589",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "References",
+      "page_number": 14,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "24. Holman RR, Paul SK, Bethel MA, Matthews DR, Neil HAW. 10-year follow-up of intensive glucose control in type 2 diabetes. N Engl J Med 2008;359:1577–1589\n25. Adler AI, Stratton IM, Neil HA, et al. Association of systolic blood pressure with macrovascular and microvascular complications of type 2 diabetes (UKPDS 36): prospective observational study. BMJ 2000;321:412–419\n26. Duckworth W, Abraira C, Moritz T, et al.; VADT Investigators. Glucose control and vascular complications in veterans with type 2 diabetes. N Engl J Med 2009;360:129–139\n27. Patel A, MacMahon S, Chalmers J, et al.; ADVANCE Collaborative Group. Intensive blood glucose control and vascular outcomes in patients with type 2 diabetes. N Engl J Med 2008;358:2560–2572\n28. Ismail-Beigi F, Craven T, Banerji MA, et al.; ACCORD trial group. Effect of intensive treatment of hyperglycaemia on microvascular outcomes in type 2 diabetes: an analysis of the ACCORD randomised trial. Lancet 2010;376:419–430",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "References",
+      "page_number": 14,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "29. Gerstein HC, Miller ME, Byington RP, et al.; Action to Control Cardiovascular Risk in Diabetes Study Group. Effects of intensive glucose lowering on cardiovascular outcomes. N Engl J Med 2008;358:2560–2572  \n----  \nThis document provides a comprehensive overview of the current guidelines and research findings related to glycemic goals, hypoglycemia, and hyperglycemic crises in diabetes management.",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "References",
+      "page_number": 14,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "# Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises\nDiabetes Care Volume 49, Supplement 1, January 2026",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "page_number": 15,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "## References\n1. Pratley RE, Rosenstock J, Heller SR, et al. Reduced glucose variability with glucose-dependent versus glucose-independent therapies despite similar glucose control and hypoglycemia rates in a randomized, controlled study of older patients with type 2 diabetes mellitus. J Diabetes Sci Technol 2018;12:1184–1191.\n2. Rossi MC, Nicolucci A, Ozzello A, et al.; HYPOS-1 Study Group of AMD. Impact of severe and symptomatic hypoglycemia on quality of life and fear of hypoglycemia in type 1 and type 2 diabetes. Results of the Hypos-1 observational study. Nutr Metab Cardiovasc Dis 2019;29:736–743.\n3. McCoy RG, Van Houten HK, Ziegenfuss JY, Shah ND, Wermers RA, Smith SA. Self-report of hypoglycemia and health-related quality of life in patients with type 1 and type 2 diabetes. Endocr Pract 2013;19:792–799.",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "References",
+      "page_number": 15,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "4. Leiter LA, Boras D, Woo VC. Dosing irregularities and self-treated hypoglycemia in type 2 diabetes: results from the Canadian cohort of an international survey of patients and healthcare professionals. Can J Diabetes 2014;38:38–44.\n5. Ghandi K, Pieri B, Dornhorst A, Hussain S. A comparison of validated methods used to assess impaired awareness of hypoglycaemia in type 1 diabetes: an observational study. Diabetes Ther 2021;12:441–451.\n6. Khunti K, Alsifri S, Aronson R, et al.; HAT Investigator Group. Impact of hypoglycaemia on patient-reported outcomes from a global, 24-country study of 27,585 people with type 1 and insulin-treated type 2 diabetes. Diabetes Res Clin Pract 2017;130:121–129.\n7. Choudhary P, Amiel SA. Hypoglycaemia in type 1 diabetes: technological treatments, their limitations and the place of psychology. Diabetologia 2018;61:761–769.",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "References",
+      "page_number": 15,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "7. Choudhary P, Amiel SA. Hypoglycaemia in type 1 diabetes: technological treatments, their limitations and the place of psychology. Diabetologia 2018;61:761–769.\n8. Hopkins D, Lawrence I, Mansell P, et al. Improved biomedical and psychological outcomes 1 year after structured education in flexible insulin therapy for people with type 1 diabetes: the U.K. DAFNE experience. Diabetes Care 2012;35:1638–1642.\n9. Karter AJ, Moffet HH, Liu JY, Lipska KJ. Surveillance of hypoglycemia-limitations of emergency department and hospital utilization data. JAMA Intern Med 2018;178:987–988.\n10. Lee AK, Lee CJ, Huang ES, Sharrett AR, Coresh J, Selvin E. Risk factors for severe hypoglycemia in black and white adults with diabetes: the Atherosclerosis Risk in Communities (ARIC) study. Diabetes Care 2017;40:1661–1667.",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "References",
+      "page_number": 15,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "11. Pilla SJ, Kraschnewski JL, Lehman EB, et al. Hospital utilization for hypoglycemia among patients with type 2 diabetes using pooled data from six health systems. BMJ Open Diabetes Res Care 2021;9:e002153.\n12. McCoy RG, Herrin J, Galindo RJ, et al. Rates of hypoglycemic and hyperglycemic emergencies among U.S. adults with diabetes, 2011–2020. Diabetes Care 2023;46:e69–e71.\n13. Mattishent K, Loke YK. Detection of asymptomatic drug-induced hypoglycemia using continuous glucose monitoring in older people - Systematic review. J Diabetes Complications 2018;32:805–812.\n14. Ratzki-Leewing A, Black JE, Kahkoska AR, et al. Severe (level 3) hypoglycaemia occurrence in a real-world cohort of adults with type 1 or 2 diabetes mellitus (iNPHORM, United States). Diabetes Obes Metab 2023;25:3736–3747.\n15. Au NH, Ratzki-Leewing A, Zou G, et al. Real-world incidence and risk factors for daytime and nocturnal non-severe hypoglycemia in adults.",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "References",
+      "page_number": 15,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "## Conclusion\nThis document summarizes the current understanding and guidelines regarding glycemic goals, hypoglycemia, and hyperglycemic crises in diabetes management. It emphasizes the importance of individualized treatment approaches and the need for ongoing research to improve patient outcomes.",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Conclusion",
+      "page_number": 15,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "# Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises  \n## References  \n1. Seaquist ER, Anderson J, Childs B, et al. Hypoglycemia and diabetes: a report of a workgroup of the American Diabetes Association and the Endocrine Society. Diabetes Care 2013; 36:1384–1395.\n2. Ibrahim M, Davies MJ, Ahmad E, et al. Recommendations for management of diabetes during Ramadan: update 2020, applying the principles of the ADA/EASD consensus. BMJ Open Diabetes Res Care 2020; 8:e001248.\n3. Wild D, von Maltzahn R, Brohan E, Christensen T, Clauson P, Gonder-Frederick L. A critical review of the literature on fear of hypoglycemia in diabetes: implications for diabetes management and patient education. Patient Educ Couns 2007; 68:10–15.\n4. Schopman JE, Geddes J, Frier BM. Prevalence of impaired awareness of hypoglycaemia and frequency of hypoglycaemia in insulin-treated type 2 diabetes. Diabetes Res Clin Pract 2010; 87:64–68.",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "References",
+      "page_number": 16,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "4. Schopman JE, Geddes J, Frier BM. Prevalence of impaired awareness of hypoglycaemia and frequency of hypoglycaemia in insulin-treated type 2 diabetes. Diabetes Res Clin Pract 2010; 87:64–68.\n5. Pedersen-Bjergaard U, Færch L, Thorsteinsson B. The updated Pedersen-Bjergaard method for assessment of awareness of hypoglycaemia in type 1 diabetes. Dan Med J 2022; 69:A01220041.\n6. Gold AE, MacLeod KM, Frier BM. Frequency of severe hypoglycemia in patients with type I diabetes with impaired awareness of hypoglycemia. Diabetes Care 1994; 17:697–703.\n7. Clarke WL, Cox DJ, Gonder-Frederick LA, Julian D, Schlundt D, Polonsky W. Reduced awareness of hypoglycemia in adults with IDDM. A prospective study of hypoglycemic frequency and associated symptoms. Diabetes Care 1995; 18:517–522.",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "References",
+      "page_number": 16,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "8. Speight J, Barendse SM, Singh H, et al. Characterizing problematic hypoglycaemia: iterative design and preliminary psychometric validation of the Hypoglycaemia Awareness Questionnaire (HypoA-Q). Diabet Med 2016; 33:376–385.\n9. Høi-Hansen T, Pedersen-Bjergaard U, Thorsteinsson B. Classification of hypoglycemia awareness in people with type 1 diabetes in clinical practice. J Diabetes Complications 2010; 24:392–397.\n10. Henao-Carrillo DC, Sierra-Matamoros FA, Carrillo Algarra AJ, García-Lugo JP, Hernández-Zambrano SM. Validation of the hypoglycemia awareness questionnaire to assess hypoglycemia awareness in patients with type 2 diabetes treated with insulin. Diabetes Metab Syndr 2023; 17:102917.\n11. Homko C, Siraj ES, Parkman HP. The impact of gastroparesis on diabetes control: patient perceptions. J Diabetes Complications 2016; 30:826–829.",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "References",
+      "page_number": 16,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "11. Homko C, Siraj ES, Parkman HP. The impact of gastroparesis on diabetes control: patient perceptions. J Diabetes Complications 2016; 30:826–829.\n12. Jacobson AM, Ryan CM, Braffett BH, et al.; DCCT/EDIC Research Group. Cognitive performance declines in older adults with type 1 diabetes: results from 32 years of follow-up in the DCCT and EDIC Study. Lancet Diabetes Endocrinol 2021; 9:436–445.\n13. Fischer LE, Wolfe BM, Fino N, et al.; LABS Investigators. Postbariatric hypoglycemia: symptom patterns and associated risk factors in the Longitudinal Assessment of Bariatric Surgery study. Surg Obes Relat Dis 2021; 17:1787–1798.\n14. Singh E, Vella A. Hypoglycemia after gastric bypass surgery. Diabetes Spectrum 2012; 25:217–221.\n15. Basu S, Berkowitz SA, Seligman H. The monthly cycle of hypoglycemia: an observational claims-based study of emergency room visits, hospital admissions, and costs in a commercially insured population. Med Care 2017; 55:639–645.",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "References",
+      "page_number": 16,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "16. Sharan R, Wiens K, Ronksley PE, et al. The association of homelessness with rates of diabetes complications: a population-based cohort study. Diabetes Care 2023; 46:1469–1476.\n17. Occupational Safety and Health Administration. Appendix A to § 1910.266 - First-Aid Kits (Mandatory). Accessed 10 August 2025. Available at: http://diabetesjournals.org/care/article-pdf/49/Supplement_1/S132/848848/dc26s006.pdf.",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "References",
+      "page_number": 16,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "# Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises\nDiabetes Care Volume 49, Supplement 1, January 2026",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "page_number": 17,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "## References\n1. American Red Cross. Make a first aid kit. Accessed 10 August 2025. Available from https://www.redcross.org/get-help/how-to-prepare-for-emergencies/anatomy-of-a-first-aid-kit.html\n2. Cummings C, Jiang A, Sheehan A, et al. Continuous glucose monitoring in patients with post-bariatric hypoglycaemia reduces hypoglycaemia and glycaemic variability. Diabetes Obes Metab 2023; 25:2191–2202.\n3. Danne T, Garg S, Peters AL, et al. International consensus on risk management of diabetic ketoacidosis in patients with type 1 diabetes treated with sodium-glucose cotransporter (SGLT) inhibitors. Diabetes Care 2019; 42:1147–1154.\n4. Goldenberg RM, Gilbert JD, Hramiak IM, Woo VC, Zinman B. Sodium-glucose co-transporter inhibitors, their role in type 1 diabetes treatment and a risk mitigation strategy for preventing diabetic ketoacidosis: the STOP DKA protocol. Diabetes Obes Metab 2019; 21:2192–2202.",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "References",
+      "page_number": 17,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "5. Teng R, Kurian M, Close KL, Buse JB, Peters AL, Alexander CM. Comparison of protocols to reduce diabetic ketoacidosis in patients with type 1 diabetes prescribed a sodium-glucose cotransporter 2 inhibitor. Diabetes Spectr 2021; 34:42–51.\n6. Nguyen KT, Xu NY, Zhang JY, et al. Continuous ketone monitoring consensus report 2021. J Diabetes Sci Technol 2022; 16:689–715.\n7. Colacci M, Fralick J, Odutayo A, Fralick M. Sodium-glucose cotransporter-2 inhibitors and risk of diabetic ketoacidosis among adults with type 2 diabetes: a systematic review and meta-analysis. Can J Diabetes 2022; 46:10–15.e12.\n8. Bamgboye AO, Oni IO, Collier A. Predisposing factors for the development of diabetic ketoacidosis with lower than anticipated glucose levels in type 2 diabetes patients on SGLT2-inhibitors: a review. Eur J Clin Pharmacol 2021; 77:651–657.",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "References",
+      "page_number": 17,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "9. Wu X-Y, She D-M, Wang F, et al. Clinical profiles, outcomes and risk factors among type 2 diabetic inpatients with diabetic ketoacidosis and hyperglycemic hyperosmolar state: a hospital-based analysis over a 6-year period. BMC Endocr Disord 2020; 20:182.\n10. Dhanasekaran M, Mohan S, Erickson D, et al. Diabetic ketoacidosis in pregnancy: clinical risk factors, presentation, and outcomes. J Clin Endocrinol Metab 2022; 107:3137–3143.\n11. Be prepared: sick day management. Diabetes Spectrum 2002; 15:54–54.\n12. Watson KE, Dhaliwal K, McMurtry E, et al. Sick day medication guidance for people with diabetes, kidney disease, or cardiovascular disease: a systematic scoping review. Kidney Med 2022; 4:100491.\n13. American Diabetes Association. Getting sick: planning for sick days. Accessed 6 July 2025. Available from https://diabetes.org/getting-sick-with-diabetes/sick-days.",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "References",
+      "page_number": 17,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "13. American Diabetes Association. Getting sick: planning for sick days. Accessed 6 July 2025. Available from https://diabetes.org/getting-sick-with-diabetes/sick-days.\n14. Farrell K, Brunero S, Holmes-Walker DJ, Griffiths R, Salamonson Y. Self-management of sick days in young people with type 1 diabetes enhanced by phone support: a qualitative study. Contemp Nurse 2019; 55:171–184.\n15. Laffel LMB, Wentzell K, Loughlin C, Tovar A, Moltz K, Brink S. Sick day management using blood 3-hydroxybutyrate (3-OHB) compared with urine ketone monitoring reduces hospital visits in young people with T1DM: a randomized clinical trial. Diabet Med 2006; 23:278–284.\n16. Mays JA, Jackson KL, Derby TA, et al. An evaluation of recurrent diabetic ketoacidosis, fragmentation of care, and mortality across Chicago, Illinois. Diabetes Care 2016; 39:1671–1676.\n17. McCoy RG, Herrin J, Lipska KJ, Shah ND. Recurrent hospitalizations for severe hypoglycemia.",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "References",
+      "page_number": 17,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "## Additional References\n- Powers MA, Bardsley JK, Cypress M, et al. Diabetes self-management education and support in adults with type 2 diabetes: a consensus report of the American Diabetes Association, the Association of Diabetes Care &#x26; Education Specialists, the Academy of Nutrition and Dietetics, the American Academy of Family Physicians, the American Academy of PAs, the American Association of Nurse Practitioners, and the American Pharmacists Association. Diabetes Care. 2020; 43:1636–1649.\n- LaManna J, Litchman ML, Dickinson JK, et al. Diabetes education impact on hypoglycemia outcomes: a systematic review of evidence and gaps in the literature. Diabetes Educ 2019; 45:349–369.",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Additional References",
+      "page_number": 17,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "- LaManna J, Litchman ML, Dickinson JK, et al. Diabetes education impact on hypoglycemia outcomes: a systematic review of evidence and gaps in the literature. Diabetes Educ 2019; 45:349–369.\n- Heinemann L, Freckmann G, Ehrmann D, et al. Real-time continuous glucose monitoring in adults with type 1 diabetes and impaired hypoglycaemia awareness or severe hypoglycaemia treated with multiple daily insulin injections (HypoDE): a multi-centre, randomised controlled trial. Lancet 2018; 391:1367–1377.\n- Hermanns N, Heinemann L, Freckmann G, Waldenmaier D, Ehrmann D. Impact of CGM on the management of hypoglycemia problems: a systematic review. Diabetes Care 2020; 43:1636–1649.",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Additional References",
+      "page_number": 17,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "# Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises  \n## Overview\nThis document outlines the clinical guidelines for managing diabetes, focusing on glycemic goals, hypoglycemia, and hyperglycemic crises among U.S. adults with diabetes.",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Overview",
+      "page_number": 18,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "## References\n1. Ehrmann D, Kulzer B, Roos T, Haak T, Al-Khatib M, Hermanns N. Risk factors and prevention strategies for diabetic ketoacidosis in people with established type 1 diabetes. Lancet Diabetes Endocrinol 2020;8:436–446.\n2. Elliott J, Jacques RM, Kruger J, et al. Substantial reductions in the number of diabetic ketoacidosis and severe hypoglycaemia episodes requiring emergency treatment lead to reduced costs after structured education in adults with type 1 diabetes. Diabet Med 2014;31:847–853.\n3. Harris MA, Wagner DV, Heywood M, Hoehn D, Bahia H, Spiro K. Youth repeatedly hospitalized for DKA: proof of concept for novel interventions in children’s healthcare (NICH). Diabetes Care 2014;37:e125-e126.\n4. Garvey KC, Finkelstein JA, Zhang F, LeCates R, Laffel L, Wharam JF. Health care utilization trends across the transition period in a national cohort of adolescents and young adults with type 1 diabetes. Diabetes Care 2022;45:2509–2517.",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "References",
+      "page_number": 18,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "5. Fritsch M, Rosenbauer J, Schober E, Neu A, Placzek K, Holl RW, German Competence Network Diabetes Mellitus and the DPV Initiative. Predictors of diabetic ketoacidosis in children and adolescents with type 1 diabetes. Experience from a large multicentre database. Pediatr Diabetes 2011;12:307–312.\n6. Schwartz DD, Erraguntla M, DeSalvo DJ, et al. Severe and recurrent diabetic ketoacidosis in children and youth with type 1 diabetes: risk and protective factors. Diabetes Technol Ther 2025:10.1089/dia.2025.0128.\n7. Riveline J-P, Roussel R, Vicaut E, et al. Reduced rate of acute diabetes events with flash glucose monitoring is sustained for 2 years after initiation: extended outcomes from the RELIEF study. Diabetes Technol Ther 2022;24:611–618.\n8. Misra-Hebert AD, Pantalone KM, Ji X, et al. Patient characteristics associated with severe hypoglycemia in a type 2 diabetes cohort in a large, integrated health care system from 2006 to 2015. Diabetes Care 2018;41:1164–1171.",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "References",
+      "page_number": 18,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "9. Dimakos J, Cui Y, Platt RW, Renoux C, Filion KB, Douros A. Concomitant use of sulfonylureas and β-blockers and the risk of severe hypoglycemia among patients with type 2 diabetes: a population-based cohort study. Diabetes Care 2023;46:377–383.\n10. Randall L, Begovic J, Hudson M, et al. Recurrent diabetic ketoacidosis in inner-city minority patients: behavioral, socioeconomic, and psychosocial factors. Diabetes Care 2011;34:1891–1896.\n11. Thomas M, Harjutsalo V, Feodoroff M, Forsblom C, Gordin D, Groop P-H. The long-term incidence of hospitalization for ketoacidosis in adults with established T1D-a prospective cohort study. J Clin Endocrinol Metab 2020;105:dgz003.\n12. Gibb FW, Teoh WL, Graham J, Lockman KA. Risk of death following admission to a UK hospital with diabetic ketoacidosis. Diabetologia 2016;59:2082–2087.",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "References",
+      "page_number": 18,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "12. Gibb FW, Teoh WL, Graham J, Lockman KA. Risk of death following admission to a UK hospital with diabetic ketoacidosis. Diabetologia 2016;59:2082–2087.\n13. Borden CG, Bakkila BF, Nally LM, Lipska KJ. The association between cost-related insulin rationing and health care utilization in U.S. adults with diabetes. Diabetes Care 2025;48:400–404.",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "References",
+      "page_number": 18,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  },
+  {
+    "page_content": "## Additional Resources\n- Merative. Micromedex RED BOOK. Accessed 11 August 2025. Available from Micromedex.\n- Data.Medicaid.gov. NADAC (National Average Drug Acquisition Cost) 2024. Accessed 1 July 2025.  \nThis document serves as a comprehensive guide for healthcare professionals in managing diabetes effectively, focusing on the prevention and treatment of complications associated with the disease.",
+    "metadata": {
+      "chapter_name": "Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises",
+      "section_heading": "Additional Resources",
+      "page_number": 18,
+      "source": "ada_glycemic_hypoglycemia.pdf",
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_glycemic_hypoglycemia.pdf"
+    }
+  }
+]
