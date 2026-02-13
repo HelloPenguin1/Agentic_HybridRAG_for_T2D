@@ -1,191 +1,143 @@
-# Medical-Grade PDF Extraction Pipeline
+# Multi-Model Vector Database Ingestion
+
+This directory contains scripts for ingesting processed medical document chunks into Qdrant Cloud using multiple embedding models for retrieval performance comparison.
 
 ## Overview
-Production-ready extraction pipeline for Type 2 Diabetes medical documents implementing a **3-phase approach** for maximum traceability and context preservation.
 
-## The 3-Phase Approach
+The ingestion pipeline loads all processed JSON chunks and creates separate Qdrant collections for each embedding model, enabling systematic comparison of retrieval metrics across different medical-domain and general-purpose embeddings.
 
-### **Phase 1: Advanced Extraction (LlamaParse)**
-Uses LlamaParse with layout agent to handle:
-- ✅ Multi-column layouts (no word salad)
-- ✅ Complex tables (preserved as markdown)
-- ✅ Hierarchical structure (headers, sections)
+## Setup
 
-### **Phase 2: Structural Split (Two-Stage)**
-1. **Stage 1**: Split by markdown headers (chapter, section, subsection)
-2. **Stage 2**: Split into LLM-friendly chunks (1000 chars, 100 overlap)
+### 1. Install Dependencies
 
-### **Phase 3: Metadata Enrichment**
-Each chunk contains:
-- `chapter_name` - Main section (e.g., "Clinical Pharmacology")
-- `section_heading` - Subsection (e.g., "Adverse Reactions")
-- `subsection_heading` - Sub-subsection (if applicable)
-- `page_number` - Exact page in PDF (1-indexed)
-- `source` - Filename
-- `source_path` - Full path
+```powershell
+cd c:\dev\Diabetes_AgenticGraphRAG\vectordb_ingestion
+pip install -r requirements.txt
+```
 
-## Why This Approach is "Medical Grade"
+### 2. Configure Environment Variables
 
-| Feature | Benefit |
-|---------|---------|
-| **Context Preservation** | Chunks from "Contraindications" never mix with "Benefits" |
-| **No Column Scrambling** | Layout agent reads Column A fully before Column B |
-| **Explainability** | Display: "Source: file.pdf, Page 12, Section: Renal Impairment" |
-| **Auditability** | Doctors can verify AI claims by checking exact page |
-
-## Installation
+Ensure your `.env` file in the project root contains:
 
 ```bash
-pip install -r requirements.txt
+QDRANT_URL=https://your-cluster.cloud.qdrant.io:6333
+QDRANT_API_KEY=your-api-key-here
+```
+
+### 3. Verify Qdrant Cloud Connection
+
+Test your connection:
+
+```powershell
+python -c "from dotenv import load_dotenv; import os; from qdrant_client import QdrantClient; load_dotenv(); client = QdrantClient(url=os.getenv('QDRANT_URL'), api_key=os.getenv('QDRANT_API_KEY')); print('✅ Connected:', client.get_collections())"
 ```
 
 ## Usage
 
-### Basic Usage
+### Run Full Ingestion
+
+Ingest all chunks into 7 separate collections:
+
+```powershell
+python multi_model_ingestion.py
+```
+
+This will:
+- Load all 16 JSON files from `processed_chunks/`
+- Create 7 Qdrant collections (one per embedding model)
+- Display progress with detailed logging
+- Save results to `ingestion_results.json`
+
+**Expected Runtime**: 15-30 minutes depending on CPU/GPU
+
+### Test Retrieval
+
+Verify collections and test sample queries:
+
+```powershell
+python test_retrieval.py
+```
+
+This will:
+- List all collections in Qdrant Cloud
+- Run a test query against each collection
+- Display top 3 results per model
+
+## Embedding Models
+
+The following 7 embedding models are used:
+
+| Model Key | HuggingFace Path | Type | Dimension |
+|-----------|------------------|------|-----------|
+| `MedEmbed-base-v0.1` | `pritamdeka/MedEmbed-base-v0.1` | Medical | 768 |
+| `pubmedbert-base-embeddings` | `NeuML/pubmedbert-base-embeddings` | Medical | 768 |
+| `bge-m3` | `BAAI/bge-m3` | General | 1024 |
+| `Bio_ClinicalBERT` | `emilyalsentzer/Bio_ClinicalBERT` | Clinical | 768 |
+| `BiomedNLP-PubMedBERT` | `microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext` | Biomedical | 768 |
+| `e5-large-v2` | `intfloat/e5-large-v2` | General | 1024 |
+| `e5-base-v2` | `intfloat/e5-base-v2` | General | 768 |
+
+## Collection Names
+
+Collections are created with the naming convention:
+```
+ada_model_{model_key}
+```
+
+For example:
+- `ada_clinical_medembed_base_v0_1`
+- `ada_clinical_bge_m3`
+- `ada_clinical_e5_large_v2`
+
+## Configuration Options
+
+### GPU Acceleration
+
+To use GPU for faster embedding generation, edit `multi_model_ingestion.py`:
 
 ```python
-from vectordb_ingestion.data_loader import MedicalDataLoader
-
-# Initialize
-loader = MedicalDataLoader(
-    pdf_dir="t2d_extraction_pipeline/data/raw_pdfs",
-    output_dir="vectordb_ingestion/processed_chunks",
-    chunk_size=1000,
-    chunk_overlap=100
-)
-
-# Process all PDFs
-loader.process_all_pdfs()
+DEVICE = "cuda"  # Change from "cpu" to "cuda"
 ```
 
-### Run Example Script
+### Force Recreate Collections
 
-```bash
-python vectordb_ingestion/example_usage.py
-```
-
-### Inspect Chunks
+To overwrite existing collections, edit `multi_model_ingestion.py`:
 
 ```python
-# Load chunks
-chunks = loader.load_chunks_from_disk("processed_chunks/ada_cardio_disease_manag_chunks.json")
-
-# Get statistics
-stats = loader.get_chunk_stats(chunks)
-print(f"Total chunks: {stats['total_chunks']}")
-print(f"Unique pages: {stats['unique_pages']}")
+force_recreate=True  # Change from False to True
 ```
 
-## Output Format
+## Output Files
 
-Each chunk is a LangChain Document:
+- **`ingestion_results.json`**: Summary of ingestion status for each model
+- **Progress logs**: Displayed in console during execution
 
-```python
-Document(
-    page_content="## 4.2 Adverse Reactions\n\nCommon adverse reactions include...",
-    metadata={
-        "chapter_name": "Chapter 4: Clinical Pharmacology",
-        "section_heading": "4.2 Adverse Reactions",
-        "page_number": 42,
-        "source": "drug_label_v2.pdf",
-        "source_path": "C:\\path\\to\\drug_label_v2.pdf"
-    }
-)
-```
+## Troubleshooting
 
-Saved as JSON:
+### Connection Issues
 
-```json
-[
-  {
-    "page_content": "## 4.2 Adverse Reactions\n\nCommon adverse reactions include...",
-    "metadata": {
-      "chapter_name": "Chapter 4: Clinical Pharmacology",
-      "section_heading": "4.2 Adverse Reactions",
-      "page_number": 42,
-      "source": "drug_label_v2.pdf",
-      "source_path": "C:\\path\\to\\drug_label_v2.pdf"
-    }
-  }
-]
-```
+If you get connection errors:
+1. Verify your Qdrant Cloud cluster is running
+2. Check that `QDRANT_URL` and `QDRANT_API_KEY` are correct in `.env`
+3. Ensure your IP is whitelisted in Qdrant Cloud settings
 
-## Configuration
+### Memory Issues
 
-### Chunk Size
+If you run out of memory:
+1. Process models one at a time by commenting out others in `EMBEDDING_MODELS` dict
+2. Use smaller batch sizes (modify `QdrantVectorStore.from_documents()` parameters)
 
-Adjust based on your embedding model's context window:
+### Model Download Issues
 
-```python
-loader = MedicalDataLoader(
-    pdf_dir="...",
-    output_dir="...",
-    chunk_size=1500,  # Larger chunks
-    chunk_overlap=150
-)
-```
+If model downloads fail:
+1. Check your internet connection
+2. Verify HuggingFace access (some models may require authentication)
+3. Set `HF_TOKEN` in your `.env` file if needed
 
-### Parsing Instructions
+## Next Steps
 
-Customize for your document type in `data_loader.py`:
-
-```python
-parsing_instruction="""
-Your custom instructions here...
-"""
-```
-
-## Next Steps: Vector DB Ingestion
-
-Once you have chunks:
-
-```python
-from langchain_qdrant import QdrantVectorStore
-from langchain_openai import OpenAIEmbeddings
-
-# Load chunks
-chunks = loader.load_chunks_from_disk("processed_chunks/ada_cardio_disease_manag_chunks.json")
-
-# Create embeddings and store
-embeddings = OpenAIEmbeddings()
-vectorstore = QdrantVectorStore.from_documents(
-    chunks,
-    embeddings,
-    collection_name="t2d_medical_docs",
-    url="http://localhost:6333"
-)
-```
-
-## Traceability in Action
-
-When your RAG system retrieves a chunk, you can display:
-
-```
-📄 Source: Hypertension_2024.pdf
-📖 Page: 12
-📑 Section: Renal Impairment > Dosage Adjustments
-```
-
-This allows medical professionals to verify AI-generated claims instantly.
-
-## Architecture
-
-```
-MedicalDataLoader
-├── __init__()              # Initialize parsers and splitters
-├── process_pdf()           # 3-phase pipeline for single PDF
-├── save_chunks()           # Save to JSON
-├── process_all_pdfs()      # Batch process all PDFs
-├── load_chunks_from_disk() # Load saved chunks
-└── get_chunk_stats()       # Quality assessment
-```
-
-## Quality Metrics
-
-The `get_chunk_stats()` method provides:
-- Total chunks created
-- Average/min/max chunk sizes
-- Unique pages covered
-- Unique chapters identified
-
-Use these to validate extraction quality before vector DB ingestion.
+After successful ingestion, you can:
+1. Run retrieval evaluation metrics (RAGAS, etc.)
+2. Compare retrieval performance across models
+3. Analyze which embedding model works best for your medical queries
+4. Use the best-performing collection for your production RAG system
