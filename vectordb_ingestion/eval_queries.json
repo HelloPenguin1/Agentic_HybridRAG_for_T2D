@@ -1,0 +1,62 @@
+[
+  {
+    "query": "What publication year is associated with the study by Thomas and colleagues on early peri-operative glycaemic control and allograft rejection in patients with diabetes mellitus?",
+    "ground_truth_chunk_id": "4_184",
+    "source": "ada_chapter2.pdf",
+    "chunk_text": "| 166 | Gulsoy Kirnap N, Bozkus Y, Haberal M. Analysis of risk factors for posttransplant diabetes mellitus after kidney transplantation: single-center experience. Exp Clin Transplant 2020;18:36–40 |\n| 167 | Galindo RJ, Fried M, Breen T, Tamler R. Hyperglycemia management in patients with posttransplantation diabetes. Endocr Pract 2016;22:454–465 |\n| 168 | Jenssen T, Hartmann A. Emerging treatments for post-transplantation diabetes mellitus. Nat Rev Nephrol 2015;11:465–477 |\n| 169 | Thomas MC, Mathew TH, Russ GR, Rao MM, Moran J. Early peri-operative glycaemic control and allograft rejection in patients with diabetes mellitus: a pilot study. Transplantation 2001;72:1321–1324 |\n| 170 | Greeley SAW, Polak M, Njølstad PR, et al. ISPAD Clinical Practice Consensus Guidelines 2022: the diagnosis and management of monogenic diabetes in children and adolescents. Pediatr Diabetes 2022;23:1188–1211 |"
+  },
+  {
+    "query": "What is the minimum frequency of physical activity sessions per week that participants in the DPP were encouraged to achieve?",
+    "ground_truth_chunk_id": "5_16",
+    "source": "ada_chapter3.pdf",
+    "chunk_text": "Two major goals of the DPP were to achieve and maintain at least 7% weight loss and to obtain 150 min of moderate-intensity physical activity per week, such as brisk walking. Weight loss was the most important factor in reducing incident diabetes. Obtaining at least 150 min of physical activity per week, even without achieving the weight loss goal, reduced incidence of type 2 diabetes by 44% (18). Participants were encouraged to distribute physical activity throughout the week with a minimum frequency of three times per week and at least 10 min per session. A maximum of 75 min of strength training could be applied toward the total 150 min/week physical activity goal. The initial focus of the nutrition intervention was on reducing total fat intake rather than caloric restriction. However, the concepts of calorie balance and the need to restrict total calories and fat were also introduced"
+  },
+  {
+    "query": "What elements, in addition to diabetes technology, can improve the lives and health of people with diabetes according to the clinical guidelines?",
+    "ground_truth_chunk_id": "7_4",
+    "source": "ada_chapter7.pdf",
+    "chunk_text": ". Furthermore, diabetes technology encompasses connected insulin pens and diabetes self-management support software that serve as medical devices. Diabetes technology, coupled with education, follow-up, pharmacotherapy as needed, and support, can improve the lives and health of people with diabetes; however, the complexity and rapid evolution of the diabetes technology landscape can also be a barrier to implementation for people with diabetes, their care partners, and the health care team."
+  },
+  {
+    "query": "What skills are required for a patient with type 2 diabetes to effectively use insulin therapy?",
+    "ground_truth_chunk_id": "1_92",
+    "source": "ada_chapter13.pdf",
+    "chunk_text": "### Other Factors to Consider  \nThe needs of older adults with diabetes and their care partners should be evaluated to construct a tailored care plan. Inadequate social support and reduced access to long-term services and support may impact diabetes management and outcomes.  \n| **Considerations** | **Details** |\n|---------------------|-------------|\n| **Monitoring** | Regular checks for dehydration and weight loss |\n| **Insulin Therapy** | Requires good visual, motor skills, and cognitive ability |\n| **Technology Use** | Encourage use of CGM and automated systems |\n| **Support Networks** | Involve family and care partners in management |\n| **Palliative Care** | Focus on comfort and symptom management |\n| **Type 1 Diabetes** | Insulin is essential; consider delivery methods |\n| **CGM** | Approved by Medicare; improves A1C and reduces hypoglycemia |"
+  },
+  {
+    "query": "What is the recommended LDL cholesterol goal for individuals with diabetes and ASCVD who are receiving high-intensity statin therapy?",
+    "ground_truth_chunk_id": "0_74",
+    "source": "ada_cardio_disease_manag.pdf",
+    "chunk_text": "Intensive therapy is indicated because cardiovascular event rates are increased in people with diabetes and established ASCVD, and it has been shown to be of benefit in multiple large meta-analyses and randomized cardiovascular outcomes trials (93,101,104,112,115). High-intensity statin therapy is recommended for all people with diabetes and ASCVD to obtain an LDL cholesterol reduction of ≥50% from baseline and an LDL cholesterol goal of &#x3C;55 mg/dL (&#x3C;1.4 mmol/L) (Fig. 10.4). The addition of ezetimibe or a PCSK9 inhibitor is recommended if this goal is not achieved on maximum tolerated statin therapy. These recommendations are based on the observation that high-intensity versus moderate-intensity statin therapy reduces cardiovascular event rates in high-risk individuals with established CVD in randomized trials (93)"
+  },
+  {
+    "query": "What is the recommended daily protein intake for individuals with type 2 diabetes and chronic kidney disease stage G3 or higher?",
+    "ground_truth_chunk_id": "9_32",
+    "source": "ada_chronic_kidney_manag.pdf",
+    "chunk_text": "## Interventions  \n### Nutrition  \n**Recommendation 11.3**: For people with CKD stage G3 or higher, protein intake should be 0.8 g/kg body weight per day, as for the general population. For individuals on dialysis, protein intake of 1.0–1.2 g/kg/day should be considered, since protein energy wasting is a major problem for some individuals on dialysis."
+  },
+  {
+    "query": "What method of glucose monitoring has become a standard for most people with type 1 diabetes and people with type 2 diabetes treated with insulin in recent years?",
+    "ground_truth_chunk_id": "11_21",
+    "source": "ada_glycemic_hypoglycemia.pdf",
+    "chunk_text": "## Glycemic Assessment by Blood Glucose Monitoring\nFor many people with diabetes, glucose monitoring, either using BGM by capillary (finger-stick) devices and/or CGM in addition to regular A1C testing, is key for achieving glycemic goals. Major clinical trials of insulin-treated individuals have included BGM as part of multifactorial interventions to demonstrate the benefit of intensive glycemic management on diabetes complications. BGM is thus an integral component of effective therapy for individuals taking insulin.  \nIn recent years, CGM has become a standard method for glucose monitoring for most people with type 1 diabetes and people with type 2 diabetes treated with insulin. Both approaches to glucose monitoring allow people with diabetes to evaluate individual responses to therapy and assess whether glycemic goals are being safely achieved. The specific needs and goals of individuals with diabetes should dictate BGM frequency and timing."
+  },
+  {
+    "query": "What study investigated the response of fasting plasma glucose to diet therapy in newly presenting type II diabetic patients?",
+    "ground_truth_chunk_id": "13_107",
+    "source": "ada_obesity_and_weight.pdf",
+    "chunk_text": "# Clinical Diabetes Guidelines  \n## Obesity and Weight Management  \n### Key Studies and Findings  \n1. **Equity and Obesity Treatment**\n- Stoops H, Dar M. Equity and Obesity Treatment - Expanding Medicaid-Covered Interventions. N Engl J Med 2023;388:2309–2311.  \n2. **Impact of Weight Loss**\n- Rothberg AE, McEwen LN, Kraftson AT, et al. Impact of weight loss on waist circumference and the components of the metabolic syndrome. BMJ Open Diabetes Res Care 2017;5:e000341.  \n3. **UK Prospective Diabetes Study**\n- UKPDS Group. UK Prospective Diabetes Study 7: response of fasting plasma glucose to diet therapy in newly presenting type II diabetic patients. Metabolism 1990;39:905–912.  \n4. **Cardiovascular Effects of Lifestyle Intervention**\n- Wing RR, Bolin P, Brancati FL, et al.; Look AHEAD Research Group. Cardiovascular effects of intensive lifestyle intervention in type 2 diabetes. N Engl J Med 2013;369:145–154.  \n5. **Bariatric Surgery Outcomes**"
+  },
+  {
+    "query": "What is the typical range of insulin requirements at initiation for adults newly diagnosed with type 1 diabetes?",
+    "ground_truth_chunk_id": "14_33",
+    "source": "ada_pharma_approaches.pdf",
+    "chunk_text": "In adults newly diagnosed with type 1 diabetes, insulin requirements at initiation typically range from 0.2 to 0.6 units/kg/day, with lower doses often sufficient in those with continued endogenous insulin production (during the partial remission phase or “honeymoon” period, or in people presenting outside of ketoacidosis). This guideline provides an algorithm for insulin use for individuals with type 1 diabetes using insulin injections and detailed information on intensification of therapy to meet individualized needs."
+  },
+  {
+    "query": "What study is referenced as understanding metabolic memory and its impact on future risks of complications in diabetes management?",
+    "ground_truth_chunk_id": "15_96",
+    "source": "ada_retino_neuro_footcare.pdf",
+    "chunk_text": "results  that  reported  increased  healing            EDIC) study. Diabetes Care 2025;48:1089–1100                 retinopathy  with  glucagon-like  peptide-1  receptor\nrates at 9 and 12 months compared with                 3.   Lachin  JM,  Nathan  DM;  DCCT/EDIC  Research           agonists  with  cardiovascular  benefits  in  type  2\ncontrol  participants  (160).  Several  other          Group.  Understanding  metabolic  memory:  the               diabetes—a systematic review and meta-analysis. J\nprolonged  influence  of  glycemia  during  the              Diabetes Complications 2022;36:108255\nstudies  with  significant  design  deficien-          Diabetes Control and Complications  Trial  (DCCT)            18. Ntentakis DP, Correa VSMC, Ntentaki AM, et\ncies and participant dropouts have failed              on future risks of complications during the study            al.  Effects of  newer-generation anti-diabetics  on"
+  }
+]
