@@ -5,7 +5,8 @@
       "chapter_name": "Diabetes Advocacy: Standards of Care in Diabetes—2026",
       "page_number": 1,
       "source": "ada_chapter17.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter17.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter17.pdf",
+      "chunk_id": "3_0"
     }
   },
   {
@@ -14,7 +15,8 @@
       "chapter_name": "Diabetes Advocacy: Standards of Care in Diabetes—2026",
       "page_number": 1,
       "source": "ada_chapter17.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter17.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter17.pdf",
+      "chunk_id": "3_1"
     }
   },
   {
@@ -23,7 +25,8 @@
       "chapter_name": "Diabetes Advocacy: Standards of Care in Diabetes—2026",
       "page_number": 1,
       "source": "ada_chapter17.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter17.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter17.pdf",
+      "chunk_id": "3_2"
     }
   },
   {
@@ -32,7 +35,8 @@
       "chapter_name": "Diabetes Advocacy: Standards of Care in Diabetes—2026",
       "page_number": 1,
       "source": "ada_chapter17.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter17.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter17.pdf",
+      "chunk_id": "3_3"
     }
   },
   {
@@ -42,7 +46,8 @@
       "section_heading": "Advocacy Statements",
       "page_number": 1,
       "source": "ada_chapter17.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter17.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter17.pdf",
+      "chunk_id": "3_4"
     }
   },
   {
@@ -53,7 +58,8 @@
       "subsection_heading": "Diabetes Care in the School Setting",
       "page_number": 1,
       "source": "ada_chapter17.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter17.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter17.pdf",
+      "chunk_id": "3_5"
     }
   },
   {
@@ -64,7 +70,8 @@
       "subsection_heading": "Diabetes Care in the School Setting",
       "page_number": 1,
       "source": "ada_chapter17.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter17.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter17.pdf",
+      "chunk_id": "3_6"
     }
   },
   {
@@ -75,7 +82,8 @@
       "subsection_heading": "Statement for Diabetes Management",
       "page_number": 2,
       "source": "ada_chapter17.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter17.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter17.pdf",
+      "chunk_id": "3_7"
     }
   },
   {
@@ -85,7 +93,8 @@
       "section_heading": "Diabetes and Driving",
       "page_number": 2,
       "source": "ada_chapter17.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter17.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter17.pdf",
+      "chunk_id": "3_8"
     }
   },
   {
@@ -96,7 +105,8 @@
       "subsection_heading": "Discussion on Considerations",
       "page_number": 2,
       "source": "ada_chapter17.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter17.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter17.pdf",
+      "chunk_id": "3_9"
     }
   },
   {
@@ -106,7 +116,8 @@
       "section_heading": "Care of Young Children With Diabetes in the Childcare and Community Setting",
       "page_number": 2,
       "source": "ada_chapter17.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter17.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter17.pdf",
+      "chunk_id": "3_10"
     }
   },
   {
@@ -117,7 +128,8 @@
       "subsection_heading": "References",
       "page_number": 2,
       "source": "ada_chapter17.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter17.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter17.pdf",
+      "chunk_id": "3_11"
     }
   },
   {
@@ -128,7 +140,8 @@
       "subsection_heading": "References",
       "page_number": 2,
       "source": "ada_chapter17.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter17.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter17.pdf",
+      "chunk_id": "3_12"
     }
   },
   {
@@ -138,7 +151,8 @@
       "section_heading": "Diabetes Management in Detention Facilities",
       "page_number": 2,
       "source": "ada_chapter17.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter17.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter17.pdf",
+      "chunk_id": "3_13"
     }
   },
   {
@@ -148,7 +162,8 @@
       "section_heading": "Insulin Access and Affordability",
       "page_number": 2,
       "source": "ada_chapter17.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter17.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter17.pdf",
+      "chunk_id": "3_14"
     }
   }
 ]

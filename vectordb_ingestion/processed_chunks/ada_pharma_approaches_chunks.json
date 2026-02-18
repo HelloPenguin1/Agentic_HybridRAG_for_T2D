@@ -5,7 +5,8 @@
       "chapter_name": "Pharmacologic Approaches to Glycemic Treatment: Standards of Care in Diabetes—2026",
       "page_number": 1,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_0"
     }
   },
   {
@@ -14,7 +15,8 @@
       "chapter_name": "Pharmacologic Approaches to Glycemic Treatment: Standards of Care in Diabetes—2026",
       "page_number": 1,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_1"
     }
   },
   {
@@ -25,7 +27,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 1,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_2"
     }
   },
   {
@@ -36,7 +39,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 1,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_3"
     }
   },
   {
@@ -47,7 +51,8 @@
       "subsection_heading": "Insulin Therapy",
       "page_number": 1,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_4"
     }
   },
   {
@@ -58,7 +63,8 @@
       "subsection_heading": "Insulin Therapy",
       "page_number": 1,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_5"
     }
   },
   {
@@ -67,7 +73,8 @@
       "chapter_name": "Pharmacologic Approaches to Glycemic Treatment",
       "page_number": 2,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_6"
     }
   },
   {
@@ -76,7 +83,8 @@
       "chapter_name": "Pharmacologic Approaches to Glycemic Treatment",
       "page_number": 2,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_7"
     }
   },
   {
@@ -85,7 +93,8 @@
       "chapter_name": "Pharmacologic Approaches to Glycemic Treatment",
       "page_number": 2,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_8"
     }
   },
   {
@@ -95,7 +104,8 @@
       "section_heading": "Insulin Plans",
       "page_number": 2,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_9"
     }
   },
   {
@@ -105,7 +115,8 @@
       "section_heading": "Insulin Plans",
       "page_number": 2,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_10"
     }
   },
   {
@@ -115,7 +126,8 @@
       "section_heading": "Insulin Plans",
       "page_number": 2,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_11"
     }
   },
   {
@@ -126,7 +138,8 @@
       "subsection_heading": "Insulin Dosing and Adjustment",
       "page_number": 3,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_12"
     }
   },
   {
@@ -137,7 +150,8 @@
       "subsection_heading": "Insulin Delivery Methods",
       "page_number": 3,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_13"
     }
   },
   {
@@ -148,7 +162,8 @@
       "subsection_heading": "Insulin Regimens",
       "page_number": 3,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_14"
     }
   },
   {
@@ -158,7 +173,8 @@
       "section_heading": "Insulin Types",
       "page_number": 3,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_15"
     }
   },
   {
@@ -168,7 +184,8 @@
       "section_heading": "Insulin Adjustment Strategies",
       "page_number": 3,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_16"
     }
   },
   {
@@ -178,7 +195,8 @@
       "section_heading": "Advantages and Disadvantages of Insulin Therapy",
       "page_number": 3,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_17"
     }
   },
   {
@@ -188,7 +206,8 @@
       "section_heading": "Continuous Glucose Monitoring (CGM)",
       "page_number": 3,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_18"
     }
   },
   {
@@ -198,7 +217,8 @@
       "section_heading": "Advanced Insulin Delivery Systems",
       "page_number": 3,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_19"
     }
   },
   {
@@ -208,7 +228,8 @@
       "section_heading": "Conclusion",
       "page_number": 3,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_20"
     }
   },
   {
@@ -217,7 +238,8 @@
       "chapter_name": "Pharmacologic Approaches to Glycemic Treatment",
       "page_number": 4,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_21"
     }
   },
   {
@@ -227,7 +249,8 @@
       "section_heading": "Blood Glucose Monitoring (BGM) and Insulin Dosing",
       "page_number": 4,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_22"
     }
   },
   {
@@ -237,7 +260,8 @@
       "section_heading": "Insulin Types and Administration",
       "page_number": 4,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_23"
     }
   },
   {
@@ -248,7 +272,8 @@
       "subsection_heading": "Advantages",
       "page_number": 4,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_24"
     }
   },
   {
@@ -259,7 +284,8 @@
       "subsection_heading": "Disadvantages",
       "page_number": 4,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_25"
     }
   },
   {
@@ -269,7 +295,8 @@
       "section_heading": "Total Daily Dose (TDD) Distribution",
       "page_number": 4,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_26"
     }
   },
   {
@@ -279,7 +306,8 @@
       "section_heading": "Continuous Glucose Monitoring (CGM)",
       "page_number": 4,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_27"
     }
   },
   {
@@ -289,7 +317,8 @@
       "section_heading": "Conclusion",
       "page_number": 4,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_28"
     }
   },
   {
@@ -298,7 +327,8 @@
       "chapter_name": "Pharmacologic Approaches to Glycemic Treatment",
       "page_number": 5,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_29"
     }
   },
   {
@@ -307,7 +337,8 @@
       "chapter_name": "Pharmacologic Approaches to Glycemic Treatment",
       "page_number": 5,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_30"
     }
   },
   {
@@ -316,7 +347,8 @@
       "chapter_name": "Pharmacologic Approaches to Glycemic Treatment",
       "page_number": 5,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_31"
     }
   },
   {
@@ -326,7 +358,8 @@
       "section_heading": "Insulin Dosing Recommendations",
       "page_number": 5,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_32"
     }
   },
   {
@@ -336,7 +369,8 @@
       "section_heading": "Insulin Dosing Recommendations",
       "page_number": 5,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_33"
     }
   },
   {
@@ -346,7 +380,8 @@
       "section_heading": "Insulin Dosing Recommendations",
       "page_number": 5,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_34"
     }
   },
   {
@@ -356,7 +391,8 @@
       "section_heading": "Insulin Dosing Recommendations",
       "page_number": 5,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_35"
     }
   },
   {
@@ -365,7 +401,8 @@
       "chapter_name": "Pharmacologic Approaches to Glycemic Treatment",
       "page_number": 6,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_36"
     }
   },
   {
@@ -375,7 +412,8 @@
       "section_heading": "Initiation and Adjustment of Insulin Using Multiple Daily Dosing in Individuals with Type 1 Diabetes",
       "page_number": 6,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_37"
     }
   },
   {
@@ -386,7 +424,8 @@
       "subsection_heading": "Considerations for Starting Insulin",
       "page_number": 6,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_38"
     }
   },
   {
@@ -397,7 +436,8 @@
       "subsection_heading": "Initiation and Titration of Insulin",
       "page_number": 6,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_39"
     }
   },
   {
@@ -408,7 +448,8 @@
       "subsection_heading": "Initiation and Titration of Insulin",
       "page_number": 6,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_40"
     }
   },
   {
@@ -419,7 +460,8 @@
       "subsection_heading": "Initiation and Titration of Insulin",
       "page_number": 6,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_41"
     }
   },
   {
@@ -429,7 +471,8 @@
       "section_heading": "Insulin Administration Technique",
       "page_number": 6,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_42"
     }
   },
   {
@@ -439,7 +482,8 @@
       "section_heading": "Insulin Administration Technique",
       "page_number": 6,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_43"
     }
   },
   {
@@ -449,7 +493,8 @@
       "section_heading": "Noninsulin Treatments for Type 1 Diabetes",
       "page_number": 7,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_44"
     }
   },
   {
@@ -459,7 +504,8 @@
       "section_heading": "Noninsulin Treatments for Type 1 Diabetes",
       "page_number": 7,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_45"
     }
   },
   {
@@ -469,7 +515,8 @@
       "section_heading": "Noninsulin Treatments for Type 1 Diabetes",
       "page_number": 7,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_46"
     }
   },
   {
@@ -479,7 +526,8 @@
       "section_heading": "Noninsulin Treatments for Type 1 Diabetes",
       "page_number": 7,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_47"
     }
   },
   {
@@ -489,7 +537,8 @@
       "section_heading": "Noninsulin Treatments for Type 1 Diabetes",
       "page_number": 7,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_48"
     }
   },
   {
@@ -500,7 +549,8 @@
       "subsection_heading": "Pancreas and Islet Transplantation",
       "page_number": 7,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_49"
     }
   },
   {
@@ -511,7 +561,8 @@
       "subsection_heading": "Pancreas and Islet Transplantation",
       "page_number": 7,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_50"
     }
   },
   {
@@ -520,7 +571,8 @@
       "chapter_name": "Pharmacologic Approaches to Glycemic Treatment",
       "page_number": 8,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_51"
     }
   },
   {
@@ -531,7 +583,8 @@
       "subsection_heading": "Severe Metabolic Complications",
       "page_number": 8,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_52"
     }
   },
   {
@@ -542,7 +595,8 @@
       "subsection_heading": "Kidney Function Considerations",
       "page_number": 8,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_53"
     }
   },
   {
@@ -553,7 +607,8 @@
       "subsection_heading": "Transplantation Options",
       "page_number": 8,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_54"
     }
   },
   {
@@ -564,7 +619,8 @@
       "subsection_heading": "Balancing Surgical Risk, Metabolic Need, and Individual Choice",
       "page_number": 8,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_55"
     }
   },
   {
@@ -574,7 +630,8 @@
       "section_heading": "Choice of Glucose-Lowering Medications for Adults with Type 2 Diabetes",
       "page_number": 8,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_56"
     }
   },
   {
@@ -585,7 +642,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 8,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_57"
     }
   },
   {
@@ -596,7 +654,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 8,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_58"
     }
   },
   {
@@ -607,7 +666,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 8,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_59"
     }
   },
   {
@@ -617,7 +677,8 @@
       "section_heading": "Use of glucose-lowering medications in the management of type 2 diabetes",
       "page_number": 9,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_60"
     }
   },
   {
@@ -628,7 +689,8 @@
       "subsection_heading": "Goals",
       "page_number": 9,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_61"
     }
   },
   {
@@ -639,7 +701,8 @@
       "subsection_heading": "Efficacy",
       "page_number": 9,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_62"
     }
   },
   {
@@ -650,7 +713,8 @@
       "subsection_heading": "Additional Considerations",
       "page_number": 9,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_63"
     }
   },
   {
@@ -661,7 +725,8 @@
       "subsection_heading": "Agents with proven or potential benefit in MASLD or MASH",
       "page_number": 9,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_64"
     }
   },
   {
@@ -672,7 +737,8 @@
       "subsection_heading": "Definitions",
       "page_number": 9,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_65"
     }
   },
   {
@@ -683,7 +749,8 @@
       "subsection_heading": "Notes on GLP-1 RAs and SGLT2is",
       "page_number": 9,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_66"
     }
   },
   {
@@ -694,7 +761,8 @@
       "subsection_heading": "Additional Information",
       "page_number": 9,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_67"
     }
   },
   {
@@ -705,7 +773,8 @@
       "subsection_heading": "Additional Information",
       "page_number": 9,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_68"
     }
   },
   {
@@ -714,7 +783,8 @@
       "chapter_name": "Pharmacologic Approaches to Glycemic Treatment",
       "page_number": 10,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_69"
     }
   },
   {
@@ -725,7 +795,8 @@
       "subsection_heading": "9.13a",
       "page_number": 10,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_70"
     }
   },
   {
@@ -736,7 +807,8 @@
       "subsection_heading": "9.13b",
       "page_number": 10,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_71"
     }
   },
   {
@@ -747,7 +819,8 @@
       "subsection_heading": "9.14",
       "page_number": 10,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_72"
     }
   },
   {
@@ -758,7 +831,8 @@
       "subsection_heading": "9.15",
       "page_number": 10,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_73"
     }
   },
   {
@@ -769,7 +843,8 @@
       "subsection_heading": "9.16",
       "page_number": 10,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_74"
     }
   },
   {
@@ -780,7 +855,8 @@
       "subsection_heading": "9.17",
       "page_number": 10,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_75"
     }
   },
   {
@@ -791,7 +867,8 @@
       "subsection_heading": "9.18",
       "page_number": 10,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_76"
     }
   },
   {
@@ -802,7 +879,8 @@
       "subsection_heading": "9.19",
       "page_number": 10,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_77"
     }
   },
   {
@@ -813,7 +891,8 @@
       "subsection_heading": "9.20",
       "page_number": 10,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_78"
     }
   },
   {
@@ -824,7 +903,8 @@
       "subsection_heading": "9.21",
       "page_number": 10,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_79"
     }
   },
   {
@@ -835,7 +915,8 @@
       "subsection_heading": "9.22",
       "page_number": 10,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_80"
     }
   },
   {
@@ -846,7 +927,8 @@
       "subsection_heading": "9.23",
       "page_number": 10,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_81"
     }
   },
   {
@@ -856,7 +938,8 @@
       "section_heading": "Holistic Approach",
       "page_number": 10,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_82"
     }
   },
   {
@@ -866,7 +949,8 @@
       "section_heading": "Holistic Approach",
       "page_number": 10,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_83"
     }
   },
   {
@@ -876,7 +960,8 @@
       "section_heading": "Choice of Glucose-Lowering Therapy",
       "page_number": 10,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_84"
     }
   },
   {
@@ -886,7 +971,8 @@
       "section_heading": "Choice of Glucose-Lowering Therapy",
       "page_number": 10,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_85"
     }
   },
   {
@@ -896,7 +982,8 @@
       "section_heading": "Choice of Glucose-Lowering Therapy",
       "page_number": 10,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_86"
     }
   },
   {
@@ -906,7 +993,8 @@
       "section_heading": "Adverse Effects and Considerations",
       "page_number": 11,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_87"
     }
   },
   {
@@ -916,7 +1004,8 @@
       "section_heading": "Sick-Day Considerations",
       "page_number": 11,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_88"
     }
   },
   {
@@ -926,7 +1015,8 @@
       "section_heading": "Kidney Function Considerations",
       "page_number": 11,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_89"
     }
   },
   {
@@ -937,7 +1027,8 @@
       "subsection_heading": "Table: Medication Considerations Based on eGFR",
       "page_number": 11,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_90"
     }
   },
   {
@@ -947,7 +1038,8 @@
       "section_heading": "Weight and Hypoglycemia Considerations",
       "page_number": 11,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_91"
     }
   },
   {
@@ -957,7 +1049,8 @@
       "section_heading": "Glucose-Lowering Efficacy",
       "page_number": 11,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_92"
     }
   },
   {
@@ -968,7 +1061,8 @@
       "subsection_heading": "Table: Medication Features",
       "page_number": 11,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_93"
     }
   },
   {
@@ -978,7 +1072,8 @@
       "section_heading": "Conclusion",
       "page_number": 11,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_94"
     }
   },
   {
@@ -987,7 +1082,8 @@
       "chapter_name": "Pharmacologic Approaches to Glycemic Treatment",
       "page_number": 12,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_95"
     }
   },
   {
@@ -997,7 +1093,8 @@
       "section_heading": "Adverse Effects and Considerations",
       "page_number": 12,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_96"
     }
   },
   {
@@ -1007,7 +1104,8 @@
       "section_heading": "Clinical Considerations",
       "page_number": 12,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_97"
     }
   },
   {
@@ -1017,7 +1115,8 @@
       "section_heading": "Table of Potential Benefits and Effects",
       "page_number": 12,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_98"
     }
   },
   {
@@ -1027,7 +1126,8 @@
       "section_heading": "Conclusion",
       "page_number": 12,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_99"
     }
   },
   {
@@ -1037,7 +1137,8 @@
       "section_heading": "Adverse Effects and Considerations",
       "page_number": 13,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_100"
     }
   },
   {
@@ -1047,7 +1148,8 @@
       "section_heading": "Risk and Efficacy",
       "page_number": 13,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_101"
     }
   },
   {
@@ -1057,7 +1159,8 @@
       "section_heading": "Kidney Considerations",
       "page_number": 13,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_102"
     }
   },
   {
@@ -1067,7 +1170,8 @@
       "section_heading": "Summary of Recommendations",
       "page_number": 13,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_103"
     }
   },
   {
@@ -1077,7 +1181,8 @@
       "section_heading": "Conclusion",
       "page_number": 13,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_104"
     }
   },
   {
@@ -1086,7 +1191,8 @@
       "chapter_name": "Pharmacologic Approaches to Glycemic Treatment",
       "page_number": 14,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_105"
     }
   },
   {
@@ -1096,7 +1202,8 @@
       "section_heading": "Adverse Reactions and Considerations",
       "page_number": 14,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_106"
     }
   },
   {
@@ -1106,7 +1213,8 @@
       "section_heading": "Clinical Effects",
       "page_number": 14,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_107"
     }
   },
   {
@@ -1116,7 +1224,8 @@
       "section_heading": "Kidney Disease Progression",
       "page_number": 14,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_108"
     }
   },
   {
@@ -1126,7 +1235,8 @@
       "section_heading": "Weight Management",
       "page_number": 14,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_109"
     }
   },
   {
@@ -1136,7 +1246,8 @@
       "section_heading": "Glucose-Lowering Therapy",
       "page_number": 14,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_110"
     }
   },
   {
@@ -1147,7 +1258,8 @@
       "subsection_heading": "Metformin Administration",
       "page_number": 14,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_111"
     }
   },
   {
@@ -1158,7 +1270,8 @@
       "subsection_heading": "Side Effects of Metformin",
       "page_number": 14,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_112"
     }
   },
   {
@@ -1168,7 +1281,8 @@
       "section_heading": "Table 9.2: Summary of Medication Considerations",
       "page_number": 14,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_113"
     }
   },
   {
@@ -1177,7 +1291,8 @@
       "chapter_name": "Pharmacologic Approaches to Glycemic Treatment",
       "page_number": 15,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_114"
     }
   },
   {
@@ -1187,7 +1302,8 @@
       "section_heading": "Initial Combination Therapy",
       "page_number": 15,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_115"
     }
   },
   {
@@ -1197,7 +1313,8 @@
       "section_heading": "Treatment Intensification",
       "page_number": 15,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_116"
     }
   },
   {
@@ -1208,7 +1325,8 @@
       "subsection_heading": "Combination Therapy",
       "page_number": 15,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_117"
     }
   },
   {
@@ -1219,7 +1337,8 @@
       "subsection_heading": "Combination Therapy",
       "page_number": 15,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_118"
     }
   },
   {
@@ -1228,7 +1347,8 @@
       "chapter_name": "Pharmacologic Approaches to Glycemic Treatment",
       "page_number": 16,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_119"
     }
   },
   {
@@ -1238,7 +1358,8 @@
       "section_heading": "If injectable therapy is needed to attain glycemic goals¹",
       "page_number": 16,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_120"
     }
   },
   {
@@ -1249,7 +1370,8 @@
       "subsection_heading": "INITIATION",
       "page_number": 16,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_121"
     }
   },
   {
@@ -1260,7 +1382,8 @@
       "subsection_heading": "TITRATION",
       "page_number": 16,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_122"
     }
   },
   {
@@ -1271,7 +1394,8 @@
       "subsection_heading": "Considerations for adding basal insulin³",
       "page_number": 16,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_123"
     }
   },
   {
@@ -1282,7 +1406,8 @@
       "subsection_heading": "Initiation and titration of basal analog or bedtime NPH insulin⁴",
       "page_number": 16,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_124"
     }
   },
   {
@@ -1293,7 +1418,8 @@
       "subsection_heading": "Initiation and titration of basal analog or bedtime NPH insulin⁴",
       "page_number": 16,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_125"
     }
   },
   {
@@ -1304,7 +1430,8 @@
       "subsection_heading": "Initiation and titration of prandial insulin5,6",
       "page_number": 16,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_126"
     }
   },
   {
@@ -1315,7 +1442,8 @@
       "subsection_heading": "Stepwise doses of prandial insulin",
       "page_number": 16,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_127"
     }
   },
   {
@@ -1326,7 +1454,8 @@
       "subsection_heading": "TITRATION",
       "page_number": 16,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_128"
     }
   },
   {
@@ -1337,7 +1466,8 @@
       "subsection_heading": "TITRATION",
       "page_number": 16,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_129"
     }
   },
   {
@@ -1348,7 +1478,8 @@
       "subsection_heading": "TITRATION",
       "page_number": 16,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_130"
     }
   },
   {
@@ -1358,7 +1489,8 @@
       "section_heading": "Glucose-Lowering Therapy for People With Cardiovascular Disease or Risk Factors for Cardiovascular Disease",
       "page_number": 17,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_131"
     }
   },
   {
@@ -1368,7 +1500,8 @@
       "section_heading": "Glucose-Lowering Therapy for People With Chronic Kidney Disease",
       "page_number": 17,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_132"
     }
   },
   {
@@ -1378,7 +1511,8 @@
       "section_heading": "Glucose-Lowering Therapy for People With Chronic Kidney Disease",
       "page_number": 17,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_133"
     }
   },
   {
@@ -1388,7 +1522,8 @@
       "section_heading": "Glucose-Lowering Therapy for People With Chronic Kidney Disease",
       "page_number": 17,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_134"
     }
   },
   {
@@ -1398,7 +1533,8 @@
       "section_heading": "Glucose-Lowering Therapy for People With Chronic Kidney Disease",
       "page_number": 17,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_135"
     }
   },
   {
@@ -1408,7 +1544,8 @@
       "section_heading": "Treatment Considerations in Older Adults",
       "page_number": 17,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_136"
     }
   },
   {
@@ -1417,7 +1554,8 @@
       "chapter_name": "Pharmacologic Approaches to Glycemic Treatment",
       "page_number": 18,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_137"
     }
   },
   {
@@ -1427,7 +1565,8 @@
       "section_heading": "Glucose-Lowering Therapy for People With Metabolic Comorbidities",
       "page_number": 18,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_138"
     }
   },
   {
@@ -1437,7 +1576,8 @@
       "section_heading": "Glucose-Lowering Therapy for People With Metabolic Comorbidities",
       "page_number": 18,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_139"
     }
   },
   {
@@ -1447,7 +1587,8 @@
       "section_heading": "Insulin Therapy",
       "page_number": 18,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_140"
     }
   },
   {
@@ -1458,7 +1599,8 @@
       "subsection_heading": "Basal Insulin",
       "page_number": 18,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_141"
     }
   },
   {
@@ -1469,7 +1611,8 @@
       "subsection_heading": "Basal Insulin",
       "page_number": 18,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_142"
     }
   },
   {
@@ -1480,7 +1623,8 @@
       "subsection_heading": "Basal Insulin",
       "page_number": 18,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_143"
     }
   },
   {
@@ -1490,7 +1634,8 @@
       "section_heading": "Conclusion",
       "page_number": 18,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_144"
     }
   },
   {
@@ -1500,7 +1645,8 @@
       "section_heading": "Combination Injectable Therapy and Prandial Insulin",
       "page_number": 19,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_145"
     }
   },
   {
@@ -1510,7 +1656,8 @@
       "section_heading": "Combination Injectable Therapy and Prandial Insulin",
       "page_number": 19,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_146"
     }
   },
   {
@@ -1521,7 +1668,8 @@
       "subsection_heading": "Insulin Dosing",
       "page_number": 19,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_147"
     }
   },
   {
@@ -1532,7 +1680,8 @@
       "subsection_heading": "Alternative Insulin Routes",
       "page_number": 19,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_148"
     }
   },
   {
@@ -1542,7 +1691,8 @@
       "section_heading": "Concentrated Insulins",
       "page_number": 19,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_149"
     }
   },
   {
@@ -1553,7 +1703,8 @@
       "subsection_heading": "Key Points",
       "page_number": 19,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_150"
     }
   },
   {
@@ -1564,7 +1715,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 19,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_151"
     }
   },
   {
@@ -1573,7 +1725,8 @@
       "chapter_name": "Pharmacologic Approaches to Glycemic Treatment",
       "page_number": 20,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_152"
     }
   },
   {
@@ -1584,7 +1737,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 20,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_153"
     }
   },
   {
@@ -1595,7 +1749,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 20,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_154"
     }
   },
   {
@@ -1606,7 +1761,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 20,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_155"
     }
   },
   {
@@ -1617,7 +1773,8 @@
       "subsection_heading": "Cost-Related Barriers",
       "page_number": 20,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_156"
     }
   },
   {
@@ -1627,7 +1784,8 @@
       "section_heading": "Diabetes Technology and Glycemic Management",
       "page_number": 20,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_157"
     }
   },
   {
@@ -1638,7 +1796,8 @@
       "subsection_heading": "Medication Costs and Affordability",
       "page_number": 20,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_158"
     }
   },
   {
@@ -1648,7 +1807,8 @@
       "section_heading": "Table 9.3—Median monthly (30-day) AWP and NADAC of maximum approved daily dose of noninsulin glucose-lowering agents in the U.S.",
       "page_number": 21,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_159"
     }
   },
   {
@@ -1658,7 +1818,8 @@
       "section_heading": "Table 9.3—Median monthly (30-day) AWP and NADAC of maximum approved daily dose of noninsulin glucose-lowering agents in the U.S.",
       "page_number": 21,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_160"
     }
   },
   {
@@ -1668,7 +1829,8 @@
       "section_heading": "Table 9.3—Median monthly (30-day) AWP and NADAC of maximum approved daily dose of noninsulin glucose-lowering agents in the U.S.",
       "page_number": 21,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_161"
     }
   },
   {
@@ -1678,7 +1840,8 @@
       "section_heading": "Table 9.3—Median monthly (30-day) AWP and NADAC of maximum approved daily dose of noninsulin glucose-lowering agents in the U.S.",
       "page_number": 21,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_162"
     }
   },
   {
@@ -1688,7 +1851,8 @@
       "section_heading": "Table 9.3—Median monthly (30-day) AWP and NADAC of maximum approved daily dose of noninsulin glucose-lowering agents in the U.S.",
       "page_number": 21,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_163"
     }
   },
   {
@@ -1698,7 +1862,8 @@
       "section_heading": "Table 9.3—Median monthly (30-day) AWP and NADAC of maximum approved daily dose of noninsulin glucose-lowering agents in the U.S.",
       "page_number": 21,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_164"
     }
   },
   {
@@ -1708,7 +1873,8 @@
       "section_heading": "Table 9.3—Median monthly (30-day) AWP and NADAC of maximum approved daily dose of noninsulin glucose-lowering agents in the U.S.",
       "page_number": 21,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_165"
     }
   },
   {
@@ -1718,7 +1884,8 @@
       "section_heading": "Table 9.3—Median monthly (30-day) AWP and NADAC of maximum approved daily dose of noninsulin glucose-lowering agents in the U.S.",
       "page_number": 21,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_166"
     }
   },
   {
@@ -1728,7 +1895,8 @@
       "section_heading": "Table 9.3—Median monthly (30-day) AWP and NADAC of maximum approved daily dose of noninsulin glucose-lowering agents in the U.S.",
       "page_number": 21,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_167"
     }
   },
   {
@@ -1738,7 +1906,8 @@
       "section_heading": "Table 9.3—Median monthly (30-day) AWP and NADAC of maximum approved daily dose of noninsulin glucose-lowering agents in the U.S.",
       "page_number": 21,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_168"
     }
   },
   {
@@ -1748,7 +1917,8 @@
       "section_heading": "Table 9.3—Median monthly (30-day) AWP and NADAC of maximum approved daily dose of noninsulin glucose-lowering agents in the U.S.",
       "page_number": 21,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_169"
     }
   },
   {
@@ -1757,7 +1927,8 @@
       "chapter_name": "Pharmacologic Approaches to Glycemic Treatment",
       "page_number": 22,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_170"
     }
   },
   {
@@ -1767,7 +1938,8 @@
       "section_heading": "Table 9.4—Median cost of insulin products in the U.S. calculated as AWP and NADAC per 1,000 units of specified dosage form/product",
       "page_number": 22,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_171"
     }
   },
   {
@@ -1777,7 +1949,8 @@
       "section_heading": "Table 9.4—Median cost of insulin products in the U.S. calculated as AWP and NADAC per 1,000 units of specified dosage form/product",
       "page_number": 22,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_172"
     }
   },
   {
@@ -1787,7 +1960,8 @@
       "section_heading": "Table 9.4—Median cost of insulin products in the U.S. calculated as AWP and NADAC per 1,000 units of specified dosage form/product",
       "page_number": 22,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_173"
     }
   },
   {
@@ -1797,7 +1971,8 @@
       "section_heading": "Table 9.4—Median cost of insulin products in the U.S. calculated as AWP and NADAC per 1,000 units of specified dosage form/product",
       "page_number": 22,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_174"
     }
   },
   {
@@ -1807,7 +1982,8 @@
       "section_heading": "Table 9.4—Median cost of insulin products in the U.S. calculated as AWP and NADAC per 1,000 units of specified dosage form/product",
       "page_number": 22,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_175"
     }
   },
   {
@@ -1817,7 +1993,8 @@
       "section_heading": "Table 9.4—Median cost of insulin products in the U.S. calculated as AWP and NADAC per 1,000 units of specified dosage form/product",
       "page_number": 22,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_176"
     }
   },
   {
@@ -1827,7 +2004,8 @@
       "section_heading": "Table 9.4—Median cost of insulin products in the U.S. calculated as AWP and NADAC per 1,000 units of specified dosage form/product",
       "page_number": 22,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_177"
     }
   },
   {
@@ -1837,7 +2015,8 @@
       "section_heading": "Table 9.4—Median cost of insulin products in the U.S. calculated as AWP and NADAC per 1,000 units of specified dosage form/product",
       "page_number": 22,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_178"
     }
   },
   {
@@ -1847,7 +2026,8 @@
       "section_heading": "Table 9.4—Median cost of insulin products in the U.S. calculated as AWP and NADAC per 1,000 units of specified dosage form/product",
       "page_number": 22,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_179"
     }
   },
   {
@@ -1857,7 +2037,8 @@
       "section_heading": "Table 9.4—Median cost of insulin products in the U.S. calculated as AWP and NADAC per 1,000 units of specified dosage form/product",
       "page_number": 22,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_180"
     }
   },
   {
@@ -1867,7 +2048,8 @@
       "section_heading": "Table 9.4—Median cost of insulin products in the U.S. calculated as AWP and NADAC per 1,000 units of specified dosage form/product",
       "page_number": 22,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_181"
     }
   },
   {
@@ -1877,7 +2059,8 @@
       "section_heading": "Table 9.4—Median cost of insulin products in the U.S. calculated as AWP and NADAC per 1,000 units of specified dosage form/product",
       "page_number": 22,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_182"
     }
   },
   {
@@ -1888,7 +2071,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 22,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_183"
     }
   },
   {
@@ -1898,7 +2082,8 @@
       "section_heading": "Medication Unavailability",
       "page_number": 23,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_184"
     }
   },
   {
@@ -1908,7 +2093,8 @@
       "section_heading": "Medication Unavailability",
       "page_number": 23,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_185"
     }
   },
   {
@@ -1918,7 +2104,8 @@
       "section_heading": "Medication Unavailability",
       "page_number": 23,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_186"
     }
   },
   {
@@ -1928,7 +2115,8 @@
       "section_heading": "Medication Unavailability",
       "page_number": 23,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_187"
     }
   },
   {
@@ -1938,7 +2126,8 @@
       "section_heading": "Care Considerations for Individuals of Childbearing Potential",
       "page_number": 23,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_188"
     }
   },
   {
@@ -1948,7 +2137,8 @@
       "section_heading": "Care Considerations for Individuals of Childbearing Potential",
       "page_number": 23,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_189"
     }
   },
   {
@@ -1958,7 +2148,8 @@
       "section_heading": "Care Considerations for Individuals of Childbearing Potential",
       "page_number": 23,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_190"
     }
   },
   {
@@ -1968,7 +2159,8 @@
       "section_heading": "Recommendations",
       "page_number": 23,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_191"
     }
   },
   {
@@ -1978,7 +2170,8 @@
       "section_heading": "Recommendations",
       "page_number": 23,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_192"
     }
   },
   {
@@ -1988,7 +2181,8 @@
       "section_heading": "Recommendations",
       "page_number": 23,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_193"
     }
   },
   {
@@ -1998,7 +2192,8 @@
       "section_heading": "Recommendations",
       "page_number": 23,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_194"
     }
   },
   {
@@ -2007,7 +2202,8 @@
       "chapter_name": "Pharmacologic Approaches to Glycemic Treatment",
       "page_number": 24,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_195"
     }
   },
   {
@@ -2017,7 +2213,8 @@
       "section_heading": "Therapeutic Strategies for Individuals Receiving Cancer Treatment",
       "page_number": 24,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_196"
     }
   },
   {
@@ -2027,7 +2224,8 @@
       "section_heading": "Therapeutic Strategies for Individuals Receiving Cancer Treatment",
       "page_number": 24,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_197"
     }
   },
   {
@@ -2038,7 +2236,8 @@
       "subsection_heading": "Management of Hyperglycemia Induced by mTOR Inhibitors",
       "page_number": 24,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_198"
     }
   },
   {
@@ -2049,7 +2248,8 @@
       "subsection_heading": "Management of Hyperglycemia Induced by mTOR Inhibitors",
       "page_number": 24,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_199"
     }
   },
   {
@@ -2060,7 +2260,8 @@
       "subsection_heading": "Management of Hyperglycemia Induced by mTOR Inhibitors",
       "page_number": 24,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_200"
     }
   },
   {
@@ -2071,7 +2272,8 @@
       "subsection_heading": "Management of Hyperglycemia Induced by Glucocorticoids",
       "page_number": 24,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_201"
     }
   },
   {
@@ -2082,7 +2284,8 @@
       "subsection_heading": "Management of Hyperglycemia Induced by Glucocorticoids",
       "page_number": 24,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_202"
     }
   },
   {
@@ -2093,7 +2296,8 @@
       "subsection_heading": "Summary of Recommendations",
       "page_number": 24,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_203"
     }
   },
   {
@@ -2103,7 +2307,8 @@
       "section_heading": "Monitoring and Management of Hyperglycemia",
       "page_number": 25,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_204"
     }
   },
   {
@@ -2113,7 +2318,8 @@
       "section_heading": "Monitoring and Management of Hyperglycemia",
       "page_number": 25,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_205"
     }
   },
   {
@@ -2123,7 +2329,8 @@
       "section_heading": "Lifestyle Modifications",
       "page_number": 25,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_206"
     }
   },
   {
@@ -2133,7 +2340,8 @@
       "section_heading": "Lifestyle Modifications",
       "page_number": 25,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_207"
     }
   },
   {
@@ -2143,7 +2351,8 @@
       "section_heading": "Pharmacologic Management of PTDM",
       "page_number": 25,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_208"
     }
   },
   {
@@ -2154,7 +2363,8 @@
       "subsection_heading": "Posttransplantation Diabetes Mellitus (PTDM)",
       "page_number": 25,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_209"
     }
   },
   {
@@ -2165,7 +2375,8 @@
       "subsection_heading": "Pharmacotherapeutic Classes",
       "page_number": 25,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_210"
     }
   },
   {
@@ -2176,7 +2387,8 @@
       "subsection_heading": "Pharmacotherapeutic Classes",
       "page_number": 25,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_211"
     }
   },
   {
@@ -2186,7 +2398,8 @@
       "section_heading": "Conclusion",
       "page_number": 25,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_212"
     }
   },
   {
@@ -2195,7 +2408,8 @@
       "chapter_name": "Pharmacologic Approaches to Glycemic Treatment",
       "page_number": 26,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_213"
     }
   },
   {
@@ -2205,7 +2419,8 @@
       "section_heading": "Maturity-Onset Diabetes of the Young",
       "page_number": 26,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_214"
     }
   },
   {
@@ -2215,7 +2430,8 @@
       "section_heading": "SGLT Inhibition and Risk of Ketosis",
       "page_number": 26,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_215"
     }
   },
   {
@@ -2225,7 +2441,8 @@
       "section_heading": "SGLT Inhibition and Risk of Ketosis",
       "page_number": 26,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_216"
     }
   },
   {
@@ -2235,7 +2452,8 @@
       "section_heading": "SGLT Inhibition and Risk of Ketosis",
       "page_number": 26,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_217"
     }
   },
   {
@@ -2245,7 +2463,8 @@
       "section_heading": "References",
       "page_number": 26,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_218"
     }
   },
   {
@@ -2255,7 +2474,8 @@
       "section_heading": "References",
       "page_number": 26,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_219"
     }
   },
   {
@@ -2265,7 +2485,8 @@
       "section_heading": "References",
       "page_number": 26,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_220"
     }
   },
   {
@@ -2275,7 +2496,8 @@
       "section_heading": "References",
       "page_number": 26,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_221"
     }
   },
   {
@@ -2285,7 +2507,8 @@
       "section_heading": "MiniMed advanced hybrid closed-loop delivery",
       "page_number": 27,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_222"
     }
   },
   {
@@ -2295,7 +2518,8 @@
       "section_heading": "MiniMed advanced hybrid closed-loop delivery",
       "page_number": 27,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_223"
     }
   },
   {
@@ -2305,7 +2529,8 @@
       "section_heading": "MiniMed advanced hybrid closed-loop delivery",
       "page_number": 27,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_224"
     }
   },
   {
@@ -2315,7 +2540,8 @@
       "section_heading": "MiniMed advanced hybrid closed-loop delivery",
       "page_number": 27,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_225"
     }
   },
   {
@@ -2325,7 +2551,8 @@
       "section_heading": "MiniMed advanced hybrid closed-loop delivery",
       "page_number": 27,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_226"
     }
   },
   {
@@ -2335,7 +2562,8 @@
       "section_heading": "Additional References",
       "page_number": 27,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_227"
     }
   },
   {
@@ -2345,7 +2573,8 @@
       "section_heading": "Additional References",
       "page_number": 27,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_228"
     }
   },
   {
@@ -2355,7 +2584,8 @@
       "section_heading": "Additional References",
       "page_number": 27,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_229"
     }
   },
   {
@@ -2364,7 +2594,8 @@
       "chapter_name": "Pharmacologic Approaches to Glycemic Treatment",
       "page_number": 28,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_230"
     }
   },
   {
@@ -2374,7 +2605,8 @@
       "section_heading": "References",
       "page_number": 28,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_231"
     }
   },
   {
@@ -2384,7 +2616,8 @@
       "section_heading": "References",
       "page_number": 28,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_232"
     }
   },
   {
@@ -2394,7 +2627,8 @@
       "section_heading": "References",
       "page_number": 28,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_233"
     }
   },
   {
@@ -2404,7 +2638,8 @@
       "section_heading": "References",
       "page_number": 28,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_234"
     }
   },
   {
@@ -2414,7 +2649,8 @@
       "section_heading": "References",
       "page_number": 28,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_235"
     }
   },
   {
@@ -2424,7 +2660,8 @@
       "section_heading": "References",
       "page_number": 28,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_236"
     }
   },
   {
@@ -2434,7 +2671,8 @@
       "section_heading": "References",
       "page_number": 28,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_237"
     }
   },
   {
@@ -2444,7 +2682,8 @@
       "section_heading": "References",
       "page_number": 29,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_238"
     }
   },
   {
@@ -2454,7 +2693,8 @@
       "section_heading": "References",
       "page_number": 29,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_239"
     }
   },
   {
@@ -2464,7 +2704,8 @@
       "section_heading": "References",
       "page_number": 29,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_240"
     }
   },
   {
@@ -2474,7 +2715,8 @@
       "section_heading": "References",
       "page_number": 29,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_241"
     }
   },
   {
@@ -2484,7 +2726,8 @@
       "section_heading": "Additional References",
       "page_number": 29,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_242"
     }
   },
   {
@@ -2494,7 +2737,8 @@
       "section_heading": "Additional References",
       "page_number": 29,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_243"
     }
   },
   {
@@ -2504,7 +2748,8 @@
       "section_heading": "Additional References",
       "page_number": 29,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_244"
     }
   },
   {
@@ -2514,7 +2759,8 @@
       "section_heading": "Additional References",
       "page_number": 29,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_245"
     }
   },
   {
@@ -2524,7 +2770,8 @@
       "section_heading": "Additional References",
       "page_number": 29,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_246"
     }
   },
   {
@@ -2534,7 +2781,8 @@
       "section_heading": "Additional References",
       "page_number": 29,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_247"
     }
   },
   {
@@ -2543,7 +2791,8 @@
       "chapter_name": "Pharmacologic Approaches to Glycemic Treatment",
       "page_number": 30,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_248"
     }
   },
   {
@@ -2553,7 +2802,8 @@
       "section_heading": "References",
       "page_number": 30,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_249"
     }
   },
   {
@@ -2563,7 +2813,8 @@
       "section_heading": "References",
       "page_number": 30,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_250"
     }
   },
   {
@@ -2573,7 +2824,8 @@
       "section_heading": "References",
       "page_number": 30,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_251"
     }
   },
   {
@@ -2583,7 +2835,8 @@
       "section_heading": "References",
       "page_number": 30,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_252"
     }
   },
   {
@@ -2593,7 +2846,8 @@
       "section_heading": "References",
       "page_number": 30,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_253"
     }
   },
   {
@@ -2603,7 +2857,8 @@
       "section_heading": "References",
       "page_number": 30,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_254"
     }
   },
   {
@@ -2613,7 +2868,8 @@
       "section_heading": "References",
       "page_number": 30,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_255"
     }
   },
   {
@@ -2623,7 +2879,8 @@
       "section_heading": "References",
       "page_number": 30,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_256"
     }
   },
   {
@@ -2633,7 +2890,8 @@
       "section_heading": "Self-Care in People with Type 2 Diabetes Not Taking Insulin",
       "page_number": 31,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_257"
     }
   },
   {
@@ -2643,7 +2901,8 @@
       "section_heading": "Continuous Glucose Monitoring",
       "page_number": 31,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_258"
     }
   },
   {
@@ -2653,7 +2912,8 @@
       "section_heading": "Continuous Glucose Monitoring",
       "page_number": 31,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_259"
     }
   },
   {
@@ -2663,7 +2923,8 @@
       "section_heading": "Safety and Effectiveness of Automated Insulin Delivery",
       "page_number": 31,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_260"
     }
   },
   {
@@ -2673,7 +2934,8 @@
       "section_heading": "Glucagon Use and Safety",
       "page_number": 31,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_261"
     }
   },
   {
@@ -2683,7 +2945,8 @@
       "section_heading": "Cost and Access Issues",
       "page_number": 31,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_262"
     }
   },
   {
@@ -2693,7 +2956,8 @@
       "section_heading": "Special Reports and Guidelines",
       "page_number": 31,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_263"
     }
   },
   {
@@ -2703,7 +2967,8 @@
       "section_heading": "Conclusion",
       "page_number": 31,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_264"
     }
   },
   {
@@ -2712,7 +2977,8 @@
       "chapter_name": "Pharmacologic Approaches to Glycemic Treatment",
       "page_number": 32,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_265"
     }
   },
   {
@@ -2722,7 +2988,8 @@
       "section_heading": "References",
       "page_number": 32,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_266"
     }
   },
   {
@@ -2732,7 +2999,8 @@
       "section_heading": "References",
       "page_number": 32,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_267"
     }
   },
   {
@@ -2742,7 +3010,8 @@
       "section_heading": "References",
       "page_number": 32,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_268"
     }
   },
   {
@@ -2752,7 +3021,8 @@
       "section_heading": "References",
       "page_number": 32,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_269"
     }
   },
   {
@@ -2762,7 +3032,8 @@
       "section_heading": "Additional References",
       "page_number": 32,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_270"
     }
   },
   {
@@ -2772,7 +3043,8 @@
       "section_heading": "Additional References",
       "page_number": 32,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_271"
     }
   },
   {
@@ -2782,7 +3054,8 @@
       "section_heading": "Additional References",
       "page_number": 32,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_272"
     }
   },
   {
@@ -2792,7 +3065,8 @@
       "section_heading": "Additional References",
       "page_number": 32,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_273"
     }
   },
   {
@@ -2802,7 +3076,8 @@
       "section_heading": "Post-Transplant Diabetes Mellitus and Type 2 Diabetes",
       "page_number": 33,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_274"
     }
   },
   {
@@ -2812,7 +3087,8 @@
       "section_heading": "Post-Transplant Diabetes Mellitus and Type 2 Diabetes",
       "page_number": 33,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_275"
     }
   },
   {
@@ -2822,7 +3098,8 @@
       "section_heading": "Post-Transplant Diabetes Mellitus and Type 2 Diabetes",
       "page_number": 33,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_276"
     }
   },
   {
@@ -2832,7 +3109,8 @@
       "section_heading": "References",
       "page_number": 33,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_277"
     }
   },
   {
@@ -2842,7 +3120,8 @@
       "section_heading": "References",
       "page_number": 33,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_278"
     }
   },
   {
@@ -2852,7 +3131,8 @@
       "section_heading": "References",
       "page_number": 33,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_279"
     }
   },
   {
@@ -2862,7 +3142,8 @@
       "section_heading": "References",
       "page_number": 33,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_280"
     }
   },
   {
@@ -2872,7 +3153,8 @@
       "section_heading": "References",
       "page_number": 33,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_281"
     }
   },
   {
@@ -2882,7 +3164,8 @@
       "section_heading": "References",
       "page_number": 33,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_282"
     }
   },
   {
@@ -2892,7 +3175,8 @@
       "section_heading": "References",
       "page_number": 33,
       "source": "ada_pharma_approaches.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_pharma_approaches.pdf",
+      "chunk_id": "14_283"
     }
   }
 ]

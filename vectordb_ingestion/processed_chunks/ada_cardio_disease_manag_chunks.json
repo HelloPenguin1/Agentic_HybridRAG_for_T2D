@@ -5,7 +5,8 @@
       "chapter_name": "10. Cardiovascular Disease and Risk Management",
       "page_number": 1,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_0"
     }
   },
   {
@@ -14,7 +15,8 @@
       "chapter_name": "10. Cardiovascular Disease and Risk Management",
       "page_number": 1,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_1"
     }
   },
   {
@@ -23,7 +25,8 @@
       "chapter_name": "10. Cardiovascular Disease and Risk Management",
       "page_number": 1,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_2"
     }
   },
   {
@@ -32,7 +35,8 @@
       "chapter_name": "10. Cardiovascular Disease and Risk Management",
       "page_number": 1,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_3"
     }
   },
   {
@@ -41,7 +45,8 @@
       "chapter_name": "10. Cardiovascular Disease and Risk Management",
       "page_number": 1,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_4"
     }
   },
   {
@@ -50,7 +55,8 @@
       "chapter_name": "10. Cardiovascular Disease and Risk Management",
       "page_number": 1,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_5"
     }
   },
   {
@@ -59,7 +65,8 @@
       "chapter_name": "10. Cardiovascular Disease and Risk Management",
       "page_number": 1,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_6"
     }
   },
   {
@@ -68,7 +75,8 @@
       "chapter_name": "10. Cardiovascular Disease and Risk Management",
       "page_number": 1,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_7"
     }
   },
   {
@@ -77,7 +85,8 @@
       "chapter_name": "Cardiovascular Disease and Risk Management",
       "page_number": 2,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_8"
     }
   },
   {
@@ -87,7 +96,8 @@
       "section_heading": "Heart Failure and Diabetes",
       "page_number": 2,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_9"
     }
   },
   {
@@ -97,7 +107,8 @@
       "section_heading": "Heart Failure and Diabetes",
       "page_number": 2,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_10"
     }
   },
   {
@@ -107,7 +118,8 @@
       "section_heading": "Cardiorenal Metabolic Disease",
       "page_number": 2,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_11"
     }
   },
   {
@@ -117,7 +129,8 @@
       "section_heading": "Cardiorenal Metabolic Disease",
       "page_number": 2,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_12"
     }
   },
   {
@@ -127,7 +140,8 @@
       "section_heading": "Hypertension and Blood Pressure Management",
       "page_number": 2,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_13"
     }
   },
   {
@@ -138,7 +152,8 @@
       "subsection_heading": "Screening and Diagnosis Recommendations",
       "page_number": 2,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_14"
     }
   },
   {
@@ -149,7 +164,8 @@
       "subsection_heading": "Screening and Diagnosis Recommendations",
       "page_number": 2,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_15"
     }
   },
   {
@@ -160,7 +176,8 @@
       "subsection_heading": "Blood Pressure Goals and Management",
       "page_number": 2,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_16"
     }
   },
   {
@@ -169,7 +186,8 @@
       "chapter_name": "Cardiovascular Disease and Risk Management",
       "page_number": 3,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_17"
     }
   },
   {
@@ -179,7 +197,8 @@
       "section_heading": "Multifactorial Approach to Reduction in Risk of Diabetes Complications",
       "page_number": 3,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_18"
     }
   },
   {
@@ -190,7 +209,8 @@
       "subsection_heading": "Treatment Goals Recommendations",
       "page_number": 3,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_19"
     }
   },
   {
@@ -201,7 +221,8 @@
       "subsection_heading": "Treatment Goals Recommendations",
       "page_number": 3,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_20"
     }
   },
   {
@@ -212,7 +233,8 @@
       "subsection_heading": "Treatment Goals Recommendations",
       "page_number": 3,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_21"
     }
   },
   {
@@ -223,7 +245,8 @@
       "subsection_heading": "Overview of Blood Pressure Trials",
       "page_number": 4,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_22"
     }
   },
   {
@@ -234,7 +257,8 @@
       "subsection_heading": "Overview of Blood Pressure Trials",
       "page_number": 4,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_23"
     }
   },
   {
@@ -245,7 +269,8 @@
       "subsection_heading": "Randomized Controlled Trials of Intensive Versus Standard Blood Pressure Management",
       "page_number": 4,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_24"
     }
   },
   {
@@ -256,7 +281,8 @@
       "subsection_heading": "Randomized Controlled Trials of Intensive Versus Standard Blood Pressure Management",
       "page_number": 4,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_25"
     }
   },
   {
@@ -267,7 +293,8 @@
       "subsection_heading": "Summary of Key Trials",
       "page_number": 4,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_26"
     }
   },
   {
@@ -278,7 +305,8 @@
       "subsection_heading": "Summary of Key Trials",
       "page_number": 4,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_27"
     }
   },
   {
@@ -289,7 +317,8 @@
       "subsection_heading": "Conclusion",
       "page_number": 4,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_28"
     }
   },
   {
@@ -298,7 +327,8 @@
       "chapter_name": "Cardiovascular Disease and Risk Management",
       "page_number": 5,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_29"
     }
   },
   {
@@ -308,7 +338,8 @@
       "section_heading": "Individualization of Treatment Goals",
       "page_number": 5,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_30"
     }
   },
   {
@@ -318,7 +349,8 @@
       "section_heading": "Recommendations for the Treatment of Confirmed Hypertension in Nonpregnant People with Diabetes",
       "page_number": 5,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_31"
     }
   },
   {
@@ -329,7 +361,8 @@
       "subsection_heading": "Assess BP Goals§ and Adverse Effects",
       "page_number": 5,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_32"
     }
   },
   {
@@ -340,7 +373,8 @@
       "subsection_heading": "Not Meeting Goal on Two Agents",
       "page_number": 5,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_33"
     }
   },
   {
@@ -351,7 +385,8 @@
       "subsection_heading": "Not Meeting Goal on Two Agents",
       "page_number": 5,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_34"
     }
   },
   {
@@ -362,7 +397,8 @@
       "subsection_heading": "Lifestyle Intervention",
       "page_number": 6,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_35"
     }
   },
   {
@@ -373,7 +409,8 @@
       "subsection_heading": "Lifestyle Intervention",
       "page_number": 6,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_36"
     }
   },
   {
@@ -384,7 +421,8 @@
       "subsection_heading": "Lifestyle Intervention",
       "page_number": 6,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_37"
     }
   },
   {
@@ -395,7 +433,8 @@
       "subsection_heading": "Pharmacologic Interventions",
       "page_number": 6,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_38"
     }
   },
   {
@@ -406,7 +445,8 @@
       "subsection_heading": "Pharmacologic Interventions",
       "page_number": 6,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_39"
     }
   },
   {
@@ -417,7 +457,8 @@
       "subsection_heading": "Pharmacologic Interventions",
       "page_number": 6,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_40"
     }
   },
   {
@@ -428,7 +469,8 @@
       "subsection_heading": "Initial Number of Antihypertensive Medications",
       "page_number": 6,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_41"
     }
   },
   {
@@ -439,7 +481,8 @@
       "subsection_heading": "Classes of Antihypertensive Medications",
       "page_number": 6,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_42"
     }
   },
   {
@@ -448,7 +491,8 @@
       "chapter_name": "Cardiovascular Disease and Risk Management",
       "page_number": 7,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_43"
     }
   },
   {
@@ -457,7 +501,8 @@
       "chapter_name": "Cardiovascular Disease and Risk Management",
       "page_number": 7,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_44"
     }
   },
   {
@@ -466,7 +511,8 @@
       "chapter_name": "Cardiovascular Disease and Risk Management",
       "page_number": 7,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_45"
     }
   },
   {
@@ -476,7 +522,8 @@
       "section_heading": "Multiple-Drug Therapy",
       "page_number": 7,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_46"
     }
   },
   {
@@ -486,7 +533,8 @@
       "section_heading": "Hyperkalemia and Acute Kidney Injury",
       "page_number": 7,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_47"
     }
   },
   {
@@ -496,7 +544,8 @@
       "section_heading": "Pregnancy and Antihypertensive Medications",
       "page_number": 7,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_48"
     }
   },
   {
@@ -506,7 +555,8 @@
       "section_heading": "Pregnancy and Antihypertensive Medications",
       "page_number": 7,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_49"
     }
   },
   {
@@ -516,7 +566,8 @@
       "section_heading": "Pregnancy and Antihypertensive Medications",
       "page_number": 7,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_50"
     }
   },
   {
@@ -527,7 +578,8 @@
       "subsection_heading": "Recommendation",
       "page_number": 7,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_51"
     }
   },
   {
@@ -538,7 +590,8 @@
       "subsection_heading": "Lifestyle Intervention",
       "page_number": 7,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_52"
     }
   },
   {
@@ -549,7 +602,8 @@
       "subsection_heading": "Lifestyle and Glycemic Management",
       "page_number": 8,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_53"
     }
   },
   {
@@ -560,7 +614,8 @@
       "subsection_heading": "Lifestyle and Glycemic Management",
       "page_number": 8,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_54"
     }
   },
   {
@@ -571,7 +626,8 @@
       "subsection_heading": "Statin Treatment",
       "page_number": 8,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_55"
     }
   },
   {
@@ -582,7 +638,8 @@
       "subsection_heading": "Statin Treatment",
       "page_number": 8,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_56"
     }
   },
   {
@@ -593,7 +650,8 @@
       "subsection_heading": "Ongoing Therapy and Monitoring with Lipid Panel",
       "page_number": 8,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_57"
     }
   },
   {
@@ -604,7 +662,8 @@
       "subsection_heading": "Ongoing Therapy and Monitoring with Lipid Panel",
       "page_number": 8,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_58"
     }
   },
   {
@@ -615,7 +674,8 @@
       "subsection_heading": "Alternative Therapies",
       "page_number": 8,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_59"
     }
   },
   {
@@ -625,7 +685,8 @@
       "section_heading": "Conclusion",
       "page_number": 8,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_60"
     }
   },
   {
@@ -634,7 +695,8 @@
       "chapter_name": "Cardiovascular Disease and Risk Management",
       "page_number": 9,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_61"
     }
   },
   {
@@ -643,7 +705,8 @@
       "chapter_name": "Cardiovascular Disease and Risk Management",
       "page_number": 9,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_62"
     }
   },
   {
@@ -652,7 +715,8 @@
       "chapter_name": "Cardiovascular Disease and Risk Management",
       "page_number": 9,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_63"
     }
   },
   {
@@ -662,7 +726,8 @@
       "section_heading": "Primary Prevention (People Without ASCVD)",
       "page_number": 9,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_64"
     }
   },
   {
@@ -672,7 +737,8 @@
       "section_heading": "Primary Prevention (People Without ASCVD)",
       "page_number": 9,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_65"
     }
   },
   {
@@ -682,7 +748,8 @@
       "section_heading": "Primary Prevention (People Without ASCVD)",
       "page_number": 9,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_66"
     }
   },
   {
@@ -692,7 +759,8 @@
       "section_heading": "Primary Prevention (People Without ASCVD)",
       "page_number": 9,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_67"
     }
   },
   {
@@ -702,7 +770,8 @@
       "section_heading": "Primary Prevention (People Without ASCVD)",
       "page_number": 9,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_68"
     }
   },
   {
@@ -712,7 +781,8 @@
       "section_heading": "Table 10.1—High-intensity and moderate-intensity statin therapy",
       "page_number": 9,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_69"
     }
   },
   {
@@ -722,7 +792,8 @@
       "section_heading": "Table 10.1—High-intensity and moderate-intensity statin therapy",
       "page_number": 9,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_70"
     }
   },
   {
@@ -732,7 +803,8 @@
       "section_heading": "Lipid Management for Primary Prevention of Atherosclerotic Cardiovascular Disease Events in People with Diabetes in Addition to Healthy Behavior Modification",
       "page_number": 10,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_71"
     }
   },
   {
@@ -742,7 +814,8 @@
       "section_heading": "Lipid Management for Primary Prevention of Atherosclerotic Cardiovascular Disease Events in People with Diabetes in Addition to Healthy Behavior Modification",
       "page_number": 10,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_72"
     }
   },
   {
@@ -752,7 +825,8 @@
       "section_heading": "Secondary Prevention (People With ASCVD)",
       "page_number": 10,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_73"
     }
   },
   {
@@ -762,7 +836,8 @@
       "section_heading": "Secondary Prevention (People With ASCVD)",
       "page_number": 10,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_74"
     }
   },
   {
@@ -772,7 +847,8 @@
       "section_heading": "Secondary Prevention (People With ASCVD)",
       "page_number": 10,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_75"
     }
   },
   {
@@ -782,7 +858,8 @@
       "section_heading": "Secondary Prevention (People With ASCVD)",
       "page_number": 10,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_76"
     }
   },
   {
@@ -791,7 +868,8 @@
       "chapter_name": "Cardiovascular Disease and Risk Management",
       "page_number": 11,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_77"
     }
   },
   {
@@ -802,7 +880,8 @@
       "subsection_heading": "Statins and Ezetimibe",
       "page_number": 11,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_78"
     }
   },
   {
@@ -813,7 +892,8 @@
       "subsection_heading": "Statins and PCSK9 Inhibitors",
       "page_number": 11,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_79"
     }
   },
   {
@@ -824,7 +904,8 @@
       "subsection_heading": "PCSK9-Directed Therapies",
       "page_number": 11,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_80"
     }
   },
   {
@@ -835,7 +916,8 @@
       "subsection_heading": "Intolerance to Statin Therapy",
       "page_number": 11,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_81"
     }
   },
   {
@@ -846,7 +928,8 @@
       "subsection_heading": "Intolerance to Statin Therapy",
       "page_number": 11,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_82"
     }
   },
   {
@@ -857,7 +940,8 @@
       "subsection_heading": "Intolerance to Statin Therapy",
       "page_number": 11,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_83"
     }
   },
   {
@@ -867,7 +951,8 @@
       "section_heading": "Ezetimibe and Evolocumab",
       "page_number": 12,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_84"
     }
   },
   {
@@ -877,7 +962,8 @@
       "section_heading": "Ezetimibe and Evolocumab",
       "page_number": 12,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_85"
     }
   },
   {
@@ -887,7 +973,8 @@
       "section_heading": "Ezetimibe and Evolocumab",
       "page_number": 12,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_86"
     }
   },
   {
@@ -897,7 +984,8 @@
       "section_heading": "Ezetimibe and Evolocumab",
       "page_number": 12,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_87"
     }
   },
   {
@@ -907,7 +995,8 @@
       "section_heading": "Bempedoic Acid",
       "page_number": 12,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_88"
     }
   },
   {
@@ -917,7 +1006,8 @@
       "section_heading": "Bempedoic Acid",
       "page_number": 12,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_89"
     }
   },
   {
@@ -927,7 +1017,8 @@
       "section_heading": "Bempedoic Acid",
       "page_number": 12,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_90"
     }
   },
   {
@@ -937,7 +1028,8 @@
       "section_heading": "Lipid-Lowering Care Considerations for Individuals of Childbearing Potential",
       "page_number": 12,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_91"
     }
   },
   {
@@ -947,7 +1039,8 @@
       "section_heading": "Lipid-Lowering Care Considerations for Individuals of Childbearing Potential",
       "page_number": 12,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_92"
     }
   },
   {
@@ -957,7 +1050,8 @@
       "section_heading": "Lipid-Lowering Care Considerations for Individuals of Childbearing Potential",
       "page_number": 12,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_93"
     }
   },
   {
@@ -967,7 +1061,8 @@
       "section_heading": "Treatment of Other Lipoprotein Fractions or Goals Recommendations",
       "page_number": 12,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_94"
     }
   },
   {
@@ -977,7 +1072,8 @@
       "section_heading": "Treatment of Other Lipoprotein Fractions or Goals Recommendations",
       "page_number": 12,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_95"
     }
   },
   {
@@ -986,7 +1082,8 @@
       "chapter_name": "Cardiovascular Disease and Risk Management",
       "page_number": 13,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_96"
     }
   },
   {
@@ -996,7 +1093,8 @@
       "section_heading": "Statin and Niacin Combination Therapy",
       "page_number": 13,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_97"
     }
   },
   {
@@ -1006,7 +1104,8 @@
       "section_heading": "Diabetes Risk With Statin Use",
       "page_number": 13,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_98"
     }
   },
   {
@@ -1016,7 +1115,8 @@
       "section_heading": "Statin and Fibrate Combination Therapy",
       "page_number": 13,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_99"
     }
   },
   {
@@ -1026,7 +1126,8 @@
       "section_heading": "Statin and Fibrate Combination Therapy",
       "page_number": 13,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_100"
     }
   },
   {
@@ -1036,7 +1137,8 @@
       "section_heading": "Lipid-Lowering Agents and Cognitive Function",
       "page_number": 13,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_101"
     }
   },
   {
@@ -1046,7 +1148,8 @@
       "section_heading": "Risk Reduction",
       "page_number": 14,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_102"
     }
   },
   {
@@ -1056,7 +1159,8 @@
       "section_heading": "Risk Reduction",
       "page_number": 14,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_103"
     }
   },
   {
@@ -1066,7 +1170,8 @@
       "section_heading": "Risk Reduction",
       "page_number": 14,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_104"
     }
   },
   {
@@ -1077,7 +1182,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 14,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_105"
     }
   },
   {
@@ -1088,7 +1194,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 14,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_106"
     }
   },
   {
@@ -1099,7 +1206,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 14,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_107"
     }
   },
   {
@@ -1108,7 +1216,8 @@
       "chapter_name": "Cardiovascular Disease and Risk Management",
       "page_number": 15,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_108"
     }
   },
   {
@@ -1118,7 +1227,8 @@
       "section_heading": "Aspirin Use in People &#x3C;50 Years of Age",
       "page_number": 15,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_109"
     }
   },
   {
@@ -1128,7 +1238,8 @@
       "section_heading": "Aspirin Dosing",
       "page_number": 15,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_110"
     }
   },
   {
@@ -1138,7 +1249,8 @@
       "section_heading": "Combination Antiplatelet and Anticoagulation Therapy",
       "page_number": 15,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_111"
     }
   },
   {
@@ -1149,7 +1261,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 15,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_112"
     }
   },
   {
@@ -1159,7 +1272,8 @@
       "section_heading": "Treatment Recommendations",
       "page_number": 16,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_113"
     }
   },
   {
@@ -1169,7 +1283,8 @@
       "section_heading": "Treatment Recommendations",
       "page_number": 16,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_114"
     }
   },
   {
@@ -1179,7 +1294,8 @@
       "section_heading": "Treatment Recommendations",
       "page_number": 16,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_115"
     }
   },
   {
@@ -1189,7 +1305,8 @@
       "section_heading": "Treatment Recommendations",
       "page_number": 16,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_116"
     }
   },
   {
@@ -1199,7 +1316,8 @@
       "section_heading": "Treatment Recommendations",
       "page_number": 16,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_117"
     }
   },
   {
@@ -1209,7 +1327,8 @@
       "section_heading": "Treatment Recommendations",
       "page_number": 16,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_118"
     }
   },
   {
@@ -1219,7 +1338,8 @@
       "section_heading": "Cardiac Testing",
       "page_number": 16,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_119"
     }
   },
   {
@@ -1228,7 +1348,8 @@
       "chapter_name": "Cardiovascular Disease and Risk Management",
       "page_number": 17,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_120"
     }
   },
   {
@@ -1238,7 +1359,8 @@
       "section_heading": "Screening Asymptomatic Individuals for Atherosclerotic Cardiovascular Disease",
       "page_number": 17,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_121"
     }
   },
   {
@@ -1248,7 +1370,8 @@
       "section_heading": "Screening Asymptomatic Individuals for Atherosclerotic Cardiovascular Disease",
       "page_number": 17,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_122"
     }
   },
   {
@@ -1258,7 +1381,8 @@
       "section_heading": "Screening Asymptomatic Individuals for Atherosclerotic Cardiovascular Disease",
       "page_number": 17,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_123"
     }
   },
   {
@@ -1268,7 +1392,8 @@
       "section_heading": "Screening for Asymptomatic Heart Failure in People With Diabetes",
       "page_number": 17,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_124"
     }
   },
   {
@@ -1278,7 +1403,8 @@
       "section_heading": "Screening for Asymptomatic Heart Failure in People With Diabetes",
       "page_number": 17,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_125"
     }
   },
   {
@@ -1288,7 +1414,8 @@
       "section_heading": "Screening for Asymptomatic Heart Failure in People With Diabetes",
       "page_number": 17,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_126"
     }
   },
   {
@@ -1298,7 +1425,8 @@
       "section_heading": "Screening for Asymptomatic Heart Failure in People With Diabetes",
       "page_number": 17,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_127"
     }
   },
   {
@@ -1308,7 +1436,8 @@
       "section_heading": "Screening for Asymptomatic Peripheral Artery Disease in People With Diabetes",
       "page_number": 17,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_128"
     }
   },
   {
@@ -1318,7 +1447,8 @@
       "section_heading": "Screening for Asymptomatic Peripheral Artery Disease in People With Diabetes",
       "page_number": 17,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_129"
     }
   },
   {
@@ -1328,7 +1458,8 @@
       "section_heading": "Screening for Peripheral Artery Disease (PAD)",
       "page_number": 18,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_130"
     }
   },
   {
@@ -1338,7 +1469,8 @@
       "section_heading": "Screening for Peripheral Artery Disease (PAD)",
       "page_number": 18,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_131"
     }
   },
   {
@@ -1348,7 +1480,8 @@
       "section_heading": "Screening for Peripheral Artery Disease (PAD)",
       "page_number": 18,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_132"
     }
   },
   {
@@ -1358,7 +1491,8 @@
       "section_heading": "Glucose-Lowering Therapies and Cardiovascular Outcomes",
       "page_number": 18,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_133"
     }
   },
   {
@@ -1369,7 +1503,8 @@
       "subsection_heading": "SGLT2 Inhibitors",
       "page_number": 18,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_134"
     }
   },
   {
@@ -1380,7 +1515,8 @@
       "subsection_heading": "GLP-1 Receptor Agonists",
       "page_number": 18,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_135"
     }
   },
   {
@@ -1390,7 +1526,8 @@
       "section_heading": "Lifestyle and Pharmacologic Interventions",
       "page_number": 18,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_136"
     }
   },
   {
@@ -1401,7 +1538,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 18,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_137"
     }
   },
   {
@@ -1412,7 +1550,8 @@
       "subsection_heading": "Cardiovascular Benefits",
       "page_number": 18,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_138"
     }
   },
   {
@@ -1422,7 +1561,8 @@
       "section_heading": "Conclusion",
       "page_number": 18,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_139"
     }
   },
   {
@@ -1431,7 +1571,8 @@
       "chapter_name": "Cardiovascular Disease and Risk Management",
       "page_number": 19,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_140"
     }
   },
   {
@@ -1441,7 +1582,8 @@
       "section_heading": "Prevention and Treatment of Heart Failure",
       "page_number": 19,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_141"
     }
   },
   {
@@ -1452,7 +1594,8 @@
       "subsection_heading": "Other Classes",
       "page_number": 19,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_142"
     }
   },
   {
@@ -1463,7 +1606,8 @@
       "subsection_heading": "Symptomatic Heart Failure",
       "page_number": 19,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_143"
     }
   },
   {
@@ -1474,7 +1618,8 @@
       "subsection_heading": "Figure 10.5—Overview of recommendations for the prevention and treatment of symptomatic heart failure in people with diabetes.",
       "page_number": 19,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_144"
     }
   },
   {
@@ -1485,7 +1630,8 @@
       "subsection_heading": "Figure 10.5—Overview of recommendations for the prevention and treatment of symptomatic heart failure in people with diabetes.",
       "page_number": 19,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_145"
     }
   },
   {
@@ -1496,7 +1642,8 @@
       "subsection_heading": "Treatment Strategies for Heart Failure",
       "page_number": 20,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_146"
     }
   },
   {
@@ -1507,7 +1654,8 @@
       "subsection_heading": "Finerenone",
       "page_number": 20,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_147"
     }
   },
   {
@@ -1518,7 +1666,8 @@
       "subsection_heading": "GLP-1 Receptor Agonists",
       "page_number": 20,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_148"
     }
   },
   {
@@ -1529,7 +1678,8 @@
       "subsection_heading": "Treatment of Symptomatic Heart Failure",
       "page_number": 20,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_149"
     }
   },
   {
@@ -1539,7 +1689,8 @@
       "section_heading": "Summary of Recommendations",
       "page_number": 20,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_150"
     }
   },
   {
@@ -1548,7 +1699,8 @@
       "chapter_name": "Cardiovascular Disease and Risk Management",
       "page_number": 21,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_151"
     }
   },
   {
@@ -1558,7 +1710,8 @@
       "section_heading": "SGLT Inhibitors",
       "page_number": 21,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_152"
     }
   },
   {
@@ -1568,7 +1721,8 @@
       "section_heading": "SGLT Inhibitors",
       "page_number": 21,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_153"
     }
   },
   {
@@ -1578,7 +1732,8 @@
       "section_heading": "SGLT Inhibitors",
       "page_number": 21,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_154"
     }
   },
   {
@@ -1588,7 +1743,8 @@
       "section_heading": "Mineralocorticoid Receptor Antagonists",
       "page_number": 21,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_155"
     }
   },
   {
@@ -1598,7 +1754,8 @@
       "section_heading": "Mineralocorticoid Receptor Antagonists",
       "page_number": 21,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_156"
     }
   },
   {
@@ -1608,7 +1765,8 @@
       "section_heading": "GLP-1 RA and Dual GIP/GLP-1 RA",
       "page_number": 21,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_157"
     }
   },
   {
@@ -1619,7 +1777,8 @@
       "subsection_heading": "Nutrition and Lifestyle",
       "page_number": 22,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_158"
     }
   },
   {
@@ -1630,7 +1789,8 @@
       "subsection_heading": "High-Intensity Statin Therapy",
       "page_number": 22,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_159"
     }
   },
   {
@@ -1641,7 +1801,8 @@
       "subsection_heading": "Moderate-Intensity Statin Therapy",
       "page_number": 22,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_160"
     }
   },
   {
@@ -1652,7 +1813,8 @@
       "subsection_heading": "Antiplatelet Therapy",
       "page_number": 22,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_161"
     }
   },
   {
@@ -1663,7 +1825,8 @@
       "subsection_heading": "Definitions",
       "page_number": 22,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_162"
     }
   },
   {
@@ -1674,7 +1837,8 @@
       "subsection_heading": "Figure 10.6",
       "page_number": 22,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_163"
     }
   },
   {
@@ -1685,7 +1849,8 @@
       "subsection_heading": "Semaglutide in Heart Failure",
       "page_number": 22,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_164"
     }
   },
   {
@@ -1696,7 +1861,8 @@
       "subsection_heading": "Tirzepatide in Heart Failure",
       "page_number": 22,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_165"
     }
   },
   {
@@ -1707,7 +1873,8 @@
       "subsection_heading": "Other Glucose-Lowering Therapies in Heart Failure",
       "page_number": 22,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_166"
     }
   },
   {
@@ -1718,7 +1885,8 @@
       "subsection_heading": "Conclusion",
       "page_number": 22,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_167"
     }
   },
   {
@@ -1727,7 +1895,8 @@
       "chapter_name": "Cardiovascular Disease and Risk Management",
       "page_number": 23,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_168"
     }
   },
   {
@@ -1737,7 +1906,8 @@
       "section_heading": "Clinical Approach",
       "page_number": 23,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_169"
     }
   },
   {
@@ -1747,7 +1917,8 @@
       "section_heading": "Clinical Approach",
       "page_number": 23,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_170"
     }
   },
   {
@@ -1757,7 +1928,8 @@
       "section_heading": "References",
       "page_number": 23,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_171"
     }
   },
   {
@@ -1767,7 +1939,8 @@
       "section_heading": "References",
       "page_number": 23,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_172"
     }
   },
   {
@@ -1777,7 +1950,8 @@
       "section_heading": "References",
       "page_number": 23,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_173"
     }
   },
   {
@@ -1787,7 +1961,8 @@
       "section_heading": "References",
       "page_number": 23,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_174"
     }
   },
   {
@@ -1797,7 +1972,8 @@
       "section_heading": "References",
       "page_number": 23,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_175"
     }
   },
   {
@@ -1807,7 +1983,8 @@
       "section_heading": "References",
       "page_number": 23,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_176"
     }
   },
   {
@@ -1817,7 +1994,8 @@
       "section_heading": "References",
       "page_number": 23,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_177"
     }
   },
   {
@@ -1827,7 +2005,8 @@
       "section_heading": "References",
       "page_number": 23,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_178"
     }
   },
   {
@@ -1838,7 +2017,8 @@
       "subsection_heading": "Key Studies and Findings",
       "page_number": 24,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_179"
     }
   },
   {
@@ -1849,7 +2029,8 @@
       "subsection_heading": "Key Studies and Findings",
       "page_number": 24,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_180"
     }
   },
   {
@@ -1860,7 +2041,8 @@
       "subsection_heading": "Summary of Recommendations",
       "page_number": 24,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_181"
     }
   },
   {
@@ -1871,7 +2053,8 @@
       "subsection_heading": "References",
       "page_number": 24,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_182"
     }
   },
   {
@@ -1882,7 +2065,8 @@
       "subsection_heading": "References",
       "page_number": 24,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_183"
     }
   },
   {
@@ -1893,7 +2077,8 @@
       "subsection_heading": "References",
       "page_number": 25,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_184"
     }
   },
   {
@@ -1904,7 +2089,8 @@
       "subsection_heading": "References",
       "page_number": 25,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_185"
     }
   },
   {
@@ -1915,7 +2101,8 @@
       "subsection_heading": "References",
       "page_number": 25,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_186"
     }
   },
   {
@@ -1926,7 +2113,8 @@
       "subsection_heading": "References",
       "page_number": 25,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_187"
     }
   },
   {
@@ -1937,7 +2125,8 @@
       "subsection_heading": "Key References",
       "page_number": 26,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_188"
     }
   },
   {
@@ -1948,7 +2137,8 @@
       "subsection_heading": "Key References",
       "page_number": 26,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_189"
     }
   },
   {
@@ -1959,7 +2149,8 @@
       "subsection_heading": "Additional Studies",
       "page_number": 26,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_190"
     }
   },
   {
@@ -1970,7 +2161,8 @@
       "subsection_heading": "Clinical Trials",
       "page_number": 26,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_191"
     }
   },
   {
@@ -1981,7 +2173,8 @@
       "subsection_heading": "Summary of Findings",
       "page_number": 26,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_192"
     }
   },
   {
@@ -1992,7 +2185,8 @@
       "subsection_heading": "Conclusion",
       "page_number": 26,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_193"
     }
   },
   {
@@ -2003,7 +2197,8 @@
       "subsection_heading": "References",
       "page_number": 27,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_194"
     }
   },
   {
@@ -2014,7 +2209,8 @@
       "subsection_heading": "References",
       "page_number": 27,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_195"
     }
   },
   {
@@ -2025,7 +2221,8 @@
       "subsection_heading": "References",
       "page_number": 27,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_196"
     }
   },
   {
@@ -2036,7 +2233,8 @@
       "subsection_heading": "References",
       "page_number": 27,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_197"
     }
   },
   {
@@ -2047,7 +2245,8 @@
       "subsection_heading": "References",
       "page_number": 27,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_198"
     }
   },
   {
@@ -2058,7 +2257,8 @@
       "subsection_heading": "References",
       "page_number": 27,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_199"
     }
   },
   {
@@ -2069,7 +2269,8 @@
       "subsection_heading": "References",
       "page_number": 27,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_200"
     }
   },
   {
@@ -2080,7 +2281,8 @@
       "subsection_heading": "Download Information",
       "page_number": 27,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_201"
     }
   },
   {
@@ -2091,7 +2293,8 @@
       "subsection_heading": "Key Studies and Findings",
       "page_number": 28,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_202"
     }
   },
   {
@@ -2102,7 +2305,8 @@
       "subsection_heading": "Key Studies and Findings",
       "page_number": 28,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_203"
     }
   },
   {
@@ -2113,7 +2317,8 @@
       "subsection_heading": "Prevalence and Risk Factors",
       "page_number": 28,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_204"
     }
   },
   {
@@ -2124,7 +2329,8 @@
       "subsection_heading": "Screening and Intervention",
       "page_number": 28,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_205"
     }
   },
   {
@@ -2135,7 +2341,8 @@
       "subsection_heading": "Conclusion",
       "page_number": 28,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_206"
     }
   },
   {
@@ -2144,7 +2351,8 @@
       "chapter_name": "Cardiovascular Disease and Risk Management",
       "page_number": 29,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_207"
     }
   },
   {
@@ -2154,7 +2362,8 @@
       "section_heading": "Research With PCSK9 Inhibition in Subjects With Elevated Risk",
       "page_number": 29,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_208"
     }
   },
   {
@@ -2164,7 +2373,8 @@
       "section_heading": "Research With PCSK9 Inhibition in Subjects With Elevated Risk",
       "page_number": 29,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_209"
     }
   },
   {
@@ -2174,7 +2384,8 @@
       "section_heading": "Research With PCSK9 Inhibition in Subjects With Elevated Risk",
       "page_number": 29,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_210"
     }
   },
   {
@@ -2184,7 +2395,8 @@
       "section_heading": "Research With PCSK9 Inhibition in Subjects With Elevated Risk",
       "page_number": 29,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_211"
     }
   },
   {
@@ -2194,7 +2406,8 @@
       "section_heading": "Tables",
       "page_number": 29,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_212"
     }
   },
   {
@@ -2204,7 +2417,8 @@
       "section_heading": "Tables",
       "page_number": 29,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_213"
     }
   },
   {
@@ -2214,7 +2428,8 @@
       "section_heading": "Tables",
       "page_number": 29,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_214"
     }
   },
   {
@@ -2225,7 +2440,8 @@
       "subsection_heading": "Cardiovascular Disease and Risk Management",
       "page_number": 30,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_215"
     }
   },
   {
@@ -2236,7 +2452,8 @@
       "subsection_heading": "Cardiovascular Disease and Risk Management",
       "page_number": 30,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_216"
     }
   },
   {
@@ -2247,7 +2464,8 @@
       "subsection_heading": "Cardiovascular Disease and Risk Management",
       "page_number": 30,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_217"
     }
   },
   {
@@ -2258,7 +2476,8 @@
       "subsection_heading": "Table of Key Studies",
       "page_number": 30,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_218"
     }
   },
   {
@@ -2269,7 +2488,8 @@
       "subsection_heading": "Table of Key Studies",
       "page_number": 30,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_219"
     }
   },
   {
@@ -2280,7 +2500,8 @@
       "subsection_heading": "Additional References",
       "page_number": 30,
       "source": "ada_cardio_disease_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_cardio_disease_manag.pdf",
+      "chunk_id": "0_220"
     }
   }
 ]

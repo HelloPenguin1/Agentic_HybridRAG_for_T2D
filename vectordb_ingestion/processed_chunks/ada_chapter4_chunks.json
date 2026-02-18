@@ -5,7 +5,8 @@
       "chapter_name": "Comprehensive Medical Evaluation and Assessment of Comorbidities: Standards of Care in Diabetes—2026",
       "page_number": 1,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_0"
     }
   },
   {
@@ -14,7 +15,8 @@
       "chapter_name": "Comprehensive Medical Evaluation and Assessment of Comorbidities: Standards of Care in Diabetes—2026",
       "page_number": 1,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_1"
     }
   },
   {
@@ -23,7 +25,8 @@
       "chapter_name": "Comprehensive Medical Evaluation and Assessment of Comorbidities: Standards of Care in Diabetes—2026",
       "page_number": 1,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_2"
     }
   },
   {
@@ -32,7 +35,8 @@
       "chapter_name": "Comprehensive Medical Evaluation and Assessment of Comorbidities: Standards of Care in Diabetes—2026",
       "page_number": 1,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_3"
     }
   },
   {
@@ -42,7 +46,8 @@
       "section_heading": "Person-Centered Collaborative Care Recommendations",
       "page_number": 1,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_4"
     }
   },
   {
@@ -52,7 +57,8 @@
       "section_heading": "Person-Centered Collaborative Care Recommendations",
       "page_number": 1,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_5"
     }
   },
   {
@@ -61,7 +67,8 @@
       "chapter_name": "Comprehensive Medical Evaluation and Assessment of Comorbidities",
       "page_number": 2,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_6"
     }
   },
   {
@@ -70,7 +77,8 @@
       "chapter_name": "Comprehensive Medical Evaluation and Assessment of Comorbidities",
       "page_number": 2,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_7"
     }
   },
   {
@@ -79,7 +87,8 @@
       "chapter_name": "Comprehensive Medical Evaluation and Assessment of Comorbidities",
       "page_number": 2,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_8"
     }
   },
   {
@@ -90,7 +99,8 @@
       "subsection_heading": "Review and Agree on Management Plan",
       "page_number": 2,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_9"
     }
   },
   {
@@ -101,7 +111,8 @@
       "subsection_heading": "Provide Ongoing Support and Monitoring of:",
       "page_number": 2,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_10"
     }
   },
   {
@@ -112,7 +123,8 @@
       "subsection_heading": "Implement Management Plan",
       "page_number": 2,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_11"
     }
   },
   {
@@ -123,7 +135,8 @@
       "subsection_heading": "Assess Key Person Characteristics",
       "page_number": 2,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_12"
     }
   },
   {
@@ -134,7 +147,8 @@
       "subsection_heading": "Consider Specific Factors That Impact Choice of Treatment",
       "page_number": 2,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_13"
     }
   },
   {
@@ -145,7 +159,8 @@
       "subsection_heading": "Use Shared Decision-Making to Co-Create a Management Plan",
       "page_number": 2,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_14"
     }
   },
   {
@@ -154,7 +169,8 @@
       "chapter_name": "Comprehensive Medical Evaluation and Assessment of Comorbidities",
       "page_number": 3,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_15"
     }
   },
   {
@@ -163,7 +179,8 @@
       "chapter_name": "Comprehensive Medical Evaluation and Assessment of Comorbidities",
       "page_number": 3,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_16"
     }
   },
   {
@@ -172,7 +189,8 @@
       "chapter_name": "Comprehensive Medical Evaluation and Assessment of Comorbidities",
       "page_number": 3,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_17"
     }
   },
   {
@@ -181,7 +199,8 @@
       "chapter_name": "Comprehensive Medical Evaluation and Assessment of Comorbidities",
       "page_number": 3,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_18"
     }
   },
   {
@@ -192,7 +211,8 @@
       "subsection_heading": "4.3 A complete medical evaluation should be performed at the initial visit and follow-up, as appropriate, to:",
       "page_number": 3,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_19"
     }
   },
   {
@@ -203,7 +223,8 @@
       "subsection_heading": "4.4 Ongoing management should be guided by the assessment of overall health and functional status, diabetes complications, cardiovascular risk, hypoglycemia risk, and shared decision making to set therapeutic goals.",
       "page_number": 3,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_20"
     }
   },
   {
@@ -214,7 +235,8 @@
       "subsection_heading": "4.4 Ongoing management should be guided by the assessment of overall health and functional status, diabetes complications, cardiovascular risk, hypoglycemia risk, and shared decision making to set therapeutic goals.",
       "page_number": 3,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_21"
     }
   },
   {
@@ -225,7 +247,8 @@
       "subsection_heading": "4.4 Ongoing management should be guided by the assessment of overall health and functional status, diabetes complications, cardiovascular risk, hypoglycemia risk, and shared decision making to set therapeutic goals.",
       "page_number": 3,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_22"
     }
   },
   {
@@ -236,7 +259,8 @@
       "subsection_heading": "4.4 Ongoing management should be guided by the assessment of overall health and functional status, diabetes complications, cardiovascular risk, hypoglycemia risk, and shared decision making to set therapeutic goals.",
       "page_number": 3,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_23"
     }
   },
   {
@@ -247,7 +271,8 @@
       "subsection_heading": "4.4 Ongoing management should be guided by the assessment of overall health and functional status, diabetes complications, cardiovascular risk, hypoglycemia risk, and shared decision making to set therapeutic goals.",
       "page_number": 3,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_24"
     }
   },
   {
@@ -258,7 +283,8 @@
       "subsection_heading": "4.4 Ongoing management should be guided by the assessment of overall health and functional status, diabetes complications, cardiovascular risk, hypoglycemia risk, and shared decision making to set therapeutic goals.",
       "page_number": 3,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_25"
     }
   },
   {
@@ -269,7 +295,8 @@
       "subsection_heading": "4.4 Ongoing management should be guided by the assessment of overall health and functional status, diabetes complications, cardiovascular risk, hypoglycemia risk, and shared decision making to set therapeutic goals.",
       "page_number": 3,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_26"
     }
   },
   {
@@ -280,7 +307,8 @@
       "subsection_heading": "4.4 Ongoing management should be guided by the assessment of overall health and functional status, diabetes complications, cardiovascular risk, hypoglycemia risk, and shared decision making to set therapeutic goals.",
       "page_number": 3,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_27"
     }
   },
   {
@@ -288,7 +316,8 @@
     "metadata": {
       "page_number": 4,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_28"
     }
   },
   {
@@ -296,7 +325,8 @@
     "metadata": {
       "page_number": 4,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_29"
     }
   },
   {
@@ -304,7 +334,8 @@
     "metadata": {
       "page_number": 4,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_30"
     }
   },
   {
@@ -312,7 +343,8 @@
     "metadata": {
       "page_number": 4,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_31"
     }
   },
   {
@@ -320,7 +352,8 @@
     "metadata": {
       "page_number": 4,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_32"
     }
   },
   {
@@ -328,7 +361,8 @@
     "metadata": {
       "page_number": 4,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_33"
     }
   },
   {
@@ -336,7 +370,8 @@
     "metadata": {
       "page_number": 4,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_34"
     }
   },
   {
@@ -344,7 +379,8 @@
     "metadata": {
       "page_number": 4,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_35"
     }
   },
   {
@@ -352,7 +388,8 @@
     "metadata": {
       "page_number": 4,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_36"
     }
   },
   {
@@ -362,7 +399,8 @@
       "section_heading": "Table 4.1—Continued",
       "page_number": 5,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_37"
     }
   },
   {
@@ -372,7 +410,8 @@
       "section_heading": "Table 4.1—Continued",
       "page_number": 5,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_38"
     }
   },
   {
@@ -382,7 +421,8 @@
       "section_heading": "Table 4.1—Continued",
       "page_number": 5,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_39"
     }
   },
   {
@@ -392,7 +432,8 @@
       "section_heading": "Table 4.1—Continued",
       "page_number": 5,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_40"
     }
   },
   {
@@ -402,7 +443,8 @@
       "section_heading": "Assessment of Comorbidities",
       "page_number": 5,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_41"
     }
   },
   {
@@ -413,7 +455,8 @@
       "subsection_heading": "Pneumococcal Pneumonia",
       "page_number": 5,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_42"
     }
   },
   {
@@ -424,7 +467,8 @@
       "subsection_heading": "Respiratory Syncytial Virus",
       "page_number": 5,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_43"
     }
   },
   {
@@ -433,7 +477,8 @@
       "chapter_name": "Comprehensive Medical Evaluation and Assessment of Comorbidities",
       "page_number": 6,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_44"
     }
   },
   {
@@ -443,7 +488,8 @@
       "section_heading": "Table 4.2—Essential components for assessment, planning, and referral",
       "page_number": 6,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_45"
     }
   },
   {
@@ -453,7 +499,8 @@
       "section_heading": "Table 4.2—Essential components for assessment, planning, and referral",
       "page_number": 6,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_46"
     }
   },
   {
@@ -463,7 +510,8 @@
       "section_heading": "Table 4.2—Essential components for assessment, planning, and referral",
       "page_number": 6,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_47"
     }
   },
   {
@@ -473,7 +521,8 @@
       "section_heading": "Table 4.2—Essential components for assessment, planning, and referral",
       "page_number": 6,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_48"
     }
   },
   {
@@ -484,7 +533,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 6,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_49"
     }
   },
   {
@@ -495,7 +545,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 6,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_50"
     }
   },
   {
@@ -506,7 +557,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 6,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_51"
     }
   },
   {
@@ -517,7 +569,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 6,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_52"
     }
   },
   {
@@ -528,7 +581,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 6,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_53"
     }
   },
   {
@@ -539,7 +593,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 6,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_54"
     }
   },
   {
@@ -549,7 +604,8 @@
       "section_heading": "Highly Recommended Immunizations for People with Diabetes",
       "page_number": 7,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_55"
     }
   },
   {
@@ -559,7 +615,8 @@
       "section_heading": "Highly Recommended Immunizations for People with Diabetes",
       "page_number": 7,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_56"
     }
   },
   {
@@ -569,7 +626,8 @@
       "section_heading": "Highly Recommended Immunizations for People with Diabetes",
       "page_number": 7,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_57"
     }
   },
   {
@@ -579,7 +637,8 @@
       "section_heading": "Highly Recommended Immunizations for People with Diabetes",
       "page_number": 7,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_58"
     }
   },
   {
@@ -589,7 +648,8 @@
       "section_heading": "Highly Recommended Immunizations for People with Diabetes",
       "page_number": 7,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_59"
     }
   },
   {
@@ -598,7 +658,8 @@
       "chapter_name": "Comprehensive Medical Evaluation and Assessment of Comorbidities",
       "page_number": 8,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_60"
     }
   },
   {
@@ -608,7 +669,8 @@
       "section_heading": "Vaccination Recommendations",
       "page_number": 8,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_61"
     }
   },
   {
@@ -618,7 +680,8 @@
       "section_heading": "Vaccination Recommendations",
       "page_number": 8,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_62"
     }
   },
   {
@@ -628,7 +691,8 @@
       "section_heading": "Vaccination Recommendations",
       "page_number": 8,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_63"
     }
   },
   {
@@ -638,7 +702,8 @@
       "section_heading": "Osteoporotic Fractures",
       "page_number": 8,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_64"
     }
   },
   {
@@ -649,7 +714,8 @@
       "subsection_heading": "Individuals Who Should Receive BMD Testing",
       "page_number": 9,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_65"
     }
   },
   {
@@ -659,7 +725,8 @@
       "section_heading": "Epidemiology and Risk Factors",
       "page_number": 9,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_66"
     }
   },
   {
@@ -670,7 +737,8 @@
       "subsection_heading": "Type 1 Diabetes",
       "page_number": 9,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_67"
     }
   },
   {
@@ -681,7 +749,8 @@
       "subsection_heading": "Type 2 Diabetes",
       "page_number": 9,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_68"
     }
   },
   {
@@ -692,7 +761,8 @@
       "subsection_heading": "Type 2 Diabetes",
       "page_number": 9,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_69"
     }
   },
   {
@@ -702,7 +772,8 @@
       "section_heading": "Screening",
       "page_number": 9,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_70"
     }
   },
   {
@@ -711,7 +782,8 @@
       "chapter_name": "Comprehensive Medical Evaluation and Assessment of Comorbidities",
       "page_number": 10,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_71"
     }
   },
   {
@@ -720,7 +792,8 @@
       "chapter_name": "Comprehensive Medical Evaluation and Assessment of Comorbidities",
       "page_number": 10,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_72"
     }
   },
   {
@@ -730,7 +803,8 @@
       "section_heading": "Type 1 Diabetes",
       "page_number": 10,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_73"
     }
   },
   {
@@ -740,7 +814,8 @@
       "section_heading": "Management",
       "page_number": 10,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_74"
     }
   },
   {
@@ -750,7 +825,8 @@
       "section_heading": "Management",
       "page_number": 10,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_75"
     }
   },
   {
@@ -761,7 +837,8 @@
       "subsection_heading": "Primary Prevention of Fragility Fractures in People With Diabetes",
       "page_number": 10,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_76"
     }
   },
   {
@@ -772,7 +849,8 @@
       "subsection_heading": "Primary Prevention of Fragility Fractures in People With Diabetes",
       "page_number": 10,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_77"
     }
   },
   {
@@ -782,7 +860,8 @@
       "section_heading": "Glucose-Lowering Medications and Bone Health",
       "page_number": 11,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_78"
     }
   },
   {
@@ -793,7 +872,8 @@
       "subsection_heading": "Secondary Prevention of Fragility Fractures",
       "page_number": 11,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_79"
     }
   },
   {
@@ -803,7 +883,8 @@
       "section_heading": "Cancer",
       "page_number": 11,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_80"
     }
   },
   {
@@ -814,7 +895,8 @@
       "subsection_heading": "New Onset of Atypical Diabetes",
       "page_number": 11,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_81"
     }
   },
   {
@@ -825,7 +907,8 @@
       "subsection_heading": "Anticancer Properties of Diabetes Medications",
       "page_number": 11,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_82"
     }
   },
   {
@@ -834,7 +917,8 @@
       "chapter_name": "Comprehensive Medical Evaluation and Assessment of Comorbidities",
       "page_number": 12,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_83"
     }
   },
   {
@@ -845,7 +929,8 @@
       "subsection_heading": "Recommendation",
       "page_number": 12,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_84"
     }
   },
   {
@@ -856,7 +941,8 @@
       "subsection_heading": "Recommendation",
       "page_number": 12,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_85"
     }
   },
   {
@@ -867,7 +953,8 @@
       "subsection_heading": "Recommendation",
       "page_number": 12,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_86"
     }
   },
   {
@@ -878,7 +965,8 @@
       "subsection_heading": "Glycemic Status and Cognition",
       "page_number": 12,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_87"
     }
   },
   {
@@ -889,7 +977,8 @@
       "subsection_heading": "Glycemic Status and Cognition",
       "page_number": 12,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_88"
     }
   },
   {
@@ -900,7 +989,8 @@
       "subsection_heading": "Glycemic Status and Cognition",
       "page_number": 12,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_89"
     }
   },
   {
@@ -911,7 +1001,8 @@
       "subsection_heading": "Glycemic Status and Cognition",
       "page_number": 12,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_90"
     }
   },
   {
@@ -922,7 +1013,8 @@
       "subsection_heading": "Dental Care",
       "page_number": 12,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_91"
     }
   },
   {
@@ -933,7 +1025,8 @@
       "subsection_heading": "Dental Care",
       "page_number": 12,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_92"
     }
   },
   {
@@ -944,7 +1037,8 @@
       "subsection_heading": "Recommendation",
       "page_number": 13,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_93"
     }
   },
   {
@@ -955,7 +1049,8 @@
       "subsection_heading": "Recommendation",
       "page_number": 13,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_94"
     }
   },
   {
@@ -966,7 +1061,8 @@
       "subsection_heading": "Recommendation",
       "page_number": 13,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_95"
     }
   },
   {
@@ -977,7 +1073,8 @@
       "subsection_heading": "Recommendation",
       "page_number": 13,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_96"
     }
   },
   {
@@ -988,7 +1085,8 @@
       "subsection_heading": "Recommendation",
       "page_number": 13,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_97"
     }
   },
   {
@@ -999,7 +1097,8 @@
       "subsection_heading": "Recommendation",
       "page_number": 13,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_98"
     }
   },
   {
@@ -1010,7 +1109,8 @@
       "subsection_heading": "Recommendation",
       "page_number": 13,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_99"
     }
   },
   {
@@ -1019,7 +1119,8 @@
       "chapter_name": "Comprehensive Medical Evaluation and Assessment of Comorbidities",
       "page_number": 14,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_100"
     }
   },
   {
@@ -1029,7 +1130,8 @@
       "section_heading": "Hepatitis C",
       "page_number": 14,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_101"
     }
   },
   {
@@ -1040,7 +1142,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 14,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_102"
     }
   },
   {
@@ -1051,7 +1154,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 14,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_103"
     }
   },
   {
@@ -1062,7 +1166,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 14,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_104"
     }
   },
   {
@@ -1073,7 +1178,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 14,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_105"
     }
   },
   {
@@ -1084,7 +1190,8 @@
       "subsection_heading": "Sexual Health in Women",
       "page_number": 14,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_106"
     }
   },
   {
@@ -1095,7 +1202,8 @@
       "subsection_heading": "Sexual Health in Women",
       "page_number": 14,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_107"
     }
   },
   {
@@ -1106,7 +1214,8 @@
       "subsection_heading": "Sexual Health in Women",
       "page_number": 14,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_108"
     }
   },
   {
@@ -1117,7 +1226,8 @@
       "subsection_heading": "Sexual Health in Women",
       "page_number": 14,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_109"
     }
   },
   {
@@ -1128,7 +1238,8 @@
       "subsection_heading": "Female Sexual Dysfunction (FSD)",
       "page_number": 15,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_110"
     }
   },
   {
@@ -1139,7 +1250,8 @@
       "subsection_heading": "Female Sexual Dysfunction (FSD)",
       "page_number": 15,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_111"
     }
   },
   {
@@ -1150,7 +1262,8 @@
       "subsection_heading": "Medical Comorbidities",
       "page_number": 15,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_112"
     }
   },
   {
@@ -1161,7 +1274,8 @@
       "subsection_heading": "Lifestyle Interventions",
       "page_number": 15,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_113"
     }
   },
   {
@@ -1172,7 +1286,8 @@
       "subsection_heading": "Lifestyle Interventions",
       "page_number": 15,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_114"
     }
   },
   {
@@ -1183,7 +1298,8 @@
       "subsection_heading": "Screening Recommendations",
       "page_number": 15,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_115"
     }
   },
   {
@@ -1194,7 +1310,8 @@
       "subsection_heading": "Metabolic Dysfunction–Associated Steatotic Liver Disease (MASLD)",
       "page_number": 16,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_116"
     }
   },
   {
@@ -1205,7 +1322,8 @@
       "subsection_heading": "Metabolic Dysfunction–Associated Steatotic Liver Disease (MASLD)",
       "page_number": 16,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_117"
     }
   },
   {
@@ -1216,7 +1334,8 @@
       "subsection_heading": "Screening and Diagnosis",
       "page_number": 16,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_118"
     }
   },
   {
@@ -1227,7 +1346,8 @@
       "subsection_heading": "Prevalence and Risk Factors",
       "page_number": 16,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_119"
     }
   },
   {
@@ -1238,7 +1358,8 @@
       "subsection_heading": "Additional Considerations",
       "page_number": 16,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_120"
     }
   },
   {
@@ -1249,7 +1370,8 @@
       "subsection_heading": "Conclusion",
       "page_number": 16,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_121"
     }
   },
   {
@@ -1259,7 +1381,8 @@
       "section_heading": "Liver Fibrosis Risk Stratification",
       "page_number": 17,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_122"
     }
   },
   {
@@ -1269,7 +1392,8 @@
       "section_heading": "Liver Fibrosis Risk Stratification",
       "page_number": 17,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_123"
     }
   },
   {
@@ -1279,7 +1403,8 @@
       "section_heading": "Diagnostic Algorithm for the Prevention of Cirrhosis in People with Metabolic Dysfunction–Associated Steatotic Liver Disease (MASLD)",
       "page_number": 17,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_124"
     }
   },
   {
@@ -1289,7 +1414,8 @@
       "section_heading": "Diagnostic Algorithm for the Prevention of Cirrhosis in People with Metabolic Dysfunction–Associated Steatotic Liver Disease (MASLD)",
       "page_number": 17,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_125"
     }
   },
   {
@@ -1300,7 +1426,8 @@
       "subsection_heading": "Figure 4.2—Diagnostic Algorithm for Risk Stratification and the Prevention of Cirrhosis in Individuals with Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD)",
       "page_number": 17,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_126"
     }
   },
   {
@@ -1309,7 +1436,8 @@
       "chapter_name": "Comprehensive Medical Evaluation and Assessment of Comorbidities",
       "page_number": 18,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_127"
     }
   },
   {
@@ -1320,7 +1448,8 @@
       "subsection_heading": "4.25",
       "page_number": 18,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_128"
     }
   },
   {
@@ -1331,7 +1460,8 @@
       "subsection_heading": "4.26",
       "page_number": 18,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_129"
     }
   },
   {
@@ -1342,7 +1472,8 @@
       "subsection_heading": "4.27a",
       "page_number": 18,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_130"
     }
   },
   {
@@ -1353,7 +1484,8 @@
       "subsection_heading": "4.27b",
       "page_number": 18,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_131"
     }
   },
   {
@@ -1364,7 +1496,8 @@
       "subsection_heading": "4.28",
       "page_number": 18,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_132"
     }
   },
   {
@@ -1375,7 +1508,8 @@
       "subsection_heading": "4.29",
       "page_number": 18,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_133"
     }
   },
   {
@@ -1386,7 +1520,8 @@
       "subsection_heading": "4.30a",
       "page_number": 18,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_134"
     }
   },
   {
@@ -1397,7 +1532,8 @@
       "subsection_heading": "4.30b",
       "page_number": 18,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_135"
     }
   },
   {
@@ -1408,7 +1544,8 @@
       "subsection_heading": "4.31a",
       "page_number": 18,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_136"
     }
   },
   {
@@ -1419,7 +1556,8 @@
       "subsection_heading": "4.31b",
       "page_number": 18,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_137"
     }
   },
   {
@@ -1430,7 +1568,8 @@
       "subsection_heading": "4.32a",
       "page_number": 18,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_138"
     }
   },
   {
@@ -1441,7 +1580,8 @@
       "subsection_heading": "Nutrition Plan Recommendations",
       "page_number": 18,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_139"
     }
   },
   {
@@ -1451,7 +1591,8 @@
       "section_heading": "Obesity and Weight Management for the Prevention and Treatment of Diabetes",
       "page_number": 19,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_140"
     }
   },
   {
@@ -1461,7 +1602,8 @@
       "section_heading": "Obesity and Weight Management for the Prevention and Treatment of Diabetes",
       "page_number": 19,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_141"
     }
   },
   {
@@ -1472,7 +1614,8 @@
       "subsection_heading": "Metabolic Dysfunction–Associated Steatotic Liver Disease (MASLD) Treatment Algorithm",
       "page_number": 19,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_142"
     }
   },
   {
@@ -1483,7 +1626,8 @@
       "subsection_heading": "Metabolic Dysfunction–Associated Steatotic Liver Disease (MASLD) Treatment Algorithm",
       "page_number": 19,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_143"
     }
   },
   {
@@ -1492,7 +1636,8 @@
       "chapter_name": "Comprehensive Medical Evaluation and Assessment of Comorbidities",
       "page_number": 20,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_144"
     }
   },
   {
@@ -1501,7 +1646,8 @@
       "chapter_name": "Comprehensive Medical Evaluation and Assessment of Comorbidities",
       "page_number": 20,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_145"
     }
   },
   {
@@ -1510,7 +1656,8 @@
       "chapter_name": "Comprehensive Medical Evaluation and Assessment of Comorbidities",
       "page_number": 20,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_146"
     }
   },
   {
@@ -1519,7 +1666,8 @@
       "chapter_name": "Comprehensive Medical Evaluation and Assessment of Comorbidities",
       "page_number": 20,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_147"
     }
   },
   {
@@ -1529,7 +1677,8 @@
       "section_heading": "Table of Treatment Options for MASLD",
       "page_number": 20,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_148"
     }
   },
   {
@@ -1539,7 +1688,8 @@
       "section_heading": "Table of Treatment Options for MASLD",
       "page_number": 20,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_149"
     }
   },
   {
@@ -1549,7 +1699,8 @@
       "section_heading": "Obstructive Sleep Apnea",
       "page_number": 21,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_150"
     }
   },
   {
@@ -1559,7 +1710,8 @@
       "section_heading": "Pancreatitis",
       "page_number": 21,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_151"
     }
   },
   {
@@ -1569,7 +1721,8 @@
       "section_heading": "Sensory Impairment",
       "page_number": 21,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_152"
     }
   },
   {
@@ -1579,7 +1732,8 @@
       "section_heading": "References",
       "page_number": 21,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_153"
     }
   },
   {
@@ -1589,7 +1743,8 @@
       "section_heading": "References",
       "page_number": 21,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_154"
     }
   },
   {
@@ -1598,7 +1753,8 @@
       "chapter_name": "Comprehensive Medical Evaluation and Assessment of Comorbidities",
       "page_number": 22,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_155"
     }
   },
   {
@@ -1608,7 +1764,8 @@
       "section_heading": "References",
       "page_number": 22,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_156"
     }
   },
   {
@@ -1618,7 +1775,8 @@
       "section_heading": "References",
       "page_number": 22,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_157"
     }
   },
   {
@@ -1628,7 +1786,8 @@
       "section_heading": "References",
       "page_number": 22,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_158"
     }
   },
   {
@@ -1638,7 +1797,8 @@
       "section_heading": "References",
       "page_number": 22,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_159"
     }
   },
   {
@@ -1648,7 +1808,8 @@
       "section_heading": "References",
       "page_number": 22,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_160"
     }
   },
   {
@@ -1658,7 +1819,8 @@
       "section_heading": "References",
       "page_number": 23,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_161"
     }
   },
   {
@@ -1668,7 +1830,8 @@
       "section_heading": "References",
       "page_number": 23,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_162"
     }
   },
   {
@@ -1678,7 +1841,8 @@
       "section_heading": "References",
       "page_number": 23,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_163"
     }
   },
   {
@@ -1688,7 +1852,8 @@
       "section_heading": "References",
       "page_number": 23,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_164"
     }
   },
   {
@@ -1698,7 +1863,8 @@
       "section_heading": "Additional References",
       "page_number": 23,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_165"
     }
   },
   {
@@ -1708,7 +1874,8 @@
       "section_heading": "Additional References",
       "page_number": 23,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_166"
     }
   },
   {
@@ -1718,7 +1885,8 @@
       "section_heading": "Additional References",
       "page_number": 23,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_167"
     }
   },
   {
@@ -1728,7 +1896,8 @@
       "section_heading": "Additional References",
       "page_number": 23,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_168"
     }
   },
   {
@@ -1737,7 +1906,8 @@
       "chapter_name": "Comprehensive Medical Evaluation and Assessment of Comorbidities",
       "page_number": 24,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_169"
     }
   },
   {
@@ -1747,7 +1917,8 @@
       "section_heading": "References",
       "page_number": 24,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_170"
     }
   },
   {
@@ -1757,7 +1928,8 @@
       "section_heading": "References",
       "page_number": 24,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_171"
     }
   },
   {
@@ -1767,7 +1939,8 @@
       "section_heading": "References",
       "page_number": 24,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_172"
     }
   },
   {
@@ -1777,7 +1950,8 @@
       "section_heading": "References",
       "page_number": 24,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_173"
     }
   },
   {
@@ -1787,7 +1961,8 @@
       "section_heading": "References",
       "page_number": 24,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_174"
     }
   },
   {
@@ -1797,7 +1972,8 @@
       "section_heading": "References",
       "page_number": 24,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_175"
     }
   },
   {
@@ -1807,7 +1983,8 @@
       "section_heading": "References",
       "page_number": 24,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_176"
     }
   },
   {
@@ -1817,7 +1994,8 @@
       "section_heading": "References",
       "page_number": 24,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_177"
     }
   },
   {
@@ -1827,7 +2005,8 @@
       "section_heading": "References",
       "page_number": 24,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_178"
     }
   },
   {
@@ -1837,7 +2016,8 @@
       "section_heading": "References",
       "page_number": 24,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_179"
     }
   },
   {
@@ -1847,7 +2027,8 @@
       "section_heading": "Clinical, Socioeconomic, and Lifestyle Parameters Associated with Erectile Dysfunction Among Diabetic Men",
       "page_number": 25,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_180"
     }
   },
   {
@@ -1857,7 +2038,8 @@
       "section_heading": "Clinical, Socioeconomic, and Lifestyle Parameters Associated with Erectile Dysfunction Among Diabetic Men",
       "page_number": 25,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_181"
     }
   },
   {
@@ -1867,7 +2049,8 @@
       "section_heading": "Clinical, Socioeconomic, and Lifestyle Parameters Associated with Erectile Dysfunction Among Diabetic Men",
       "page_number": 25,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_182"
     }
   },
   {
@@ -1877,7 +2060,8 @@
       "section_heading": "Clinical, Socioeconomic, and Lifestyle Parameters Associated with Erectile Dysfunction Among Diabetic Men",
       "page_number": 25,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_183"
     }
   },
   {
@@ -1887,7 +2071,8 @@
       "section_heading": "References",
       "page_number": 25,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_184"
     }
   },
   {
@@ -1897,7 +2082,8 @@
       "section_heading": "References",
       "page_number": 25,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_185"
     }
   },
   {
@@ -1907,7 +2093,8 @@
       "section_heading": "References",
       "page_number": 25,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_186"
     }
   },
   {
@@ -1917,7 +2104,8 @@
       "section_heading": "References",
       "page_number": 25,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_187"
     }
   },
   {
@@ -1926,7 +2114,8 @@
       "chapter_name": "Comprehensive Medical Evaluation and Assessment of Comorbidities",
       "page_number": 26,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_188"
     }
   },
   {
@@ -1936,7 +2125,8 @@
       "section_heading": "References",
       "page_number": 26,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_189"
     }
   },
   {
@@ -1946,7 +2136,8 @@
       "section_heading": "References",
       "page_number": 26,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_190"
     }
   },
   {
@@ -1956,7 +2147,8 @@
       "section_heading": "References",
       "page_number": 26,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_191"
     }
   },
   {
@@ -1966,7 +2158,8 @@
       "section_heading": "References",
       "page_number": 26,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_192"
     }
   },
   {
@@ -1976,7 +2169,8 @@
       "section_heading": "References",
       "page_number": 26,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_193"
     }
   },
   {
@@ -1986,7 +2180,8 @@
       "section_heading": "References",
       "page_number": 26,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_194"
     }
   },
   {
@@ -1996,7 +2191,8 @@
       "section_heading": "References",
       "page_number": 26,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_195"
     }
   },
   {
@@ -2006,7 +2202,8 @@
       "section_heading": "References",
       "page_number": 26,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_196"
     }
   },
   {
@@ -2016,7 +2213,8 @@
       "section_heading": "References",
       "page_number": 26,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_197"
     }
   },
   {
@@ -2026,7 +2224,8 @@
       "section_heading": "Hepatocellular Cancer in Nonalcoholic Fatty Liver Disease",
       "page_number": 27,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_198"
     }
   },
   {
@@ -2036,7 +2235,8 @@
       "section_heading": "Hepatocellular Cancer in Nonalcoholic Fatty Liver Disease",
       "page_number": 27,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_199"
     }
   },
   {
@@ -2046,7 +2246,8 @@
       "section_heading": "Hepatocellular Cancer in Nonalcoholic Fatty Liver Disease",
       "page_number": 27,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_200"
     }
   },
   {
@@ -2056,7 +2257,8 @@
       "section_heading": "Hepatocellular Cancer in Nonalcoholic Fatty Liver Disease",
       "page_number": 27,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_201"
     }
   },
   {
@@ -2066,7 +2268,8 @@
       "section_heading": "Additional References",
       "page_number": 27,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_202"
     }
   },
   {
@@ -2076,7 +2279,8 @@
       "section_heading": "Additional References",
       "page_number": 27,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_203"
     }
   },
   {
@@ -2086,7 +2290,8 @@
       "section_heading": "Additional References",
       "page_number": 27,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_204"
     }
   },
   {
@@ -2096,7 +2301,8 @@
       "section_heading": "Additional References",
       "page_number": 27,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_205"
     }
   },
   {
@@ -2105,7 +2311,8 @@
       "chapter_name": "Comprehensive Medical Evaluation and Assessment of Comorbidities",
       "page_number": 28,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_206"
     }
   },
   {
@@ -2115,7 +2322,8 @@
       "section_heading": "References",
       "page_number": 28,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_207"
     }
   },
   {
@@ -2125,7 +2333,8 @@
       "section_heading": "References",
       "page_number": 28,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_208"
     }
   },
   {
@@ -2135,7 +2344,8 @@
       "section_heading": "References",
       "page_number": 28,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_209"
     }
   },
   {
@@ -2145,7 +2355,8 @@
       "section_heading": "References",
       "page_number": 28,
       "source": "ada_chapter4.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter4.pdf",
+      "chunk_id": "6_210"
     }
   }
 ]

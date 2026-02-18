@@ -5,7 +5,8 @@
       "chapter_name": "Management of Diabetes in Pregnancy: Standards of Care in Diabetes—2026",
       "page_number": 1,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_0"
     }
   },
   {
@@ -14,7 +15,8 @@
       "chapter_name": "Management of Diabetes in Pregnancy: Standards of Care in Diabetes—2026",
       "page_number": 1,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_1"
     }
   },
   {
@@ -24,7 +26,8 @@
       "section_heading": "Diabetes in Pregnancy",
       "page_number": 1,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_2"
     }
   },
   {
@@ -35,7 +38,8 @@
       "subsection_heading": "Preconception Counseling Recommendations",
       "page_number": 1,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_3"
     }
   },
   {
@@ -46,7 +50,8 @@
       "subsection_heading": "Preconception Counseling Recommendations",
       "page_number": 1,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_4"
     }
   },
   {
@@ -57,7 +62,8 @@
       "subsection_heading": "Preconception Counseling Recommendations",
       "page_number": 1,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_5"
     }
   },
   {
@@ -65,7 +71,8 @@
     "metadata": {
       "page_number": 2,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_6"
     }
   },
   {
@@ -73,7 +80,8 @@
     "metadata": {
       "page_number": 2,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_7"
     }
   },
   {
@@ -81,7 +89,8 @@
     "metadata": {
       "page_number": 2,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_8"
     }
   },
   {
@@ -89,7 +98,8 @@
     "metadata": {
       "page_number": 2,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_9"
     }
   },
   {
@@ -97,7 +107,8 @@
     "metadata": {
       "page_number": 2,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_10"
     }
   },
   {
@@ -105,7 +116,8 @@
     "metadata": {
       "page_number": 2,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_11"
     }
   },
   {
@@ -113,7 +125,8 @@
     "metadata": {
       "page_number": 2,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_12"
     }
   },
   {
@@ -121,7 +134,8 @@
     "metadata": {
       "page_number": 2,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_13"
     }
   },
   {
@@ -129,7 +143,8 @@
     "metadata": {
       "page_number": 2,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_14"
     }
   },
   {
@@ -137,7 +152,8 @@
     "metadata": {
       "page_number": 2,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_15"
     }
   },
   {
@@ -145,7 +161,8 @@
     "metadata": {
       "page_number": 2,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_16"
     }
   },
   {
@@ -153,7 +170,8 @@
     "metadata": {
       "page_number": 2,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_17"
     }
   },
   {
@@ -164,7 +182,8 @@
       "subsection_heading": "Checklist for Preconception Care for People with Prediabetes, Diabetes, or a History of Gestational Diabetes Mellitus",
       "page_number": 3,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_18"
     }
   },
   {
@@ -175,7 +194,8 @@
       "subsection_heading": "Checklist for Preconception Care for People with Prediabetes, Diabetes, or a History of Gestational Diabetes Mellitus",
       "page_number": 3,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_19"
     }
   },
   {
@@ -186,7 +206,8 @@
       "subsection_heading": "Health Assessment and Plan",
       "page_number": 3,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_20"
     }
   },
   {
@@ -197,7 +218,8 @@
       "subsection_heading": "Screening",
       "page_number": 3,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_21"
     }
   },
   {
@@ -208,7 +230,8 @@
       "subsection_heading": "Preconception Plan",
       "page_number": 3,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_22"
     }
   },
   {
@@ -219,7 +242,8 @@
       "subsection_heading": "Preconception Plan",
       "page_number": 3,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_23"
     }
   },
   {
@@ -228,7 +252,8 @@
       "chapter_name": "Management of Diabetes in Pregnancy",
       "page_number": 4,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_24"
     }
   },
   {
@@ -238,7 +263,8 @@
       "section_heading": "Preconception Care",
       "page_number": 4,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_25"
     }
   },
   {
@@ -248,7 +274,8 @@
       "section_heading": "Preconception Care",
       "page_number": 4,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_26"
     }
   },
   {
@@ -258,7 +285,8 @@
       "section_heading": "Preconception Care",
       "page_number": 4,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_27"
     }
   },
   {
@@ -268,7 +296,8 @@
       "section_heading": "Insulin Physiology",
       "page_number": 4,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_28"
     }
   },
   {
@@ -279,7 +308,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 4,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_29"
     }
   },
   {
@@ -290,7 +320,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 4,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_30"
     }
   },
   {
@@ -301,7 +332,8 @@
       "subsection_heading": "Table 15.2: Recommended Goals for Pregnant People with Type 1 or Type 2 Diabetes",
       "page_number": 4,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_31"
     }
   },
   {
@@ -311,7 +343,8 @@
       "section_heading": "Table 15.2—Blood glucose goals in pregnancies associated with diabetes",
       "page_number": 5,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_32"
     }
   },
   {
@@ -321,7 +354,8 @@
       "section_heading": "Table 15.2—Blood glucose goals in pregnancies associated with diabetes",
       "page_number": 5,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_33"
     }
   },
   {
@@ -331,7 +365,8 @@
       "section_heading": "Goals, Hypoglycemia, and Hyperglycemic Crises",
       "page_number": 5,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_34"
     }
   },
   {
@@ -341,7 +376,8 @@
       "section_heading": "Goals, Hypoglycemia, and Hyperglycemic Crises",
       "page_number": 5,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_35"
     }
   },
   {
@@ -351,7 +387,8 @@
       "section_heading": "Goals, Hypoglycemia, and Hyperglycemic Crises",
       "page_number": 5,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_36"
     }
   },
   {
@@ -361,7 +398,8 @@
       "section_heading": "Goals, Hypoglycemia, and Hyperglycemic Crises",
       "page_number": 5,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_37"
     }
   },
   {
@@ -371,7 +409,8 @@
       "section_heading": "Goals, Hypoglycemia, and Hyperglycemic Crises",
       "page_number": 5,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_38"
     }
   },
   {
@@ -380,7 +419,8 @@
       "chapter_name": "Management of Diabetes in Pregnancy",
       "page_number": 6,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_39"
     }
   },
   {
@@ -390,7 +430,8 @@
       "section_heading": "A1C in Pregnancy",
       "page_number": 6,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_40"
     }
   },
   {
@@ -400,7 +441,8 @@
       "section_heading": "A1C in Pregnancy",
       "page_number": 6,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_41"
     }
   },
   {
@@ -410,7 +452,8 @@
       "section_heading": "Continuous Glucose Monitoring in Pregnancy",
       "page_number": 6,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_42"
     }
   },
   {
@@ -420,7 +463,8 @@
       "section_heading": "Continuous Glucose Monitoring in Pregnancy",
       "page_number": 6,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_43"
     }
   },
   {
@@ -430,7 +474,8 @@
       "section_heading": "Continuous Glucose Monitoring in Pregnancy",
       "page_number": 6,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_44"
     }
   },
   {
@@ -440,7 +485,8 @@
       "section_heading": "Continuous Glucose Monitoring in Pregnancy",
       "page_number": 6,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_45"
     }
   },
   {
@@ -450,7 +496,8 @@
       "section_heading": "Goals for Sensor Glucose Ranges in Pregnancy",
       "page_number": 6,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_46"
     }
   },
   {
@@ -461,7 +508,8 @@
       "subsection_heading": "Nutrition Counseling",
       "page_number": 7,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_47"
     }
   },
   {
@@ -472,7 +520,8 @@
       "subsection_heading": "Lifestyle Behavior Change",
       "page_number": 7,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_48"
     }
   },
   {
@@ -483,7 +532,8 @@
       "subsection_heading": "Telehealth Visits",
       "page_number": 7,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_49"
     }
   },
   {
@@ -494,7 +544,8 @@
       "subsection_heading": "Insulin Management",
       "page_number": 7,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_50"
     }
   },
   {
@@ -505,7 +556,8 @@
       "subsection_heading": "Insulin Delivery Methods",
       "page_number": 7,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_51"
     }
   },
   {
@@ -516,7 +568,8 @@
       "subsection_heading": "Automated Insulin Delivery Systems",
       "page_number": 7,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_52"
     }
   },
   {
@@ -527,7 +580,8 @@
       "subsection_heading": "AID Systems Without Specific Targets",
       "page_number": 7,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_53"
     }
   },
   {
@@ -538,7 +592,8 @@
       "subsection_heading": "Metformin and Glyburide",
       "page_number": 7,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_54"
     }
   },
   {
@@ -548,7 +603,8 @@
       "section_heading": "Medical Nutrition Therapy",
       "page_number": 7,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_55"
     }
   },
   {
@@ -559,7 +615,8 @@
       "subsection_heading": "Goals for Time in Glucose Ranges",
       "page_number": 7,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_56"
     }
   },
   {
@@ -570,7 +627,8 @@
       "subsection_heading": "Dietary Reference Intake",
       "page_number": 7,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_57"
     }
   },
   {
@@ -581,7 +639,8 @@
       "subsection_heading": "Carbohydrate Quality",
       "page_number": 7,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_58"
     }
   },
   {
@@ -592,7 +651,8 @@
       "subsection_heading": "Risks of Carbohydrate Restriction",
       "page_number": 7,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_59"
     }
   },
   {
@@ -603,7 +663,8 @@
       "subsection_heading": "Medical Nutrition Therapy for GDM",
       "page_number": 7,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_60"
     }
   },
   {
@@ -614,7 +675,8 @@
       "subsection_heading": "Nutritional Assessment",
       "page_number": 7,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_61"
     }
   },
   {
@@ -625,7 +687,8 @@
       "subsection_heading": "Conclusion",
       "page_number": 7,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_62"
     }
   },
   {
@@ -634,7 +697,8 @@
       "chapter_name": "Management of Diabetes in Pregnancy",
       "page_number": 8,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_63"
     }
   },
   {
@@ -644,7 +708,8 @@
       "section_heading": "Lifestyle Counseling",
       "page_number": 8,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_64"
     }
   },
   {
@@ -654,7 +719,8 @@
       "section_heading": "Physical Activity",
       "page_number": 8,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_65"
     }
   },
   {
@@ -665,7 +731,8 @@
       "subsection_heading": "Insulin",
       "page_number": 8,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_66"
     }
   },
   {
@@ -676,7 +743,8 @@
       "subsection_heading": "Insulin",
       "page_number": 8,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_67"
     }
   },
   {
@@ -687,7 +755,8 @@
       "subsection_heading": "Delivery Strategies",
       "page_number": 8,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_68"
     }
   },
   {
@@ -697,7 +766,8 @@
       "section_heading": "Health Care Delivery for People With Diabetes in Pregnancy",
       "page_number": 8,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_69"
     }
   },
   {
@@ -708,7 +778,8 @@
       "subsection_heading": "Summary of Recommendations",
       "page_number": 8,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_70"
     }
   },
   {
@@ -718,7 +789,8 @@
       "section_heading": "Automated Insulin Delivery (AID) Systems",
       "page_number": 9,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_71"
     }
   },
   {
@@ -728,7 +800,8 @@
       "section_heading": "Automated Insulin Delivery (AID) Systems",
       "page_number": 9,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_72"
     }
   },
   {
@@ -738,7 +811,8 @@
       "section_heading": "Automated Insulin Delivery (AID) Systems",
       "page_number": 9,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_73"
     }
   },
   {
@@ -749,7 +823,8 @@
       "subsection_heading": "Postpartum Adjustment of AID",
       "page_number": 9,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_74"
     }
   },
   {
@@ -759,7 +834,8 @@
       "section_heading": "Treatment of Gestational Diabetes Mellitus (GDM)",
       "page_number": 9,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_75"
     }
   },
   {
@@ -770,7 +846,8 @@
       "subsection_heading": "Sulfonylureas",
       "page_number": 9,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_76"
     }
   },
   {
@@ -779,7 +856,8 @@
       "chapter_name": "Management of Diabetes in Pregnancy",
       "page_number": 10,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_77"
     }
   },
   {
@@ -789,7 +867,8 @@
       "section_heading": "Metformin",
       "page_number": 10,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_78"
     }
   },
   {
@@ -799,7 +878,8 @@
       "section_heading": "Metformin",
       "page_number": 10,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_79"
     }
   },
   {
@@ -809,7 +889,8 @@
       "section_heading": "Metformin",
       "page_number": 10,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_80"
     }
   },
   {
@@ -820,7 +901,8 @@
       "subsection_heading": "Recommendation",
       "page_number": 10,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_81"
     }
   },
   {
@@ -831,7 +913,8 @@
       "subsection_heading": "Recommendation",
       "page_number": 10,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_82"
     }
   },
   {
@@ -842,7 +925,8 @@
       "subsection_heading": "Recommendation",
       "page_number": 10,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_83"
     }
   },
   {
@@ -853,7 +937,8 @@
       "subsection_heading": "Recommendation",
       "page_number": 10,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_84"
     }
   },
   {
@@ -864,7 +949,8 @@
       "subsection_heading": "Recommended Weight Gain",
       "page_number": 10,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_85"
     }
   },
   {
@@ -875,7 +961,8 @@
       "subsection_heading": "15.24",
       "page_number": 11,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_86"
     }
   },
   {
@@ -886,7 +973,8 @@
       "subsection_heading": "15.25a",
       "page_number": 11,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_87"
     }
   },
   {
@@ -897,7 +985,8 @@
       "subsection_heading": "15.25b",
       "page_number": 11,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_88"
     }
   },
   {
@@ -907,7 +996,8 @@
       "section_heading": "Additional Considerations",
       "page_number": 11,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_89"
     }
   },
   {
@@ -917,7 +1007,8 @@
       "section_heading": "Additional Considerations",
       "page_number": 11,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_90"
     }
   },
   {
@@ -927,7 +1018,8 @@
       "section_heading": "Summary of Findings",
       "page_number": 11,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_91"
     }
   },
   {
@@ -937,7 +1029,8 @@
       "section_heading": "Conclusion",
       "page_number": 11,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_92"
     }
   },
   {
@@ -946,7 +1039,8 @@
       "chapter_name": "Management of Diabetes in Pregnancy",
       "page_number": 12,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_93"
     }
   },
   {
@@ -956,7 +1050,8 @@
       "section_heading": "Discussion of Risks and Benefits in Pregnant Individuals",
       "page_number": 12,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_94"
     }
   },
   {
@@ -966,7 +1061,8 @@
       "section_heading": "Diabetes Treatment Postpartum",
       "page_number": 12,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_95"
     }
   },
   {
@@ -976,7 +1072,8 @@
       "section_heading": "Recommendations",
       "page_number": 12,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_96"
     }
   },
   {
@@ -986,7 +1083,8 @@
       "section_heading": "Recommendations",
       "page_number": 12,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_97"
     }
   },
   {
@@ -996,7 +1094,8 @@
       "section_heading": "Special Postpartum Considerations for Individuals With Gestational Diabetes Mellitus",
       "page_number": 12,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_98"
     }
   },
   {
@@ -1006,7 +1105,8 @@
       "section_heading": "Lactation",
       "page_number": 12,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_99"
     }
   },
   {
@@ -1016,7 +1116,8 @@
       "section_heading": "Screening and Diagnosis",
       "page_number": 13,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_100"
     }
   },
   {
@@ -1026,7 +1127,8 @@
       "section_heading": "Risk Assessment",
       "page_number": 13,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_101"
     }
   },
   {
@@ -1036,7 +1138,8 @@
       "section_heading": "Risk Assessment",
       "page_number": 13,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_102"
     }
   },
   {
@@ -1046,7 +1149,8 @@
       "section_heading": "Prevention or Delay of Diabetes and Associated Comorbidities",
       "page_number": 13,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_103"
     }
   },
   {
@@ -1056,7 +1160,8 @@
       "section_heading": "References",
       "page_number": 13,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_104"
     }
   },
   {
@@ -1066,7 +1171,8 @@
       "section_heading": "References",
       "page_number": 13,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_105"
     }
   },
   {
@@ -1076,7 +1182,8 @@
       "section_heading": "References",
       "page_number": 13,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_106"
     }
   },
   {
@@ -1086,7 +1193,8 @@
       "section_heading": "References",
       "page_number": 13,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_107"
     }
   },
   {
@@ -1095,7 +1203,8 @@
       "chapter_name": "Management of Diabetes in Pregnancy",
       "page_number": 14,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_108"
     }
   },
   {
@@ -1105,7 +1214,8 @@
       "section_heading": "References",
       "page_number": 14,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_109"
     }
   },
   {
@@ -1115,7 +1225,8 @@
       "section_heading": "References",
       "page_number": 14,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_110"
     }
   },
   {
@@ -1125,7 +1236,8 @@
       "section_heading": "References",
       "page_number": 14,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_111"
     }
   },
   {
@@ -1135,7 +1247,8 @@
       "section_heading": "References",
       "page_number": 14,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_112"
     }
   },
   {
@@ -1145,7 +1258,8 @@
       "section_heading": "References",
       "page_number": 14,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_113"
     }
   },
   {
@@ -1155,7 +1269,8 @@
       "section_heading": "References",
       "page_number": 14,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_114"
     }
   },
   {
@@ -1165,7 +1280,8 @@
       "section_heading": "References",
       "page_number": 14,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_115"
     }
   },
   {
@@ -1175,7 +1291,8 @@
       "section_heading": "References",
       "page_number": 14,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_116"
     }
   },
   {
@@ -1185,7 +1302,8 @@
       "section_heading": "References",
       "page_number": 15,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_117"
     }
   },
   {
@@ -1195,7 +1313,8 @@
       "section_heading": "References",
       "page_number": 15,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_118"
     }
   },
   {
@@ -1205,7 +1324,8 @@
       "section_heading": "References",
       "page_number": 15,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_119"
     }
   },
   {
@@ -1215,7 +1335,8 @@
       "section_heading": "References",
       "page_number": 15,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_120"
     }
   },
   {
@@ -1225,7 +1346,8 @@
       "section_heading": "References",
       "page_number": 15,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_121"
     }
   },
   {
@@ -1235,7 +1357,8 @@
       "section_heading": "References",
       "page_number": 15,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_122"
     }
   },
   {
@@ -1245,7 +1368,8 @@
       "section_heading": "References",
       "page_number": 15,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_123"
     }
   },
   {
@@ -1255,7 +1379,8 @@
       "section_heading": "References",
       "page_number": 15,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_124"
     }
   },
   {
@@ -1264,7 +1389,8 @@
       "chapter_name": "Management of Diabetes in Pregnancy",
       "page_number": 16,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_125"
     }
   },
   {
@@ -1274,7 +1400,8 @@
       "section_heading": "References",
       "page_number": 16,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_126"
     }
   },
   {
@@ -1284,7 +1411,8 @@
       "section_heading": "References",
       "page_number": 16,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_127"
     }
   },
   {
@@ -1294,7 +1422,8 @@
       "section_heading": "References",
       "page_number": 16,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_128"
     }
   },
   {
@@ -1304,7 +1433,8 @@
       "section_heading": "References",
       "page_number": 16,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_129"
     }
   },
   {
@@ -1314,7 +1444,8 @@
       "section_heading": "References",
       "page_number": 16,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_130"
     }
   },
   {
@@ -1324,7 +1455,8 @@
       "section_heading": "References",
       "page_number": 16,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_131"
     }
   },
   {
@@ -1334,7 +1466,8 @@
       "section_heading": "References",
       "page_number": 16,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_132"
     }
   },
   {
@@ -1344,7 +1477,8 @@
       "section_heading": "References",
       "page_number": 16,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_133"
     }
   },
   {
@@ -1354,7 +1488,8 @@
       "section_heading": "References",
       "page_number": 17,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_134"
     }
   },
   {
@@ -1364,7 +1499,8 @@
       "section_heading": "References",
       "page_number": 17,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_135"
     }
   },
   {
@@ -1374,7 +1510,8 @@
       "section_heading": "References",
       "page_number": 17,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_136"
     }
   },
   {
@@ -1384,7 +1521,8 @@
       "section_heading": "References",
       "page_number": 17,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_137"
     }
   },
   {
@@ -1394,7 +1532,8 @@
       "section_heading": "References",
       "page_number": 17,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_138"
     }
   },
   {
@@ -1404,7 +1543,8 @@
       "section_heading": "References",
       "page_number": 17,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_139"
     }
   },
   {
@@ -1414,7 +1554,8 @@
       "section_heading": "References",
       "page_number": 17,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_140"
     }
   },
   {
@@ -1424,7 +1565,8 @@
       "section_heading": "References",
       "page_number": 17,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_141"
     }
   },
   {
@@ -1434,7 +1576,8 @@
       "section_heading": "References",
       "page_number": 17,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_142"
     }
   },
   {
@@ -1443,7 +1586,8 @@
       "chapter_name": "Management of Diabetes in Pregnancy",
       "page_number": 18,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_143"
     }
   },
   {
@@ -1453,7 +1597,8 @@
       "section_heading": "References",
       "page_number": 18,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_144"
     }
   },
   {
@@ -1463,7 +1608,8 @@
       "section_heading": "Maternal Immunization Practice Advisory",
       "page_number": 18,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_145"
     }
   },
   {
@@ -1473,7 +1619,8 @@
       "section_heading": "Download Information",
       "page_number": 18,
       "source": "ada_chapter15.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter15.pdf",
+      "chunk_id": "2_146"
     }
   }
 ]

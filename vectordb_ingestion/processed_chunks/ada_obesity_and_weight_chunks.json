@@ -5,7 +5,8 @@
       "chapter_name": "8. Obesity and Weight Management for the Prevention and Treatment of Diabetes: Standards of Care in Diabetes–2026",
       "page_number": 1,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_0"
     }
   },
   {
@@ -14,7 +15,8 @@
       "chapter_name": "8. Obesity and Weight Management for the Prevention and Treatment of Diabetes: Standards of Care in Diabetes–2026",
       "page_number": 1,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_1"
     }
   },
   {
@@ -23,7 +25,8 @@
       "chapter_name": "8. Obesity and Weight Management for the Prevention and Treatment of Diabetes: Standards of Care in Diabetes–2026",
       "page_number": 1,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_2"
     }
   },
   {
@@ -32,7 +35,8 @@
       "chapter_name": "8. Obesity and Weight Management for the Prevention and Treatment of Diabetes: Standards of Care in Diabetes–2026",
       "page_number": 1,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_3"
     }
   },
   {
@@ -43,7 +47,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 1,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_4"
     }
   },
   {
@@ -54,7 +59,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 1,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_5"
     }
   },
   {
@@ -65,7 +71,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 1,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_6"
     }
   },
   {
@@ -76,7 +83,8 @@
       "subsection_heading": "8.2 Screening and Monitoring",
       "page_number": 2,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_7"
     }
   },
   {
@@ -87,7 +95,8 @@
       "subsection_heading": "8.2 Screening and Monitoring",
       "page_number": 2,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_8"
     }
   },
   {
@@ -98,7 +107,8 @@
       "subsection_heading": "Additional Considerations",
       "page_number": 2,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_9"
     }
   },
   {
@@ -109,7 +119,8 @@
       "subsection_heading": "Additional Considerations",
       "page_number": 2,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_10"
     }
   },
   {
@@ -120,7 +131,8 @@
       "subsection_heading": "Weight Stigma and Bias",
       "page_number": 2,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_11"
     }
   },
   {
@@ -131,7 +143,8 @@
       "subsection_heading": "Definitions",
       "page_number": 2,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_12"
     }
   },
   {
@@ -142,7 +155,8 @@
       "subsection_heading": "Conclusion",
       "page_number": 2,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_13"
     }
   },
   {
@@ -151,7 +165,8 @@
       "chapter_name": "Obesity and Weight Management",
       "page_number": 3,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_14"
     }
   },
   {
@@ -161,7 +176,8 @@
       "section_heading": "Behavioral Changes for Weight Loss",
       "page_number": 3,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_15"
     }
   },
   {
@@ -171,7 +187,8 @@
       "section_heading": "Behavioral Changes for Weight Loss",
       "page_number": 3,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_16"
     }
   },
   {
@@ -181,7 +198,8 @@
       "section_heading": "Behavioral Interventions",
       "page_number": 3,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_17"
     }
   },
   {
@@ -191,7 +209,8 @@
       "section_heading": "Behavioral Interventions",
       "page_number": 3,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_18"
     }
   },
   {
@@ -201,7 +220,8 @@
       "section_heading": "Recommendations",
       "page_number": 3,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_19"
     }
   },
   {
@@ -211,7 +231,8 @@
       "section_heading": "Obesity and Weight Management",
       "page_number": 4,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_20"
     }
   },
   {
@@ -221,7 +242,8 @@
       "section_heading": "Obesity and Weight Management",
       "page_number": 4,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_21"
     }
   },
   {
@@ -231,7 +253,8 @@
       "section_heading": "Obesity and Weight Management",
       "page_number": 4,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_22"
     }
   },
   {
@@ -241,7 +264,8 @@
       "section_heading": "Obesity and Weight Management",
       "page_number": 4,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_23"
     }
   },
   {
@@ -251,7 +275,8 @@
       "section_heading": "Obesity and Weight Management",
       "page_number": 4,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_24"
     }
   },
   {
@@ -261,7 +286,8 @@
       "section_heading": "Obesity and Weight Management",
       "page_number": 4,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_25"
     }
   },
   {
@@ -271,7 +297,8 @@
       "section_heading": "Obesity and Weight Management",
       "page_number": 4,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_26"
     }
   },
   {
@@ -281,7 +308,8 @@
       "section_heading": "Obesity and Weight Management",
       "page_number": 4,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_27"
     }
   },
   {
@@ -291,7 +319,8 @@
       "section_heading": "Obesity and Weight Management",
       "page_number": 4,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_28"
     }
   },
   {
@@ -301,7 +330,8 @@
       "section_heading": "Obesity and Weight Management",
       "page_number": 4,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_29"
     }
   },
   {
@@ -311,7 +341,8 @@
       "section_heading": "Obesity and Weight Management",
       "page_number": 4,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_30"
     }
   },
   {
@@ -320,7 +351,8 @@
       "chapter_name": "Obesity and Weight Management",
       "page_number": 5,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_31"
     }
   },
   {
@@ -329,7 +361,8 @@
       "chapter_name": "Obesity and Weight Management",
       "page_number": 5,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_32"
     }
   },
   {
@@ -338,7 +371,8 @@
       "chapter_name": "Obesity and Weight Management",
       "page_number": 5,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_33"
     }
   },
   {
@@ -348,7 +382,8 @@
       "section_heading": "Pharmacotherapy Recommendations",
       "page_number": 5,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_34"
     }
   },
   {
@@ -359,7 +394,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 5,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_35"
     }
   },
   {
@@ -370,7 +406,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 5,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_36"
     }
   },
   {
@@ -381,7 +418,8 @@
       "subsection_heading": "Concomitant Medications",
       "page_number": 5,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_37"
     }
   },
   {
@@ -392,7 +430,8 @@
       "subsection_heading": "Approved Obesity Pharmacotherapy",
       "page_number": 6,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_38"
     }
   },
   {
@@ -403,7 +442,8 @@
       "subsection_heading": "Approved Obesity Pharmacotherapy",
       "page_number": 6,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_39"
     }
   },
   {
@@ -414,7 +454,8 @@
       "subsection_heading": "Efficacy of Medications",
       "page_number": 6,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_40"
     }
   },
   {
@@ -425,7 +466,8 @@
       "subsection_heading": "Considerations for Use",
       "page_number": 6,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_41"
     }
   },
   {
@@ -436,7 +478,8 @@
       "subsection_heading": "Nutritional Deficiencies",
       "page_number": 6,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_42"
     }
   },
   {
@@ -447,7 +490,8 @@
       "subsection_heading": "Counseling and Contraception",
       "page_number": 6,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_43"
     }
   },
   {
@@ -458,7 +502,8 @@
       "subsection_heading": "Conclusion",
       "page_number": 6,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_44"
     }
   },
   {
@@ -467,7 +512,8 @@
       "chapter_name": "Obesity and Weight Management",
       "page_number": 7,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_45"
     }
   },
   {
@@ -477,7 +523,8 @@
       "section_heading": "Pharmacotherapy",
       "page_number": 7,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_46"
     }
   },
   {
@@ -488,7 +535,8 @@
       "subsection_heading": "Common Side Effects",
       "page_number": 7,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_47"
     }
   },
   {
@@ -499,7 +547,8 @@
       "subsection_heading": "Contraindications and Warnings",
       "page_number": 7,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_48"
     }
   },
   {
@@ -510,7 +559,8 @@
       "subsection_heading": "Monitoring Recommendations",
       "page_number": 7,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_49"
     }
   },
   {
@@ -521,7 +571,8 @@
       "subsection_heading": "Treatment Considerations",
       "page_number": 7,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_50"
     }
   },
   {
@@ -532,7 +583,8 @@
       "subsection_heading": "Summary",
       "page_number": 7,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_51"
     }
   },
   {
@@ -543,7 +595,8 @@
       "subsection_heading": "Overview",
       "page_number": 8,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_52"
     }
   },
   {
@@ -554,7 +607,8 @@
       "subsection_heading": "Gastrointestinal Effects",
       "page_number": 8,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_53"
     }
   },
   {
@@ -565,7 +619,8 @@
       "subsection_heading": "Monitoring and Safety",
       "page_number": 8,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_54"
     }
   },
   {
@@ -576,7 +631,8 @@
       "subsection_heading": "Weight Loss Goals",
       "page_number": 8,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_55"
     }
   },
   {
@@ -587,7 +643,8 @@
       "subsection_heading": "Medications",
       "page_number": 8,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_56"
     }
   },
   {
@@ -598,7 +655,8 @@
       "subsection_heading": "Table: Medication Overview",
       "page_number": 8,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_57"
     }
   },
   {
@@ -609,7 +667,8 @@
       "subsection_heading": "Conclusion",
       "page_number": 8,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_58"
     }
   },
   {
@@ -620,7 +679,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 8,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_59"
     }
   },
   {
@@ -631,7 +691,8 @@
       "subsection_heading": "References",
       "page_number": 8,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_60"
     }
   },
   {
@@ -640,7 +701,8 @@
       "chapter_name": "Obesity and Weight Management",
       "page_number": 9,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_61"
     }
   },
   {
@@ -650,7 +712,8 @@
       "section_heading": "Table 8.2—Median monthly (30-day) AWP and NADAC of maximum or maintenance dose of obesity pharmacotherapies",
       "page_number": 9,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_62"
     }
   },
   {
@@ -660,7 +723,8 @@
       "section_heading": "Table 8.2—Median monthly (30-day) AWP and NADAC of maximum or maintenance dose of obesity pharmacotherapies",
       "page_number": 9,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_63"
     }
   },
   {
@@ -670,7 +734,8 @@
       "section_heading": "Table 8.2—Median monthly (30-day) AWP and NADAC of maximum or maintenance dose of obesity pharmacotherapies",
       "page_number": 9,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_64"
     }
   },
   {
@@ -680,7 +745,8 @@
       "section_heading": "Table 8.2—Median monthly (30-day) AWP and NADAC of maximum or maintenance dose of obesity pharmacotherapies",
       "page_number": 9,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_65"
     }
   },
   {
@@ -690,7 +756,8 @@
       "section_heading": "Table 8.2—Median monthly (30-day) AWP and NADAC of maximum or maintenance dose of obesity pharmacotherapies",
       "page_number": 9,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_66"
     }
   },
   {
@@ -700,7 +767,8 @@
       "section_heading": "Assessing and Optimizing Efficacy and Safety of Obesity Pharmacotherapy",
       "page_number": 9,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_67"
     }
   },
   {
@@ -710,7 +778,8 @@
       "section_heading": "Assessing and Optimizing Efficacy and Safety of Obesity Pharmacotherapy",
       "page_number": 9,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_68"
     }
   },
   {
@@ -720,7 +789,8 @@
       "section_heading": "Assessing and Optimizing Efficacy and Safety of Obesity Pharmacotherapy",
       "page_number": 9,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_69"
     }
   },
   {
@@ -730,7 +800,8 @@
       "section_heading": "Assessing and Optimizing Efficacy and Safety of Obesity Pharmacotherapy",
       "page_number": 9,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_70"
     }
   },
   {
@@ -741,7 +812,8 @@
       "subsection_heading": "Recommendations for Weight Management",
       "page_number": 10,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_71"
     }
   },
   {
@@ -752,7 +824,8 @@
       "subsection_heading": "Recommendations for Weight Management",
       "page_number": 10,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_72"
     }
   },
   {
@@ -763,7 +836,8 @@
       "subsection_heading": "Medical Devices for Weight Loss",
       "page_number": 10,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_73"
     }
   },
   {
@@ -773,7 +847,8 @@
       "section_heading": "Metabolic Surgery Recommendations",
       "page_number": 10,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_74"
     }
   },
   {
@@ -783,7 +858,8 @@
       "section_heading": "Metabolic Surgery Recommendations",
       "page_number": 10,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_75"
     }
   },
   {
@@ -794,7 +870,8 @@
       "subsection_heading": "Surgical Procedures for Obesity Treatment",
       "page_number": 10,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_76"
     }
   },
   {
@@ -805,7 +882,8 @@
       "subsection_heading": "Surgical Procedures for Obesity Treatment",
       "page_number": 10,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_77"
     }
   },
   {
@@ -816,7 +894,8 @@
       "subsection_heading": "Surgical Procedures for Obesity Treatment",
       "page_number": 10,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_78"
     }
   },
   {
@@ -826,7 +905,8 @@
       "section_heading": "Diabetes Care Volume 49, Supplement 1, January 2026",
       "page_number": 11,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_79"
     }
   },
   {
@@ -836,7 +916,8 @@
       "section_heading": "Diabetes Care Volume 49, Supplement 1, January 2026",
       "page_number": 11,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_80"
     }
   },
   {
@@ -846,7 +927,8 @@
       "section_heading": "Diabetes Care Volume 49, Supplement 1, January 2026",
       "page_number": 11,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_81"
     }
   },
   {
@@ -856,7 +938,8 @@
       "section_heading": "Diabetes Care Volume 49, Supplement 1, January 2026",
       "page_number": 11,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_82"
     }
   },
   {
@@ -866,7 +949,8 @@
       "section_heading": "Diabetes Care Volume 49, Supplement 1, January 2026",
       "page_number": 11,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_83"
     }
   },
   {
@@ -876,7 +960,8 @@
       "section_heading": "Diabetes Care Volume 49, Supplement 1, January 2026",
       "page_number": 11,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_84"
     }
   },
   {
@@ -886,7 +971,8 @@
       "section_heading": "Diabetes Care Volume 49, Supplement 1, January 2026",
       "page_number": 11,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_85"
     }
   },
   {
@@ -896,7 +982,8 @@
       "section_heading": "Diabetes Care Volume 49, Supplement 1, January 2026",
       "page_number": 11,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_86"
     }
   },
   {
@@ -907,7 +994,8 @@
       "subsection_heading": "Overview",
       "page_number": 12,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_87"
     }
   },
   {
@@ -918,7 +1006,8 @@
       "subsection_heading": "Recommendation",
       "page_number": 12,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_88"
     }
   },
   {
@@ -929,7 +1018,8 @@
       "subsection_heading": "Key Points",
       "page_number": 12,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_89"
     }
   },
   {
@@ -940,7 +1030,8 @@
       "subsection_heading": "Key Points",
       "page_number": 12,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_90"
     }
   },
   {
@@ -951,7 +1042,8 @@
       "subsection_heading": "Considerations for Treatment",
       "page_number": 12,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_91"
     }
   },
   {
@@ -962,7 +1054,8 @@
       "subsection_heading": "Summary",
       "page_number": 12,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_92"
     }
   },
   {
@@ -973,7 +1066,8 @@
       "subsection_heading": "Table of Outcomes",
       "page_number": 12,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_93"
     }
   },
   {
@@ -984,7 +1078,8 @@
       "subsection_heading": "Conclusion",
       "page_number": 12,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_94"
     }
   },
   {
@@ -993,7 +1088,8 @@
       "chapter_name": "Obesity and Weight Management",
       "page_number": 13,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_95"
     }
   },
   {
@@ -1003,7 +1099,8 @@
       "section_heading": "Key Safety Issues in Metabolic Surgery for Type 1 Diabetes",
       "page_number": 13,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_96"
     }
   },
   {
@@ -1013,7 +1110,8 @@
       "section_heading": "References",
       "page_number": 13,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_97"
     }
   },
   {
@@ -1023,7 +1121,8 @@
       "section_heading": "References",
       "page_number": 13,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_98"
     }
   },
   {
@@ -1033,7 +1132,8 @@
       "section_heading": "References",
       "page_number": 13,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_99"
     }
   },
   {
@@ -1043,7 +1143,8 @@
       "section_heading": "References",
       "page_number": 13,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_100"
     }
   },
   {
@@ -1053,7 +1154,8 @@
       "section_heading": "References",
       "page_number": 13,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_101"
     }
   },
   {
@@ -1063,7 +1165,8 @@
       "section_heading": "References",
       "page_number": 13,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_102"
     }
   },
   {
@@ -1073,7 +1176,8 @@
       "section_heading": "References",
       "page_number": 13,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_103"
     }
   },
   {
@@ -1083,7 +1187,8 @@
       "section_heading": "References",
       "page_number": 13,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_104"
     }
   },
   {
@@ -1093,7 +1198,8 @@
       "section_heading": "References",
       "page_number": 13,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_105"
     }
   },
   {
@@ -1103,7 +1209,8 @@
       "section_heading": "References",
       "page_number": 13,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_106"
     }
   },
   {
@@ -1114,7 +1221,8 @@
       "subsection_heading": "Key Studies and Findings",
       "page_number": 14,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_107"
     }
   },
   {
@@ -1125,7 +1233,8 @@
       "subsection_heading": "Key Studies and Findings",
       "page_number": 14,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_108"
     }
   },
   {
@@ -1136,7 +1245,8 @@
       "subsection_heading": "Nutrition Therapy",
       "page_number": 14,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_109"
     }
   },
   {
@@ -1147,7 +1257,8 @@
       "subsection_heading": "Lifestyle Interventions",
       "page_number": 14,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_110"
     }
   },
   {
@@ -1158,7 +1269,8 @@
       "subsection_heading": "Systematic Reviews",
       "page_number": 14,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_111"
     }
   },
   {
@@ -1169,7 +1281,8 @@
       "subsection_heading": "Dietary Interventions",
       "page_number": 14,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_112"
     }
   },
   {
@@ -1180,7 +1293,8 @@
       "subsection_heading": "Pharmacotherapy",
       "page_number": 14,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_113"
     }
   },
   {
@@ -1191,7 +1305,8 @@
       "subsection_heading": "Conclusion",
       "page_number": 14,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_114"
     }
   },
   {
@@ -1202,7 +1317,8 @@
       "subsection_heading": "References",
       "page_number": 15,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_115"
     }
   },
   {
@@ -1213,7 +1329,8 @@
       "subsection_heading": "References",
       "page_number": 15,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_116"
     }
   },
   {
@@ -1224,7 +1341,8 @@
       "subsection_heading": "References",
       "page_number": 15,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_117"
     }
   },
   {
@@ -1235,7 +1353,8 @@
       "subsection_heading": "References",
       "page_number": 15,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_118"
     }
   },
   {
@@ -1246,7 +1365,8 @@
       "subsection_heading": "References",
       "page_number": 15,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_119"
     }
   },
   {
@@ -1257,7 +1377,8 @@
       "subsection_heading": "References",
       "page_number": 15,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_120"
     }
   },
   {
@@ -1268,7 +1389,8 @@
       "subsection_heading": "References",
       "page_number": 15,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_121"
     }
   },
   {
@@ -1279,7 +1401,8 @@
       "subsection_heading": "References",
       "page_number": 15,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_122"
     }
   },
   {
@@ -1290,7 +1413,8 @@
       "subsection_heading": "References",
       "page_number": 15,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_123"
     }
   },
   {
@@ -1301,7 +1425,8 @@
       "subsection_heading": "References",
       "page_number": 15,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_124"
     }
   },
   {
@@ -1311,7 +1436,8 @@
       "section_heading": "References",
       "page_number": 16,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_125"
     }
   },
   {
@@ -1321,7 +1447,8 @@
       "section_heading": "References",
       "page_number": 16,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_126"
     }
   },
   {
@@ -1331,7 +1458,8 @@
       "section_heading": "References",
       "page_number": 16,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_127"
     }
   },
   {
@@ -1341,7 +1469,8 @@
       "section_heading": "References",
       "page_number": 16,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_128"
     }
   },
   {
@@ -1351,7 +1480,8 @@
       "section_heading": "Additional References",
       "page_number": 16,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_129"
     }
   },
   {
@@ -1361,7 +1491,8 @@
       "section_heading": "Additional References",
       "page_number": 16,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_130"
     }
   },
   {
@@ -1371,7 +1502,8 @@
       "section_heading": "Additional References",
       "page_number": 16,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_131"
     }
   },
   {
@@ -1381,7 +1513,8 @@
       "section_heading": "Additional References",
       "page_number": 16,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_132"
     }
   },
   {
@@ -1391,7 +1524,8 @@
       "section_heading": "Additional References",
       "page_number": 16,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_133"
     }
   },
   {
@@ -1400,7 +1534,8 @@
       "chapter_name": "Obesity and Weight Management",
       "page_number": 17,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_134"
     }
   },
   {
@@ -1410,7 +1545,8 @@
       "section_heading": "References",
       "page_number": 17,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_135"
     }
   },
   {
@@ -1420,7 +1556,8 @@
       "section_heading": "References",
       "page_number": 17,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_136"
     }
   },
   {
@@ -1430,7 +1567,8 @@
       "section_heading": "References",
       "page_number": 17,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_137"
     }
   },
   {
@@ -1440,7 +1578,8 @@
       "section_heading": "References",
       "page_number": 17,
       "source": "ada_obesity_and_weight.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_obesity_and_weight.pdf",
+      "chunk_id": "13_138"
     }
   }
 ]

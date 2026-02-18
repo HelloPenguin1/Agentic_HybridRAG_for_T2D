@@ -5,7 +5,8 @@
       "chapter_name": "Facilitating Positive Health Behaviors and Well-being to Improve Health Outcomes: Standards of Care in Diabetes—2026",
       "page_number": 1,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_0"
     }
   },
   {
@@ -14,7 +15,8 @@
       "chapter_name": "Facilitating Positive Health Behaviors and Well-being to Improve Health Outcomes: Standards of Care in Diabetes—2026",
       "page_number": 1,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_1"
     }
   },
   {
@@ -23,7 +25,8 @@
       "chapter_name": "Facilitating Positive Health Behaviors and Well-being to Improve Health Outcomes: Standards of Care in Diabetes—2026",
       "page_number": 1,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_2"
     }
   },
   {
@@ -32,7 +35,8 @@
       "chapter_name": "Facilitating Positive Health Behaviors and Well-being to Improve Health Outcomes: Standards of Care in Diabetes—2026",
       "page_number": 1,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_3"
     }
   },
   {
@@ -42,7 +46,8 @@
       "section_heading": "Diabetes Self-Management Education and Support Recommendations",
       "page_number": 1,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_4"
     }
   },
   {
@@ -52,7 +57,8 @@
       "section_heading": "Diabetes Self-Management Education and Support Recommendations",
       "page_number": 1,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_5"
     }
   },
   {
@@ -62,7 +68,8 @@
       "section_heading": "Diabetes Self-Management Education and Support Recommendations",
       "page_number": 1,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_6"
     }
   },
   {
@@ -71,7 +78,8 @@
       "chapter_name": "Facilitating Positive Health Behaviors and Well-being",
       "page_number": 2,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_7"
     }
   },
   {
@@ -81,7 +89,8 @@
       "section_heading": "5.3 Assess clinical outcomes, health status, and well-being as key goals of DSMES on an individualized timeframe.",
       "page_number": 2,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_8"
     }
   },
   {
@@ -91,7 +100,8 @@
       "section_heading": "5.4 Use behavioral strategies (e.g., motivational interviewing, goal setting, problem-solving) to support DSMES and engagement in behaviors known to optimize health-related quality of life and outcomes.",
       "page_number": 2,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_9"
     }
   },
   {
@@ -101,7 +111,8 @@
       "section_heading": "5.5 Provide culturally and socially appropriate DSMES responsive to personal preferences and needs in group or individual settings. Communicate DSMES participation with the diabetes care team.",
       "page_number": 2,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_10"
     }
   },
   {
@@ -111,7 +122,8 @@
       "section_heading": "5.6 Offer DSMES via telehealth and/or digital interventions to meet individual preferences, reduce access barriers, and improve satisfaction.",
       "page_number": 2,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_11"
     }
   },
   {
@@ -121,7 +133,8 @@
       "section_heading": "5.7 DSMES can improve outcomes and reduce costs, so reimbursement by third-party payors is recommended.",
       "page_number": 2,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_12"
     }
   },
   {
@@ -131,7 +144,8 @@
       "section_heading": "5.8 Identify and address barriers to DSMES that exist at the payor, health system, clinic, health care professional, and individual levels.",
       "page_number": 2,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_13"
     }
   },
   {
@@ -142,7 +156,8 @@
       "subsection_heading": "The overall objectives of DSMES are to support informed decision-making, self-care behaviors, problem-solving, and active collaboration with the health care team to improve clinical outcomes, health status, and well-being in a cost-effective manner.",
       "page_number": 2,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_14"
     }
   },
   {
@@ -153,7 +168,8 @@
       "subsection_heading": "The overall objectives of DSMES are to support informed decision-making, self-care behaviors, problem-solving, and active collaboration with the health care team to improve clinical outcomes, health status, and well-being in a cost-effective manner.",
       "page_number": 2,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_15"
     }
   },
   {
@@ -164,7 +180,8 @@
       "subsection_heading": "Evidence for the Benefits",
       "page_number": 2,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_16"
     }
   },
   {
@@ -175,7 +192,8 @@
       "subsection_heading": "Problem-solving and behavior change strategies",
       "page_number": 2,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_17"
     }
   },
   {
@@ -186,7 +204,8 @@
       "subsection_heading": "Problem-solving and behavior change strategies",
       "page_number": 2,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_18"
     }
   },
   {
@@ -194,7 +213,8 @@
     "metadata": {
       "page_number": 3,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_19"
     }
   },
   {
@@ -202,7 +222,8 @@
     "metadata": {
       "page_number": 3,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_20"
     }
   },
   {
@@ -210,7 +231,8 @@
     "metadata": {
       "page_number": 3,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_21"
     }
   },
   {
@@ -218,7 +240,8 @@
     "metadata": {
       "page_number": 3,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_22"
     }
   },
   {
@@ -226,7 +249,8 @@
     "metadata": {
       "page_number": 3,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_23"
     }
   },
   {
@@ -234,7 +258,8 @@
     "metadata": {
       "page_number": 3,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_24"
     }
   },
   {
@@ -242,7 +267,8 @@
     "metadata": {
       "page_number": 3,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_25"
     }
   },
   {
@@ -250,7 +276,8 @@
     "metadata": {
       "page_number": 3,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_26"
     }
   },
   {
@@ -258,7 +285,8 @@
     "metadata": {
       "page_number": 3,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_27"
     }
   },
   {
@@ -266,7 +294,8 @@
     "metadata": {
       "page_number": 3,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_28"
     }
   },
   {
@@ -274,7 +303,8 @@
     "metadata": {
       "page_number": 3,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_29"
     }
   },
   {
@@ -282,7 +312,8 @@
     "metadata": {
       "page_number": 3,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_30"
     }
   },
   {
@@ -291,7 +322,8 @@
       "chapter_name": "Facilitating Positive Health Behaviors and Well-being",
       "page_number": 4,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_31"
     }
   },
   {
@@ -301,7 +333,8 @@
       "section_heading": "Medical Nutrition Therapy",
       "page_number": 4,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_32"
     }
   },
   {
@@ -311,7 +344,8 @@
       "section_heading": "Medical Nutrition Therapy",
       "page_number": 4,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_33"
     }
   },
   {
@@ -321,7 +355,8 @@
       "section_heading": "Medical Nutrition Therapy",
       "page_number": 4,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_34"
     }
   },
   {
@@ -331,7 +366,8 @@
       "section_heading": "Medical Nutrition Therapy",
       "page_number": 4,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_35"
     }
   },
   {
@@ -342,7 +378,8 @@
       "subsection_heading": "Eating Patterns and Meal Planning",
       "page_number": 4,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_36"
     }
   },
   {
@@ -353,7 +390,8 @@
       "subsection_heading": "Eating Patterns and Meal Planning",
       "page_number": 4,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_37"
     }
   },
   {
@@ -364,7 +402,8 @@
       "subsection_heading": "Tables",
       "page_number": 4,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_38"
     }
   },
   {
@@ -374,7 +413,8 @@
       "section_heading": "Nutrition Recommendations",
       "page_number": 5,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_39"
     }
   },
   {
@@ -384,7 +424,8 @@
       "section_heading": "Nutrition Recommendations",
       "page_number": 5,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_40"
     }
   },
   {
@@ -394,7 +435,8 @@
       "section_heading": "Nutrition Recommendations",
       "page_number": 5,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_41"
     }
   },
   {
@@ -404,7 +446,8 @@
       "section_heading": "Nutrition Recommendations",
       "page_number": 5,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_42"
     }
   },
   {
@@ -414,7 +457,8 @@
       "section_heading": "Nutrition Recommendations",
       "page_number": 5,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_43"
     }
   },
   {
@@ -424,7 +468,8 @@
       "section_heading": "Nutrition Recommendations",
       "page_number": 5,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_44"
     }
   },
   {
@@ -435,7 +480,8 @@
       "subsection_heading": "Additional Considerations",
       "page_number": 5,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_45"
     }
   },
   {
@@ -446,7 +492,8 @@
       "subsection_heading": "Meal Planning",
       "page_number": 5,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_46"
     }
   },
   {
@@ -455,7 +502,8 @@
       "chapter_name": "Facilitating Positive Health Behaviors and Well-being",
       "page_number": 6,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_47"
     }
   },
   {
@@ -465,7 +513,8 @@
       "section_heading": "Table 5.2—Nutrition behaviors to encourage",
       "page_number": 6,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_48"
     }
   },
   {
@@ -475,7 +524,8 @@
       "section_heading": "Table 5.2—Nutrition behaviors to encourage",
       "page_number": 6,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_49"
     }
   },
   {
@@ -485,7 +535,8 @@
       "section_heading": "Table 5.2—Nutrition behaviors to encourage",
       "page_number": 6,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_50"
     }
   },
   {
@@ -495,7 +546,8 @@
       "section_heading": "Table 5.2—Nutrition behaviors to encourage",
       "page_number": 6,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_51"
     }
   },
   {
@@ -505,7 +557,8 @@
       "section_heading": "Table 5.2—Nutrition behaviors to encourage",
       "page_number": 6,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_52"
     }
   },
   {
@@ -515,7 +568,8 @@
       "section_heading": "Table 5.2—Nutrition behaviors to encourage",
       "page_number": 6,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_53"
     }
   },
   {
@@ -525,7 +579,8 @@
       "section_heading": "Table 5.2—Nutrition behaviors to encourage",
       "page_number": 6,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_54"
     }
   },
   {
@@ -535,7 +590,8 @@
       "section_heading": "Nutrition Therapy Goals for All People With Diabetes",
       "page_number": 7,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_55"
     }
   },
   {
@@ -545,7 +601,8 @@
       "section_heading": "Nutrition Therapy Goals for All People With Diabetes",
       "page_number": 7,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_56"
     }
   },
   {
@@ -555,7 +612,8 @@
       "section_heading": "Carbohydrates",
       "page_number": 7,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_57"
     }
   },
   {
@@ -566,7 +624,8 @@
       "subsection_heading": "Key Points:",
       "page_number": 7,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_58"
     }
   },
   {
@@ -577,7 +636,8 @@
       "subsection_heading": "Cautions:",
       "page_number": 7,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_59"
     }
   },
   {
@@ -588,7 +648,8 @@
       "subsection_heading": "Conclusion:",
       "page_number": 7,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_60"
     }
   },
   {
@@ -597,7 +658,8 @@
       "chapter_name": "Facilitating Positive Health Behaviors and Well-being",
       "page_number": 8,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_61"
     }
   },
   {
@@ -606,7 +668,8 @@
       "chapter_name": "Facilitating Positive Health Behaviors and Well-being",
       "page_number": 8,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_62"
     }
   },
   {
@@ -615,7 +678,8 @@
       "chapter_name": "Facilitating Positive Health Behaviors and Well-being",
       "page_number": 8,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_63"
     }
   },
   {
@@ -625,7 +689,8 @@
       "section_heading": "Fats",
       "page_number": 8,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_64"
     }
   },
   {
@@ -635,7 +700,8 @@
       "section_heading": "Fats",
       "page_number": 8,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_65"
     }
   },
   {
@@ -645,7 +711,8 @@
       "section_heading": "Fats",
       "page_number": 8,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_66"
     }
   },
   {
@@ -654,7 +721,8 @@
       "chapter_name": "Facilitating Positive Health Behaviors and Well-being",
       "page_number": 9,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_67"
     }
   },
   {
@@ -663,7 +731,8 @@
       "chapter_name": "Facilitating Positive Health Behaviors and Well-being",
       "page_number": 9,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_68"
     }
   },
   {
@@ -672,7 +741,8 @@
       "chapter_name": "Facilitating Positive Health Behaviors and Well-being",
       "page_number": 9,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_69"
     }
   },
   {
@@ -681,7 +751,8 @@
       "chapter_name": "Facilitating Positive Health Behaviors and Well-being",
       "page_number": 9,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_70"
     }
   },
   {
@@ -691,7 +762,8 @@
       "section_heading": "Sodium",
       "page_number": 9,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_71"
     }
   },
   {
@@ -701,7 +773,8 @@
       "section_heading": "Micronutrients and Other Supplements",
       "page_number": 9,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_72"
     }
   },
   {
@@ -711,7 +784,8 @@
       "section_heading": "Alcohol",
       "page_number": 9,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_73"
     }
   },
   {
@@ -720,7 +794,8 @@
       "chapter_name": "Facilitating Positive Health Behaviors and Well-being",
       "page_number": 10,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_74"
     }
   },
   {
@@ -730,7 +805,8 @@
       "section_heading": "Alcohol Consumption and Diabetes",
       "page_number": 10,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_75"
     }
   },
   {
@@ -740,7 +816,8 @@
       "section_heading": "Nonnutritive Sweeteners and Water",
       "page_number": 10,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_76"
     }
   },
   {
@@ -750,7 +827,8 @@
       "section_heading": "Weight Management",
       "page_number": 10,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_77"
     }
   },
   {
@@ -761,7 +839,8 @@
       "subsection_heading": "Weight Loss Goals",
       "page_number": 10,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_78"
     }
   },
   {
@@ -772,7 +851,8 @@
       "subsection_heading": "Intensive Lifestyle Interventions",
       "page_number": 10,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_79"
     }
   },
   {
@@ -781,7 +861,8 @@
       "chapter_name": "Facilitating Positive Health Behaviors and Well-being",
       "page_number": 11,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_80"
     }
   },
   {
@@ -790,7 +871,8 @@
       "chapter_name": "Facilitating Positive Health Behaviors and Well-being",
       "page_number": 11,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_81"
     }
   },
   {
@@ -799,7 +881,8 @@
       "chapter_name": "Facilitating Positive Health Behaviors and Well-being",
       "page_number": 11,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_82"
     }
   },
   {
@@ -808,7 +891,8 @@
       "chapter_name": "Facilitating Positive Health Behaviors and Well-being",
       "page_number": 11,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_83"
     }
   },
   {
@@ -818,7 +902,8 @@
       "section_heading": "Fasting and Timing of Food Intake",
       "page_number": 11,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_84"
     }
   },
   {
@@ -829,7 +914,8 @@
       "subsection_heading": "Nonreligious Fasting",
       "page_number": 11,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_85"
     }
   },
   {
@@ -840,7 +926,8 @@
       "subsection_heading": "Nonreligious Fasting",
       "page_number": 11,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_86"
     }
   },
   {
@@ -851,7 +938,8 @@
       "subsection_heading": "Meal Replacements",
       "page_number": 11,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_87"
     }
   },
   {
@@ -862,7 +950,8 @@
       "subsection_heading": "Meal Replacements",
       "page_number": 11,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_88"
     }
   },
   {
@@ -873,7 +962,8 @@
       "subsection_heading": "Meal Replacements",
       "page_number": 11,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_89"
     }
   },
   {
@@ -882,7 +972,8 @@
       "chapter_name": "Facilitating Positive Health Behaviors and Well-being",
       "page_number": 12,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_90"
     }
   },
   {
@@ -892,7 +983,8 @@
       "section_heading": "Religious and Intermittent Fasting: Differences and Similarities",
       "page_number": 12,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_91"
     }
   },
   {
@@ -902,7 +994,8 @@
       "section_heading": "Religious and Intermittent Fasting: Differences and Similarities",
       "page_number": 12,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_92"
     }
   },
   {
@@ -912,7 +1005,8 @@
       "section_heading": "Religious and Intermittent Fasting: Differences and Similarities",
       "page_number": 12,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_93"
     }
   },
   {
@@ -922,7 +1016,8 @@
       "section_heading": "Recommendations",
       "page_number": 12,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_94"
     }
   },
   {
@@ -932,7 +1027,8 @@
       "section_heading": "Recommendations",
       "page_number": 12,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_95"
     }
   },
   {
@@ -942,7 +1038,8 @@
       "section_heading": "Table 5.3—Elements for risk calculation and suggested risk score for people with diabetes who seek to fast during Ramadan",
       "page_number": 13,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_96"
     }
   },
   {
@@ -952,7 +1049,8 @@
       "section_heading": "Table 5.3—Elements for risk calculation and suggested risk score for people with diabetes who seek to fast during Ramadan",
       "page_number": 13,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_97"
     }
   },
   {
@@ -962,7 +1060,8 @@
       "section_heading": "Table 5.3—Elements for risk calculation and suggested risk score for people with diabetes who seek to fast during Ramadan",
       "page_number": 13,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_98"
     }
   },
   {
@@ -972,7 +1071,8 @@
       "section_heading": "Table 5.3—Elements for risk calculation and suggested risk score for people with diabetes who seek to fast during Ramadan",
       "page_number": 13,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_99"
     }
   },
   {
@@ -982,7 +1082,8 @@
       "section_heading": "Table 5.3—Elements for risk calculation and suggested risk score for people with diabetes who seek to fast during Ramadan",
       "page_number": 13,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_100"
     }
   },
   {
@@ -992,7 +1093,8 @@
       "section_heading": "Table 5.3—Elements for risk calculation and suggested risk score for people with diabetes who seek to fast during Ramadan",
       "page_number": 13,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_101"
     }
   },
   {
@@ -1002,7 +1104,8 @@
       "section_heading": "Table 5.3—Elements for risk calculation and suggested risk score for people with diabetes who seek to fast during Ramadan",
       "page_number": 13,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_102"
     }
   },
   {
@@ -1012,7 +1115,8 @@
       "section_heading": "Table 5.3—Elements for risk calculation and suggested risk score for people with diabetes who seek to fast during Ramadan",
       "page_number": 13,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_103"
     }
   },
   {
@@ -1022,7 +1126,8 @@
       "section_heading": "Table 5.3—Elements for risk calculation and suggested risk score for people with diabetes who seek to fast during Ramadan",
       "page_number": 13,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_104"
     }
   },
   {
@@ -1030,7 +1135,8 @@
     "metadata": {
       "page_number": 14,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_105"
     }
   },
   {
@@ -1038,7 +1144,8 @@
     "metadata": {
       "page_number": 14,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_106"
     }
   },
   {
@@ -1046,7 +1153,8 @@
     "metadata": {
       "page_number": 14,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_107"
     }
   },
   {
@@ -1054,7 +1162,8 @@
     "metadata": {
       "page_number": 14,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_108"
     }
   },
   {
@@ -1062,7 +1171,8 @@
     "metadata": {
       "page_number": 14,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_109"
     }
   },
   {
@@ -1070,7 +1180,8 @@
     "metadata": {
       "page_number": 14,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_110"
     }
   },
   {
@@ -1078,7 +1189,8 @@
     "metadata": {
       "page_number": 14,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_111"
     }
   },
   {
@@ -1086,7 +1198,8 @@
     "metadata": {
       "page_number": 14,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_112"
     }
   },
   {
@@ -1094,7 +1207,8 @@
     "metadata": {
       "page_number": 14,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_113"
     }
   },
   {
@@ -1102,7 +1216,8 @@
     "metadata": {
       "page_number": 14,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_114"
     }
   },
   {
@@ -1110,7 +1225,8 @@
     "metadata": {
       "page_number": 14,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_115"
     }
   },
   {
@@ -1120,7 +1236,8 @@
       "section_heading": "Table 5.4—Changes in medications during fasting",
       "page_number": 15,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_116"
     }
   },
   {
@@ -1130,7 +1247,8 @@
       "section_heading": "Table 5.4—Changes in medications during fasting",
       "page_number": 15,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_117"
     }
   },
   {
@@ -1140,7 +1258,8 @@
       "section_heading": "Table 5.4—Changes in medications during fasting",
       "page_number": 15,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_118"
     }
   },
   {
@@ -1150,7 +1269,8 @@
       "section_heading": "Table 5.4—Changes in medications during fasting",
       "page_number": 15,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_119"
     }
   },
   {
@@ -1160,7 +1280,8 @@
       "section_heading": "Physical Activity and Glycemic Management",
       "page_number": 15,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_120"
     }
   },
   {
@@ -1170,7 +1291,8 @@
       "section_heading": "Physical Activity and Glycemic Management",
       "page_number": 15,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_121"
     }
   },
   {
@@ -1180,7 +1302,8 @@
       "section_heading": "Physical Activity and Glycemic Management",
       "page_number": 15,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_122"
     }
   },
   {
@@ -1190,7 +1313,8 @@
       "section_heading": "Physical Activity and Glycemic Management",
       "page_number": 15,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_123"
     }
   },
   {
@@ -1199,7 +1323,8 @@
       "chapter_name": "Facilitating Positive Health Behaviors and Well-being",
       "page_number": 16,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_124"
     }
   },
   {
@@ -1209,7 +1334,8 @@
       "section_heading": "Overview",
       "page_number": 16,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_125"
     }
   },
   {
@@ -1219,7 +1345,8 @@
       "section_heading": "Exercise Recommendations",
       "page_number": 16,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_126"
     }
   },
   {
@@ -1229,7 +1356,8 @@
       "section_heading": "Frequency and Type of Physical Activity",
       "page_number": 16,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_127"
     }
   },
   {
@@ -1240,7 +1368,8 @@
       "subsection_heading": "Table: Types of Physical Activity",
       "page_number": 16,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_128"
     }
   },
   {
@@ -1250,7 +1379,8 @@
       "section_heading": "Evaluating Pre-exercise Risk and Baseline Physical Activity",
       "page_number": 16,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_129"
     }
   },
   {
@@ -1260,7 +1390,8 @@
       "section_heading": "Aerobic Activity",
       "page_number": 16,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_130"
     }
   },
   {
@@ -1270,7 +1401,8 @@
       "section_heading": "Exercise for Children and Adolescents",
       "page_number": 16,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_131"
     }
   },
   {
@@ -1280,7 +1412,8 @@
       "section_heading": "Conclusion",
       "page_number": 16,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_132"
     }
   },
   {
@@ -1291,7 +1424,8 @@
       "subsection_heading": "Aerobic Activities",
       "page_number": 17,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_133"
     }
   },
   {
@@ -1302,7 +1436,8 @@
       "subsection_heading": "Resistance Activity",
       "page_number": 17,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_134"
     }
   },
   {
@@ -1313,7 +1448,8 @@
       "subsection_heading": "Resistance Activity",
       "page_number": 17,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_135"
     }
   },
   {
@@ -1324,7 +1460,8 @@
       "subsection_heading": "Flexibility and Balance Activities",
       "page_number": 17,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_136"
     }
   },
   {
@@ -1335,7 +1472,8 @@
       "subsection_heading": "Other Considerations",
       "page_number": 17,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_137"
     }
   },
   {
@@ -1346,7 +1484,8 @@
       "subsection_heading": "High-Intensity Interval Training (HIIT)",
       "page_number": 17,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_138"
     }
   },
   {
@@ -1356,7 +1495,8 @@
       "section_heading": "Conclusion",
       "page_number": 17,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_139"
     }
   },
   {
@@ -1367,7 +1507,8 @@
       "subsection_heading": "Importance of 24-hour physical behaviors for type 2 diabetes",
       "page_number": 18,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_140"
     }
   },
   {
@@ -1378,7 +1519,8 @@
       "subsection_heading": "Importance of 24-hour physical behaviors for type 2 diabetes",
       "page_number": 18,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_141"
     }
   },
   {
@@ -1389,7 +1531,8 @@
       "subsection_heading": "SLEEP",
       "page_number": 18,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_142"
     }
   },
   {
@@ -1400,7 +1543,8 @@
       "subsection_heading": "Impact of Physical Behaviors on Cardiometabolic Health in People with Type 2 Diabetes",
       "page_number": 18,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_143"
     }
   },
   {
@@ -1411,7 +1555,8 @@
       "subsection_heading": "Impact of Physical Behaviors on Cardiometabolic Health in People with Type 2 Diabetes",
       "page_number": 18,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_144"
     }
   },
   {
@@ -1422,7 +1567,8 @@
       "subsection_heading": "Impact of Physical Behaviors on Cardiometabolic Health in People with Type 2 Diabetes",
       "page_number": 18,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_145"
     }
   },
   {
@@ -1433,7 +1579,8 @@
       "subsection_heading": "Additional Considerations",
       "page_number": 18,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_146"
     }
   },
   {
@@ -1443,7 +1590,8 @@
       "section_heading": "Exercise and Diabetes",
       "page_number": 19,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_147"
     }
   },
   {
@@ -1453,7 +1601,8 @@
       "section_heading": "Exercise and Diabetes",
       "page_number": 19,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_148"
     }
   },
   {
@@ -1464,7 +1613,8 @@
       "subsection_heading": "Exercise in the Presence of Complications",
       "page_number": 19,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_149"
     }
   },
   {
@@ -1475,7 +1625,8 @@
       "subsection_heading": "Autonomic Neuropathy",
       "page_number": 19,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_150"
     }
   },
   {
@@ -1486,7 +1637,8 @@
       "subsection_heading": "Chronic Kidney Disease",
       "page_number": 19,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_151"
     }
   },
   {
@@ -1497,7 +1649,8 @@
       "subsection_heading": "Smoking Cessation: Tobacco, E-Cigarettes, and Cannabis",
       "page_number": 19,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_152"
     }
   },
   {
@@ -1508,7 +1661,8 @@
       "subsection_heading": "Smoking Cessation: Tobacco, E-Cigarettes, and Cannabis",
       "page_number": 19,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_153"
     }
   },
   {
@@ -1517,7 +1671,8 @@
       "chapter_name": "Facilitating Positive Health Behaviors and Well-being",
       "page_number": 20,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_154"
     }
   },
   {
@@ -1527,7 +1682,8 @@
       "section_heading": "Tobacco Dependence and Diabetes Management",
       "page_number": 20,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_155"
     }
   },
   {
@@ -1537,7 +1693,8 @@
       "section_heading": "Tobacco Dependence and Diabetes Management",
       "page_number": 20,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_156"
     }
   },
   {
@@ -1547,7 +1704,8 @@
       "section_heading": "Supporting Positive Health Behaviors",
       "page_number": 20,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_157"
     }
   },
   {
@@ -1557,7 +1715,8 @@
       "section_heading": "Supporting Positive Health Behaviors",
       "page_number": 20,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_158"
     }
   },
   {
@@ -1567,7 +1726,8 @@
       "section_heading": "Table of Diagnostic Criteria for Hyperglycemic Ketosis Cannabis Hyperemesis Syndrome",
       "page_number": 20,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_159"
     }
   },
   {
@@ -1578,7 +1738,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 21,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_160"
     }
   },
   {
@@ -1589,7 +1750,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 21,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_161"
     }
   },
   {
@@ -1600,7 +1762,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 21,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_162"
     }
   },
   {
@@ -1611,7 +1774,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 21,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_163"
     }
   },
   {
@@ -1622,7 +1786,8 @@
       "subsection_heading": "Screening",
       "page_number": 21,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_164"
     }
   },
   {
@@ -1633,7 +1798,8 @@
       "subsection_heading": "Screening",
       "page_number": 21,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_165"
     }
   },
   {
@@ -1641,7 +1807,8 @@
     "metadata": {
       "page_number": 22,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_166"
     }
   },
   {
@@ -1649,7 +1816,8 @@
     "metadata": {
       "page_number": 22,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_167"
     }
   },
   {
@@ -1657,7 +1825,8 @@
     "metadata": {
       "page_number": 22,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_168"
     }
   },
   {
@@ -1665,7 +1834,8 @@
     "metadata": {
       "page_number": 22,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_169"
     }
   },
   {
@@ -1673,7 +1843,8 @@
     "metadata": {
       "page_number": 22,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_170"
     }
   },
   {
@@ -1681,7 +1852,8 @@
     "metadata": {
       "page_number": 22,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_171"
     }
   },
   {
@@ -1689,7 +1861,8 @@
     "metadata": {
       "page_number": 22,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_172"
     }
   },
   {
@@ -1697,7 +1870,8 @@
     "metadata": {
       "page_number": 22,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_173"
     }
   },
   {
@@ -1705,7 +1879,8 @@
     "metadata": {
       "page_number": 22,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_174"
     }
   },
   {
@@ -1713,7 +1888,8 @@
     "metadata": {
       "page_number": 22,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_175"
     }
   },
   {
@@ -1721,7 +1897,8 @@
     "metadata": {
       "page_number": 22,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_176"
     }
   },
   {
@@ -1729,7 +1906,8 @@
     "metadata": {
       "page_number": 22,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_177"
     }
   },
   {
@@ -1737,7 +1915,8 @@
     "metadata": {
       "page_number": 23,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_178"
     }
   },
   {
@@ -1745,7 +1924,8 @@
     "metadata": {
       "page_number": 23,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_179"
     }
   },
   {
@@ -1753,7 +1933,8 @@
     "metadata": {
       "page_number": 23,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_180"
     }
   },
   {
@@ -1761,7 +1942,8 @@
     "metadata": {
       "page_number": 23,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_181"
     }
   },
   {
@@ -1769,7 +1951,8 @@
     "metadata": {
       "page_number": 23,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_182"
     }
   },
   {
@@ -1777,7 +1960,8 @@
     "metadata": {
       "page_number": 23,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_183"
     }
   },
   {
@@ -1785,7 +1969,8 @@
     "metadata": {
       "page_number": 23,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_184"
     }
   },
   {
@@ -1793,7 +1978,8 @@
     "metadata": {
       "page_number": 23,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_185"
     }
   },
   {
@@ -1801,7 +1987,8 @@
     "metadata": {
       "page_number": 23,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_186"
     }
   },
   {
@@ -1809,7 +1996,8 @@
     "metadata": {
       "page_number": 23,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_187"
     }
   },
   {
@@ -1818,7 +2006,8 @@
       "chapter_name": "Facilitating Positive Health Behaviors and Well-being",
       "page_number": 24,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_188"
     }
   },
   {
@@ -1828,7 +2017,8 @@
       "section_heading": "Increased Mortality",
       "page_number": 24,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_189"
     }
   },
   {
@@ -1838,7 +2028,8 @@
       "section_heading": "Evidence-based Psychosocial Interventions for Anxiety",
       "page_number": 24,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_190"
     }
   },
   {
@@ -1848,7 +2039,8 @@
       "section_heading": "Diabetes Technologies",
       "page_number": 24,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_191"
     }
   },
   {
@@ -1858,7 +2050,8 @@
       "section_heading": "Depression Recommendations",
       "page_number": 24,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_192"
     }
   },
   {
@@ -1868,7 +2061,8 @@
       "section_heading": "Psychosocial Concerns",
       "page_number": 24,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_193"
     }
   },
   {
@@ -1879,7 +2073,8 @@
       "subsection_heading": "Table 5.6: Depression and Anxiety in Diabetes",
       "page_number": 24,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_194"
     }
   },
   {
@@ -1889,7 +2084,8 @@
       "section_heading": "Overview",
       "page_number": 25,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_195"
     }
   },
   {
@@ -1899,7 +2095,8 @@
       "section_heading": "Screening Recommendations",
       "page_number": 25,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_196"
     }
   },
   {
@@ -1909,7 +2106,8 @@
       "section_heading": "Implementation of Screening",
       "page_number": 25,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_197"
     }
   },
   {
@@ -1919,7 +2117,8 @@
       "section_heading": "Psychosocial Concerns",
       "page_number": 25,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_198"
     }
   },
   {
@@ -1929,7 +2128,8 @@
       "section_heading": "Table of Evidence",
       "page_number": 25,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_199"
     }
   },
   {
@@ -1939,7 +2139,8 @@
       "section_heading": "Table of Evidence",
       "page_number": 25,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_200"
     }
   },
   {
@@ -1949,7 +2150,8 @@
       "section_heading": "Conclusion",
       "page_number": 25,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_201"
     }
   },
   {
@@ -1958,7 +2160,8 @@
       "chapter_name": "Facilitating Positive Health Behaviors and Well-being",
       "page_number": 26,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_202"
     }
   },
   {
@@ -1968,7 +2171,8 @@
       "section_heading": "Overview",
       "page_number": 26,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_203"
     }
   },
   {
@@ -1979,7 +2183,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 26,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_204"
     }
   },
   {
@@ -1990,7 +2195,8 @@
       "subsection_heading": "Prevalence and Risk",
       "page_number": 26,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_205"
     }
   },
   {
@@ -2001,7 +2207,8 @@
       "subsection_heading": "Screening Measures",
       "page_number": 26,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_206"
     }
   },
   {
@@ -2012,7 +2219,8 @@
       "subsection_heading": "Treatment Considerations",
       "page_number": 26,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_207"
     }
   },
   {
@@ -2023,7 +2231,8 @@
       "subsection_heading": "Therapeutic Approaches",
       "page_number": 26,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_208"
     }
   },
   {
@@ -2033,7 +2242,8 @@
       "section_heading": "Conclusion",
       "page_number": 26,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_209"
     }
   },
   {
@@ -2043,7 +2253,8 @@
       "section_heading": "Serious Mental Illness Recommendations",
       "page_number": 27,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_210"
     }
   },
   {
@@ -2053,7 +2264,8 @@
       "section_heading": "Serious Mental Illness Recommendations",
       "page_number": 27,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_211"
     }
   },
   {
@@ -2064,7 +2276,8 @@
       "subsection_heading": "Cognitive Capacity and Impairment Recommendations",
       "page_number": 27,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_212"
     }
   },
   {
@@ -2075,7 +2288,8 @@
       "subsection_heading": "Cognitive Capacity and Impairment Recommendations",
       "page_number": 27,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_213"
     }
   },
   {
@@ -2086,7 +2300,8 @@
       "subsection_heading": "Cognitive Capacity and Impairment Recommendations",
       "page_number": 27,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_214"
     }
   },
   {
@@ -2097,7 +2312,8 @@
       "subsection_heading": "Tables",
       "page_number": 27,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_215"
     }
   },
   {
@@ -2106,7 +2322,8 @@
       "chapter_name": "Facilitating Positive Health Behaviors and Well-being",
       "page_number": 28,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_216"
     }
   },
   {
@@ -2116,7 +2333,8 @@
       "section_heading": "Overview",
       "page_number": 28,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_217"
     }
   },
   {
@@ -2127,7 +2345,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 28,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_218"
     }
   },
   {
@@ -2138,7 +2357,8 @@
       "subsection_heading": "Sleep Disturbances and Diabetes",
       "page_number": 28,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_219"
     }
   },
   {
@@ -2149,7 +2369,8 @@
       "subsection_heading": "Clinical Implications",
       "page_number": 28,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_220"
     }
   },
   {
@@ -2160,7 +2381,8 @@
       "subsection_heading": "Treatment Approaches",
       "page_number": 28,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_221"
     }
   },
   {
@@ -2171,7 +2393,8 @@
       "subsection_heading": "Summary of Findings",
       "page_number": 28,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_222"
     }
   },
   {
@@ -2182,7 +2405,8 @@
       "subsection_heading": "Table of Sleep Health Recommendations",
       "page_number": 28,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_223"
     }
   },
   {
@@ -2193,7 +2417,8 @@
       "subsection_heading": "Conclusion",
       "page_number": 28,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_224"
     }
   },
   {
@@ -2203,7 +2428,8 @@
       "section_heading": "References",
       "page_number": 29,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_225"
     }
   },
   {
@@ -2213,7 +2439,8 @@
       "section_heading": "References",
       "page_number": 29,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_226"
     }
   },
   {
@@ -2223,7 +2450,8 @@
       "section_heading": "References",
       "page_number": 29,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_227"
     }
   },
   {
@@ -2233,7 +2461,8 @@
       "section_heading": "References",
       "page_number": 29,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_228"
     }
   },
   {
@@ -2243,7 +2472,8 @@
       "section_heading": "References",
       "page_number": 29,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_229"
     }
   },
   {
@@ -2253,7 +2483,8 @@
       "section_heading": "References",
       "page_number": 29,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_230"
     }
   },
   {
@@ -2263,7 +2494,8 @@
       "section_heading": "References",
       "page_number": 29,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_231"
     }
   },
   {
@@ -2273,7 +2505,8 @@
       "section_heading": "References",
       "page_number": 29,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_232"
     }
   },
   {
@@ -2283,7 +2516,8 @@
       "section_heading": "References",
       "page_number": 29,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_233"
     }
   },
   {
@@ -2293,7 +2527,8 @@
       "section_heading": "References",
       "page_number": 29,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_234"
     }
   },
   {
@@ -2302,7 +2537,8 @@
       "chapter_name": "Facilitating Positive Health Behaviors and Well-being",
       "page_number": 30,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_235"
     }
   },
   {
@@ -2312,7 +2548,8 @@
       "section_heading": "References",
       "page_number": 30,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_236"
     }
   },
   {
@@ -2322,7 +2559,8 @@
       "section_heading": "References",
       "page_number": 30,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_237"
     }
   },
   {
@@ -2332,7 +2570,8 @@
       "section_heading": "References",
       "page_number": 30,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_238"
     }
   },
   {
@@ -2342,7 +2581,8 @@
       "section_heading": "References",
       "page_number": 30,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_239"
     }
   },
   {
@@ -2352,7 +2592,8 @@
       "section_heading": "References",
       "page_number": 30,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_240"
     }
   },
   {
@@ -2362,7 +2603,8 @@
       "section_heading": "References",
       "page_number": 30,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_241"
     }
   },
   {
@@ -2372,7 +2614,8 @@
       "section_heading": "References",
       "page_number": 30,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_242"
     }
   },
   {
@@ -2382,7 +2625,8 @@
       "section_heading": "References",
       "page_number": 30,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_243"
     }
   },
   {
@@ -2392,7 +2636,8 @@
       "section_heading": "References",
       "page_number": 30,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_244"
     }
   },
   {
@@ -2402,7 +2647,8 @@
       "section_heading": "References",
       "page_number": 30,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_245"
     }
   },
   {
@@ -2412,7 +2658,8 @@
       "section_heading": "References",
       "page_number": 30,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_246"
     }
   },
   {
@@ -2422,7 +2669,8 @@
       "section_heading": "References",
       "page_number": 31,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_247"
     }
   },
   {
@@ -2432,7 +2680,8 @@
       "section_heading": "References",
       "page_number": 31,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_248"
     }
   },
   {
@@ -2442,7 +2691,8 @@
       "section_heading": "References",
       "page_number": 31,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_249"
     }
   },
   {
@@ -2452,7 +2702,8 @@
       "section_heading": "References",
       "page_number": 31,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_250"
     }
   },
   {
@@ -2462,7 +2713,8 @@
       "section_heading": "References",
       "page_number": 31,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_251"
     }
   },
   {
@@ -2472,7 +2724,8 @@
       "section_heading": "References",
       "page_number": 31,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_252"
     }
   },
   {
@@ -2482,7 +2735,8 @@
       "section_heading": "References",
       "page_number": 31,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_253"
     }
   },
   {
@@ -2492,7 +2746,8 @@
       "section_heading": "References",
       "page_number": 31,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_254"
     }
   },
   {
@@ -2501,7 +2756,8 @@
       "chapter_name": "Facilitating Positive Health Behaviors and Well-being",
       "page_number": 32,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_255"
     }
   },
   {
@@ -2511,7 +2767,8 @@
       "section_heading": "References",
       "page_number": 32,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_256"
     }
   },
   {
@@ -2521,7 +2778,8 @@
       "section_heading": "References",
       "page_number": 32,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_257"
     }
   },
   {
@@ -2531,7 +2789,8 @@
       "section_heading": "References",
       "page_number": 32,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_258"
     }
   },
   {
@@ -2541,7 +2800,8 @@
       "section_heading": "References",
       "page_number": 32,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_259"
     }
   },
   {
@@ -2551,7 +2811,8 @@
       "section_heading": "References",
       "page_number": 32,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_260"
     }
   },
   {
@@ -2561,7 +2822,8 @@
       "section_heading": "References",
       "page_number": 32,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_261"
     }
   },
   {
@@ -2571,7 +2833,8 @@
       "section_heading": "References",
       "page_number": 32,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_262"
     }
   },
   {
@@ -2581,7 +2844,8 @@
       "section_heading": "References",
       "page_number": 32,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_263"
     }
   },
   {
@@ -2591,7 +2855,8 @@
       "section_heading": "References",
       "page_number": 32,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_264"
     }
   },
   {
@@ -2601,7 +2866,8 @@
       "section_heading": "References",
       "page_number": 32,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_265"
     }
   },
   {
@@ -2611,7 +2877,8 @@
       "section_heading": "References",
       "page_number": 32,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_266"
     }
   },
   {
@@ -2619,7 +2886,8 @@
     "metadata": {
       "page_number": 33,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_267"
     }
   },
   {
@@ -2627,7 +2895,8 @@
     "metadata": {
       "page_number": 33,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_268"
     }
   },
   {
@@ -2635,7 +2904,8 @@
     "metadata": {
       "page_number": 33,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_269"
     }
   },
   {
@@ -2643,7 +2913,8 @@
     "metadata": {
       "page_number": 33,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_270"
     }
   },
   {
@@ -2651,7 +2922,8 @@
     "metadata": {
       "page_number": 33,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_271"
     }
   },
   {
@@ -2659,7 +2931,8 @@
     "metadata": {
       "page_number": 33,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_272"
     }
   },
   {
@@ -2667,7 +2940,8 @@
     "metadata": {
       "page_number": 33,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_273"
     }
   },
   {
@@ -2675,7 +2949,8 @@
     "metadata": {
       "page_number": 33,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_274"
     }
   },
   {
@@ -2683,7 +2958,8 @@
     "metadata": {
       "page_number": 33,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_275"
     }
   },
   {
@@ -2691,7 +2967,8 @@
     "metadata": {
       "page_number": 33,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_276"
     }
   },
   {
@@ -2699,7 +2976,8 @@
     "metadata": {
       "page_number": 33,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_277"
     }
   },
   {
@@ -2707,7 +2985,8 @@
     "metadata": {
       "page_number": 33,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_278"
     }
   },
   {
@@ -2715,7 +2994,8 @@
     "metadata": {
       "page_number": 33,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_279"
     }
   },
   {
@@ -2723,7 +3003,8 @@
     "metadata": {
       "page_number": 33,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_280"
     }
   },
   {
@@ -2731,7 +3012,8 @@
     "metadata": {
       "page_number": 33,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_281"
     }
   },
   {
@@ -2739,7 +3021,8 @@
     "metadata": {
       "page_number": 33,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_282"
     }
   },
   {
@@ -2747,7 +3030,8 @@
     "metadata": {
       "page_number": 33,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_283"
     }
   },
   {
@@ -2756,7 +3040,8 @@
       "chapter_name": "Facilitating Positive Health Behaviors and Well-being",
       "page_number": 34,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_284"
     }
   },
   {
@@ -2766,7 +3051,8 @@
       "section_heading": "References",
       "page_number": 34,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_285"
     }
   },
   {
@@ -2776,7 +3062,8 @@
       "section_heading": "References",
       "page_number": 34,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_286"
     }
   },
   {
@@ -2786,7 +3073,8 @@
       "section_heading": "References",
       "page_number": 34,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_287"
     }
   },
   {
@@ -2796,7 +3084,8 @@
       "section_heading": "References",
       "page_number": 34,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_288"
     }
   },
   {
@@ -2806,7 +3095,8 @@
       "section_heading": "References",
       "page_number": 34,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_289"
     }
   },
   {
@@ -2816,7 +3106,8 @@
       "section_heading": "References",
       "page_number": 34,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_290"
     }
   },
   {
@@ -2826,7 +3117,8 @@
       "section_heading": "References",
       "page_number": 34,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_291"
     }
   },
   {
@@ -2836,7 +3128,8 @@
       "section_heading": "References",
       "page_number": 34,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_292"
     }
   },
   {
@@ -2846,7 +3139,8 @@
       "section_heading": "References",
       "page_number": 34,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_293"
     }
   },
   {
@@ -2856,7 +3150,8 @@
       "section_heading": "References",
       "page_number": 34,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_294"
     }
   },
   {
@@ -2866,7 +3161,8 @@
       "section_heading": "References",
       "page_number": 34,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_295"
     }
   },
   {
@@ -2876,7 +3172,8 @@
       "section_heading": "References",
       "page_number": 34,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_296"
     }
   },
   {
@@ -2886,7 +3183,8 @@
       "section_heading": "References",
       "page_number": 34,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_297"
     }
   },
   {
@@ -2896,7 +3194,8 @@
       "section_heading": "Managing Co-morbid Depression in Adults with Type 2 Diabetes Mellitus: A Systematic Review and Meta-analysis",
       "page_number": 35,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_298"
     }
   },
   {
@@ -2906,7 +3205,8 @@
       "section_heading": "References",
       "page_number": 35,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_299"
     }
   },
   {
@@ -2916,7 +3216,8 @@
       "section_heading": "References",
       "page_number": 35,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_300"
     }
   },
   {
@@ -2926,7 +3227,8 @@
       "section_heading": "References",
       "page_number": 35,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_301"
     }
   },
   {
@@ -2936,7 +3238,8 @@
       "section_heading": "References",
       "page_number": 35,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_302"
     }
   },
   {
@@ -2946,7 +3249,8 @@
       "section_heading": "References",
       "page_number": 35,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_303"
     }
   },
   {
@@ -2956,7 +3260,8 @@
       "section_heading": "References",
       "page_number": 35,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_304"
     }
   },
   {
@@ -2966,7 +3271,8 @@
       "section_heading": "References",
       "page_number": 35,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_305"
     }
   },
   {
@@ -2976,7 +3282,8 @@
       "section_heading": "References",
       "page_number": 35,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_306"
     }
   },
   {
@@ -2986,7 +3293,8 @@
       "section_heading": "References",
       "page_number": 35,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_307"
     }
   },
   {
@@ -2996,7 +3304,8 @@
       "section_heading": "References",
       "page_number": 35,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_308"
     }
   },
   {
@@ -3006,7 +3315,8 @@
       "section_heading": "References",
       "page_number": 35,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_309"
     }
   },
   {
@@ -3015,7 +3325,8 @@
       "chapter_name": "Facilitating Positive Health Behaviors and Well-being",
       "page_number": 36,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_310"
     }
   },
   {
@@ -3025,7 +3336,8 @@
       "section_heading": "References",
       "page_number": 36,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_311"
     }
   },
   {
@@ -3035,7 +3347,8 @@
       "section_heading": "References",
       "page_number": 36,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_312"
     }
   },
   {
@@ -3045,7 +3358,8 @@
       "section_heading": "References",
       "page_number": 36,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_313"
     }
   },
   {
@@ -3055,7 +3369,8 @@
       "section_heading": "References",
       "page_number": 36,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_314"
     }
   },
   {
@@ -3065,7 +3380,8 @@
       "section_heading": "References",
       "page_number": 36,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_315"
     }
   },
   {
@@ -3075,7 +3391,8 @@
       "section_heading": "References",
       "page_number": 36,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_316"
     }
   },
   {
@@ -3085,7 +3402,8 @@
       "section_heading": "References",
       "page_number": 36,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_317"
     }
   },
   {
@@ -3095,7 +3413,8 @@
       "section_heading": "References",
       "page_number": 36,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_318"
     }
   },
   {
@@ -3105,7 +3424,8 @@
       "section_heading": "References",
       "page_number": 36,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_319"
     }
   },
   {
@@ -3115,7 +3435,8 @@
       "section_heading": "References",
       "page_number": 36,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_320"
     }
   },
   {
@@ -3125,7 +3446,8 @@
       "section_heading": "References",
       "page_number": 36,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_321"
     }
   },
   {
@@ -3135,7 +3457,8 @@
       "section_heading": "References",
       "page_number": 36,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_322"
     }
   },
   {
@@ -3145,7 +3468,8 @@
       "section_heading": "References",
       "page_number": 37,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_323"
     }
   },
   {
@@ -3155,7 +3479,8 @@
       "section_heading": "References",
       "page_number": 37,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_324"
     }
   },
   {
@@ -3165,7 +3490,8 @@
       "section_heading": "References",
       "page_number": 37,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_325"
     }
   },
   {
@@ -3175,7 +3501,8 @@
       "section_heading": "References",
       "page_number": 37,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_326"
     }
   },
   {
@@ -3185,7 +3512,8 @@
       "section_heading": "References",
       "page_number": 37,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_327"
     }
   },
   {
@@ -3195,7 +3523,8 @@
       "section_heading": "References",
       "page_number": 37,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_328"
     }
   },
   {
@@ -3205,7 +3534,8 @@
       "section_heading": "References",
       "page_number": 37,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_329"
     }
   },
   {
@@ -3215,7 +3545,8 @@
       "section_heading": "References",
       "page_number": 37,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_330"
     }
   },
   {
@@ -3224,7 +3555,8 @@
       "chapter_name": "Facilitating Positive Health Behaviors and Well-being",
       "page_number": 38,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_331"
     }
   },
   {
@@ -3234,7 +3566,8 @@
       "section_heading": "References",
       "page_number": 38,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_332"
     }
   },
   {
@@ -3244,7 +3577,8 @@
       "section_heading": "References",
       "page_number": 38,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_333"
     }
   },
   {
@@ -3254,7 +3588,8 @@
       "section_heading": "References",
       "page_number": 38,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_334"
     }
   },
   {
@@ -3264,7 +3599,8 @@
       "section_heading": "References",
       "page_number": 38,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_335"
     }
   },
   {
@@ -3274,7 +3610,8 @@
       "section_heading": "References",
       "page_number": 38,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_336"
     }
   },
   {
@@ -3284,7 +3621,8 @@
       "section_heading": "References",
       "page_number": 38,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_337"
     }
   },
   {
@@ -3294,7 +3632,8 @@
       "section_heading": "References",
       "page_number": 38,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_338"
     }
   },
   {
@@ -3304,7 +3643,8 @@
       "section_heading": "References",
       "page_number": 38,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_339"
     }
   },
   {
@@ -3314,7 +3654,8 @@
       "section_heading": "References",
       "page_number": 38,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_340"
     }
   },
   {
@@ -3324,7 +3665,8 @@
       "section_heading": "References",
       "page_number": 38,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_341"
     }
   },
   {
@@ -3334,7 +3676,8 @@
       "section_heading": "References",
       "page_number": 38,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_342"
     }
   },
   {
@@ -3344,7 +3687,8 @@
       "section_heading": "References",
       "page_number": 39,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_343"
     }
   },
   {
@@ -3354,7 +3698,8 @@
       "section_heading": "References",
       "page_number": 39,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_344"
     }
   },
   {
@@ -3364,7 +3709,8 @@
       "section_heading": "References",
       "page_number": 39,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_345"
     }
   },
   {
@@ -3374,7 +3720,8 @@
       "section_heading": "References",
       "page_number": 39,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_346"
     }
   },
   {
@@ -3384,7 +3731,8 @@
       "section_heading": "Tables",
       "page_number": 39,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_347"
     }
   },
   {
@@ -3394,7 +3742,8 @@
       "section_heading": "Tables",
       "page_number": 39,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_348"
     }
   },
   {
@@ -3404,7 +3753,8 @@
       "section_heading": "Tables",
       "page_number": 39,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_349"
     }
   },
   {
@@ -3414,7 +3764,8 @@
       "section_heading": "Tables",
       "page_number": 39,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_350"
     }
   },
   {
@@ -3423,7 +3774,8 @@
       "chapter_name": "Facilitating Positive Health Behaviors and Well-being",
       "page_number": 40,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_351"
     }
   },
   {
@@ -3433,7 +3785,8 @@
       "section_heading": "References",
       "page_number": 40,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_352"
     }
   },
   {
@@ -3443,7 +3796,8 @@
       "section_heading": "References",
       "page_number": 40,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_353"
     }
   },
   {
@@ -3453,7 +3807,8 @@
       "section_heading": "References",
       "page_number": 40,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_354"
     }
   },
   {
@@ -3463,7 +3818,8 @@
       "section_heading": "References",
       "page_number": 40,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_355"
     }
   },
   {
@@ -3473,7 +3829,8 @@
       "section_heading": "Additional References",
       "page_number": 40,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_356"
     }
   },
   {
@@ -3483,7 +3840,8 @@
       "section_heading": "Additional References",
       "page_number": 40,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_357"
     }
   },
   {
@@ -3493,7 +3851,8 @@
       "section_heading": "Additional References",
       "page_number": 40,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_358"
     }
   },
   {
@@ -3503,7 +3862,8 @@
       "section_heading": "Additional References",
       "page_number": 40,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_359"
     }
   },
   {
@@ -3513,7 +3873,8 @@
       "section_heading": "References",
       "page_number": 41,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_360"
     }
   },
   {
@@ -3523,7 +3884,8 @@
       "section_heading": "References",
       "page_number": 41,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_361"
     }
   },
   {
@@ -3533,7 +3895,8 @@
       "section_heading": "References",
       "page_number": 41,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_362"
     }
   },
   {
@@ -3543,7 +3906,8 @@
       "section_heading": "References",
       "page_number": 41,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_363"
     }
   },
   {
@@ -3553,7 +3917,8 @@
       "section_heading": "References",
       "page_number": 41,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_364"
     }
   },
   {
@@ -3563,7 +3928,8 @@
       "section_heading": "References",
       "page_number": 41,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_365"
     }
   },
   {
@@ -3573,7 +3939,8 @@
       "section_heading": "References",
       "page_number": 41,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_366"
     }
   },
   {
@@ -3583,7 +3950,8 @@
       "section_heading": "References",
       "page_number": 41,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_367"
     }
   },
   {
@@ -3591,7 +3959,8 @@
     "metadata": {
       "page_number": 42,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_368"
     }
   },
   {
@@ -3599,7 +3968,8 @@
     "metadata": {
       "page_number": 42,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_369"
     }
   },
   {
@@ -3607,7 +3977,8 @@
     "metadata": {
       "page_number": 42,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_370"
     }
   },
   {
@@ -3615,7 +3986,8 @@
     "metadata": {
       "page_number": 42,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_371"
     }
   },
   {
@@ -3623,7 +3995,8 @@
     "metadata": {
       "page_number": 42,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_372"
     }
   },
   {
@@ -3631,7 +4004,8 @@
     "metadata": {
       "page_number": 42,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_373"
     }
   },
   {
@@ -3639,7 +4013,8 @@
     "metadata": {
       "page_number": 42,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_374"
     }
   },
   {
@@ -3647,7 +4022,8 @@
     "metadata": {
       "page_number": 42,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_375"
     }
   },
   {
@@ -3655,7 +4031,8 @@
     "metadata": {
       "page_number": 42,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_376"
     }
   },
   {
@@ -3663,7 +4040,8 @@
     "metadata": {
       "page_number": 42,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_377"
     }
   },
   {
@@ -3671,7 +4049,8 @@
     "metadata": {
       "page_number": 42,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_378"
     }
   },
   {
@@ -3679,7 +4058,8 @@
     "metadata": {
       "page_number": 42,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_379"
     }
   },
   {
@@ -3687,7 +4067,8 @@
     "metadata": {
       "page_number": 42,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_380"
     }
   },
   {
@@ -3695,7 +4076,8 @@
     "metadata": {
       "page_number": 42,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_381"
     }
   },
   {
@@ -3703,7 +4085,8 @@
     "metadata": {
       "page_number": 42,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_382"
     }
   },
   {
@@ -3711,7 +4094,8 @@
     "metadata": {
       "page_number": 42,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_383"
     }
   },
   {
@@ -3719,7 +4103,8 @@
     "metadata": {
       "page_number": 42,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_384"
     }
   },
   {
@@ -3727,7 +4112,8 @@
     "metadata": {
       "page_number": 42,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_385"
     }
   },
   {
@@ -3737,7 +4123,8 @@
       "section_heading": "References",
       "page_number": 43,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_386"
     }
   },
   {
@@ -3747,7 +4134,8 @@
       "section_heading": "References",
       "page_number": 43,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_387"
     }
   },
   {
@@ -3757,7 +4145,8 @@
       "section_heading": "References",
       "page_number": 43,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_388"
     }
   },
   {
@@ -3767,7 +4156,8 @@
       "section_heading": "References",
       "page_number": 43,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_389"
     }
   },
   {
@@ -3777,7 +4167,8 @@
       "section_heading": "References",
       "page_number": 43,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_390"
     }
   },
   {
@@ -3787,7 +4178,8 @@
       "section_heading": "References",
       "page_number": 43,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_391"
     }
   },
   {
@@ -3797,7 +4189,8 @@
       "section_heading": "References",
       "page_number": 43,
       "source": "ada_fascilitating_pos_behaviors.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_fascilitating_pos_behaviors.pdf",
+      "chunk_id": "10_392"
     }
   }
 ]

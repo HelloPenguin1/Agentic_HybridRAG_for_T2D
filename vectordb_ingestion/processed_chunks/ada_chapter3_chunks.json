@@ -5,7 +5,8 @@
       "chapter_name": "3. Prevention or Delay of Diabetes and Associated Comorbidities: Standards of Care in Diabetes—2026",
       "page_number": 1,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_0"
     }
   },
   {
@@ -14,7 +15,8 @@
       "chapter_name": "3. Prevention or Delay of Diabetes and Associated Comorbidities: Standards of Care in Diabetes—2026",
       "page_number": 1,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_1"
     }
   },
   {
@@ -23,7 +25,8 @@
       "chapter_name": "3. Prevention or Delay of Diabetes and Associated Comorbidities: Standards of Care in Diabetes—2026",
       "page_number": 1,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_2"
     }
   },
   {
@@ -33,7 +36,8 @@
       "section_heading": "Recommendations",
       "page_number": 1,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_3"
     }
   },
   {
@@ -43,7 +47,8 @@
       "section_heading": "Recommendations",
       "page_number": 1,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_4"
     }
   },
   {
@@ -54,7 +59,8 @@
       "subsection_heading": "Tables",
       "page_number": 1,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_5"
     }
   },
   {
@@ -65,7 +71,8 @@
       "subsection_heading": "Tables",
       "page_number": 1,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_6"
     }
   },
   {
@@ -76,7 +83,8 @@
       "subsection_heading": "Tables",
       "page_number": 1,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_7"
     }
   },
   {
@@ -85,7 +93,8 @@
       "chapter_name": "Prevention or Delay of Diabetes",
       "page_number": 2,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_8"
     }
   },
   {
@@ -95,7 +104,8 @@
       "section_heading": "Recommendations",
       "page_number": 2,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_9"
     }
   },
   {
@@ -105,7 +115,8 @@
       "section_heading": "Recommendations",
       "page_number": 2,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_10"
     }
   },
   {
@@ -115,7 +126,8 @@
       "section_heading": "Recommendations",
       "page_number": 2,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_11"
     }
   },
   {
@@ -125,7 +137,8 @@
       "section_heading": "The Diabetes Prevention Program",
       "page_number": 2,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_12"
     }
   },
   {
@@ -135,7 +148,8 @@
       "section_heading": "The Diabetes Prevention Program",
       "page_number": 2,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_13"
     }
   },
   {
@@ -145,7 +159,8 @@
       "section_heading": "The Diabetes Prevention Program",
       "page_number": 2,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_14"
     }
   },
   {
@@ -155,7 +170,8 @@
       "section_heading": "The Diabetes Prevention Program",
       "page_number": 2,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_15"
     }
   },
   {
@@ -165,7 +181,8 @@
       "section_heading": "The Diabetes Prevention Program",
       "page_number": 2,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_16"
     }
   },
   {
@@ -175,7 +192,8 @@
       "section_heading": "The Diabetes Prevention Program",
       "page_number": 2,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_17"
     }
   },
   {
@@ -185,7 +203,8 @@
       "section_heading": "The Diabetes Prevention Program",
       "page_number": 2,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_18"
     }
   },
   {
@@ -194,7 +213,8 @@
       "chapter_name": "Prevention or Delay of Diabetes",
       "page_number": 3,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_19"
     }
   },
   {
@@ -204,7 +224,8 @@
       "section_heading": "Nutrition",
       "page_number": 3,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_20"
     }
   },
   {
@@ -214,7 +235,8 @@
       "section_heading": "Nutrition",
       "page_number": 3,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_21"
     }
   },
   {
@@ -224,7 +246,8 @@
       "section_heading": "Physical Activity",
       "page_number": 3,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_22"
     }
   },
   {
@@ -234,7 +257,8 @@
       "section_heading": "Physical Activity",
       "page_number": 3,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_23"
     }
   },
   {
@@ -244,7 +268,8 @@
       "section_heading": "Physical Activity",
       "page_number": 3,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_24"
     }
   },
   {
@@ -254,7 +279,8 @@
       "section_heading": "Physical Activity",
       "page_number": 3,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_25"
     }
   },
   {
@@ -264,7 +290,8 @@
       "section_heading": "Nutrition Therapy",
       "page_number": 4,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_26"
     }
   },
   {
@@ -274,7 +301,8 @@
       "section_heading": "Technology-Assisted Programs",
       "page_number": 4,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_27"
     }
   },
   {
@@ -285,7 +313,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 4,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_28"
     }
   },
   {
@@ -295,7 +324,8 @@
       "section_heading": "Sleep Characteristics Associated With Increased Risk of Type 2 Diabetes",
       "page_number": 4,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_29"
     }
   },
   {
@@ -305,7 +335,8 @@
       "section_heading": "Additional Considerations",
       "page_number": 4,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_30"
     }
   },
   {
@@ -315,7 +346,8 @@
       "section_heading": "Summary",
       "page_number": 4,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_31"
     }
   },
   {
@@ -324,7 +356,8 @@
       "chapter_name": "Prevention or Delay of Diabetes",
       "page_number": 5,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_32"
     }
   },
   {
@@ -333,7 +366,8 @@
       "chapter_name": "Prevention or Delay of Diabetes",
       "page_number": 5,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_33"
     }
   },
   {
@@ -342,7 +376,8 @@
       "chapter_name": "Prevention or Delay of Diabetes",
       "page_number": 5,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_34"
     }
   },
   {
@@ -351,7 +386,8 @@
       "chapter_name": "Prevention or Delay of Diabetes",
       "page_number": 5,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_35"
     }
   },
   {
@@ -360,7 +396,8 @@
       "chapter_name": "Prevention or Delay of Diabetes",
       "page_number": 5,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_36"
     }
   },
   {
@@ -369,7 +406,8 @@
       "chapter_name": "Prevention or Delay of Diabetes",
       "page_number": 5,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_37"
     }
   },
   {
@@ -378,7 +416,8 @@
       "chapter_name": "Prevention or Delay of Diabetes",
       "page_number": 5,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_38"
     }
   },
   {
@@ -388,7 +427,8 @@
       "section_heading": "Metformin",
       "page_number": 5,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_39"
     }
   },
   {
@@ -398,7 +438,8 @@
       "section_heading": "Metformin",
       "page_number": 5,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_40"
     }
   },
   {
@@ -408,7 +449,8 @@
       "section_heading": "Pharmacologic Approaches to Glycemic Treatment",
       "page_number": 6,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_41"
     }
   },
   {
@@ -418,7 +460,8 @@
       "section_heading": "Pharmacologic Approaches to Glycemic Treatment",
       "page_number": 6,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_42"
     }
   },
   {
@@ -428,7 +471,8 @@
       "section_heading": "Pharmacologic Approaches to Glycemic Treatment",
       "page_number": 6,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_43"
     }
   },
   {
@@ -439,7 +483,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 6,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_44"
     }
   },
   {
@@ -450,7 +495,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 6,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_45"
     }
   },
   {
@@ -461,7 +507,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 6,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_46"
     }
   },
   {
@@ -472,7 +519,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 6,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_47"
     }
   },
   {
@@ -483,7 +531,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 6,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_48"
     }
   },
   {
@@ -492,7 +541,8 @@
       "chapter_name": "Prevention or Delay of Diabetes",
       "page_number": 7,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_49"
     }
   },
   {
@@ -502,7 +552,8 @@
       "section_heading": "Pharmacotherapy",
       "page_number": 7,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_50"
     }
   },
   {
@@ -512,7 +563,8 @@
       "section_heading": "Pharmacotherapy",
       "page_number": 7,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_51"
     }
   },
   {
@@ -522,7 +574,8 @@
       "section_heading": "Pharmacotherapy",
       "page_number": 7,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_52"
     }
   },
   {
@@ -533,7 +586,8 @@
       "subsection_heading": "Lifestyle and Type 1 Diabetes Progression",
       "page_number": 7,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_53"
     }
   },
   {
@@ -544,7 +598,8 @@
       "subsection_heading": "Lifestyle and Type 1 Diabetes Progression",
       "page_number": 7,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_54"
     }
   },
   {
@@ -555,7 +610,8 @@
       "subsection_heading": "Pharmacologic Interventions to Delay Symptomatic Type 1 Diabetes",
       "page_number": 7,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_55"
     }
   },
   {
@@ -565,7 +621,8 @@
       "section_heading": "Overview",
       "page_number": 8,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_56"
     }
   },
   {
@@ -575,7 +632,8 @@
       "section_heading": "References",
       "page_number": 8,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_57"
     }
   },
   {
@@ -585,7 +643,8 @@
       "section_heading": "References",
       "page_number": 8,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_58"
     }
   },
   {
@@ -595,7 +654,8 @@
       "section_heading": "References",
       "page_number": 8,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_59"
     }
   },
   {
@@ -605,7 +665,8 @@
       "section_heading": "References",
       "page_number": 8,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_60"
     }
   },
   {
@@ -615,7 +676,8 @@
       "section_heading": "References",
       "page_number": 8,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_61"
     }
   },
   {
@@ -625,7 +687,8 @@
       "section_heading": "References",
       "page_number": 8,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_62"
     }
   },
   {
@@ -635,7 +698,8 @@
       "section_heading": "References",
       "page_number": 8,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_63"
     }
   },
   {
@@ -645,7 +709,8 @@
       "section_heading": "References",
       "page_number": 8,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_64"
     }
   },
   {
@@ -655,7 +720,8 @@
       "section_heading": "References",
       "page_number": 8,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_65"
     }
   },
   {
@@ -664,7 +730,8 @@
       "chapter_name": "Prevention or Delay of Diabetes",
       "page_number": 9,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_66"
     }
   },
   {
@@ -674,7 +741,8 @@
       "section_heading": "References",
       "page_number": 9,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_67"
     }
   },
   {
@@ -684,7 +752,8 @@
       "section_heading": "References",
       "page_number": 9,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_68"
     }
   },
   {
@@ -694,7 +763,8 @@
       "section_heading": "References",
       "page_number": 9,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_69"
     }
   },
   {
@@ -704,7 +774,8 @@
       "section_heading": "References",
       "page_number": 9,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_70"
     }
   },
   {
@@ -714,7 +785,8 @@
       "section_heading": "References",
       "page_number": 9,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_71"
     }
   },
   {
@@ -724,7 +796,8 @@
       "section_heading": "Additional References",
       "page_number": 9,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_72"
     }
   },
   {
@@ -734,7 +807,8 @@
       "section_heading": "Conclusion",
       "page_number": 9,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_73"
     }
   },
   {
@@ -744,7 +818,8 @@
       "section_heading": "References",
       "page_number": 10,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_74"
     }
   },
   {
@@ -754,7 +829,8 @@
       "section_heading": "References",
       "page_number": 10,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_75"
     }
   },
   {
@@ -764,7 +840,8 @@
       "section_heading": "References",
       "page_number": 10,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_76"
     }
   },
   {
@@ -774,7 +851,8 @@
       "section_heading": "References",
       "page_number": 10,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_77"
     }
   },
   {
@@ -784,7 +862,8 @@
       "section_heading": "References",
       "page_number": 10,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_78"
     }
   },
   {
@@ -794,7 +873,8 @@
       "section_heading": "References",
       "page_number": 10,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_79"
     }
   },
   {
@@ -804,7 +884,8 @@
       "section_heading": "References",
       "page_number": 10,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_80"
     }
   },
   {
@@ -814,7 +895,8 @@
       "section_heading": "References",
       "page_number": 10,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_81"
     }
   },
   {
@@ -823,7 +905,8 @@
       "chapter_name": "Prevention or Delay of Diabetes",
       "page_number": 11,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_82"
     }
   },
   {
@@ -833,7 +916,8 @@
       "section_heading": "References",
       "page_number": 11,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_83"
     }
   },
   {
@@ -843,7 +927,8 @@
       "section_heading": "References",
       "page_number": 11,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_84"
     }
   },
   {
@@ -853,7 +938,8 @@
       "section_heading": "References",
       "page_number": 11,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_85"
     }
   },
   {
@@ -863,7 +949,8 @@
       "section_heading": "References",
       "page_number": 11,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_86"
     }
   },
   {
@@ -873,7 +960,8 @@
       "section_heading": "References",
       "page_number": 11,
       "source": "ada_chapter3.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter3.pdf",
+      "chunk_id": "5_87"
     }
   }
 ]

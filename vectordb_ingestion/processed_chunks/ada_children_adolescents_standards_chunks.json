@@ -5,7 +5,8 @@
       "chapter_name": "Children and Adolescents: American Diabetes Association Standards of Care in Diabetes—2026",
       "page_number": 1,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_0"
     }
   },
   {
@@ -14,7 +15,8 @@
       "chapter_name": "Children and Adolescents: American Diabetes Association Standards of Care in Diabetes—2026",
       "page_number": 1,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_1"
     }
   },
   {
@@ -23,7 +25,8 @@
       "chapter_name": "Children and Adolescents: American Diabetes Association Standards of Care in Diabetes—2026",
       "page_number": 1,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_2"
     }
   },
   {
@@ -32,7 +35,8 @@
       "chapter_name": "Children and Adolescents: American Diabetes Association Standards of Care in Diabetes—2026",
       "page_number": 1,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_3"
     }
   },
   {
@@ -42,7 +46,8 @@
       "section_heading": "Table 14.1: Recommendations for Screening and Treatment of Complications and Related Conditions in Pediatric Type 1 Diabetes and Type 2 Diabetes",
       "page_number": 1,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_4"
     }
   },
   {
@@ -52,7 +57,8 @@
       "section_heading": "Table 14.1: Recommendations for Screening and Treatment of Complications and Related Conditions in Pediatric Type 1 Diabetes and Type 2 Diabetes",
       "page_number": 1,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_5"
     }
   },
   {
@@ -62,7 +68,8 @@
       "section_heading": "Table 14.1: Recommendations for Screening and Treatment of Complications and Related Conditions in Pediatric Type 1 Diabetes and Type 2 Diabetes",
       "page_number": 1,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_6"
     }
   },
   {
@@ -71,7 +78,8 @@
       "chapter_name": "Children and Adolescents",
       "page_number": 2,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_7"
     }
   },
   {
@@ -80,7 +88,8 @@
       "chapter_name": "Children and Adolescents",
       "page_number": 2,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_8"
     }
   },
   {
@@ -89,7 +98,8 @@
       "chapter_name": "Children and Adolescents",
       "page_number": 2,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_9"
     }
   },
   {
@@ -99,7 +109,8 @@
       "section_heading": "Recommendation",
       "page_number": 2,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_10"
     }
   },
   {
@@ -109,7 +120,8 @@
       "section_heading": "Recommendation",
       "page_number": 2,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_11"
     }
   },
   {
@@ -119,7 +131,8 @@
       "section_heading": "Recommendation",
       "page_number": 2,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_12"
     }
   },
   {
@@ -130,7 +143,8 @@
       "subsection_heading": "Diabetes Self-Management Education and Support",
       "page_number": 2,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_13"
     }
   },
   {
@@ -141,7 +155,8 @@
       "subsection_heading": "Diabetes Self-Management Education and Support",
       "page_number": 2,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_14"
     }
   },
   {
@@ -152,7 +167,8 @@
       "subsection_heading": "Diabetes Self-Management Education and Support",
       "page_number": 2,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_15"
     }
   },
   {
@@ -163,7 +179,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 3,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_16"
     }
   },
   {
@@ -174,7 +191,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 3,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_17"
     }
   },
   {
@@ -185,7 +203,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 3,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_18"
     }
   },
   {
@@ -196,7 +215,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 3,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_19"
     }
   },
   {
@@ -207,7 +227,8 @@
       "subsection_heading": "Management of New-Onset Diabetes in Youth with Overweight or Obesity with Clinical Suspicion of Type 2 Diabetes",
       "page_number": 4,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_20"
     }
   },
   {
@@ -218,7 +239,8 @@
       "subsection_heading": "Pancreatic Autoantibodies",
       "page_number": 4,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_21"
     }
   },
   {
@@ -229,7 +251,8 @@
       "subsection_heading": "A1C Goals Not Met",
       "page_number": 4,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_22"
     }
   },
   {
@@ -240,7 +263,8 @@
       "subsection_heading": "Education on Hypoglycemia",
       "page_number": 4,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_23"
     }
   },
   {
@@ -251,7 +275,8 @@
       "subsection_heading": "Importance of Physical Activity",
       "page_number": 4,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_24"
     }
   },
   {
@@ -262,7 +287,8 @@
       "subsection_heading": "School and Child Care",
       "page_number": 4,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_25"
     }
   },
   {
@@ -273,7 +299,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 5,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_26"
     }
   },
   {
@@ -284,7 +311,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 5,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_27"
     }
   },
   {
@@ -295,7 +323,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 5,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_28"
     }
   },
   {
@@ -306,7 +335,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 5,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_29"
     }
   },
   {
@@ -317,7 +347,8 @@
       "subsection_heading": "Additional Considerations",
       "page_number": 5,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_30"
     }
   },
   {
@@ -328,7 +359,8 @@
       "subsection_heading": "Additional Considerations",
       "page_number": 5,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_31"
     }
   },
   {
@@ -339,7 +371,8 @@
       "subsection_heading": "Additional Considerations",
       "page_number": 5,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_32"
     }
   },
   {
@@ -349,7 +382,8 @@
       "section_heading": "Diabetes Care Volume 49, Supplement 1, January 2026",
       "page_number": 6,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_33"
     }
   },
   {
@@ -359,7 +393,8 @@
       "section_heading": "Diabetes Care Volume 49, Supplement 1, January 2026",
       "page_number": 6,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_34"
     }
   },
   {
@@ -369,7 +404,8 @@
       "section_heading": "Diabetes Care Volume 49, Supplement 1, January 2026",
       "page_number": 6,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_35"
     }
   },
   {
@@ -380,7 +416,8 @@
       "subsection_heading": "Glycemic Monitoring, Insulin Delivery, and Goals Recommendations",
       "page_number": 6,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_36"
     }
   },
   {
@@ -391,7 +428,8 @@
       "subsection_heading": "Glycemic Monitoring, Insulin Delivery, and Goals Recommendations",
       "page_number": 6,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_37"
     }
   },
   {
@@ -402,7 +440,8 @@
       "subsection_heading": "Glycemic Monitoring, Insulin Delivery, and Goals Recommendations",
       "page_number": 6,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_38"
     }
   },
   {
@@ -413,7 +452,8 @@
       "subsection_heading": "Glycemic Monitoring, Insulin Delivery, and Goals Recommendations",
       "page_number": 6,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_39"
     }
   },
   {
@@ -423,7 +463,8 @@
       "section_heading": "Type 1 Diabetes in Children and Adolescents",
       "page_number": 7,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_40"
     }
   },
   {
@@ -434,7 +475,8 @@
       "subsection_heading": "Key Concepts in Setting Glycemic Goals",
       "page_number": 7,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_41"
     }
   },
   {
@@ -445,7 +487,8 @@
       "subsection_heading": "Exercise Needs Specific to Children and Adolescents With Type 1 Diabetes",
       "page_number": 7,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_42"
     }
   },
   {
@@ -456,7 +499,8 @@
       "subsection_heading": "Continuous Glucose Monitoring (CGM) and Glycemic Assessment",
       "page_number": 7,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_43"
     }
   },
   {
@@ -467,7 +511,8 @@
       "subsection_heading": "Summary of Recommendations",
       "page_number": 7,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_44"
     }
   },
   {
@@ -478,7 +523,8 @@
       "subsection_heading": "Table of CGM Metrics",
       "page_number": 7,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_45"
     }
   },
   {
@@ -489,7 +535,8 @@
       "subsection_heading": "Conclusion",
       "page_number": 7,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_46"
     }
   },
   {
@@ -499,7 +546,8 @@
       "section_heading": "Diabetes Care Volume 49, Supplement 1, January 2026",
       "page_number": 8,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_47"
     }
   },
   {
@@ -509,7 +557,8 @@
       "section_heading": "Diabetes Care Volume 49, Supplement 1, January 2026",
       "page_number": 8,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_48"
     }
   },
   {
@@ -519,7 +568,8 @@
       "section_heading": "Diabetes Care Volume 49, Supplement 1, January 2026",
       "page_number": 8,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_49"
     }
   },
   {
@@ -529,7 +579,8 @@
       "section_heading": "TYPE 2 DIABETES IN CHILDREN AND ADOLESCENTS",
       "page_number": 8,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_50"
     }
   },
   {
@@ -540,7 +591,8 @@
       "subsection_heading": "Screening and Diagnosis of Type 2 Diabetes in Children and Adolescents Recommendations",
       "page_number": 8,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_51"
     }
   },
   {
@@ -551,7 +603,8 @@
       "subsection_heading": "Screening and Diagnosis of Type 2 Diabetes in Children and Adolescents Recommendations",
       "page_number": 8,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_52"
     }
   },
   {
@@ -562,7 +615,8 @@
       "subsection_heading": "Diagnostic Challenges: Overlap of Type 1 and Type 2 Diabetes",
       "page_number": 8,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_53"
     }
   },
   {
@@ -573,7 +627,8 @@
       "subsection_heading": "Diagnostic Challenges: Overlap of Type 1 and Type 2 Diabetes",
       "page_number": 8,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_54"
     }
   },
   {
@@ -583,7 +638,8 @@
       "section_heading": "Exercise Needs Specific to Children and Adolescents With Type 2 Diabetes",
       "page_number": 9,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_55"
     }
   },
   {
@@ -593,7 +649,8 @@
       "section_heading": "Pharmacologic Management Recommendations",
       "page_number": 9,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_56"
     }
   },
   {
@@ -603,7 +660,8 @@
       "section_heading": "Pharmacologic Management Recommendations",
       "page_number": 9,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_57"
     }
   },
   {
@@ -613,7 +671,8 @@
       "section_heading": "Glycemic Goals Recommendations",
       "page_number": 9,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_58"
     }
   },
   {
@@ -623,7 +682,8 @@
       "section_heading": "Current Pharmacologic Treatment Options",
       "page_number": 9,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_59"
     }
   },
   {
@@ -633,7 +693,8 @@
       "section_heading": "Diabetes Care Volume 49, Supplement 1, January 2026",
       "page_number": 10,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_60"
     }
   },
   {
@@ -643,7 +704,8 @@
       "section_heading": "Diabetes Care Volume 49, Supplement 1, January 2026",
       "page_number": 10,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_61"
     }
   },
   {
@@ -653,7 +715,8 @@
       "section_heading": "Diabetes Care Volume 49, Supplement 1, January 2026",
       "page_number": 10,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_62"
     }
   },
   {
@@ -663,7 +726,8 @@
       "section_heading": "Diabetes Care Volume 49, Supplement 1, January 2026",
       "page_number": 10,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_63"
     }
   },
   {
@@ -673,7 +737,8 @@
       "section_heading": "Recommendations",
       "page_number": 10,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_64"
     }
   },
   {
@@ -683,7 +748,8 @@
       "section_heading": "Recommendations",
       "page_number": 10,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_65"
     }
   },
   {
@@ -693,7 +759,8 @@
       "section_heading": "Recommendations 14.43–14.79",
       "page_number": 11,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_66"
     }
   },
   {
@@ -703,7 +770,8 @@
       "section_heading": "Recommendations 14.43–14.79",
       "page_number": 11,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_67"
     }
   },
   {
@@ -713,7 +781,8 @@
       "section_heading": "Autoimmune Conditions",
       "page_number": 11,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_68"
     }
   },
   {
@@ -724,7 +793,8 @@
       "subsection_heading": "Thyroid Disease",
       "page_number": 11,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_69"
     }
   },
   {
@@ -735,7 +805,8 @@
       "subsection_heading": "Thyroid Disease",
       "page_number": 11,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_70"
     }
   },
   {
@@ -746,7 +817,8 @@
       "subsection_heading": "Celiac Disease",
       "page_number": 11,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_71"
     }
   },
   {
@@ -757,7 +829,8 @@
       "subsection_heading": "Hypertension",
       "page_number": 11,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_72"
     }
   },
   {
@@ -768,7 +841,8 @@
       "subsection_heading": "Dyslipidemia",
       "page_number": 11,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_73"
     }
   },
   {
@@ -779,7 +853,8 @@
       "subsection_heading": "Recommendations for Adolescents",
       "page_number": 12,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_74"
     }
   },
   {
@@ -790,7 +865,8 @@
       "subsection_heading": "Management of Dyslipidemia",
       "page_number": 12,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_75"
     }
   },
   {
@@ -801,7 +877,8 @@
       "subsection_heading": "Management of Hypertension",
       "page_number": 12,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_76"
     }
   },
   {
@@ -812,7 +889,8 @@
       "subsection_heading": "Additional Considerations",
       "page_number": 12,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_77"
     }
   },
   {
@@ -823,7 +901,8 @@
       "subsection_heading": "Conclusion",
       "page_number": 12,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_78"
     }
   },
   {
@@ -834,7 +913,8 @@
       "subsection_heading": "Recommendations for Children and Adolescents",
       "page_number": 13,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_79"
     }
   },
   {
@@ -845,7 +925,8 @@
       "subsection_heading": "Risk Factors",
       "page_number": 13,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_80"
     }
   },
   {
@@ -856,7 +937,8 @@
       "subsection_heading": "Recommendations for Screening",
       "page_number": 13,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_81"
     }
   },
   {
@@ -867,7 +949,8 @@
       "subsection_heading": "Management",
       "page_number": 13,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_82"
     }
   },
   {
@@ -877,7 +960,8 @@
       "section_heading": "Summary Table",
       "page_number": 13,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_83"
     }
   },
   {
@@ -888,7 +972,8 @@
       "subsection_heading": "Additional Notes",
       "page_number": 13,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_84"
     }
   },
   {
@@ -899,7 +984,8 @@
       "subsection_heading": "Recommendations for Diabetes Management in Children and Adolescents",
       "page_number": 14,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_85"
     }
   },
   {
@@ -910,7 +996,8 @@
       "subsection_heading": "Recommendations for Diabetes Management in Children and Adolescents",
       "page_number": 14,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_86"
     }
   },
   {
@@ -921,7 +1008,8 @@
       "subsection_heading": "Table: Diabetes Screening and Assessment Recommendations",
       "page_number": 14,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_87"
     }
   },
   {
@@ -932,7 +1020,8 @@
       "subsection_heading": "Additional Considerations",
       "page_number": 14,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_88"
     }
   },
   {
@@ -943,7 +1032,8 @@
       "subsection_heading": "Conclusion",
       "page_number": 14,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_89"
     }
   },
   {
@@ -954,7 +1044,8 @@
       "subsection_heading": "Nutrition Therapy",
       "page_number": 15,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_90"
     }
   },
   {
@@ -965,7 +1056,8 @@
       "subsection_heading": "Screening for Autoimmune Conditions",
       "page_number": 15,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_91"
     }
   },
   {
@@ -976,7 +1068,8 @@
       "subsection_heading": "Monitoring and Management",
       "page_number": 15,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_92"
     }
   },
   {
@@ -987,7 +1080,8 @@
       "subsection_heading": "Recommendations for Screening and Follow-Up",
       "page_number": 15,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_93"
     }
   },
   {
@@ -998,7 +1092,8 @@
       "subsection_heading": "Table of Recommendations",
       "page_number": 15,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_94"
     }
   },
   {
@@ -1009,7 +1104,8 @@
       "subsection_heading": "Conclusion",
       "page_number": 15,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_95"
     }
   },
   {
@@ -1020,7 +1116,8 @@
       "subsection_heading": "Pathophysiology",
       "page_number": 16,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_96"
     }
   },
   {
@@ -1031,7 +1128,8 @@
       "subsection_heading": "Screening",
       "page_number": 16,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_97"
     }
   },
   {
@@ -1042,7 +1140,8 @@
       "subsection_heading": "Screening",
       "page_number": 16,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_98"
     }
   },
   {
@@ -1053,7 +1152,8 @@
       "subsection_heading": "Treatment",
       "page_number": 16,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_99"
     }
   },
   {
@@ -1064,7 +1164,8 @@
       "subsection_heading": "Retinopathy",
       "page_number": 16,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_100"
     }
   },
   {
@@ -1075,7 +1176,8 @@
       "subsection_heading": "Neuropathy",
       "page_number": 16,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_101"
     }
   },
   {
@@ -1086,7 +1188,8 @@
       "subsection_heading": "Nephropathy",
       "page_number": 16,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_102"
     }
   },
   {
@@ -1097,7 +1200,8 @@
       "subsection_heading": "Type 2 Diabetes Comorbidities",
       "page_number": 16,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_103"
     }
   },
   {
@@ -1107,7 +1211,8 @@
       "section_heading": "Children and Adolescents",
       "page_number": 17,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_104"
     }
   },
   {
@@ -1117,7 +1222,8 @@
       "section_heading": "Children and Adolescents",
       "page_number": 17,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_105"
     }
   },
   {
@@ -1127,7 +1233,8 @@
       "section_heading": "Children and Adolescents",
       "page_number": 17,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_106"
     }
   },
   {
@@ -1137,7 +1244,8 @@
       "section_heading": "Children and Adolescents",
       "page_number": 17,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_107"
     }
   },
   {
@@ -1148,7 +1256,8 @@
       "subsection_heading": "Substance Use Among All Children and Adolescents with Diabetes",
       "page_number": 17,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_108"
     }
   },
   {
@@ -1159,7 +1268,8 @@
       "subsection_heading": "Substance Use Among All Children and Adolescents with Diabetes",
       "page_number": 17,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_109"
     }
   },
   {
@@ -1170,7 +1280,8 @@
       "subsection_heading": "Substance Use Among All Children and Adolescents with Diabetes",
       "page_number": 17,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_110"
     }
   },
   {
@@ -1181,7 +1292,8 @@
       "subsection_heading": "Substance Use Among All Children and Adolescents with Diabetes",
       "page_number": 17,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_111"
     }
   },
   {
@@ -1192,7 +1304,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 17,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_112"
     }
   },
   {
@@ -1201,7 +1314,8 @@
       "chapter_name": "Children and Adolescents",
       "page_number": 18,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_113"
     }
   },
   {
@@ -1210,7 +1324,8 @@
       "chapter_name": "Children and Adolescents",
       "page_number": 18,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_114"
     }
   },
   {
@@ -1219,7 +1334,8 @@
       "chapter_name": "Children and Adolescents",
       "page_number": 18,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_115"
     }
   },
   {
@@ -1228,7 +1344,8 @@
       "chapter_name": "Children and Adolescents",
       "page_number": 18,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_116"
     }
   },
   {
@@ -1237,7 +1354,8 @@
       "chapter_name": "Children and Adolescents",
       "page_number": 18,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_117"
     }
   },
   {
@@ -1247,7 +1365,8 @@
       "section_heading": "References",
       "page_number": 18,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_118"
     }
   },
   {
@@ -1257,7 +1376,8 @@
       "section_heading": "References",
       "page_number": 18,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_119"
     }
   },
   {
@@ -1267,7 +1387,8 @@
       "section_heading": "References",
       "page_number": 18,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_120"
     }
   },
   {
@@ -1277,7 +1398,8 @@
       "section_heading": "References",
       "page_number": 18,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_121"
     }
   },
   {
@@ -1287,7 +1409,8 @@
       "section_heading": "References",
       "page_number": 18,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_122"
     }
   },
   {
@@ -1297,7 +1420,8 @@
       "section_heading": "References",
       "page_number": 18,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_123"
     }
   },
   {
@@ -1307,7 +1431,8 @@
       "section_heading": "Overview",
       "page_number": 19,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_124"
     }
   },
   {
@@ -1318,7 +1443,8 @@
       "subsection_heading": "Nonpharmacological Interventions",
       "page_number": 19,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_125"
     }
   },
   {
@@ -1329,7 +1455,8 @@
       "subsection_heading": "Exercise and Physical Activity",
       "page_number": 19,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_126"
     }
   },
   {
@@ -1340,7 +1467,8 @@
       "subsection_heading": "Psychosocial Care",
       "page_number": 19,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_127"
     }
   },
   {
@@ -1351,7 +1479,8 @@
       "subsection_heading": "Mental Health",
       "page_number": 19,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_128"
     }
   },
   {
@@ -1361,7 +1490,8 @@
       "section_heading": "Tables",
       "page_number": 19,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_129"
     }
   },
   {
@@ -1371,7 +1501,8 @@
       "section_heading": "Tables",
       "page_number": 19,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_130"
     }
   },
   {
@@ -1381,7 +1512,8 @@
       "section_heading": "Tables",
       "page_number": 19,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_131"
     }
   },
   {
@@ -1391,7 +1523,8 @@
       "section_heading": "Conclusion",
       "page_number": 19,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_132"
     }
   },
   {
@@ -1402,7 +1535,8 @@
       "subsection_heading": "References",
       "page_number": 20,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_133"
     }
   },
   {
@@ -1413,7 +1547,8 @@
       "subsection_heading": "References",
       "page_number": 20,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_134"
     }
   },
   {
@@ -1424,7 +1559,8 @@
       "subsection_heading": "References",
       "page_number": 20,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_135"
     }
   },
   {
@@ -1435,7 +1571,8 @@
       "subsection_heading": "References",
       "page_number": 20,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_136"
     }
   },
   {
@@ -1446,7 +1583,8 @@
       "subsection_heading": "References",
       "page_number": 20,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_137"
     }
   },
   {
@@ -1457,7 +1595,8 @@
       "subsection_heading": "References",
       "page_number": 20,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_138"
     }
   },
   {
@@ -1468,7 +1607,8 @@
       "subsection_heading": "References",
       "page_number": 20,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_139"
     }
   },
   {
@@ -1479,7 +1619,8 @@
       "subsection_heading": "References",
       "page_number": 20,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_140"
     }
   },
   {
@@ -1490,7 +1631,8 @@
       "subsection_heading": "References",
       "page_number": 20,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_141"
     }
   },
   {
@@ -1500,7 +1642,8 @@
       "section_heading": "Monitoring and Long-term Glycemic Control",
       "page_number": 21,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_142"
     }
   },
   {
@@ -1510,7 +1653,8 @@
       "section_heading": "Pediatric Diabetes Studies",
       "page_number": 21,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_143"
     }
   },
   {
@@ -1520,7 +1664,8 @@
       "section_heading": "Treatment and Management",
       "page_number": 21,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_144"
     }
   },
   {
@@ -1530,7 +1675,8 @@
       "section_heading": "Clinical Trials and New Treatments",
       "page_number": 21,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_145"
     }
   },
   {
@@ -1540,7 +1686,8 @@
       "section_heading": "Exercise and Diabetes Management",
       "page_number": 21,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_146"
     }
   },
   {
@@ -1550,7 +1697,8 @@
       "section_heading": "Summary of Key Studies",
       "page_number": 21,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_147"
     }
   },
   {
@@ -1561,7 +1709,8 @@
       "subsection_heading": "References",
       "page_number": 22,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_148"
     }
   },
   {
@@ -1572,7 +1721,8 @@
       "subsection_heading": "References",
       "page_number": 22,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_149"
     }
   },
   {
@@ -1583,7 +1733,8 @@
       "subsection_heading": "References",
       "page_number": 22,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_150"
     }
   },
   {
@@ -1594,7 +1745,8 @@
       "subsection_heading": "References",
       "page_number": 22,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_151"
     }
   },
   {
@@ -1605,7 +1757,8 @@
       "subsection_heading": "Additional References",
       "page_number": 22,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_152"
     }
   },
   {
@@ -1616,7 +1769,8 @@
       "subsection_heading": "Additional References",
       "page_number": 22,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_153"
     }
   },
   {
@@ -1627,7 +1781,8 @@
       "subsection_heading": "Conclusion",
       "page_number": 22,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_154"
     }
   },
   {
@@ -1638,7 +1793,8 @@
       "subsection_heading": "Type 1 Diabetes",
       "page_number": 23,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_155"
     }
   },
   {
@@ -1649,7 +1805,8 @@
       "subsection_heading": "Type 1 Diabetes",
       "page_number": 23,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_156"
     }
   },
   {
@@ -1660,7 +1817,8 @@
       "subsection_heading": "Type 1 Diabetes",
       "page_number": 23,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_157"
     }
   },
   {
@@ -1671,7 +1829,8 @@
       "subsection_heading": "Cardiovascular Risk Factors",
       "page_number": 23,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_158"
     }
   },
   {
@@ -1682,7 +1841,8 @@
       "subsection_heading": "Cardiovascular Risk Factors",
       "page_number": 23,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_159"
     }
   },
   {
@@ -1693,7 +1853,8 @@
       "subsection_heading": "Additional Studies",
       "page_number": 23,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_160"
     }
   },
   {
@@ -1704,7 +1865,8 @@
       "subsection_heading": "Additional Studies",
       "page_number": 23,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_161"
     }
   },
   {
@@ -1715,7 +1877,8 @@
       "subsection_heading": "Additional Studies",
       "page_number": 23,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_162"
     }
   },
   {
@@ -1726,7 +1889,8 @@
       "subsection_heading": "References",
       "page_number": 24,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_163"
     }
   },
   {
@@ -1737,7 +1901,8 @@
       "subsection_heading": "References",
       "page_number": 24,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_164"
     }
   },
   {
@@ -1748,7 +1913,8 @@
       "subsection_heading": "References",
       "page_number": 24,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_165"
     }
   },
   {
@@ -1759,7 +1925,8 @@
       "subsection_heading": "References",
       "page_number": 24,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_166"
     }
   },
   {
@@ -1770,7 +1937,8 @@
       "subsection_heading": "References",
       "page_number": 24,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_167"
     }
   },
   {
@@ -1781,7 +1949,8 @@
       "subsection_heading": "References",
       "page_number": 24,
       "source": "ada_children_adolescents_standards.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_children_adolescents_standards.pdf",
+      "chunk_id": "8_168"
     }
   }
 ]

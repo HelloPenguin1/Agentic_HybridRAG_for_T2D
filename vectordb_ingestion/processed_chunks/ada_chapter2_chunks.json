@@ -5,7 +5,8 @@
       "chapter_name": "Diagnosis and Classification of Diabetes: Standards of Care in Diabetes—2026",
       "page_number": 1,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_0"
     }
   },
   {
@@ -14,7 +15,8 @@
       "chapter_name": "Diagnosis and Classification of Diabetes: Standards of Care in Diabetes—2026",
       "page_number": 1,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_1"
     }
   },
   {
@@ -24,7 +26,8 @@
       "section_heading": "Diagnostic Tests for Diabetes",
       "page_number": 1,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_2"
     }
   },
   {
@@ -35,7 +38,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 1,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_3"
     }
   },
   {
@@ -46,7 +50,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 1,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_4"
     }
   },
   {
@@ -57,7 +62,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 1,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_5"
     }
   },
   {
@@ -66,7 +72,8 @@
       "chapter_name": "Diagnosis and Classification of Diabetes",
       "page_number": 2,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_6"
     }
   },
   {
@@ -76,7 +83,8 @@
       "section_heading": "Table 2.1—Criteria for the diagnosis of diabetes in nonpregnant individuals",
       "page_number": 2,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_7"
     }
   },
   {
@@ -86,7 +94,8 @@
       "section_heading": "Table 2.1—Criteria for the diagnosis of diabetes in nonpregnant individuals",
       "page_number": 2,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_8"
     }
   },
   {
@@ -96,7 +105,8 @@
       "section_heading": "Use of Fasting Plasma Glucose or 2-Hour Plasma Glucose for Screening and Diagnosis of Diabetes",
       "page_number": 2,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_9"
     }
   },
   {
@@ -106,7 +116,8 @@
       "section_heading": "Use of Fasting Plasma Glucose or 2-Hour Plasma Glucose for Screening and Diagnosis of Diabetes",
       "page_number": 2,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_10"
     }
   },
   {
@@ -116,7 +127,8 @@
       "section_heading": "Use of Fasting Plasma Glucose or 2-Hour Plasma Glucose for Screening and Diagnosis of Diabetes",
       "page_number": 2,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_11"
     }
   },
   {
@@ -126,7 +138,8 @@
       "section_heading": "Use of Fasting Plasma Glucose or 2-Hour Plasma Glucose for Screening and Diagnosis of Diabetes",
       "page_number": 2,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_12"
     }
   },
   {
@@ -136,7 +149,8 @@
       "section_heading": "Table 2.2—Criteria defining prediabetes in nonpregnant individuals",
       "page_number": 2,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_13"
     }
   },
   {
@@ -147,7 +161,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 2,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_14"
     }
   },
   {
@@ -157,7 +172,8 @@
       "section_heading": "Table 2.3—Considerations related to the use and interpretation of laboratory measurements of glucose and A1C",
       "page_number": 3,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_15"
     }
   },
   {
@@ -167,7 +183,8 @@
       "section_heading": "Table 2.3—Considerations related to the use and interpretation of laboratory measurements of glucose and A1C",
       "page_number": 3,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_16"
     }
   },
   {
@@ -177,7 +194,8 @@
       "section_heading": "Table 2.3—Considerations related to the use and interpretation of laboratory measurements of glucose and A1C",
       "page_number": 3,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_17"
     }
   },
   {
@@ -188,7 +206,8 @@
       "subsection_heading": "2.2b",
       "page_number": 3,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_18"
     }
   },
   {
@@ -199,7 +218,8 @@
       "subsection_heading": "2.3",
       "page_number": 3,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_19"
     }
   },
   {
@@ -210,7 +230,8 @@
       "subsection_heading": "2.4",
       "page_number": 3,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_20"
     }
   },
   {
@@ -221,7 +242,8 @@
       "subsection_heading": "2.4",
       "page_number": 3,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_21"
     }
   },
   {
@@ -232,7 +254,8 @@
       "subsection_heading": "2.4",
       "page_number": 3,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_22"
     }
   },
   {
@@ -243,7 +266,8 @@
       "subsection_heading": "2.4",
       "page_number": 3,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_23"
     }
   },
   {
@@ -252,7 +276,8 @@
       "chapter_name": "Diagnosis and Classification of Diabetes",
       "page_number": 4,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_24"
     }
   },
   {
@@ -261,7 +286,8 @@
       "chapter_name": "Diagnosis and Classification of Diabetes",
       "page_number": 4,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_25"
     }
   },
   {
@@ -270,7 +296,8 @@
       "chapter_name": "Diagnosis and Classification of Diabetes",
       "page_number": 4,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_26"
     }
   },
   {
@@ -280,7 +307,8 @@
       "section_heading": "Confirming the Diagnosis",
       "page_number": 4,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_27"
     }
   },
   {
@@ -290,7 +318,8 @@
       "section_heading": "Confirming the Diagnosis",
       "page_number": 4,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_28"
     }
   },
   {
@@ -300,7 +329,8 @@
       "section_heading": "Confirming the Diagnosis",
       "page_number": 4,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_29"
     }
   },
   {
@@ -311,7 +341,8 @@
       "subsection_heading": "Classification",
       "page_number": 4,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_30"
     }
   },
   {
@@ -322,7 +353,8 @@
       "subsection_heading": "Classification",
       "page_number": 4,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_31"
     }
   },
   {
@@ -333,7 +365,8 @@
       "subsection_heading": "Classification",
       "page_number": 4,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_32"
     }
   },
   {
@@ -344,7 +377,8 @@
       "subsection_heading": "Classification",
       "page_number": 4,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_33"
     }
   },
   {
@@ -355,7 +389,8 @@
       "subsection_heading": "Table 2.3: Clinical Characteristics of Diabetes Types",
       "page_number": 4,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_34"
     }
   },
   {
@@ -365,7 +400,8 @@
       "section_heading": "Flowchart for Investigation of Suspected Type 1 Diabetes in Newly Diagnosed Adults",
       "page_number": 5,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_35"
     }
   },
   {
@@ -376,7 +412,8 @@
       "subsection_heading": "Adult with Suspected Type 1 Diabetes¹",
       "page_number": 5,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_36"
     }
   },
   {
@@ -387,7 +424,8 @@
       "subsection_heading": "Figure 2.1—Flowchart for Investigation of Suspected Type 1 Diabetes in Newly Diagnosed Adults",
       "page_number": 5,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_37"
     }
   },
   {
@@ -398,7 +436,8 @@
       "subsection_heading": "Figure 2.1—Flowchart for Investigation of Suspected Type 1 Diabetes in Newly Diagnosed Adults",
       "page_number": 5,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_38"
     }
   },
   {
@@ -409,7 +448,8 @@
       "subsection_heading": "Figure 2.1—Flowchart for Investigation of Suspected Type 1 Diabetes in Newly Diagnosed Adults",
       "page_number": 5,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_39"
     }
   },
   {
@@ -420,7 +460,8 @@
       "subsection_heading": "Figure 2.1—Flowchart for Investigation of Suspected Type 1 Diabetes in Newly Diagnosed Adults",
       "page_number": 5,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_40"
     }
   },
   {
@@ -431,7 +472,8 @@
       "subsection_heading": "Figure 2.1—Flowchart for Investigation of Suspected Type 1 Diabetes in Newly Diagnosed Adults",
       "page_number": 5,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_41"
     }
   },
   {
@@ -440,7 +482,8 @@
       "chapter_name": "Diagnosis and Classification of Diabetes",
       "page_number": 6,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_42"
     }
   },
   {
@@ -450,7 +493,8 @@
       "section_heading": "Type 1 vs. Type 2 Diabetes",
       "page_number": 6,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_43"
     }
   },
   {
@@ -460,7 +504,8 @@
       "section_heading": "Type 1 vs. Type 2 Diabetes",
       "page_number": 6,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_44"
     }
   },
   {
@@ -470,7 +515,8 @@
       "section_heading": "Type 1 vs. Type 2 Diabetes",
       "page_number": 6,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_45"
     }
   },
   {
@@ -480,7 +526,8 @@
       "section_heading": "Type 1 vs. Type 2 Diabetes",
       "page_number": 6,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_46"
     }
   },
   {
@@ -490,7 +537,8 @@
       "section_heading": "Staging of Type 1 Diabetes",
       "page_number": 6,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_47"
     }
   },
   {
@@ -500,7 +548,8 @@
       "section_heading": "Staging of Type 1 Diabetes",
       "page_number": 6,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_48"
     }
   },
   {
@@ -510,7 +559,8 @@
       "section_heading": "Staging of Type 1 Diabetes",
       "page_number": 6,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_49"
     }
   },
   {
@@ -520,7 +570,8 @@
       "section_heading": "Staging of Type 1 Diabetes",
       "page_number": 6,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_50"
     }
   },
   {
@@ -531,7 +582,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 7,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_51"
     }
   },
   {
@@ -542,7 +594,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 7,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_52"
     }
   },
   {
@@ -553,7 +606,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 7,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_53"
     }
   },
   {
@@ -564,7 +618,8 @@
       "subsection_heading": "Table 2.4: Risk of Progression to Type 1 Diabetes",
       "page_number": 7,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_54"
     }
   },
   {
@@ -574,7 +629,8 @@
       "section_heading": "Immune-Mediated Diabetes",
       "page_number": 7,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_55"
     }
   },
   {
@@ -584,7 +640,8 @@
       "section_heading": "Immune-Mediated Diabetes",
       "page_number": 7,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_56"
     }
   },
   {
@@ -593,7 +650,8 @@
       "chapter_name": "Diagnosis and Classification of Diabetes",
       "page_number": 8,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_57"
     }
   },
   {
@@ -603,7 +661,8 @@
       "section_heading": "Type 1 Diabetes",
       "page_number": 8,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_58"
     }
   },
   {
@@ -614,7 +673,8 @@
       "subsection_heading": "Immune Checkpoint Inhibitor–Induced Autoimmune Diabetes",
       "page_number": 8,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_59"
     }
   },
   {
@@ -625,7 +685,8 @@
       "subsection_heading": "Immune Checkpoint Inhibitor–Induced Autoimmune Diabetes",
       "page_number": 8,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_60"
     }
   },
   {
@@ -636,7 +697,8 @@
       "subsection_heading": "Risk Factors and Genetic Considerations",
       "page_number": 8,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_61"
     }
   },
   {
@@ -647,7 +709,8 @@
       "subsection_heading": "Risk Factors and Genetic Considerations",
       "page_number": 8,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_62"
     }
   },
   {
@@ -658,7 +721,8 @@
       "subsection_heading": "Idiopathic Type 1 Diabetes",
       "page_number": 8,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_63"
     }
   },
   {
@@ -668,7 +732,8 @@
       "section_heading": "Screening for Type 1 Diabetes Risk",
       "page_number": 8,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_64"
     }
   },
   {
@@ -679,7 +744,8 @@
       "subsection_heading": "Genetic Risk Scores",
       "page_number": 8,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_65"
     }
   },
   {
@@ -690,7 +756,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 9,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_66"
     }
   },
   {
@@ -701,7 +768,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 9,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_67"
     }
   },
   {
@@ -712,7 +780,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 9,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_68"
     }
   },
   {
@@ -723,7 +792,8 @@
       "subsection_heading": "Table 2.5—Criteria for screening for diabetes or prediabetes in asymptomatic adults",
       "page_number": 9,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_69"
     }
   },
   {
@@ -734,7 +804,8 @@
       "subsection_heading": "Table 2.5—Criteria for screening for diabetes or prediabetes in asymptomatic adults",
       "page_number": 9,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_70"
     }
   },
   {
@@ -745,7 +816,8 @@
       "subsection_heading": "Prediabetes",
       "page_number": 9,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_71"
     }
   },
   {
@@ -756,7 +828,8 @@
       "subsection_heading": "Prediabetes",
       "page_number": 9,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_72"
     }
   },
   {
@@ -765,7 +838,8 @@
       "chapter_name": "Diagnosis and Classification of Diabetes",
       "page_number": 10,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_73"
     }
   },
   {
@@ -775,7 +849,8 @@
       "section_heading": "Risk-based Screening for Type 2 Diabetes or Prediabetes in Asymptomatic Children and Adolescents in a Clinical Setting",
       "page_number": 10,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_74"
     }
   },
   {
@@ -785,7 +860,8 @@
       "section_heading": "Risk-based Screening for Type 2 Diabetes or Prediabetes in Asymptomatic Children and Adolescents in a Clinical Setting",
       "page_number": 10,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_75"
     }
   },
   {
@@ -795,7 +871,8 @@
       "section_heading": "Type 2 Diabetes",
       "page_number": 10,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_76"
     }
   },
   {
@@ -806,7 +883,8 @@
       "subsection_heading": "Diagnosis of Prediabetes",
       "page_number": 10,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_77"
     }
   },
   {
@@ -817,7 +895,8 @@
       "subsection_heading": "Diagnosis of Prediabetes",
       "page_number": 10,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_78"
     }
   },
   {
@@ -828,7 +907,8 @@
       "subsection_heading": "Diagnosis of Prediabetes",
       "page_number": 10,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_79"
     }
   },
   {
@@ -839,7 +919,8 @@
       "subsection_heading": "Diagnosis of Prediabetes",
       "page_number": 10,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_80"
     }
   },
   {
@@ -850,7 +931,8 @@
       "subsection_heading": "Table 2.5: Criteria for Screening for Prediabetes",
       "page_number": 10,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_81"
     }
   },
   {
@@ -860,7 +942,8 @@
       "section_heading": "Overview",
       "page_number": 11,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_82"
     }
   },
   {
@@ -870,7 +953,8 @@
       "section_heading": "Overview",
       "page_number": 11,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_83"
     }
   },
   {
@@ -880,7 +964,8 @@
       "section_heading": "Screening and Testing for Prediabetes and Type 2 Diabetes in Asymptomatic Adults",
       "page_number": 11,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_84"
     }
   },
   {
@@ -891,7 +976,8 @@
       "subsection_heading": "Age",
       "page_number": 11,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_85"
     }
   },
   {
@@ -902,7 +988,8 @@
       "subsection_heading": "Medications",
       "page_number": 11,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_86"
     }
   },
   {
@@ -913,7 +1000,8 @@
       "subsection_heading": "People With HIV",
       "page_number": 11,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_87"
     }
   },
   {
@@ -923,7 +1011,8 @@
       "section_heading": "Table 2.1: Risk Factors for Prediabetes and Type 2 Diabetes",
       "page_number": 11,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_88"
     }
   },
   {
@@ -933,7 +1022,8 @@
       "section_heading": "Table 2.5: Screening Recommendations",
       "page_number": 11,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_89"
     }
   },
   {
@@ -943,7 +1033,8 @@
       "section_heading": "Conclusion",
       "page_number": 11,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_90"
     }
   },
   {
@@ -952,7 +1043,8 @@
       "chapter_name": "Diagnosis and Classification of Diabetes",
       "page_number": 12,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_91"
     }
   },
   {
@@ -962,7 +1054,8 @@
       "section_heading": "Screening Protocols",
       "page_number": 12,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_92"
     }
   },
   {
@@ -973,7 +1066,8 @@
       "subsection_heading": "Diabetes Induced by Systemic Anti-Cancer Therapy",
       "page_number": 12,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_93"
     }
   },
   {
@@ -984,7 +1078,8 @@
       "subsection_heading": "Diabetes Induced by Systemic Anti-Cancer Therapy",
       "page_number": 12,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_94"
     }
   },
   {
@@ -994,7 +1089,8 @@
       "section_heading": "Screening in Dental Practices",
       "page_number": 12,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_95"
     }
   },
   {
@@ -1004,7 +1100,8 @@
       "section_heading": "Testing Interval",
       "page_number": 12,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_96"
     }
   },
   {
@@ -1014,7 +1111,8 @@
       "section_heading": "Community Screening",
       "page_number": 12,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_97"
     }
   },
   {
@@ -1024,7 +1122,8 @@
       "section_heading": "Epidemiology of Type 2 Diabetes in Children and Adolescents",
       "page_number": 12,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_98"
     }
   },
   {
@@ -1035,7 +1134,8 @@
       "subsection_heading": "Tables",
       "page_number": 12,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_99"
     }
   },
   {
@@ -1045,7 +1145,8 @@
       "section_heading": "Immune Checkpoint Inhibitors (ICIs) and Diabetes",
       "page_number": 13,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_100"
     }
   },
   {
@@ -1055,7 +1156,8 @@
       "section_heading": "Immune Checkpoint Inhibitors (ICIs) and Diabetes",
       "page_number": 13,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_101"
     }
   },
   {
@@ -1065,7 +1167,8 @@
       "section_heading": "PI3K Inhibitors and Hyperglycemia",
       "page_number": 13,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_102"
     }
   },
   {
@@ -1075,7 +1178,8 @@
       "section_heading": "PI3K Inhibitors and Hyperglycemia",
       "page_number": 13,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_103"
     }
   },
   {
@@ -1085,7 +1189,8 @@
       "section_heading": "mTOR Inhibitors and Hyperglycemia",
       "page_number": 13,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_104"
     }
   },
   {
@@ -1095,7 +1200,8 @@
       "section_heading": "mTOR Inhibitors and Hyperglycemia",
       "page_number": 13,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_105"
     }
   },
   {
@@ -1105,7 +1211,8 @@
       "section_heading": "Pancreatic Diabetes",
       "page_number": 13,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_106"
     }
   },
   {
@@ -1116,7 +1223,8 @@
       "subsection_heading": "Recommendations for Screening",
       "page_number": 13,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_107"
     }
   },
   {
@@ -1125,7 +1233,8 @@
       "chapter_name": "Diagnosis and Classification of Diabetes",
       "page_number": 14,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_108"
     }
   },
   {
@@ -1134,7 +1243,8 @@
       "chapter_name": "Diagnosis and Classification of Diabetes",
       "page_number": 14,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_109"
     }
   },
   {
@@ -1143,7 +1253,8 @@
       "chapter_name": "Diagnosis and Classification of Diabetes",
       "page_number": 14,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_110"
     }
   },
   {
@@ -1154,7 +1265,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 14,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_111"
     }
   },
   {
@@ -1165,7 +1277,8 @@
       "subsection_heading": "Summary of Key Points",
       "page_number": 14,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_112"
     }
   },
   {
@@ -1175,7 +1288,8 @@
       "section_heading": "Monogenic Diabetes Syndromes",
       "page_number": 15,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_113"
     }
   },
   {
@@ -1186,7 +1300,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 15,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_114"
     }
   },
   {
@@ -1197,7 +1312,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 15,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_115"
     }
   },
   {
@@ -1208,7 +1324,8 @@
       "subsection_heading": "Genetic Testing",
       "page_number": 15,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_116"
     }
   },
   {
@@ -1219,7 +1336,8 @@
       "subsection_heading": "Diagnosis of Monogenic Diabetes",
       "page_number": 15,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_117"
     }
   },
   {
@@ -1230,7 +1348,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 15,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_118"
     }
   },
   {
@@ -1241,7 +1360,8 @@
       "subsection_heading": "Table 2.5: Risk Factors for Gestational Diabetes",
       "page_number": 15,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_119"
     }
   },
   {
@@ -1250,7 +1370,8 @@
       "chapter_name": "Diagnosis and Classification of Diabetes",
       "page_number": 16,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_120"
     }
   },
   {
@@ -1260,7 +1381,8 @@
       "section_heading": "Table 2.7—Most common causes of monogenic diabetes",
       "page_number": 16,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_121"
     }
   },
   {
@@ -1270,7 +1392,8 @@
       "section_heading": "Table 2.7—Most common causes of monogenic diabetes",
       "page_number": 16,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_122"
     }
   },
   {
@@ -1280,7 +1403,8 @@
       "section_heading": "Table 2.7—Most common causes of monogenic diabetes",
       "page_number": 16,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_123"
     }
   },
   {
@@ -1291,7 +1415,8 @@
       "subsection_heading": "2.31a",
       "page_number": 16,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_124"
     }
   },
   {
@@ -1302,7 +1427,8 @@
       "subsection_heading": "2.31b",
       "page_number": 16,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_125"
     }
   },
   {
@@ -1313,7 +1439,8 @@
       "subsection_heading": "2.32",
       "page_number": 16,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_126"
     }
   },
   {
@@ -1324,7 +1451,8 @@
       "subsection_heading": "2.33",
       "page_number": 16,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_127"
     }
   },
   {
@@ -1335,7 +1463,8 @@
       "subsection_heading": "Definition",
       "page_number": 16,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_128"
     }
   },
   {
@@ -1346,7 +1475,8 @@
       "subsection_heading": "Definition",
       "page_number": 16,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_129"
     }
   },
   {
@@ -1357,7 +1487,8 @@
       "subsection_heading": "Definition",
       "page_number": 16,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_130"
     }
   },
   {
@@ -1367,7 +1498,8 @@
       "section_heading": "Overview",
       "page_number": 17,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_131"
     }
   },
   {
@@ -1377,7 +1509,8 @@
       "section_heading": "Overview",
       "page_number": 17,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_132"
     }
   },
   {
@@ -1387,7 +1520,8 @@
       "section_heading": "Diagnosis",
       "page_number": 17,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_133"
     }
   },
   {
@@ -1398,7 +1532,8 @@
       "subsection_heading": "Table 2.8—Screening for and Diagnosis of GDM",
       "page_number": 17,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_134"
     }
   },
   {
@@ -1409,7 +1544,8 @@
       "subsection_heading": "Table 2.8—Screening for and Diagnosis of GDM",
       "page_number": 17,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_135"
     }
   },
   {
@@ -1420,7 +1556,8 @@
       "subsection_heading": "One-Step Strategy",
       "page_number": 17,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_136"
     }
   },
   {
@@ -1431,7 +1568,8 @@
       "subsection_heading": "One-Step Strategy",
       "page_number": 17,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_137"
     }
   },
   {
@@ -1440,7 +1578,8 @@
       "chapter_name": "Diagnosis and Classification of Diabetes",
       "page_number": 18,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_138"
     }
   },
   {
@@ -1450,7 +1589,8 @@
       "section_heading": "Gestational Diabetes Mellitus (GDM)",
       "page_number": 18,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_139"
     }
   },
   {
@@ -1460,7 +1600,8 @@
       "section_heading": "Gestational Diabetes Mellitus (GDM)",
       "page_number": 18,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_140"
     }
   },
   {
@@ -1471,7 +1612,8 @@
       "subsection_heading": "Two-Step Strategy",
       "page_number": 18,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_141"
     }
   },
   {
@@ -1482,7 +1624,8 @@
       "subsection_heading": "Future Considerations",
       "page_number": 18,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_142"
     }
   },
   {
@@ -1493,7 +1636,8 @@
       "subsection_heading": "Future Considerations",
       "page_number": 18,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_143"
     }
   },
   {
@@ -1502,7 +1646,8 @@
       "chapter_name": "Diagnosis and Classification of Diabetes",
       "page_number": 19,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_144"
     }
   },
   {
@@ -1512,7 +1657,8 @@
       "section_heading": "References",
       "page_number": 19,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_145"
     }
   },
   {
@@ -1522,7 +1668,8 @@
       "section_heading": "References",
       "page_number": 19,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_146"
     }
   },
   {
@@ -1532,7 +1679,8 @@
       "section_heading": "References",
       "page_number": 19,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_147"
     }
   },
   {
@@ -1542,7 +1690,8 @@
       "section_heading": "References",
       "page_number": 19,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_148"
     }
   },
   {
@@ -1552,7 +1701,8 @@
       "section_heading": "References",
       "page_number": 19,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_149"
     }
   },
   {
@@ -1562,7 +1712,8 @@
       "section_heading": "References",
       "page_number": 19,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_150"
     }
   },
   {
@@ -1572,7 +1723,8 @@
       "section_heading": "References",
       "page_number": 19,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_151"
     }
   },
   {
@@ -1582,7 +1734,8 @@
       "section_heading": "References",
       "page_number": 19,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_152"
     }
   },
   {
@@ -1592,7 +1745,8 @@
       "section_heading": "References",
       "page_number": 19,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_153"
     }
   },
   {
@@ -1602,7 +1756,8 @@
       "section_heading": "References",
       "page_number": 19,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_154"
     }
   },
   {
@@ -1612,7 +1767,8 @@
       "section_heading": "References",
       "page_number": 19,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_155"
     }
   },
   {
@@ -1622,7 +1778,8 @@
       "section_heading": "References",
       "page_number": 19,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_156"
     }
   },
   {
@@ -1631,7 +1788,8 @@
       "chapter_name": "Diagnosis and Classification of Diabetes",
       "page_number": 20,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_157"
     }
   },
   {
@@ -1641,7 +1799,8 @@
       "section_heading": "References",
       "page_number": 20,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_158"
     }
   },
   {
@@ -1651,7 +1810,8 @@
       "section_heading": "References",
       "page_number": 20,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_159"
     }
   },
   {
@@ -1661,7 +1821,8 @@
       "section_heading": "References",
       "page_number": 20,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_160"
     }
   },
   {
@@ -1671,7 +1832,8 @@
       "section_heading": "References",
       "page_number": 20,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_161"
     }
   },
   {
@@ -1681,7 +1843,8 @@
       "section_heading": "References",
       "page_number": 20,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_162"
     }
   },
   {
@@ -1691,7 +1854,8 @@
       "section_heading": "Overview",
       "page_number": 21,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_163"
     }
   },
   {
@@ -1701,7 +1865,8 @@
       "section_heading": "Key Studies and Findings",
       "page_number": 21,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_164"
     }
   },
   {
@@ -1711,7 +1876,8 @@
       "section_heading": "Key Studies and Findings",
       "page_number": 21,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_165"
     }
   },
   {
@@ -1721,7 +1887,8 @@
       "section_heading": "Key Studies and Findings",
       "page_number": 21,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_166"
     }
   },
   {
@@ -1731,7 +1898,8 @@
       "section_heading": "Key Studies and Findings",
       "page_number": 21,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_167"
     }
   },
   {
@@ -1741,7 +1909,8 @@
       "section_heading": "Key Studies and Findings",
       "page_number": 21,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_168"
     }
   },
   {
@@ -1751,7 +1920,8 @@
       "section_heading": "Key Studies and Findings",
       "page_number": 21,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_169"
     }
   },
   {
@@ -1761,7 +1931,8 @@
       "section_heading": "Key Studies and Findings",
       "page_number": 21,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_170"
     }
   },
   {
@@ -1771,7 +1942,8 @@
       "section_heading": "Key Studies and Findings",
       "page_number": 21,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_171"
     }
   },
   {
@@ -1781,7 +1953,8 @@
       "section_heading": "Key Studies and Findings",
       "page_number": 21,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_172"
     }
   },
   {
@@ -1791,7 +1964,8 @@
       "section_heading": "Key Studies and Findings",
       "page_number": 21,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_173"
     }
   },
   {
@@ -1801,7 +1975,8 @@
       "section_heading": "Key Studies and Findings",
       "page_number": 21,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_174"
     }
   },
   {
@@ -1811,7 +1986,8 @@
       "section_heading": "Key Studies and Findings",
       "page_number": 21,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_175"
     }
   },
   {
@@ -1821,7 +1997,8 @@
       "section_heading": "Key Studies and Findings",
       "page_number": 21,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_176"
     }
   },
   {
@@ -1831,7 +2008,8 @@
       "section_heading": "Conclusion",
       "page_number": 21,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_177"
     }
   },
   {
@@ -1840,7 +2018,8 @@
       "chapter_name": "Diagnosis and Classification of Diabetes",
       "page_number": 22,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_178"
     }
   },
   {
@@ -1850,7 +2029,8 @@
       "section_heading": "References",
       "page_number": 22,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_179"
     }
   },
   {
@@ -1860,7 +2040,8 @@
       "section_heading": "References",
       "page_number": 22,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_180"
     }
   },
   {
@@ -1870,7 +2051,8 @@
       "section_heading": "References",
       "page_number": 22,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_181"
     }
   },
   {
@@ -1880,7 +2062,8 @@
       "section_heading": "References",
       "page_number": 22,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_182"
     }
   },
   {
@@ -1890,7 +2073,8 @@
       "section_heading": "References",
       "page_number": 22,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_183"
     }
   },
   {
@@ -1900,7 +2084,8 @@
       "section_heading": "References",
       "page_number": 22,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_184"
     }
   },
   {
@@ -1910,7 +2095,8 @@
       "section_heading": "References",
       "page_number": 22,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_185"
     }
   },
   {
@@ -1920,7 +2106,8 @@
       "section_heading": "References",
       "page_number": 22,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_186"
     }
   },
   {
@@ -1930,7 +2117,8 @@
       "section_heading": "References",
       "page_number": 22,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_187"
     }
   },
   {
@@ -1940,7 +2128,8 @@
       "section_heading": "References",
       "page_number": 22,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_188"
     }
   },
   {
@@ -1950,7 +2139,8 @@
       "section_heading": "References",
       "page_number": 22,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_189"
     }
   },
   {
@@ -1960,7 +2150,8 @@
       "section_heading": "References",
       "page_number": 22,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_190"
     }
   },
   {
@@ -1970,7 +2161,8 @@
       "section_heading": "References",
       "page_number": 22,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_191"
     }
   },
   {
@@ -1981,7 +2173,8 @@
       "subsection_heading": "Screening and Diagnosis",
       "page_number": 23,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_192"
     }
   },
   {
@@ -1992,7 +2185,8 @@
       "subsection_heading": "Screening and Diagnosis",
       "page_number": 23,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_193"
     }
   },
   {
@@ -2003,7 +2197,8 @@
       "subsection_heading": "Screening and Diagnosis",
       "page_number": 23,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_194"
     }
   },
   {
@@ -2014,7 +2209,8 @@
       "subsection_heading": "Screening and Diagnosis",
       "page_number": 23,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_195"
     }
   },
   {
@@ -2025,7 +2221,8 @@
       "subsection_heading": "Additional Studies",
       "page_number": 23,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_196"
     }
   },
   {
@@ -2036,7 +2233,8 @@
       "subsection_heading": "Additional Studies",
       "page_number": 23,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_197"
     }
   },
   {
@@ -2047,7 +2245,8 @@
       "subsection_heading": "Additional Studies",
       "page_number": 23,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_198"
     }
   },
   {
@@ -2058,7 +2257,8 @@
       "subsection_heading": "Additional Studies",
       "page_number": 23,
       "source": "ada_chapter2.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter2.pdf",
+      "chunk_id": "4_199"
     }
   }
 ]

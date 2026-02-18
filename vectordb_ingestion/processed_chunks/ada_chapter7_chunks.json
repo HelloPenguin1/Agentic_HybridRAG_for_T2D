@@ -5,7 +5,8 @@
       "chapter_name": "7. Diabetes Technology",
       "page_number": 1,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_0"
     }
   },
   {
@@ -15,7 +16,8 @@
       "section_heading": "Diabetes Technology: Standards of Care in Diabetes—2026",
       "page_number": 1,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_1"
     }
   },
   {
@@ -25,7 +27,8 @@
       "section_heading": "Diabetes Technology: Standards of Care in Diabetes—2026",
       "page_number": 1,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_2"
     }
   },
   {
@@ -35,7 +38,8 @@
       "section_heading": "Diabetes Technology: Standards of Care in Diabetes—2026",
       "page_number": 1,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_3"
     }
   },
   {
@@ -45,7 +49,8 @@
       "section_heading": "Diabetes Technology: Standards of Care in Diabetes—2026",
       "page_number": 1,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_4"
     }
   },
   {
@@ -56,7 +61,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 1,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_5"
     }
   },
   {
@@ -67,7 +73,8 @@
       "subsection_heading": "7.3 Automated Insulin Delivery Systems",
       "page_number": 2,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_6"
     }
   },
   {
@@ -78,7 +85,8 @@
       "subsection_heading": "7.4 Awareness of Available Technologies",
       "page_number": 2,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_7"
     }
   },
   {
@@ -89,7 +97,8 @@
       "subsection_heading": "7.5 Access to Devices",
       "page_number": 2,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_8"
     }
   },
   {
@@ -100,7 +109,8 @@
       "subsection_heading": "7.6 Support in School Settings",
       "page_number": 2,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_9"
     }
   },
   {
@@ -111,7 +121,8 @@
       "subsection_heading": "7.7 Reasonable Accommodations for Adults",
       "page_number": 2,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_10"
     }
   },
   {
@@ -122,7 +133,8 @@
       "subsection_heading": "7.8 Early Initiation of Technology",
       "page_number": 2,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_11"
     }
   },
   {
@@ -133,7 +145,8 @@
       "subsection_heading": "7.9 Standardized Reports",
       "page_number": 2,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_12"
     }
   },
   {
@@ -143,7 +156,8 @@
       "section_heading": "Education and Training",
       "page_number": 2,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_13"
     }
   },
   {
@@ -153,7 +167,8 @@
       "section_heading": "Education and Training",
       "page_number": 2,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_14"
     }
   },
   {
@@ -163,7 +178,8 @@
       "section_heading": "Education and Training",
       "page_number": 2,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_15"
     }
   },
   {
@@ -173,7 +189,8 @@
       "section_heading": "Education and Training",
       "page_number": 2,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_16"
     }
   },
   {
@@ -183,7 +200,8 @@
       "section_heading": "Use in Schools for Children and Adolescents",
       "page_number": 2,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_17"
     }
   },
   {
@@ -193,7 +211,8 @@
       "section_heading": "Use for Adults",
       "page_number": 2,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_18"
     }
   },
   {
@@ -203,7 +222,8 @@
       "section_heading": "Initiation of Device Use",
       "page_number": 3,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_19"
     }
   },
   {
@@ -213,7 +233,8 @@
       "section_heading": "Initiation of Device Use",
       "page_number": 3,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_20"
     }
   },
   {
@@ -223,7 +244,8 @@
       "section_heading": "Initiation of Device Use",
       "page_number": 3,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_21"
     }
   },
   {
@@ -233,7 +255,8 @@
       "section_heading": "Initiation of Device Use",
       "page_number": 3,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_22"
     }
   },
   {
@@ -244,7 +267,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 3,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_23"
     }
   },
   {
@@ -255,7 +279,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 3,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_24"
     }
   },
   {
@@ -266,7 +291,8 @@
       "subsection_heading": "Meter Standards",
       "page_number": 3,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_25"
     }
   },
   {
@@ -276,7 +302,8 @@
       "section_heading": "Blood Glucose Monitoring (BGM)",
       "page_number": 4,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_26"
     }
   },
   {
@@ -286,7 +313,8 @@
       "section_heading": "Blood Glucose Monitoring (BGM)",
       "page_number": 4,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_27"
     }
   },
   {
@@ -297,7 +325,8 @@
       "subsection_heading": "People With Diabetes Using Basal Insulin and/or Oral Agents and Noninsulin Injectables",
       "page_number": 4,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_28"
     }
   },
   {
@@ -308,7 +337,8 @@
       "subsection_heading": "People With Diabetes Treated With Intensive Insulin Therapies",
       "page_number": 4,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_29"
     }
   },
   {
@@ -319,7 +349,8 @@
       "subsection_heading": "People With Diabetes Treated With Intensive Insulin Therapies",
       "page_number": 4,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_30"
     }
   },
   {
@@ -330,7 +361,8 @@
       "subsection_heading": "Use of Strips From Unlicensed Entities",
       "page_number": 4,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_31"
     }
   },
   {
@@ -341,7 +373,8 @@
       "subsection_heading": "Optimizing Blood Glucose Meter Use",
       "page_number": 4,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_32"
     }
   },
   {
@@ -351,7 +384,8 @@
       "section_heading": "Table 7.1—Comparison of ISO 15197:2013 and FDA Blood Glucose Meter Accuracy Standards",
       "page_number": 4,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_33"
     }
   },
   {
@@ -361,7 +395,8 @@
       "section_heading": "Table 7.1—Comparison of ISO 15197:2013 and FDA Blood Glucose Meter Accuracy Standards",
       "page_number": 4,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_34"
     }
   },
   {
@@ -372,7 +407,8 @@
       "subsection_heading": "Glucose Meter Inaccuracy",
       "page_number": 5,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_35"
     }
   },
   {
@@ -383,7 +419,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 5,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_36"
     }
   },
   {
@@ -394,7 +431,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 5,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_37"
     }
   },
   {
@@ -405,7 +443,8 @@
       "subsection_heading": "Interfering Substances",
       "page_number": 5,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_38"
     }
   },
   {
@@ -416,7 +455,8 @@
       "subsection_heading": "Interfering Substances",
       "page_number": 5,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_39"
     }
   },
   {
@@ -427,7 +467,8 @@
       "subsection_heading": "Interfering Substances",
       "page_number": 5,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_40"
     }
   },
   {
@@ -437,7 +478,8 @@
       "section_heading": "Continuous Glucose Monitoring Devices",
       "page_number": 6,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_41"
     }
   },
   {
@@ -447,7 +489,8 @@
       "section_heading": "Continuous Glucose Monitoring Devices",
       "page_number": 6,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_42"
     }
   },
   {
@@ -457,7 +500,8 @@
       "section_heading": "Benefits of Continuous Glucose Monitoring",
       "page_number": 6,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_43"
     }
   },
   {
@@ -468,7 +512,8 @@
       "subsection_heading": "Data From Randomized Controlled Trials",
       "page_number": 6,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_44"
     }
   },
   {
@@ -479,7 +524,8 @@
       "subsection_heading": "Data From Randomized Controlled Trials",
       "page_number": 6,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_45"
     }
   },
   {
@@ -490,7 +536,8 @@
       "subsection_heading": "Observational and Real-world Studies",
       "page_number": 6,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_46"
     }
   },
   {
@@ -501,7 +548,8 @@
       "subsection_heading": "Observational and Real-world Studies",
       "page_number": 6,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_47"
     }
   },
   {
@@ -511,7 +559,8 @@
       "section_heading": "Continuous Glucose Monitoring (CGM) in Adults with Type 2 Diabetes",
       "page_number": 7,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_48"
     }
   },
   {
@@ -521,7 +570,8 @@
       "section_heading": "Continuous Glucose Monitoring (CGM) in Adults with Type 2 Diabetes",
       "page_number": 7,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_49"
     }
   },
   {
@@ -532,7 +582,8 @@
       "subsection_heading": "Substances and Factors Affecting Continuous Glucose Monitoring Accuracy",
       "page_number": 7,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_50"
     }
   },
   {
@@ -543,7 +594,8 @@
       "subsection_heading": "Side Effects of Continuous Glucose Monitoring Devices",
       "page_number": 7,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_51"
     }
   },
   {
@@ -553,7 +605,8 @@
       "section_heading": "Use of Professional Continuous Glucose Monitoring and Intermittent Use of Personal Continuous Glucose Monitoring",
       "page_number": 7,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_52"
     }
   },
   {
@@ -564,7 +617,8 @@
       "subsection_heading": "Table 7.4—Continuous Glucose Monitoring Device Interfering Substances",
       "page_number": 7,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_53"
     }
   },
   {
@@ -575,7 +629,8 @@
       "subsection_heading": "Table 7.4—Continuous Glucose Monitoring Device Interfering Substances",
       "page_number": 7,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_54"
     }
   },
   {
@@ -585,7 +640,8 @@
       "section_heading": "Real-time Continuous Glucose Monitoring Device Use in Pregnancy",
       "page_number": 7,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_55"
     }
   },
   {
@@ -596,7 +652,8 @@
       "subsection_heading": "Insulin Syringes and Pens",
       "page_number": 8,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_56"
     }
   },
   {
@@ -607,7 +664,8 @@
       "subsection_heading": "Additional Information",
       "page_number": 8,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_57"
     }
   },
   {
@@ -618,7 +676,8 @@
       "subsection_heading": "Additional Information",
       "page_number": 8,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_58"
     }
   },
   {
@@ -629,7 +688,8 @@
       "subsection_heading": "Additional Information",
       "page_number": 8,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_59"
     }
   },
   {
@@ -640,7 +700,8 @@
       "subsection_heading": "Additional Information",
       "page_number": 8,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_60"
     }
   },
   {
@@ -651,7 +712,8 @@
       "subsection_heading": "Additional Information",
       "page_number": 8,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_61"
     }
   },
   {
@@ -662,7 +724,8 @@
       "subsection_heading": "Table 9.4: Insulin Product Costs",
       "page_number": 8,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_62"
     }
   },
   {
@@ -673,7 +736,8 @@
       "subsection_heading": "Conclusion",
       "page_number": 8,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_63"
     }
   },
   {
@@ -684,7 +748,8 @@
       "subsection_heading": "7.25a",
       "page_number": 9,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_64"
     }
   },
   {
@@ -695,7 +760,8 @@
       "subsection_heading": "7.25b",
       "page_number": 9,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_65"
     }
   },
   {
@@ -706,7 +772,8 @@
       "subsection_heading": "7.26",
       "page_number": 9,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_66"
     }
   },
   {
@@ -716,7 +783,8 @@
       "section_heading": "Stand-alone Insulin Pumps and AID Systems",
       "page_number": 9,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_67"
     }
   },
   {
@@ -726,7 +794,8 @@
       "section_heading": "Stand-alone Insulin Pumps and AID Systems",
       "page_number": 9,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_68"
     }
   },
   {
@@ -737,7 +806,8 @@
       "subsection_heading": "Complications and Challenges of Infusing Insulin",
       "page_number": 9,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_69"
     }
   },
   {
@@ -748,7 +818,8 @@
       "subsection_heading": "Description of AID Systems",
       "page_number": 9,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_70"
     }
   },
   {
@@ -759,7 +830,8 @@
       "subsection_heading": "Description of AID Systems",
       "page_number": 9,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_71"
     }
   },
   {
@@ -769,7 +841,8 @@
       "section_heading": "Automated Insulin Delivery Systems",
       "page_number": 10,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_72"
     }
   },
   {
@@ -779,7 +852,8 @@
       "section_heading": "Automated Insulin Delivery Systems",
       "page_number": 10,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_73"
     }
   },
   {
@@ -790,7 +864,8 @@
       "subsection_heading": "Data from Pivotal Trials",
       "page_number": 10,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_74"
     }
   },
   {
@@ -801,7 +876,8 @@
       "subsection_heading": "Data from Pivotal Trials",
       "page_number": 10,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_75"
     }
   },
   {
@@ -812,7 +888,8 @@
       "subsection_heading": "Data from Pivotal Trials",
       "page_number": 10,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_76"
     }
   },
   {
@@ -823,7 +900,8 @@
       "subsection_heading": "Data from Pivotal Trials",
       "page_number": 10,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_77"
     }
   },
   {
@@ -834,7 +912,8 @@
       "subsection_heading": "Automated Insulin Delivery Systems in Pregnancy",
       "page_number": 10,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_78"
     }
   },
   {
@@ -845,7 +924,8 @@
       "subsection_heading": "Data from Real-world Studies",
       "page_number": 10,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_79"
     }
   },
   {
@@ -856,7 +936,8 @@
       "subsection_heading": "Data from Real-world Studies",
       "page_number": 10,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_80"
     }
   },
   {
@@ -867,7 +948,8 @@
       "subsection_heading": "Data from Real-world Studies",
       "page_number": 10,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_81"
     }
   },
   {
@@ -878,7 +960,8 @@
       "subsection_heading": "Insulin Pumps and Automated Insulin Delivery Systems in People With Type 2 and Other Types of Diabetes",
       "page_number": 10,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_82"
     }
   },
   {
@@ -889,7 +972,8 @@
       "subsection_heading": "Open-Source Automated Insulin Dosing",
       "page_number": 11,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_83"
     }
   },
   {
@@ -900,7 +984,8 @@
       "subsection_heading": "Open-Source Automated Insulin Dosing",
       "page_number": 11,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_84"
     }
   },
   {
@@ -911,7 +996,8 @@
       "subsection_heading": "Digital Health Technology",
       "page_number": 11,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_85"
     }
   },
   {
@@ -922,7 +1008,8 @@
       "subsection_heading": "Digital Health Technology",
       "page_number": 11,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_86"
     }
   },
   {
@@ -933,7 +1020,8 @@
       "subsection_heading": "Digital Health Technology",
       "page_number": 11,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_87"
     }
   },
   {
@@ -943,7 +1031,8 @@
       "section_heading": "Inpatient Care Recommendations",
       "page_number": 12,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_88"
     }
   },
   {
@@ -953,7 +1042,8 @@
       "section_heading": "Future of Diabetes Technology",
       "page_number": 12,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_89"
     }
   },
   {
@@ -963,7 +1053,8 @@
       "section_heading": "Future of Diabetes Technology",
       "page_number": 12,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_90"
     }
   },
   {
@@ -973,7 +1064,8 @@
       "section_heading": "Future of Diabetes Technology",
       "page_number": 12,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_91"
     }
   },
   {
@@ -983,7 +1075,8 @@
       "section_heading": "References",
       "page_number": 12,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_92"
     }
   },
   {
@@ -993,7 +1086,8 @@
       "section_heading": "References",
       "page_number": 12,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_93"
     }
   },
   {
@@ -1003,7 +1097,8 @@
       "section_heading": "References",
       "page_number": 12,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_94"
     }
   },
   {
@@ -1013,7 +1108,8 @@
       "section_heading": "References",
       "page_number": 12,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_95"
     }
   },
   {
@@ -1023,7 +1119,8 @@
       "section_heading": "References",
       "page_number": 12,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_96"
     }
   },
   {
@@ -1034,7 +1131,8 @@
       "subsection_heading": "References",
       "page_number": 13,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_97"
     }
   },
   {
@@ -1045,7 +1143,8 @@
       "subsection_heading": "References",
       "page_number": 13,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_98"
     }
   },
   {
@@ -1056,7 +1155,8 @@
       "subsection_heading": "References",
       "page_number": 13,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_99"
     }
   },
   {
@@ -1067,7 +1167,8 @@
       "subsection_heading": "References",
       "page_number": 13,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_100"
     }
   },
   {
@@ -1078,7 +1179,8 @@
       "subsection_heading": "References",
       "page_number": 13,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_101"
     }
   },
   {
@@ -1089,7 +1191,8 @@
       "subsection_heading": "Additional Studies",
       "page_number": 13,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_102"
     }
   },
   {
@@ -1100,7 +1203,8 @@
       "subsection_heading": "Additional Studies",
       "page_number": 13,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_103"
     }
   },
   {
@@ -1110,7 +1214,8 @@
       "section_heading": "Continuous Glucose Monitoring",
       "page_number": 14,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_104"
     }
   },
   {
@@ -1120,7 +1225,8 @@
       "section_heading": "Continuous Glucose Monitoring",
       "page_number": 14,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_105"
     }
   },
   {
@@ -1130,7 +1236,8 @@
       "section_heading": "Continuous Glucose Monitoring",
       "page_number": 14,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_106"
     }
   },
   {
@@ -1140,7 +1247,8 @@
       "section_heading": "Continuous Glucose Monitoring",
       "page_number": 14,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_107"
     }
   },
   {
@@ -1150,7 +1258,8 @@
       "section_heading": "Safety and Effectiveness",
       "page_number": 14,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_108"
     }
   },
   {
@@ -1160,7 +1269,8 @@
       "section_heading": "Safety and Effectiveness",
       "page_number": 14,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_109"
     }
   },
   {
@@ -1170,7 +1280,8 @@
       "section_heading": "Safety and Effectiveness",
       "page_number": 14,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_110"
     }
   },
   {
@@ -1180,7 +1291,8 @@
       "section_heading": "Safety and Effectiveness",
       "page_number": 14,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_111"
     }
   },
   {
@@ -1191,7 +1303,8 @@
       "subsection_heading": "References",
       "page_number": 15,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_112"
     }
   },
   {
@@ -1202,7 +1315,8 @@
       "subsection_heading": "References",
       "page_number": 15,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_113"
     }
   },
   {
@@ -1213,7 +1327,8 @@
       "subsection_heading": "References",
       "page_number": 15,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_114"
     }
   },
   {
@@ -1224,7 +1339,8 @@
       "subsection_heading": "References",
       "page_number": 15,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_115"
     }
   },
   {
@@ -1235,7 +1351,8 @@
       "subsection_heading": "References",
       "page_number": 15,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_116"
     }
   },
   {
@@ -1246,7 +1363,8 @@
       "subsection_heading": "References",
       "page_number": 15,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_117"
     }
   },
   {
@@ -1257,7 +1375,8 @@
       "subsection_heading": "References",
       "page_number": 15,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_118"
     }
   },
   {
@@ -1268,7 +1387,8 @@
       "subsection_heading": "References",
       "page_number": 15,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_119"
     }
   },
   {
@@ -1279,7 +1399,8 @@
       "subsection_heading": "References",
       "page_number": 15,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_120"
     }
   },
   {
@@ -1290,7 +1411,8 @@
       "subsection_heading": "References",
       "page_number": 15,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_121"
     }
   },
   {
@@ -1301,7 +1423,8 @@
       "subsection_heading": "References",
       "page_number": 15,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_122"
     }
   },
   {
@@ -1312,7 +1435,8 @@
       "subsection_heading": "References",
       "page_number": 15,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_123"
     }
   },
   {
@@ -1322,7 +1446,8 @@
       "section_heading": "Health Economic Evaluation",
       "page_number": 16,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_124"
     }
   },
   {
@@ -1332,7 +1457,8 @@
       "section_heading": "Real-World Evidence",
       "page_number": 16,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_125"
     }
   },
   {
@@ -1342,7 +1468,8 @@
       "section_heading": "Efficacy and Safety Studies",
       "page_number": 16,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_126"
     }
   },
   {
@@ -1352,7 +1479,8 @@
       "section_heading": "Digital Health Technologies",
       "page_number": 16,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_127"
     }
   },
   {
@@ -1362,7 +1490,8 @@
       "section_heading": "Regulatory Guidance",
       "page_number": 16,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_128"
     }
   },
   {
@@ -1372,7 +1501,8 @@
       "section_heading": "Conclusion",
       "page_number": 16,
       "source": "ada_chapter7.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chapter7.pdf",
+      "chunk_id": "7_129"
     }
   }
 ]

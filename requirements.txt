@@ -17,3 +17,4 @@ sentence-transformers>=2.2.2
 tiktoken>=0.5.0
 langchain-qdrant
 langchain-text-splitters
+ragas

@@ -6,7 +6,8 @@
       "section_heading": "Retinopathy, Neuropathy, and Foot Care: Standards of Care in Diabetes—2026",
       "page_number": 1,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_0"
     }
   },
   {
@@ -16,7 +17,8 @@
       "section_heading": "Retinopathy, Neuropathy, and Foot Care: Standards of Care in Diabetes—2026",
       "page_number": 1,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_1"
     }
   },
   {
@@ -26,7 +28,8 @@
       "section_heading": "Retinopathy, Neuropathy, and Foot Care: Standards of Care in Diabetes—2026",
       "page_number": 1,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_2"
     }
   },
   {
@@ -36,7 +39,8 @@
       "section_heading": "Retinopathy, Neuropathy, and Foot Care: Standards of Care in Diabetes—2026",
       "page_number": 1,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_3"
     }
   },
   {
@@ -46,7 +50,8 @@
       "section_heading": "Retinopathy, Neuropathy, and Foot Care: Standards of Care in Diabetes—2026",
       "page_number": 1,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_4"
     }
   },
   {
@@ -56,7 +61,8 @@
       "section_heading": "Retinopathy, Neuropathy, and Foot Care: Standards of Care in Diabetes—2026",
       "page_number": 1,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_5"
     }
   },
   {
@@ -67,7 +73,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 1,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_6"
     }
   },
   {
@@ -76,7 +83,8 @@
       "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
       "page_number": 2,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_7"
     }
   },
   {
@@ -86,7 +94,8 @@
       "section_heading": "Diabetic Retinopathy",
       "page_number": 2,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_8"
     }
   },
   {
@@ -96,7 +105,8 @@
       "section_heading": "Diabetic Retinopathy",
       "page_number": 2,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_9"
     }
   },
   {
@@ -106,7 +116,8 @@
       "section_heading": "Diabetic Retinopathy",
       "page_number": 2,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_10"
     }
   },
   {
@@ -116,7 +127,8 @@
       "section_heading": "Diabetic Retinopathy",
       "page_number": 2,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_11"
     }
   },
   {
@@ -126,7 +138,8 @@
       "section_heading": "Screening Recommendations",
       "page_number": 2,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_12"
     }
   },
   {
@@ -136,7 +149,8 @@
       "section_heading": "Screening Recommendations",
       "page_number": 2,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_13"
     }
   },
   {
@@ -146,7 +160,8 @@
       "section_heading": "Screening Recommendations",
       "page_number": 2,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_14"
     }
   },
   {
@@ -156,7 +171,8 @@
       "section_heading": "Screening Recommendations",
       "page_number": 2,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_15"
     }
   },
   {
@@ -166,7 +182,8 @@
       "section_heading": "Screening Recommendations",
       "page_number": 2,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_16"
     }
   },
   {
@@ -176,7 +193,8 @@
       "section_heading": "Recommendations",
       "page_number": 3,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_17"
     }
   },
   {
@@ -186,7 +204,8 @@
       "section_heading": "Recommendations",
       "page_number": 3,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_18"
     }
   },
   {
@@ -196,7 +215,8 @@
       "section_heading": "Type 1 Diabetes",
       "page_number": 3,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_19"
     }
   },
   {
@@ -206,7 +226,8 @@
       "section_heading": "Type 2 Diabetes",
       "page_number": 3,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_20"
     }
   },
   {
@@ -216,7 +237,8 @@
       "section_heading": "Pregnancy",
       "page_number": 3,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_21"
     }
   },
   {
@@ -227,7 +249,8 @@
       "subsection_heading": "Treatment",
       "page_number": 3,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_22"
     }
   },
   {
@@ -238,7 +261,8 @@
       "subsection_heading": "Conclusion",
       "page_number": 3,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_23"
     }
   },
   {
@@ -247,7 +271,8 @@
       "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
       "page_number": 4,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_24"
     }
   },
   {
@@ -257,7 +282,8 @@
       "section_heading": "Anti-VEGF Treatment",
       "page_number": 4,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_25"
     }
   },
   {
@@ -267,7 +293,8 @@
       "section_heading": "Anti-VEGF Treatment",
       "page_number": 4,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_26"
     }
   },
   {
@@ -277,7 +304,8 @@
       "section_heading": "Anti-VEGF Treatment",
       "page_number": 4,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_27"
     }
   },
   {
@@ -287,7 +315,8 @@
       "section_heading": "Anti-VEGF Treatment",
       "page_number": 4,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_28"
     }
   },
   {
@@ -298,7 +327,8 @@
       "subsection_heading": "Visual Rehabilitation Recommendations",
       "page_number": 4,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_29"
     }
   },
   {
@@ -309,7 +339,8 @@
       "subsection_heading": "Visual Rehabilitation Recommendations",
       "page_number": 4,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_30"
     }
   },
   {
@@ -320,7 +351,8 @@
       "subsection_heading": "Visual Rehabilitation Recommendations",
       "page_number": 4,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_31"
     }
   },
   {
@@ -330,7 +362,8 @@
       "section_heading": "Adjunctive Therapy",
       "page_number": 4,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_32"
     }
   },
   {
@@ -340,7 +373,8 @@
       "section_heading": "NEUROPATHY",
       "page_number": 4,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_33"
     }
   },
   {
@@ -350,7 +384,8 @@
       "section_heading": "Diabetic Neuropathy",
       "page_number": 5,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_34"
     }
   },
   {
@@ -361,7 +396,8 @@
       "subsection_heading": "Diagnosis",
       "page_number": 5,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_35"
     }
   },
   {
@@ -372,7 +408,8 @@
       "subsection_heading": "Screening Recommendations",
       "page_number": 5,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_36"
     }
   },
   {
@@ -383,7 +420,8 @@
       "subsection_heading": "Diabetic Autonomic Neuropathy",
       "page_number": 5,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_37"
     }
   },
   {
@@ -394,7 +432,8 @@
       "subsection_heading": "Clinical Tests for Autonomic Neuropathy",
       "page_number": 5,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_38"
     }
   },
   {
@@ -405,7 +444,8 @@
       "subsection_heading": "Cardiovascular Autonomic Neuropathy",
       "page_number": 5,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_39"
     }
   },
   {
@@ -414,7 +454,8 @@
       "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
       "page_number": 6,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_40"
     }
   },
   {
@@ -424,7 +465,8 @@
       "section_heading": "Gastrointestinal Neuropathies",
       "page_number": 6,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_41"
     }
   },
   {
@@ -434,7 +476,8 @@
       "section_heading": "Gastrointestinal Neuropathies",
       "page_number": 6,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_42"
     }
   },
   {
@@ -444,7 +487,8 @@
       "section_heading": "Gastrointestinal Neuropathies",
       "page_number": 6,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_43"
     }
   },
   {
@@ -455,7 +499,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 6,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_44"
     }
   },
   {
@@ -465,7 +510,8 @@
       "section_heading": "Genitourinary Disturbances",
       "page_number": 6,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_45"
     }
   },
   {
@@ -475,7 +521,8 @@
       "section_heading": "Glycemic Management",
       "page_number": 6,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_46"
     }
   },
   {
@@ -485,7 +532,8 @@
       "section_heading": "Lipid Management",
       "page_number": 6,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_47"
     }
   },
   {
@@ -496,7 +544,8 @@
       "subsection_heading": "Summary",
       "page_number": 6,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_48"
     }
   },
   {
@@ -506,7 +555,8 @@
       "section_heading": "Blood Pressure Management",
       "page_number": 7,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_49"
     }
   },
   {
@@ -516,7 +566,8 @@
       "section_heading": "Neuropathic Pain Management",
       "page_number": 7,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_50"
     }
   },
   {
@@ -527,7 +578,8 @@
       "subsection_heading": "Pharmacologic Therapies",
       "page_number": 7,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_51"
     }
   },
   {
@@ -538,7 +590,8 @@
       "subsection_heading": "Pharmacologic Therapies",
       "page_number": 7,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_52"
     }
   },
   {
@@ -549,7 +602,8 @@
       "subsection_heading": "Pharmacologic Therapies",
       "page_number": 7,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_53"
     }
   },
   {
@@ -560,7 +614,8 @@
       "subsection_heading": "Pharmacologic Therapies",
       "page_number": 7,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_54"
     }
   },
   {
@@ -571,7 +626,8 @@
       "subsection_heading": "Capsaicin",
       "page_number": 7,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_55"
     }
   },
   {
@@ -581,7 +637,8 @@
       "section_heading": "Orthostatic Hypotension Management",
       "page_number": 7,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_56"
     }
   },
   {
@@ -590,7 +647,8 @@
       "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
       "page_number": 8,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_57"
     }
   },
   {
@@ -600,7 +658,8 @@
       "section_heading": "Orthostatic Hypotension Management",
       "page_number": 8,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_58"
     }
   },
   {
@@ -610,7 +669,8 @@
       "section_heading": "Erectile Dysfunction Management",
       "page_number": 8,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_59"
     }
   },
   {
@@ -621,7 +681,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 8,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_60"
     }
   },
   {
@@ -632,7 +693,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 8,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_61"
     }
   },
   {
@@ -643,7 +705,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 8,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_62"
     }
   },
   {
@@ -654,7 +717,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 8,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_63"
     }
   },
   {
@@ -663,7 +727,8 @@
       "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
       "page_number": 9,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_64"
     }
   },
   {
@@ -672,7 +737,8 @@
       "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
       "page_number": 9,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_65"
     }
   },
   {
@@ -682,7 +748,8 @@
       "section_heading": "Evaluation for Loss of Protective Sensation",
       "page_number": 9,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_66"
     }
   },
   {
@@ -692,7 +759,8 @@
       "section_heading": "Evaluation for Loss of Protective Sensation",
       "page_number": 9,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_67"
     }
   },
   {
@@ -702,7 +770,8 @@
       "section_heading": "Evaluation for Peripheral Artery Disease",
       "page_number": 9,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_68"
     }
   },
   {
@@ -712,7 +781,8 @@
       "section_heading": "Evaluation for Peripheral Artery Disease",
       "page_number": 9,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_69"
     }
   },
   {
@@ -722,7 +792,8 @@
       "section_heading": "Table 12.1—International Working Group on Diabetic Foot Risk Stratification System and Corresponding Foot Screening Frequency",
       "page_number": 9,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_70"
     }
   },
   {
@@ -733,7 +804,8 @@
       "subsection_heading": "Screening Recommendations",
       "page_number": 10,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_71"
     }
   },
   {
@@ -744,7 +816,8 @@
       "subsection_heading": "Foot Care Education for People With Diabetes",
       "page_number": 10,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_72"
     }
   },
   {
@@ -755,7 +828,8 @@
       "subsection_heading": "Foot Care Education for People With Diabetes",
       "page_number": 10,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_73"
     }
   },
   {
@@ -766,7 +840,8 @@
       "subsection_heading": "Treatment",
       "page_number": 10,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_74"
     }
   },
   {
@@ -777,7 +852,8 @@
       "subsection_heading": "Treatment",
       "page_number": 10,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_75"
     }
   },
   {
@@ -788,7 +864,8 @@
       "subsection_heading": "Treatment",
       "page_number": 10,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_76"
     }
   },
   {
@@ -799,7 +876,8 @@
       "subsection_heading": "Treatment",
       "page_number": 10,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_77"
     }
   },
   {
@@ -808,7 +886,8 @@
       "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
       "page_number": 11,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_78"
     }
   },
   {
@@ -817,7 +896,8 @@
       "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
       "page_number": 11,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_79"
     }
   },
   {
@@ -826,7 +906,8 @@
       "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
       "page_number": 11,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_80"
     }
   },
   {
@@ -835,7 +916,8 @@
       "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
       "page_number": 11,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_81"
     }
   },
   {
@@ -844,7 +926,8 @@
       "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
       "page_number": 11,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_82"
     }
   },
   {
@@ -853,7 +936,8 @@
       "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
       "page_number": 11,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_83"
     }
   },
   {
@@ -861,7 +945,8 @@
     "metadata": {
       "page_number": 12,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_84"
     }
   },
   {
@@ -869,7 +954,8 @@
     "metadata": {
       "page_number": 12,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_85"
     }
   },
   {
@@ -877,7 +963,8 @@
     "metadata": {
       "page_number": 12,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_86"
     }
   },
   {
@@ -885,7 +972,8 @@
     "metadata": {
       "page_number": 12,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_87"
     }
   },
   {
@@ -893,7 +981,8 @@
     "metadata": {
       "page_number": 12,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_88"
     }
   },
   {
@@ -901,7 +990,8 @@
     "metadata": {
       "page_number": 12,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_89"
     }
   },
   {
@@ -909,7 +999,8 @@
     "metadata": {
       "page_number": 12,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_90"
     }
   },
   {
@@ -917,7 +1008,8 @@
     "metadata": {
       "page_number": 12,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_91"
     }
   },
   {
@@ -925,7 +1017,8 @@
     "metadata": {
       "page_number": 12,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_92"
     }
   },
   {
@@ -933,7 +1026,8 @@
     "metadata": {
       "page_number": 12,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_93"
     }
   },
   {
@@ -941,7 +1035,8 @@
     "metadata": {
       "page_number": 12,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_94"
     }
   },
   {
@@ -949,7 +1044,8 @@
     "metadata": {
       "page_number": 12,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_95"
     }
   },
   {
@@ -957,7 +1053,8 @@
     "metadata": {
       "page_number": 12,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_96"
     }
   },
   {
@@ -965,7 +1062,8 @@
     "metadata": {
       "page_number": 12,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_97"
     }
   },
   {
@@ -973,7 +1071,8 @@
     "metadata": {
       "page_number": 12,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_98"
     }
   },
   {
@@ -983,7 +1082,8 @@
       "section_heading": "Cardiovascular Outcome Trials",
       "page_number": 13,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_99"
     }
   },
   {
@@ -993,7 +1093,8 @@
       "section_heading": "Cardiovascular Outcome Trials",
       "page_number": 13,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_100"
     }
   },
   {
@@ -1003,7 +1104,8 @@
       "section_heading": "Diabetes in Youth",
       "page_number": 13,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_101"
     }
   },
   {
@@ -1013,7 +1115,8 @@
       "section_heading": "Screening and Evaluation",
       "page_number": 13,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_102"
     }
   },
   {
@@ -1023,7 +1126,8 @@
       "section_heading": "Screening and Evaluation",
       "page_number": 13,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_103"
     }
   },
   {
@@ -1033,7 +1137,8 @@
       "section_heading": "Treatment and Management",
       "page_number": 13,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_104"
     }
   },
   {
@@ -1043,7 +1148,8 @@
       "section_heading": "Treatment and Management",
       "page_number": 13,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_105"
     }
   },
   {
@@ -1053,7 +1159,8 @@
       "section_heading": "Additional Studies",
       "page_number": 13,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_106"
     }
   },
   {
@@ -1063,7 +1170,8 @@
       "section_heading": "Conclusion",
       "page_number": 13,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_107"
     }
   },
   {
@@ -1072,7 +1180,8 @@
       "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
       "page_number": 14,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_108"
     }
   },
   {
@@ -1082,7 +1191,8 @@
       "section_heading": "References",
       "page_number": 14,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_109"
     }
   },
   {
@@ -1092,7 +1202,8 @@
       "section_heading": "References",
       "page_number": 14,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_110"
     }
   },
   {
@@ -1102,7 +1213,8 @@
       "section_heading": "References",
       "page_number": 14,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_111"
     }
   },
   {
@@ -1112,7 +1224,8 @@
       "section_heading": "References",
       "page_number": 14,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_112"
     }
   },
   {
@@ -1122,7 +1235,8 @@
       "section_heading": "References",
       "page_number": 14,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_113"
     }
   },
   {
@@ -1132,7 +1246,8 @@
       "section_heading": "References",
       "page_number": 14,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_114"
     }
   },
   {
@@ -1142,7 +1257,8 @@
       "section_heading": "References",
       "page_number": 14,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_115"
     }
   },
   {
@@ -1152,7 +1268,8 @@
       "section_heading": "Position Paper of the American Academy of Neurology",
       "page_number": 15,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_116"
     }
   },
   {
@@ -1162,7 +1279,8 @@
       "section_heading": "Position Paper of the American Academy of Neurology",
       "page_number": 15,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_117"
     }
   },
   {
@@ -1172,7 +1290,8 @@
       "section_heading": "Position Paper of the American Academy of Neurology",
       "page_number": 15,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_118"
     }
   },
   {
@@ -1182,7 +1301,8 @@
       "section_heading": "Position Paper of the American Academy of Neurology",
       "page_number": 15,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_119"
     }
   },
   {
@@ -1192,7 +1312,8 @@
       "section_heading": "Tables",
       "page_number": 15,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_120"
     }
   },
   {
@@ -1202,7 +1323,8 @@
       "section_heading": "Tables",
       "page_number": 15,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_121"
     }
   },
   {
@@ -1212,7 +1334,8 @@
       "section_heading": "Tables",
       "page_number": 15,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_122"
     }
   },
   {
@@ -1222,7 +1345,8 @@
       "section_heading": "Tables",
       "page_number": 15,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_123"
     }
   },
   {
@@ -1231,7 +1355,8 @@
       "chapter_name": "Retinopathy, Neuropathy, and Foot Care",
       "page_number": 16,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_124"
     }
   },
   {
@@ -1241,7 +1366,8 @@
       "section_heading": "References",
       "page_number": 16,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_125"
     }
   },
   {
@@ -1251,7 +1377,8 @@
       "section_heading": "References",
       "page_number": 16,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_126"
     }
   },
   {
@@ -1261,7 +1388,8 @@
       "section_heading": "References",
       "page_number": 16,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_127"
     }
   },
   {
@@ -1271,7 +1399,8 @@
       "section_heading": "References",
       "page_number": 16,
       "source": "ada_retino_neuro_footcare.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_retino_neuro_footcare.pdf",
+      "chunk_id": "15_128"
     }
   }
 ]

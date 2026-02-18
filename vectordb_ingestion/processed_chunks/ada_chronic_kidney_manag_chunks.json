@@ -5,7 +5,8 @@
       "chapter_name": "11. Chronic Kidney Disease and Risk Management",
       "page_number": 1,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_0"
     }
   },
   {
@@ -14,7 +15,8 @@
       "chapter_name": "11. Chronic Kidney Disease and Risk Management",
       "page_number": 1,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_1"
     }
   },
   {
@@ -23,7 +25,8 @@
       "chapter_name": "11. Chronic Kidney Disease and Risk Management",
       "page_number": 1,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_2"
     }
   },
   {
@@ -33,7 +36,8 @@
       "section_heading": "Epidemiology of Diabetes and Chronic Kidney Disease",
       "page_number": 1,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_3"
     }
   },
   {
@@ -43,7 +47,8 @@
       "section_heading": "Epidemiology of Diabetes and Chronic Kidney Disease",
       "page_number": 1,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_4"
     }
   },
   {
@@ -53,7 +58,8 @@
       "section_heading": "Epidemiology of Diabetes and Chronic Kidney Disease",
       "page_number": 1,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_5"
     }
   },
   {
@@ -63,7 +69,8 @@
       "section_heading": "Epidemiology of Diabetes and Chronic Kidney Disease",
       "page_number": 1,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_6"
     }
   },
   {
@@ -74,7 +81,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 1,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_7"
     }
   },
   {
@@ -85,7 +93,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 1,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_8"
     }
   },
   {
@@ -95,7 +104,8 @@
       "section_heading": "Albuminuria Categories",
       "page_number": 2,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_9"
     }
   },
   {
@@ -105,7 +115,8 @@
       "section_heading": "Albuminuria Categories",
       "page_number": 2,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_10"
     }
   },
   {
@@ -115,7 +126,8 @@
       "section_heading": "Screening for Albuminuria",
       "page_number": 2,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_11"
     }
   },
   {
@@ -125,7 +137,8 @@
       "section_heading": "Screening for Albuminuria",
       "page_number": 2,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_12"
     }
   },
   {
@@ -135,7 +148,8 @@
       "section_heading": "Screening for Albuminuria",
       "page_number": 2,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_13"
     }
   },
   {
@@ -145,7 +159,8 @@
       "section_heading": "Screening for Albuminuria",
       "page_number": 2,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_14"
     }
   },
   {
@@ -154,7 +169,8 @@
       "chapter_name": "Chronic Kidney Disease and Risk Management",
       "page_number": 3,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_15"
     }
   },
   {
@@ -164,7 +180,8 @@
       "section_heading": "Acute Kidney Injury",
       "page_number": 3,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_16"
     }
   },
   {
@@ -174,7 +191,8 @@
       "section_heading": "Diagnosis of Chronic Kidney Disease in People with Diabetes",
       "page_number": 3,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_17"
     }
   },
   {
@@ -184,7 +202,8 @@
       "section_heading": "Diagnosis of Chronic Kidney Disease in People with Diabetes",
       "page_number": 3,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_18"
     }
   },
   {
@@ -194,7 +213,8 @@
       "section_heading": "Diagnosis of Chronic Kidney Disease in People with Diabetes",
       "page_number": 3,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_19"
     }
   },
   {
@@ -205,7 +225,8 @@
       "subsection_heading": "Staging of Chronic Kidney Disease",
       "page_number": 3,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_20"
     }
   },
   {
@@ -216,7 +237,8 @@
       "subsection_heading": "Table 11.1—Reasons to Consider Nondiabetic Kidney Diseases in a Person with Chronic Kidney Disease and Diabetes",
       "page_number": 3,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_21"
     }
   },
   {
@@ -227,7 +249,8 @@
       "subsection_heading": "Recommendation",
       "page_number": 4,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_22"
     }
   },
   {
@@ -238,7 +261,8 @@
       "subsection_heading": "Recommendation",
       "page_number": 4,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_23"
     }
   },
   {
@@ -249,7 +273,8 @@
       "subsection_heading": "Table 11.2—Screening for selected complications of chronic kidney disease",
       "page_number": 4,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_24"
     }
   },
   {
@@ -260,7 +285,8 @@
       "subsection_heading": "Prevention",
       "page_number": 4,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_25"
     }
   },
   {
@@ -271,7 +297,8 @@
       "subsection_heading": "Table 11.3—Interventions that lower albuminuria",
       "page_number": 4,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_26"
     }
   },
   {
@@ -280,7 +307,8 @@
       "chapter_name": "Chronic Kidney Disease and Risk Management",
       "page_number": 5,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_27"
     }
   },
   {
@@ -289,7 +317,8 @@
       "chapter_name": "Chronic Kidney Disease and Risk Management",
       "page_number": 5,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_28"
     }
   },
   {
@@ -298,7 +327,8 @@
       "chapter_name": "Chronic Kidney Disease and Risk Management",
       "page_number": 5,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_29"
     }
   },
   {
@@ -307,7 +337,8 @@
       "chapter_name": "Chronic Kidney Disease and Risk Management",
       "page_number": 5,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_30"
     }
   },
   {
@@ -316,7 +347,8 @@
       "chapter_name": "Chronic Kidney Disease and Risk Management",
       "page_number": 5,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_31"
     }
   },
   {
@@ -327,7 +359,8 @@
       "subsection_heading": "Nutrition",
       "page_number": 5,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_32"
     }
   },
   {
@@ -338,7 +371,8 @@
       "subsection_heading": "Nutrition",
       "page_number": 5,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_33"
     }
   },
   {
@@ -349,7 +383,8 @@
       "subsection_heading": "Blood Pressure and Use of ACE Inhibitors and Angiotensin Receptor Blockers",
       "page_number": 5,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_34"
     }
   },
   {
@@ -360,7 +395,8 @@
       "subsection_heading": "Blood Pressure and Use of ACE Inhibitors and Angiotensin Receptor Blockers",
       "page_number": 5,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_35"
     }
   },
   {
@@ -370,7 +406,8 @@
       "section_heading": "Blood Pressure Control in Diabetes",
       "page_number": 6,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_36"
     }
   },
   {
@@ -380,7 +417,8 @@
       "section_heading": "Blood Pressure Control in Diabetes",
       "page_number": 6,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_37"
     }
   },
   {
@@ -390,7 +428,8 @@
       "section_heading": "Blood Pressure Control in Diabetes",
       "page_number": 6,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_38"
     }
   },
   {
@@ -400,7 +439,8 @@
       "section_heading": "Blood Pressure Control in Diabetes",
       "page_number": 6,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_39"
     }
   },
   {
@@ -410,7 +450,8 @@
       "section_heading": "Summary of Key Points",
       "page_number": 6,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_40"
     }
   },
   {
@@ -419,7 +460,8 @@
       "chapter_name": "Chronic Kidney Disease and Risk Management",
       "page_number": 7,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_41"
     }
   },
   {
@@ -430,7 +472,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 7,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_42"
     }
   },
   {
@@ -441,7 +484,8 @@
       "subsection_heading": "Additional Information",
       "page_number": 7,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_43"
     }
   },
   {
@@ -451,7 +495,8 @@
       "section_heading": "Lifestyle Management",
       "page_number": 7,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_44"
     }
   },
   {
@@ -461,7 +506,8 @@
       "section_heading": "RAS Therapy",
       "page_number": 7,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_45"
     }
   },
   {
@@ -472,7 +518,8 @@
       "subsection_heading": "Additional Therapy",
       "page_number": 7,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_46"
     }
   },
   {
@@ -483,7 +530,8 @@
       "subsection_heading": "Notes",
       "page_number": 7,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_47"
     }
   },
   {
@@ -493,7 +541,8 @@
       "section_heading": "Figure 11.2",
       "page_number": 7,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_48"
     }
   },
   {
@@ -504,7 +553,8 @@
       "subsection_heading": "Abbreviations",
       "page_number": 7,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_49"
     }
   },
   {
@@ -514,7 +564,8 @@
       "section_heading": "Selection of Glucose-Lowering Medications for People With Chronic Kidney Disease",
       "page_number": 8,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_50"
     }
   },
   {
@@ -525,7 +576,8 @@
       "subsection_heading": "Figure 11.2",
       "page_number": 8,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_51"
     }
   },
   {
@@ -536,7 +588,8 @@
       "subsection_heading": "Figure 11.2",
       "page_number": 8,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_52"
     }
   },
   {
@@ -547,7 +600,8 @@
       "subsection_heading": "SGLT2 Inhibitors",
       "page_number": 8,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_53"
     }
   },
   {
@@ -558,7 +612,8 @@
       "subsection_heading": "Clinical Trials",
       "page_number": 8,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_54"
     }
   },
   {
@@ -569,7 +624,8 @@
       "subsection_heading": "Additional Studies",
       "page_number": 8,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_55"
     }
   },
   {
@@ -580,7 +636,8 @@
       "subsection_heading": "Summary of Findings",
       "page_number": 8,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_56"
     }
   },
   {
@@ -591,7 +648,8 @@
       "subsection_heading": "Conclusion",
       "page_number": 8,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_57"
     }
   },
   {
@@ -600,7 +658,8 @@
       "chapter_name": "Chronic Kidney Disease and Risk Management",
       "page_number": 9,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_58"
     }
   },
   {
@@ -609,7 +668,8 @@
       "chapter_name": "Chronic Kidney Disease and Risk Management",
       "page_number": 9,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_59"
     }
   },
   {
@@ -618,7 +678,8 @@
       "chapter_name": "Chronic Kidney Disease and Risk Management",
       "page_number": 9,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_60"
     }
   },
   {
@@ -627,7 +688,8 @@
       "chapter_name": "Chronic Kidney Disease and Risk Management",
       "page_number": 9,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_61"
     }
   },
   {
@@ -637,7 +699,8 @@
       "section_heading": "Recommendations",
       "page_number": 9,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_62"
     }
   },
   {
@@ -648,7 +711,8 @@
       "subsection_heading": "Table 9.2: Medication-Specific Factors",
       "page_number": 9,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_63"
     }
   },
   {
@@ -659,7 +723,8 @@
       "subsection_heading": "Recommendation",
       "page_number": 10,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_64"
     }
   },
   {
@@ -670,7 +735,8 @@
       "subsection_heading": "Recommendation",
       "page_number": 10,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_65"
     }
   },
   {
@@ -681,7 +747,8 @@
       "subsection_heading": "Recommendation",
       "page_number": 10,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_66"
     }
   },
   {
@@ -692,7 +759,8 @@
       "subsection_heading": "Combination Therapy Considerations to Optimize Kidney and Cardiovascular Risk Reduction",
       "page_number": 10,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_67"
     }
   },
   {
@@ -703,7 +771,8 @@
       "subsection_heading": "Combination Therapy Considerations to Optimize Kidney and Cardiovascular Risk Reduction",
       "page_number": 10,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_68"
     }
   },
   {
@@ -712,7 +781,8 @@
       "chapter_name": "Chronic Kidney Disease and Risk Management",
       "page_number": 11,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_69"
     }
   },
   {
@@ -723,7 +793,8 @@
       "subsection_heading": "Recommendation",
       "page_number": 11,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_70"
     }
   },
   {
@@ -734,7 +805,8 @@
       "subsection_heading": "Recommendation",
       "page_number": 11,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_71"
     }
   },
   {
@@ -745,7 +817,8 @@
       "subsection_heading": "Recommendation",
       "page_number": 11,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_72"
     }
   },
   {
@@ -756,7 +829,8 @@
       "subsection_heading": "Recommendation",
       "page_number": 11,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_73"
     }
   },
   {
@@ -767,7 +841,8 @@
       "subsection_heading": "Recommendation",
       "page_number": 11,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_74"
     }
   },
   {
@@ -778,7 +853,8 @@
       "subsection_heading": "Recommendation",
       "page_number": 11,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_75"
     }
   },
   {
@@ -789,7 +865,8 @@
       "subsection_heading": "Recommendation",
       "page_number": 11,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_76"
     }
   },
   {
@@ -799,7 +876,8 @@
       "section_heading": "Overview",
       "page_number": 12,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_77"
     }
   },
   {
@@ -810,7 +888,8 @@
       "subsection_heading": "Recommendations",
       "page_number": 12,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_78"
     }
   },
   {
@@ -821,7 +900,8 @@
       "subsection_heading": "Additional Considerations",
       "page_number": 12,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_79"
     }
   },
   {
@@ -831,7 +911,8 @@
       "section_heading": "References",
       "page_number": 12,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_80"
     }
   },
   {
@@ -841,7 +922,8 @@
       "section_heading": "References",
       "page_number": 12,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_81"
     }
   },
   {
@@ -851,7 +933,8 @@
       "section_heading": "References",
       "page_number": 12,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_82"
     }
   },
   {
@@ -861,7 +944,8 @@
       "section_heading": "References",
       "page_number": 12,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_83"
     }
   },
   {
@@ -871,7 +955,8 @@
       "section_heading": "References",
       "page_number": 12,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_84"
     }
   },
   {
@@ -881,7 +966,8 @@
       "section_heading": "References",
       "page_number": 12,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_85"
     }
   },
   {
@@ -891,7 +977,8 @@
       "section_heading": "References",
       "page_number": 12,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_86"
     }
   },
   {
@@ -901,7 +988,8 @@
       "section_heading": "References",
       "page_number": 12,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_87"
     }
   },
   {
@@ -912,7 +1000,8 @@
       "subsection_heading": "References",
       "page_number": 13,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_88"
     }
   },
   {
@@ -923,7 +1012,8 @@
       "subsection_heading": "References",
       "page_number": 13,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_89"
     }
   },
   {
@@ -934,7 +1024,8 @@
       "subsection_heading": "References",
       "page_number": 13,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_90"
     }
   },
   {
@@ -945,7 +1036,8 @@
       "subsection_heading": "References",
       "page_number": 13,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_91"
     }
   },
   {
@@ -956,7 +1048,8 @@
       "subsection_heading": "References",
       "page_number": 13,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_92"
     }
   },
   {
@@ -967,7 +1060,8 @@
       "subsection_heading": "References",
       "page_number": 13,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_93"
     }
   },
   {
@@ -978,7 +1072,8 @@
       "subsection_heading": "References",
       "page_number": 13,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_94"
     }
   },
   {
@@ -989,7 +1084,8 @@
       "subsection_heading": "References",
       "page_number": 13,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_95"
     }
   },
   {
@@ -1000,7 +1096,8 @@
       "subsection_heading": "References",
       "page_number": 13,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_96"
     }
   },
   {
@@ -1010,7 +1107,8 @@
       "section_heading": "References",
       "page_number": 14,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_97"
     }
   },
   {
@@ -1020,7 +1118,8 @@
       "section_heading": "References",
       "page_number": 14,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_98"
     }
   },
   {
@@ -1030,7 +1129,8 @@
       "section_heading": "References",
       "page_number": 14,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_99"
     }
   },
   {
@@ -1040,7 +1140,8 @@
       "section_heading": "References",
       "page_number": 14,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_100"
     }
   },
   {
@@ -1050,7 +1151,8 @@
       "section_heading": "References",
       "page_number": 14,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_101"
     }
   },
   {
@@ -1060,7 +1162,8 @@
       "section_heading": "Additional Studies",
       "page_number": 14,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_102"
     }
   },
   {
@@ -1070,7 +1173,8 @@
       "section_heading": "Additional Studies",
       "page_number": 14,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_103"
     }
   },
   {
@@ -1080,7 +1184,8 @@
       "section_heading": "Additional Studies",
       "page_number": 14,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_104"
     }
   },
   {
@@ -1090,7 +1195,8 @@
       "section_heading": "Additional Studies",
       "page_number": 14,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_105"
     }
   },
   {
@@ -1099,7 +1205,8 @@
       "chapter_name": "Chronic Kidney Disease and Risk Management",
       "page_number": 15,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_106"
     }
   },
   {
@@ -1109,7 +1216,8 @@
       "section_heading": "References",
       "page_number": 15,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_107"
     }
   },
   {
@@ -1119,7 +1227,8 @@
       "section_heading": "References",
       "page_number": 15,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_108"
     }
   },
   {
@@ -1129,7 +1238,8 @@
       "section_heading": "References",
       "page_number": 15,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_109"
     }
   },
   {
@@ -1139,7 +1249,8 @@
       "section_heading": "References",
       "page_number": 15,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_110"
     }
   },
   {
@@ -1149,7 +1260,8 @@
       "section_heading": "References",
       "page_number": 15,
       "source": "ada_chronic_kidney_manag.pdf",
-      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf"
+      "source_path": "t2d_extraction_pipeline\\data\\raw_pdfs\\ada_chronic_kidney_manag.pdf",
+      "chunk_id": "9_111"
     }
   }
 ]
