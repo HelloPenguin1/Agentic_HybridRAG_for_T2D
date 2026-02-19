@@ -1,0 +1,182 @@
+[
+  {
+    "query": "What publication year is associated with the study by Thomas and colleagues on early peri-operative glycaemic control and allograft rejection in patients with diabetes mellitus?",
+    "ground_truth_chunk_id": "4_184",
+    "source": "ada_chapter2.pdf",
+    "chunk_text": "| 166 | Gulsoy Kirnap N, Bozkus Y, Haberal M. Analysis of risk factors for posttransplant diabetes mellitus after kidney transplantation: single-center experience. Exp Clin Transplant 2020;18:36–40 |\n| 167 | Galindo RJ, Fried M, Breen T, Tamler R. Hyperglycemia management in patients with posttransplantation diabetes. Endocr Pract 2016;22:454–465 |\n| 168 | Jenssen T, Hartmann A. Emerging treatments for post-transplantation diabetes mellitus. Nat Rev Nephrol 2015;11:465–477 |\n| 169 | Thomas MC, Mathew TH, Russ GR, Rao MM, Moran J. Early peri-operative glycaemic control and allograft rejection in patients with diabetes mellitus: a pilot study. Transplantation 2001;72:1321–1324 |\n| 170 | Greeley SAW, Polak M, Njølstad PR, et al. ISPAD Clinical Practice Consensus Guidelines 2022: the diagnosis and management of monogenic diabetes in children and adolescents. Pediatr Diabetes 2022;23:1188–1211 |"
+  },
+  {
+    "query": "What is the minimum frequency of physical activity sessions per week that participants in the DPP were encouraged to achieve?",
+    "ground_truth_chunk_id": "5_16",
+    "source": "ada_chapter3.pdf",
+    "chunk_text": "Two major goals of the DPP were to achieve and maintain at least 7% weight loss and to obtain 150 min of moderate-intensity physical activity per week, such as brisk walking. Weight loss was the most important factor in reducing incident diabetes. Obtaining at least 150 min of physical activity per week, even without achieving the weight loss goal, reduced incidence of type 2 diabetes by 44% (18). Participants were encouraged to distribute physical activity throughout the week with a minimum frequency of three times per week and at least 10 min per session. A maximum of 75 min of strength training could be applied toward the total 150 min/week physical activity goal. The initial focus of the nutrition intervention was on reducing total fat intake rather than caloric restriction. However, the concepts of calorie balance and the need to restrict total calories and fat were also introduced"
+  },
+  {
+    "query": "What elements, in addition to diabetes technology, can improve the lives and health of people with diabetes according to the clinical guidelines?",
+    "ground_truth_chunk_id": "7_4",
+    "source": "ada_chapter7.pdf",
+    "chunk_text": ". Furthermore, diabetes technology encompasses connected insulin pens and diabetes self-management support software that serve as medical devices. Diabetes technology, coupled with education, follow-up, pharmacotherapy as needed, and support, can improve the lives and health of people with diabetes; however, the complexity and rapid evolution of the diabetes technology landscape can also be a barrier to implementation for people with diabetes, their care partners, and the health care team."
+  },
+  {
+    "query": "What skills are required for a patient with type 2 diabetes to effectively use insulin therapy?",
+    "ground_truth_chunk_id": "1_92",
+    "source": "ada_chapter13.pdf",
+    "chunk_text": "### Other Factors to Consider  \nThe needs of older adults with diabetes and their care partners should be evaluated to construct a tailored care plan. Inadequate social support and reduced access to long-term services and support may impact diabetes management and outcomes.  \n| **Considerations** | **Details** |\n|---------------------|-------------|\n| **Monitoring** | Regular checks for dehydration and weight loss |\n| **Insulin Therapy** | Requires good visual, motor skills, and cognitive ability |\n| **Technology Use** | Encourage use of CGM and automated systems |\n| **Support Networks** | Involve family and care partners in management |\n| **Palliative Care** | Focus on comfort and symptom management |\n| **Type 1 Diabetes** | Insulin is essential; consider delivery methods |\n| **CGM** | Approved by Medicare; improves A1C and reduces hypoglycemia |"
+  },
+  {
+    "query": "What is the recommended LDL cholesterol goal for individuals with diabetes and ASCVD who are receiving high-intensity statin therapy?",
+    "ground_truth_chunk_id": "0_74",
+    "source": "ada_cardio_disease_manag.pdf",
+    "chunk_text": "Intensive therapy is indicated because cardiovascular event rates are increased in people with diabetes and established ASCVD, and it has been shown to be of benefit in multiple large meta-analyses and randomized cardiovascular outcomes trials (93,101,104,112,115). High-intensity statin therapy is recommended for all people with diabetes and ASCVD to obtain an LDL cholesterol reduction of ≥50% from baseline and an LDL cholesterol goal of &#x3C;55 mg/dL (&#x3C;1.4 mmol/L) (Fig. 10.4). The addition of ezetimibe or a PCSK9 inhibitor is recommended if this goal is not achieved on maximum tolerated statin therapy. These recommendations are based on the observation that high-intensity versus moderate-intensity statin therapy reduces cardiovascular event rates in high-risk individuals with established CVD in randomized trials (93)"
+  },
+  {
+    "query": "What is the recommended daily protein intake for individuals with type 2 diabetes and chronic kidney disease stage G3 or higher?",
+    "ground_truth_chunk_id": "9_32",
+    "source": "ada_chronic_kidney_manag.pdf",
+    "chunk_text": "## Interventions  \n### Nutrition  \n**Recommendation 11.3**: For people with CKD stage G3 or higher, protein intake should be 0.8 g/kg body weight per day, as for the general population. For individuals on dialysis, protein intake of 1.0–1.2 g/kg/day should be considered, since protein energy wasting is a major problem for some individuals on dialysis."
+  },
+  {
+    "query": "What method of glucose monitoring has become a standard for most people with type 1 diabetes and people with type 2 diabetes treated with insulin in recent years?",
+    "ground_truth_chunk_id": "11_21",
+    "source": "ada_glycemic_hypoglycemia.pdf",
+    "chunk_text": "## Glycemic Assessment by Blood Glucose Monitoring\nFor many people with diabetes, glucose monitoring, either using BGM by capillary (finger-stick) devices and/or CGM in addition to regular A1C testing, is key for achieving glycemic goals. Major clinical trials of insulin-treated individuals have included BGM as part of multifactorial interventions to demonstrate the benefit of intensive glycemic management on diabetes complications. BGM is thus an integral component of effective therapy for individuals taking insulin.  \nIn recent years, CGM has become a standard method for glucose monitoring for most people with type 1 diabetes and people with type 2 diabetes treated with insulin. Both approaches to glucose monitoring allow people with diabetes to evaluate individual responses to therapy and assess whether glycemic goals are being safely achieved. The specific needs and goals of individuals with diabetes should dictate BGM frequency and timing."
+  },
+  {
+    "query": "What study investigated the response of fasting plasma glucose to diet therapy in newly presenting type II diabetic patients?",
+    "ground_truth_chunk_id": "13_107",
+    "source": "ada_obesity_and_weight.pdf",
+    "chunk_text": "# Clinical Diabetes Guidelines  \n## Obesity and Weight Management  \n### Key Studies and Findings  \n1. **Equity and Obesity Treatment**\n- Stoops H, Dar M. Equity and Obesity Treatment - Expanding Medicaid-Covered Interventions. N Engl J Med 2023;388:2309–2311.  \n2. **Impact of Weight Loss**\n- Rothberg AE, McEwen LN, Kraftson AT, et al. Impact of weight loss on waist circumference and the components of the metabolic syndrome. BMJ Open Diabetes Res Care 2017;5:e000341.  \n3. **UK Prospective Diabetes Study**\n- UKPDS Group. UK Prospective Diabetes Study 7: response of fasting plasma glucose to diet therapy in newly presenting type II diabetic patients. Metabolism 1990;39:905–912.  \n4. **Cardiovascular Effects of Lifestyle Intervention**\n- Wing RR, Bolin P, Brancati FL, et al.; Look AHEAD Research Group. Cardiovascular effects of intensive lifestyle intervention in type 2 diabetes. N Engl J Med 2013;369:145–154.  \n5. **Bariatric Surgery Outcomes**"
+  },
+  {
+    "query": "What is the typical range of insulin requirements at initiation for adults newly diagnosed with type 1 diabetes?",
+    "ground_truth_chunk_id": "14_33",
+    "source": "ada_pharma_approaches.pdf",
+    "chunk_text": "In adults newly diagnosed with type 1 diabetes, insulin requirements at initiation typically range from 0.2 to 0.6 units/kg/day, with lower doses often sufficient in those with continued endogenous insulin production (during the partial remission phase or “honeymoon” period, or in people presenting outside of ketoacidosis). This guideline provides an algorithm for insulin use for individuals with type 1 diabetes using insulin injections and detailed information on intensification of therapy to meet individualized needs."
+  },
+  {
+    "query": "What study is referenced as understanding metabolic memory and its impact on future risks of complications in diabetes management?",
+    "ground_truth_chunk_id": "15_96",
+    "source": "ada_retino_neuro_footcare.pdf",
+    "chunk_text": "results  that  reported  increased  healing            EDIC) study. Diabetes Care 2025;48:1089–1100                 retinopathy  with  glucagon-like  peptide-1  receptor\nrates at 9 and 12 months compared with                 3.   Lachin  JM,  Nathan  DM;  DCCT/EDIC  Research           agonists  with  cardiovascular  benefits  in  type  2\ncontrol  participants  (160).  Several  other          Group.  Understanding  metabolic  memory:  the               diabetes—a systematic review and meta-analysis. J\nprolonged  influence  of  glycemia  during  the              Diabetes Complications 2022;36:108255\nstudies  with  significant  design  deficien-          Diabetes Control and Complications  Trial  (DCCT)            18. Ntentakis DP, Correa VSMC, Ntentaki AM, et\ncies and participant dropouts have failed              on future risks of complications during the study            al.  Effects of  newer-generation anti-diabetics  on"
+  },
+  {
+    "query": "What is the significance of IA-2A positivity in relation to the risk of progression within and across established stages of type 1 diabetes?",
+    "ground_truth_chunk_id": "4_159",
+    "source": "ada_chapter2.pdf",
+    "chunk_text": "5. Phillip M, Achenbach P, Addala A, et al. Consensus guidance for monitoring individuals with islet autoantibody-positive pre-stage 3 type 1 diabetes. Diabetes Care 2024;47:1276–1298.\n6. Sims EK, Cuthbertson D, Ferrat LA, et al. IA-2A positivity increases risk of progression within and across established stages of type 1 diabetes. Diabetologia 2025;68:993–1004.\n7. Ziegler A-G, Bonifacio E. Why is the presence of autoantibodies against GAD associated with a relatively slow progression to clinical diabetes? Diabetologia 2020;63:1665–1666.\n8. Greenbaum CJ, Beam CA, Boulware D, et al.; Type 1 Diabetes TrialNet Study Group. Fall in C-peptide during first 2 years from diagnosis: evidence of at least two distinct phases from composite Type 1 Diabetes TrialNet data. Diabetes 2012;61:2066–2073."
+  },
+  {
+    "query": "How often should A1C be monitored in patients being treated with mTOR inhibitors?",
+    "ground_truth_chunk_id": "4_105",
+    "source": "ada_chapter2.pdf",
+    "chunk_text": "In the absence of a clear-cut temporal pattern for the onset of hyperglycemia, fasting or random plasma glucose should be checked before treatment initiation and at each visit during treatment with mTOR inhibitors, or sooner if symptoms of hyperglycemia develop in the interim, while monitoring A1C every 3 months can also be considered."
+  },
+  {
+    "query": "How many months are participants given to complete the 16-session structured core curriculum of the DPP lifestyle intervention?",
+    "ground_truth_chunk_id": "5_15",
+    "source": "ada_chapter3.pdf",
+    "chunk_text": "The DPP lifestyle intervention was a goal-based intervention. A complete description of the DPP and how to access it is available online at coveragetoolkit.org/. Briefly, the DPP administered a 16-session structured core curriculum, completed within the first 6 months of the program, followed by an additional 6 months of a flexible maintenance program. The core curriculum included sessions on reducing calories, increasing physical activity, self-monitoring, maintaining healthy lifestyle behaviors (such as how to make healthy choices when eating out), and guidance on managing psychological, social, and motivational challenges (17)."
+  },
+  {
+    "query": "How does the effectiveness of metformin for diabetes prevention compare to lifestyle modification based on the DPP?",
+    "ground_truth_chunk_id": "5_39",
+    "source": "ada_chapter3.pdf",
+    "chunk_text": "## Metformin  \nMetformin has the most robust efficacy and safety data as a pharmacologic therapy for diabetes prevention among people with prediabetes. Importantly, metformin was overall less effective than lifestyle modification in the DPP, although it has been demonstrated in small randomized clinical trials both in healthy individuals and in individuals receiving high-dose glucocorticoids for the treatment of cancer and rheumatologic/autoimmune disorders."
+  },
+  {
+    "query": "What situations may make blood glucose monitoring useful for individuals with type 2 diabetes who are not taking insulin?",
+    "ground_truth_chunk_id": "7_30",
+    "source": "ada_chapter7.pdf",
+    "chunk_text": "In people with type 2 diabetes not taking insulin, studies have not consistently shown benefit, although the most benefit has been seen in individuals participating in structured clinical programs. Some individuals find BGM useful to provide insight into the impact of nutrition, physical activity, and medication management on glucose levels. Glucose monitoring may also be useful in assessing hypoglycemia, glucose levels during intercurrent illness, or discrepancies between measured A1C and glucose levels when there is concern an A1C result is inaccurate."
+  },
+  {
+    "query": "For which populations may more repetition and time spent reviewing concepts be indicated during continuous glucose monitoring training?",
+    "ground_truth_chunk_id": "7_15",
+    "source": "ada_chapter7.pdf",
+    "chunk_text": "Training on the use of CGM often differs from that of pump and AID systems. In some settings, CGM training can be done by users themselves with company-provided training materials (for instance, people are able to use the over-the-counter [OTC] CGM brands on their own), although for under-resourced, younger, and older individuals, more repetition and time spent reviewing concepts is often indicated. Additionally, regular monitoring and review of the data obtained from CGM devices is needed to inform and optimize clinical care. Education and training should be available to any person who needs it but should not constitute a barrier to device use in a motivated individual."
+  },
+  {
+    "query": "Where are higher incidences of type 1 diabetes diagnosed in older adulthood being observed?",
+    "ground_truth_chunk_id": "1_3",
+    "source": "ada_chapter13.pdf",
+    "chunk_text": "While type 2 diabetes predominates in the older population (as in the younger population), improvements in insulin delivery, technology, and care over the last few decades have led to increasing numbers of people with childhood and adult-onset type 1 diabetes surviving and thriving into their later decades. Type 1 diabetes is increasingly diagnosed in older adulthood as well, with greater awareness of and attention to appropriate diabetes classification across the life course, with higher incidence in Western countries (4)."
+  },
+  {
+    "query": "What year was the study published that examined adherence to the American Diabetes Association's glycemic goals in the treatment of diabetes among older Americans?",
+    "ground_truth_chunk_id": "1_132",
+    "source": "ada_chapter13.pdf",
+    "chunk_text": "10. Rooney MR, Daya N, Tang O, et al. Glycated albumin and risk of mortality in the US adult population. Clin Chem 2022; 68:422–430.\n11. Leung V, Wroblewski K, Schumm LP, Huisingh-Scheetz M, Huang ES. Reexamining the classification of older adults with diabetes by comorbidities and exploring relationships with frailty, disability, and 5-year mortality. J Gerontol A Biol Sci Med Sci 2021; 76:2071–2079.\n12. Cigolle CT, Kabeto MU, Lee PG, Blaum CS. Clinical complexity and mortality in middle-aged and older adults with diabetes. J Gerontol A Biol Sci Med Sci 2012; 67:1313–1320.\n13. Le P, Ayers G, Misra-Hebert AD, et al. Adherence to the American Diabetes Association’s glycemic goals in the treatment of diabetes among older Americans, 2001–2018. Diabetes Care 2022; 45:1107–1115."
+  },
+  {
+    "query": "What is the most commonly used daily dosage range of aspirin in clinical trials involving people with diabetes?",
+    "ground_truth_chunk_id": "0_110",
+    "source": "ada_cardio_disease_manag.pdf",
+    "chunk_text": "## Aspirin Dosing\nAverage daily dosages used in most clinical trials involving people with diabetes ranged from 50 to 650 mg but were mostly in the range of 100–325 mg/day. There is little evidence to support any specific dose, but using the lowest possible dose may help to reduce side effects. Current guidelines recommend short-term dual antiplatelet therapy after high-risk transient ischemic attack and minor stroke. The indications for dual antiplatelet therapy and length of treatment are rapidly evolving and should be determined by an interprofessional team approach that includes a cardiovascular or neurological specialist, as appropriate."
+  },
+  {
+    "query": "What should be done with lipid-lowering therapies during gestation for most pregnant individuals according to current recommendations?",
+    "ground_truth_chunk_id": "0_92",
+    "source": "ada_cardio_disease_manag.pdf",
+    "chunk_text": "Individuals of childbearing potential are less likely to be treated with statins or achieve their LDL cholesterol goals based on their cardiovascular risk. This is likely related to concerns and lack of familiarity with the use of lipid-lowering agents during pregnancy. The trials evaluating the efficacy and safety of lipid-lowering medications exclude individuals who are pregnant and require individuals of childbearing potential to use contraception (some requiring two forms). Therefore, for many pregnant individuals, it is recommended that they discontinue lipid-lowering therapies during gestation. However, for individuals at higher risk for cardiovascular events (e.g., those with familial hypercholesterolemia or preexisting ASCVD), the risk of discontinuing all lipid-lowering therapy during preconception and pregnancy should be reviewed and weighed against an increased risk for cardiovascular events"
+  },
+  {
+    "query": "What medication was studied by Marso and colleagues in relation to cardiovascular outcomes in type 2 diabetes in the LEADER Trial Investigators research published in 2016?",
+    "ground_truth_chunk_id": "9_97",
+    "source": "ada_chronic_kidney_manag.pdf",
+    "chunk_text": "# Chronic Kidney Disease and Risk Management  \n## References  \n1. Heerspink HJL, Perco P, Mulder S, et al. Canagliflozin reduces inflammation and fibrosis biomarkers: a potential mechanism of action for beneficial effects of SGLT2 inhibitors in diabetic kidney disease. Diabetologia 2019;62:1154–1166.\n2. Marso SP, Daniels GH, Brown-Frandsen K, et al.; LEADER Trial Investigators. Liraglutide and cardiovascular outcomes in type 2 diabetes. N Engl J Med 2016;375:311–322.\n3. Cooper ME, Perkovic V, McGill JB, et al. Kidney disease end points in a pooled analysis of individual patient-level data from a large clinical trials program of the dipeptidyl peptidase 4 inhibitor linagliptin in type 2 diabetes. Am J Kidney Dis 2015;66:441–449.\n4. Mann JFE, Ørsted DD, Brown-Frandsen K, et al.; LEADER Steering Committee and Investigators. Liraglutide and renal outcomes in type 2 diabetes. N Engl J Med 2017;377:839–848."
+  },
+  {
+    "query": "What are some reasons to consider nondiabetic kidney diseases in a person with chronic kidney disease and diabetes?",
+    "ground_truth_chunk_id": "9_21",
+    "source": "ada_chronic_kidney_manag.pdf",
+    "chunk_text": "### Table 11.1—Reasons to Consider Nondiabetic Kidney Diseases in a Person with Chronic Kidney Disease and Diabetes  \n| Reasons to Consider Nondiabetic Kidney Diseases |\n|------------------------------------------------|\n| • Type 1 diabetes duration &#x3C;5 years or no retinopathy |\n| • Active urine sediment (e.g., containing red blood cells or cellular casts) |\n| • Chronically well-managed blood glucose |\n| • Rapidly declining eGFR |\n| • Rapidly increasing or very high UACR (>300 mg/g) or urine protein/creatinine level (>500 mg/g) |  \nInformation adapted from Liang et al. (133). eGFR, estimated glomerular filtration rate; UACR, urine albumin-to-creatinine ratio."
+  },
+  {
+    "query": "What is the minimum number of days a continuous glucose monitoring device should be worn for pattern management in nonpregnant individuals with type 1 or type 2 diabetes?",
+    "ground_truth_chunk_id": "11_23",
+    "source": "ada_glycemic_hypoglycemia.pdf",
+    "chunk_text": "## Table 6.2—CGM metrics for clinical care in nonpregnant individuals with type 1 or type 2 diabetes  \n| Metric                                                  | Interpretation                                 | Goals                                           |\n|--------------------------------------------------------|------------------------------------------------|------------------------------------------------|\n| **Metrics for valid CGM wear**                         |                                                |                                                |\n| Wear time                                              | Number of days CGM device is worn             | ≥14-day wear for pattern management            |\n| Active percentage time                                  | Percent of time CGM device is active          | 70% of time active out of 14 days             |"
+  },
+  {
+    "query": "What factors would lead to the establishment of a less stringent A1C goal for a patient with established cardiovascular complications and severe comorbidities?",
+    "ground_truth_chunk_id": "11_37",
+    "source": "ada_glycemic_hypoglycemia.pdf",
+    "chunk_text": "### Modifying Factors for A1C Goals  \n| More Stringent Goal Factors         | Less Stringent Goal Factors         |\n|-------------------------------------|-------------------------------------|\n| Short diabetes duration              | Long diabetes duration               |\n| Low hypoglycemia risk               | High hypoglycemia risk               |\n| Low treatment risks and burdens      | High treatment risks and burdens     |\n| Pharmacotherapy with cardiovascular, kidney, weight, or other benefits | Pharmacotherapy without nonglycemic benefits |\n| No cardiovascular complications      | Established cardiovascular complications |\n| Few or minor comorbidities          | Severe, life-limiting comorbidities  |"
+  },
+  {
+    "query": "What type of nutrition therapy is recommended for individuals with post-metabolic surgery hypoglycemia when available?",
+    "ground_truth_chunk_id": "13_84",
+    "source": "ada_obesity_and_weight.pdf",
+    "chunk_text": "Diagnosis of post–metabolic surgery hypoglycemia is primarily made by a thorough examination of history, detailed records of food intake, physical activity, and symptom patterns, and exclusion of other potential causes of hypoglycemia (e.g., malnutrition, side effects of medications or supplements, dumping syndrome, and insulinoma). Initial management includes education to facilitate reduced intake of rapidly digested carbohydrates while ensuring adequate intake of protein, healthy fats, and vitamin and nutrient supplements. When available, individuals should be offered medical nutrition therapy with a registered dietitian nutritionist experienced in post–metabolic surgery hypoglycemia and the use of continuous glucose monitoring (ideally real-time continuous glucose monitoring, which can detect dropping glucose levels before severe hypoglycemia occurs), especially for those with impaired hypoglycemia awareness"
+  },
+  {
+    "query": "What should be emphasized when managing obesity in individuals with diabetes according to the clinical guidelines?",
+    "ground_truth_chunk_id": "13_60",
+    "source": "ada_obesity_and_weight.pdf",
+    "chunk_text": "### References\n- For further information, refer to the latest clinical guidelines and studies on diabetes management and obesity.  \n----  \nThis document provides a structured overview of the clinical guidelines for managing obesity in individuals with diabetes, emphasizing the importance of monitoring, medication options, and weight loss goals."
+  },
+  {
+    "query": "What are the severe metabolic complications that may indicate the need for β-Cell Replacement Therapy in people with Type 1 Diabetes?",
+    "ground_truth_chunk_id": "14_52",
+    "source": "ada_pharma_approaches.pdf",
+    "chunk_text": "## Overview of Indications for β-Cell Replacement Therapy in People with Type 1 Diabetes  \n### Severe Metabolic Complications\n- Hypoglycemia\n- Severe chronic kidney disease\n- Hypoglycemia unawareness\n- Ketoacidosis\n- Incapacitating problems with exogenous insulin therapy\n- Failure of insulin-based management to prevent acute complications"
+  },
+  {
+    "query": "What is the primary reason sotagliflozin is contraindicated in patients with type 1 diabetes?",
+    "ground_truth_chunk_id": "14_48",
+    "source": "ada_pharma_approaches.pdf",
+    "chunk_text": "The studies that led to the approved indication for heart failure (HF) excluded individuals with type 1 diabetes or a history of DKA (81,82). Sotagliflozin is therefore approved for HF and chronic kidney disease (CKD) but contraindicated in type 1 diabetes due to DKA risk. See SGLT INHIBITION AND RISK OF KETOSIS, later in this section, and PREVENTION AND TREATMENT OF HEART FAILURE in section 10, “Cardiovascular Disease and Risk Management,” for information on risk mitigation with the use of SGLT inhibitors in those with type 1 diabetes (88).  \nAlternative islet sources are currently under active investigation. The 2021 ADA/EASD consensus report on the management of type 1 diabetes in adults offers a simplified overview of indications for β-cell replacement therapy in people with type 1 diabetes (Fig. 9.3) (4)."
+  },
+  {
+    "query": "What symptoms are most commonly associated with the early involvement of small fibers in diabetic peripheral neuropathy?",
+    "ground_truth_chunk_id": "15_35",
+    "source": "ada_retino_neuro_footcare.pdf",
+    "chunk_text": "### Diagnosis  \nIndividuals who have had type 1 diabetes for 5 years and all individuals with type 2 diabetes should be assessed annually for DPN using medical history and simple clinical tests. Symptoms and signs of DPN vary according to the class of sensory fibers involved. The most common early symptoms are induced by the involvement of small fibers and include pain and dysesthesia (unpleasant sensations). The involvement of large fibers may cause balance issues (including falls), numbness, and loss of protective sensation (LOPS). LOPS is a risk factor for DFU due to predisposition to unrecognized minor trauma."
+  },
+  {
+    "query": "What percentage of adults with diabetes in the U.S. have some level of vision impairment?",
+    "ground_truth_chunk_id": "15_30",
+    "source": "ada_retino_neuro_footcare.pdf",
+    "chunk_text": "In the U.S., approximately 12% of adults with diabetes have some level of vision impairment. They may have difficulty reaching their diabetes treatment goals and performing many other activities of daily living, which can lead to depression, anxiety, social isolation, and difficulties at home, in the workplace, or at school. People with diabetes are at increased risk of chronic vision loss, subsequent functional decline, and resulting disability. Vision impairment has physical, psychological, behavioral, and social consequences that affect people with diabetes, their families, friends, and caregivers. Healthcare professionals and stakeholders may not be aware of the overall impact of vision loss on an individual’s health and well-being. People with diabetes-related vision loss should be evaluated to determine their potential to benefit from comprehensive vision restoration"
+  }
+]
