@@ -1,14 +1,13 @@
 """
-reranker_eval.py  ←  Colab-optimized
+run_evaluation.py  ←  Colab-optimized
 ══════════════════════════════════════════════════════════
-Pipeline: query → MedEmbed → Qdrant top-20 → CrossEncoder → top-5
-Rerankers compared:
-  • cross-encoder/ms-marco-MiniLM-L6-v2
-  • BAAI/bge-reranker-base
-  • BAAI/bge-reranker-v2-m3
+Experiment 1: MedEmbed only (no reranker)                  ← hardcoded baseline
+Experiment 2: MedEmbed + bge-reranker-base                 ← hardcoded baseline
+Experiment 3: MedEmbed + BM25 + bge-reranker-base (new)    ← runs live
 
 FILES TO UPLOAD TO COLAB (Files panel → Upload):
-  • eval_queries_multi_chunk.json  → /content/eval_queries_multi_chunk.json
+  • eval_questions.json       → /content/eval_questions.json
+  • processed_chunks.json    → /content/processed_chunks.json
 
 Copy each CELL block into a separate Colab cell and run top to bottom.
 """
@@ -18,7 +17,8 @@ Copy each CELL block into a separate Colab cell and run top to bottom.
 # ║  CELL 1 — Install dependencies                              ║
 # ╚══════════════════════════════════════════════════════════════╝
 """
-!pip install -q langchain-huggingface langchain-qdrant sentence-transformers numpy pandas
+!pip install -q langchain-huggingface langchain-qdrant langchain-community sentence-transformers rank_bm25 nltk numpy pandas matplotlib
+!python -c "import nltk; nltk.download('punkt'); nltk.download('punkt_tab')"
 """
 
 
@@ -26,6 +26,7 @@ Copy each CELL block into a separate Colab cell and run top to bottom.
 # ║  CELL 2 — Config & imports                                  ║
 # ╚══════════════════════════════════════════════════════════════╝
 
+# Core imports and pipeline configuration
 import json, time
 from pathlib import Path
 
@@ -33,42 +34,40 @@ import numpy as np
 import pandas as pd
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_qdrant import QdrantVectorStore
+from langchain_community.retrievers import BM25Retriever
+from langchain_core.documents import Document
 from sentence_transformers import CrossEncoder
+from nltk.tokenize import word_tokenize
 
-# ── Credentials ───────────────────────────────────────────────
 QDRANT_URL     = "https://a8673c43-e709-40d5-b254-4900c45d634f.us-east-1-1.aws.cloud.qdrant.io:6333"
 QDRANT_API_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2Nlc3MiOiJtIn0.TJKHmQcBA44EA14l01N5OWkOhaBKdSCw7Xpa_mnH7ls"
 
-# ── Fixed embedding model (MedEmbed winner from experiment 1) ─
-EMBED_MODEL      = "abhinand/MedEmbed-base-v0.1"
-COLLECTION_NAME  = "ada_model_medembed_base_v0.1"
+EMBED_MODEL     = "abhinand/MedEmbed-base-v0.1"
+COLLECTION_NAME = "ada_model_medembed_base_v0.1"
+RERANKER_MODEL  = "BAAI/bge-reranker-base"
 
-# ── Retrieval / reranking knobs ────────────────────────────────
-RETRIEVE_K = 20   # candidates pulled from Qdrant
-RERANK_TOP  = 5   # final docs after reranking (used for P@5, NDCG@5, Hit@5)
+QDRANT_TOP = 10   # semantic candidates from Qdrant
+BM25_TOP   = 10   # keyword candidates from BM25
+MERGED_CAP = 20   # reranker sees same load as Exp 2
+RERANK_TOP = 5    # final docs after reranking
 
-# ── Reranker models to compare ────────────────────────────────
-RERANKERS = {
-    "ms-marco-MiniLM-L6-v2": "cross-encoder/ms-marco-MiniLM-L6-v2",
-    "bge-reranker-base":      "BAAI/bge-reranker-base",
-    "bge-reranker-v2-m3":    "BAAI/bge-reranker-v2-m3",
-}
-
-# ── Eval dataset ──────────────────────────────────────────────
 EVAL_PATH = Path("/content/eval_queries_multi_chunk.json")
+CHUNKS_PATH = Path("/content/processed_chunks")
+
 with open(EVAL_PATH) as f:
     eval_queries = json.load(f)
+with open(CHUNKS_PATH) as f:
+    processed_chunks = json.load(f)
 
-print(f"✓ Loaded {len(eval_queries)} queries from {EVAL_PATH.name}")
-print(f"✓ Embedding : {EMBED_MODEL}")
-print(f"✓ Collection: {COLLECTION_NAME}")
-print(f"✓ Retrieve K={RETRIEVE_K} → rerank to top-{RERANK_TOP}")
+print(f"✓ Loaded {len(eval_queries)} queries")
+print(f"✓ Loaded {len(processed_chunks)} chunks for BM25 index")
 
 
 # ╔══════════════════════════════════════════════════════════════╗
-# ║  CELL 3 — Metric functions (identical to experiment 1)      ║
+# ║  CELL 3 — Metric functions                                  ║
 # ╚══════════════════════════════════════════════════════════════╝
 
+# Standard IR metrics used across all three experiments
 def precision_at_k(retrieved: list, relevant: list, k: int = 5) -> float:
     return len(set(retrieved[:k]) & set(relevant)) / k
 
@@ -95,21 +94,11 @@ def hit_at_k(retrieved: list, relevant: list, k: int = 5) -> float:
     return 1.0 if set(retrieved[:k]) & set(relevant) else 0.0
 
 
-
-
-
-
-
-
-
-
-
-
-
 # ╔══════════════════════════════════════════════════════════════╗
-# ║  CELL 4 — Build shared retriever (MedEmbed + Qdrant)        ║
+# ║  CELL 4 — Build Qdrant retriever and BM25 index             ║
 # ╚══════════════════════════════════════════════════════════════╝
 
+# Load MedEmbed + connect to existing Qdrant collection (no re-embedding)
 embeddings = HuggingFaceEmbeddings(
     model_name=EMBED_MODEL,
     model_kwargs={"device": "cpu"},
@@ -122,32 +111,39 @@ vector_store = QdrantVectorStore.from_existing_collection(
     url=QDRANT_URL,
     api_key=QDRANT_API_KEY,
 )
+qdrant_retriever = vector_store.as_retriever(search_kwargs={"k": QDRANT_TOP})
 
-# LangChain retriever — returns top RETRIEVE_K docs
-retriever = vector_store.as_retriever(search_kwargs={"k": RETRIEVE_K})
+# Build BM25 index from processed_chunks.json using word_tokenize
+bm25_docs = [
+    Document(
+        page_content=chunk.get("page_content", ""),
+        metadata={"chunk_id": chunk["metadata"]["chunk_id"]}
+    )
+    for i, chunk in enumerate(processed_chunks)
+]
+bm25_retriever = BM25Retriever.from_documents(
+    bm25_docs,
+    k=BM25_TOP,
+    preprocess_func=word_tokenize,
+)
 
-print(f"✓ Retriever ready  (top-{RETRIEVE_K} from '{COLLECTION_NAME}')")
 
 
 # ╔══════════════════════════════════════════════════════════════╗
-# ║  CELL 5 — Per-reranker evaluation function                  ║
+# ║  CELL 5 — Load bge-reranker-base                            ║
 # ╚══════════════════════════════════════════════════════════════╝
 
-def evaluate_reranker(reranker_name: str, reranker_model_path: str) -> dict:
-    """
-    Run the full eval loop for one CrossEncoder reranker.
+# Single shared CrossEncoder for Experiment 3
+cross_encoder = CrossEncoder(RERANKER_MODEL)
+print(f"✓ Reranker loaded: {RERANKER_MODEL}")
 
-    Pipeline per query:
-      retriever.invoke(query)          → RETRIEVE_K docs from Qdrant
-      cross_encoder.rank(query, docs)  → sorted by score
-      top RERANK_TOP ids               → metrics
-    Latency covers the entire pipeline (retrieval + reranking).
-    """
-    print(f"Reranker : {reranker_name}")
-    print(f"Model    : {reranker_model_path}")
 
-    cross_encoder = CrossEncoder(reranker_model_path)
+# ╔══════════════════════════════════════════════════════════════╗
+# ║  CELL 6 — Hybrid retrieval evaluation loop (Experiment 3)   ║
+# ╚══════════════════════════════════════════════════════════════╝
 
+def evaluate_hybrid() -> dict:
+    """Run MedEmbed + BM25 → merge+deduplicate → bge-reranker-base → top-5."""
     p5_list, r10_list, mrr_list, ndcg5_list, hit5_list, lat_list = [], [], [], [], [], []
 
     for i, item in enumerate(eval_queries, 1):
@@ -155,23 +151,35 @@ def evaluate_reranker(reranker_name: str, reranker_model_path: str) -> dict:
         relevant_ids = item["ground_truth"]["relevant_chunk_ids"]
         rel_scores   = item["ground_truth"]["relevance_scores"]
 
-        # ── Step 1: Vector retrieval ───────────────────────────
-        t0   = time.time()
-        docs = retriever.invoke(query)          # LangChain retriever call
+        t0 = time.time()
 
-        # ── Step 2: CrossEncoder reranking ────────────────────
-        passages     = [doc.page_content for doc in docs]
-        ce_inputs    = [[query, p] for p in passages]
-        ce_scores    = cross_encoder.predict(ce_inputs)
+        # Retrieve top-QDRANT_TOP from Qdrant (semantic)
+        qdrant_docs = qdrant_retriever.invoke(query)
 
-        # Sort docs by descending CE score, keep top RERANK_TOP
-        ranked_docs  = sorted(zip(ce_scores, docs), key=lambda x: x[0], reverse=True)
+        # Retrieve top-BM25_TOP from BM25 (keyword)
+        bm25_docs_q = bm25_retriever.invoke(query)
+
+        # Merge and deduplicate by page_content up to MERGED_CAP, Qdrant priority
+        seen, merged = set(), []
+        for doc in qdrant_docs + bm25_docs_q:
+            if len(merged) >= MERGED_CAP:
+                break
+            key = doc.page_content[:200]
+            if key not in seen:
+                seen.add(key)
+                merged.append(doc)
+
+        # Rerank merged candidates with bge-reranker-base → top-5
+        passages  = [doc.page_content for doc in merged]
+        ce_inputs = [[query, p] for p in passages]
+        ce_scores = cross_encoder.predict(ce_inputs)
+
+        ranked_docs  = sorted(zip(ce_scores, merged), key=lambda x: x[0], reverse=True)
         top_docs     = [doc for _, doc in ranked_docs[:RERANK_TOP]]
         lat          = time.time() - t0
 
-        # ── Step 3: Extract chunk IDs ──────────────────────────
+        # Extract chunk IDs for metric computation
         retrieved_ids = [doc.metadata.get("chunk_id") for doc in top_docs]
-        # For recall we use the full reranked list (up to 10)
         all_reranked  = [doc.metadata.get("chunk_id") for _, doc in ranked_docs]
 
         p5    = precision_at_k(retrieved_ids, relevant_ids, k=5)
@@ -183,11 +191,11 @@ def evaluate_reranker(reranker_name: str, reranker_model_path: str) -> dict:
         p5_list.append(p5);  r10_list.append(r10);  mrr_list.append(mrr_s)
         ndcg5_list.append(ndcg5);  hit5_list.append(hit5);  lat_list.append(lat)
 
-        print(f"  [{i:02d}] P@5={p5:.2f} NDCG@5={ndcg5:.2f} Hit@5={int(hit5)} | "
-              f"{lat*1000:.0f}ms | {query[:50]}…")
+        print(f"  [{i:02d}] P@5={p5:.2f} NDCG@5={ndcg5:.2f} Hit@5={int(hit5)} "
+              f"candidates={len(merged):02d} | {lat*1000:.0f}ms | {query[:50]}…")
 
-    result = {
-        "Reranker":    reranker_name,
+    return {
+        "Pipeline":    "MedEmbed + BM25 + bge-reranker-base",
         "Precision@5": round(float(np.mean(p5_list)),   3),
         "Recall@10":   round(float(np.mean(r10_list)),  3),
         "MRR":         round(float(np.mean(mrr_list)),  3),
@@ -196,36 +204,22 @@ def evaluate_reranker(reranker_name: str, reranker_model_path: str) -> dict:
         "Latency_ms":  round(float(np.mean(lat_list)) * 1000, 1),
     }
 
-    print(f"\n  Precision@5 : {result['Precision@5']}")
-    print(f"  Recall@10   : {result['Recall@10']}")
-    print(f"  MRR         : {result['MRR']}")
-    print(f"  NDCG@5      : {result['NDCG@5']}")
-    print(f"  Hit@5       : {result['Hit@5']}")
-    print(f"  Latency     : {result['Latency_ms']} ms")
-
-    return result
-
-print("✓ evaluate_reranker() defined")
+exp3_result = evaluate_hybrid()
+print(f"\n  Precision@5 : {exp3_result['Precision@5']}")
+print(f"  Recall@10   : {exp3_result['Recall@10']}")
+print(f"  MRR         : {exp3_result['MRR']}")
+print(f"  NDCG@5      : {exp3_result['NDCG@5']}")
+print(f"  Hit@5       : {exp3_result['Hit@5']}")
+print(f"  Latency     : {exp3_result['Latency_ms']} ms")
 
 
 # ╔══════════════════════════════════════════════════════════════╗
-# ║  CELL 6 — Run all rerankers                                 ║
+# ║  CELL 7 — Combined results table (all 3 experiments)        ║
 # ╚══════════════════════════════════════════════════════════════╝
 
-all_results = []
-
-for name, path in RERANKERS.items():
-    result = evaluate_reranker(name, path)
-    all_results.append(result)
-
-
-# ╔══════════════════════════════════════════════════════════════╗
-# ║  CELL 7 — Summary table + save CSV                         ║
-# ╚══════════════════════════════════════════════════════════════╝
-
-# Embed experiment-1 MedEmbed baseline row for direct comparison
-baseline = {
-    "Reranker":    "MedEmbed (no reranker)",
+# Hardcoded Exp1/Exp2 baselines — update from your saved CSVs if values differ
+exp1_baseline = {
+    "Pipeline":    "MedEmbed only (no reranker)",
     "Precision@5": 0.393,
     "Recall@10":   0.562,
     "MRR":         0.797,
@@ -233,26 +227,34 @@ baseline = {
     "Hit@5":       0.867,
     "Latency_ms":  249.8,
 }
+exp2_baseline = {
+    "Pipeline":    "MedEmbed + bge-reranker-base",
+    "Precision@5": 0.0,   # ← fill in from reranker_evaluation_results.csv
+    "Recall@10":   0.0,
+    "MRR":         0.0,
+    "NDCG@5":      0.0,
+    "Hit@5":       0.0,
+    "Latency_ms":  0.0,
+}
 
-df = (pd.DataFrame([baseline] + all_results)
-        .sort_values("NDCG@5", ascending=False)
-        .reset_index(drop=True))
+df = pd.DataFrame([exp1_baseline, exp2_baseline, exp3_result])
 
-print("\n" + "="*75)
-print("RERANKER EVALUATION — sorted by NDCG@5")
-print(f"Base retrieval: MedEmbed top-{RETRIEVE_K} → CrossEncoder → top-{RERANK_TOP}")
-print("="*75)
+print("\n" + "="*80)
+print("HYBRID RETRIEVAL EVALUATION — Experiments 1 / 2 / 3")
+print(f"Retrieve K={RETRIEVE_K} per source → merge → bge-reranker-base → top-{RERANK_TOP}")
+print("="*80)
 print(df.to_string(index=False))
 
-csv_path = "/content/reranker_evaluation_results.csv"
+csv_path = "/content/hybrid_evaluation_results.csv"
 df.to_csv(csv_path, index=False)
 print(f"\n✅ Saved to {csv_path}  (download from Files panel)")
 
 
 # ╔══════════════════════════════════════════════════════════════╗
-# ║  CELL 8 — Bar chart visualization (optional)               ║
+# ║  CELL 8 — Bar chart visualization                           ║
 # ╚══════════════════════════════════════════════════════════════╝
 
+# Visualize all metrics across the three pipeline configurations
 import matplotlib.pyplot as plt
 
 metrics = ["Precision@5", "Recall@10", "MRR", "NDCG@5", "Hit@5"]
@@ -262,19 +264,19 @@ fig, axes = plt.subplots(2, 3, figsize=(16, 9))
 axes = axes.flatten()
 
 for ax, metric, color in zip(axes, metrics, colors):
-    ax.barh(df["Reranker"], df[metric], color=color)
+    ax.barh(df["Pipeline"], df[metric], color=color)
     ax.set_xlabel(metric)
     ax.set_title(metric)
     ax.invert_yaxis()
     for j, v in enumerate(df[metric]):
         ax.text(v + 0.005, j, f"{v:.3f}", va="center", fontsize=8)
 
-axes[-1].axis("off")  # hide unused 6th panel
+axes[-1].axis("off")
 plt.suptitle(
-    f"Reranker Evaluation  (MedEmbed top-{RETRIEVE_K} → rerank → top-{RERANK_TOP})",
+    f"Hybrid Retrieval Evaluation  (top-{RETRIEVE_K} per source → rerank → top-{RERANK_TOP})",
     fontsize=13, fontweight="bold"
 )
 plt.tight_layout()
-plt.savefig("/content/reranker_evaluation_charts.png", dpi=150, bbox_inches="tight")
+plt.savefig("/content/hybrid_evaluation_charts.png", dpi=150, bbox_inches="tight")
 plt.show()
 print("✅ Chart saved — download from Files panel")
