@@ -1,0 +1,5 @@
+Reranker,Precision@5,Recall@10,MRR,NDCG@5,Hit@5,Latency_ms
+MedEmbed-only (Baseline),0.393,0.562,0.797,0.511,0.867,249.8
+bge-reranker-v2-m3,0.393,0.584,0.788,0.497,0.9,1611.7
+bge-reranker-base,0.407,0.58,0.765,0.493,0.9,821.0
+ms-marco-MiniLM-L6-v2,0.307,0.434,0.553,0.36,0.767,354.7
