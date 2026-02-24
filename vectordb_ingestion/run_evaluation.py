@@ -1,10 +1,10 @@
 """
 run_evaluation.py  ←  Colab-optimized
 ══════════════════════════════════════════════════════════
-Experiment 1: MedEmbed only (no reranker)                       ← hardcoded baseline
-Experiment 2: MedEmbed + bge-reranker-base                      ← hardcoded baseline
-Experiment 3: MedEmbed + BM25 EnsembleRetriever + bge-reranker-base   ← runs live
-Experiment 4: MedEmbed + BM25 RRF + bge-reranker-base (new)     ← runs live
+Experiment 1: MedEmbed only (no reranker)                             ← hardcoded baseline
+Experiment 2: MedEmbed + bge-reranker-base                            ← hardcoded baseline
+Experiment 3: BM25 + MedEmbed RRF (0.7/0.3) + bge-reranker-base      ← runs live
+Experiment 4: BM25 + MedEmbed RRF (0.7/0.3) + bge-reranker-base alt  ← runs live (same retriever, logged separately)
 
 FILES TO UPLOAD TO COLAB (Files panel → Upload):
   • eval_questions.json       → /content/eval_questions.json
@@ -50,8 +50,11 @@ RERANKER_MODEL  = "BAAI/bge-reranker-base"
 
 QDRANT_TOP = 10   # semantic candidates from Qdrant
 BM25_TOP   = 10   # keyword candidates from BM25
-MERGED_CAP = 20   # reranker sees same load as Exp 2
-RERANK_TOP = 5    # final docs after reranking
+MERGED_CAP = 20   # cap passed to cross-encoder (≤ QDRANT_TOP + BM25_TOP)
+RERANK_TOP = 5    # final docs returned after reranking
+
+# RRF weights: 0.7 → MedEmbed (semantic), 0.3 → BM25 (keyword)
+RRF_WEIGHTS = [0.7, 0.3]
 
 EVAL_PATH = Path("/content/eval_queries_multi_chunk.json")
 CHUNKS_PATH = Path("/content/processed_chunks")
@@ -129,11 +132,12 @@ bm25_retriever = BM25Retriever.from_documents(
     preprocess_func=word_tokenize,
 )
 
-# RRF ensemble: equal weights give each retriever 0.5 vote in rank fusion
+# RRF ensemble: 0.7 weight for MedEmbed (semantic), 0.3 for BM25 (keyword)
 rrf_retriever = EnsembleRetriever(
     retrievers=[qdrant_retriever, bm25_retriever],
-    weights=[0.5, 0.5],
+    weights=RRF_WEIGHTS,
 )
+print(f"✓ EnsembleRetriever built  (Qdrant={RRF_WEIGHTS[0]}, BM25={RRF_WEIGHTS[1]})")
 
 
 # ╔══════════════════════════════════════════════════════════════╗
@@ -150,7 +154,7 @@ print(f"✓ Reranker loaded: {RERANKER_MODEL}")
 # ╚══════════════════════════════════════════════════════════════╝
 
 def evaluate_hybrid() -> dict:
-    """Run MedEmbed + BM25 via EnsembleRetriever → bge-reranker-base → top-5."""
+    """BM25 + MedEmbed via EnsembleRetriever (RRF 0.7/0.3) → bge-reranker-base → top-5."""
     p5_list, r10_list, mrr_list, ndcg5_list, hit5_list, lat_list = [], [], [], [], [], []
 
     for i, item in enumerate(eval_queries, 1):
@@ -160,15 +164,16 @@ def evaluate_hybrid() -> dict:
 
         t0 = time.time()
 
-        # EnsembleRetriever fuses Qdrant + BM25 via RRF and deduplicates internally
-        merged = rrf_retriever.invoke(query)[:MERGED_CAP]
+        # EnsembleRetriever fuses Qdrant + BM25 via RRF (0.7/0.3), deduplicates internally
+        rrf_docs = rrf_retriever.invoke(query)
+        candidates = rrf_docs[:MERGED_CAP]   # cap before sending to cross-encoder
 
-        # Rerank candidates with bge-reranker-base → top-5
-        passages  = [doc.page_content for doc in merged]
+        # Cross-encoder reranking: score every (query, passage) pair
+        passages  = [doc.page_content for doc in candidates]
         ce_inputs = [[query, p] for p in passages]
         ce_scores = cross_encoder.predict(ce_inputs)
 
-        ranked_docs  = sorted(zip(ce_scores, merged), key=lambda x: x[0], reverse=True)
+        ranked_docs  = sorted(zip(ce_scores, candidates), key=lambda x: x[0], reverse=True)
         top_docs     = [doc for _, doc in ranked_docs[:RERANK_TOP]]
         lat          = time.time() - t0
 
@@ -186,10 +191,10 @@ def evaluate_hybrid() -> dict:
         ndcg5_list.append(ndcg5);  hit5_list.append(hit5);  lat_list.append(lat)
 
         print(f"  [{i:02d}] P@5={p5:.2f} NDCG@5={ndcg5:.2f} Hit@5={int(hit5)} "
-              f"candidates={len(merged):02d} | {lat*1000:.0f}ms | {query[:50]}…")
+              f"candidates={len(candidates):02d} | {lat*1000:.0f}ms | {query[:50]}…")
 
     return {
-        "Pipeline":    "MedEmbed + BM25 EnsembleRetriever + bge-reranker-base",
+        "Pipeline":    f"BM25+MedEmbed RRF({RRF_WEIGHTS[0]}/{RRF_WEIGHTS[1]}) + bge-reranker-base",
         "Precision@5": round(float(np.mean(p5_list)),   3),
         "Recall@10":   round(float(np.mean(r10_list)),  3),
         "MRR":         round(float(np.mean(mrr_list)),  3),
@@ -212,7 +217,7 @@ print(f"  Latency     : {exp3_result['Latency_ms']} ms")
 # ╚══════════════════════════════════════════════════════════════╝
 
 def evaluate_rrf() -> dict:
-    """Run MedEmbed + BM25 via RRF → bge-reranker-base → top-5."""
+    """BM25 + MedEmbed via RRF (0.7/0.3) → bge-reranker-base → top-5  [alt logging run]."""
     p5_list, r10_list, mrr_list, ndcg5_list, hit5_list, lat_list = [], [], [], [], [], []
 
     for i, item in enumerate(eval_queries, 1):
@@ -222,15 +227,16 @@ def evaluate_rrf() -> dict:
 
         t0 = time.time()
 
-        # EnsembleRetriever applies RRF internally and returns up to MERGED_CAP docs
-        rrf_docs = rrf_retriever.invoke(query)[:MERGED_CAP]
+        # Same RRF retriever (0.7/0.3 weights); cap candidates before cross-encoder
+        rrf_docs   = rrf_retriever.invoke(query)
+        candidates = rrf_docs[:MERGED_CAP]
 
-        # Rerank RRF candidates with bge-reranker-base → top-5
-        passages  = [doc.page_content for doc in rrf_docs]
+        # Cross-encoder reranking on top of RRF fusion
+        passages  = [doc.page_content for doc in candidates]
         ce_inputs = [[query, p] for p in passages]
         ce_scores = cross_encoder.predict(ce_inputs)
 
-        ranked_docs  = sorted(zip(ce_scores, rrf_docs), key=lambda x: x[0], reverse=True)
+        ranked_docs  = sorted(zip(ce_scores, candidates), key=lambda x: x[0], reverse=True)
         top_docs     = [doc for _, doc in ranked_docs[:RERANK_TOP]]
         lat          = time.time() - t0
 
@@ -248,10 +254,10 @@ def evaluate_rrf() -> dict:
         ndcg5_list.append(ndcg5);  hit5_list.append(hit5);  lat_list.append(lat)
 
         print(f"  [{i:02d}] P@5={p5:.2f} NDCG@5={ndcg5:.2f} Hit@5={int(hit5)} "
-              f"candidates={len(rrf_docs):02d} | {lat*1000:.0f}ms | {query[:50]}…")
+              f"candidates={len(candidates):02d} | {lat*1000:.0f}ms | {query[:50]}…")
 
     return {
-        "Pipeline":    "MedEmbed + BM25 RRF + bge-reranker-base",
+        "Pipeline":    f"BM25+MedEmbed RRF({RRF_WEIGHTS[0]}/{RRF_WEIGHTS[1]}) + bge-reranker-base [run2]",
         "Precision@5": round(float(np.mean(p5_list)),   3),
         "Recall@10":   round(float(np.mean(r10_list)),  3),
         "MRR":         round(float(np.mean(mrr_list)),  3),
@@ -285,19 +291,20 @@ exp1_baseline = {
 }
 exp2_baseline = {
     "Pipeline":    "MedEmbed + bge-reranker-base",
-    "Precision@5": 0.0,   # ← fill in from reranker_evaluation_results.csv
-    "Recall@10":   0.0,
-    "MRR":         0.0,
-    "NDCG@5":      0.0,
-    "Hit@5":       0.0,
-    "Latency_ms":  0.0,
+    "Precision@5": 0.407,
+    "Recall@10":   0.580,
+    "MRR":         0.765,
+    "NDCG@5":      0.493,
+    "Hit@5":       0.900,
+    "Latency_ms":  821.0,
 }
 
 df = pd.DataFrame([exp1_baseline, exp2_baseline, exp3_result, exp4_result])
 
 print("\n" + "="*80)
 print("RETRIEVAL EVALUATION — Experiments 1 / 2 / 3 / 4")
-print(f"Qdrant top-{QDRANT_TOP} + BM25 top-{BM25_TOP} → bge-reranker-base → top-{RERANK_TOP}")
+print(f"BM25+MedEmbed RRF({RRF_WEIGHTS[0]}/{RRF_WEIGHTS[1]}) → bge-reranker-base → top-{RERANK_TOP}  "
+      f"(Qdrant-{QDRANT_TOP}, BM25-{BM25_TOP}, cap={MERGED_CAP})")
 print("="*80)
 print(df.to_string(index=False))
 
@@ -329,7 +336,8 @@ for ax, metric, color in zip(axes, metrics, colors):
 
 axes[-1].axis("off")
 plt.suptitle(
-    f"Retrieval Evaluation Exp 1–4  (Qdrant {QDRANT_TOP} + BM25 {BM25_TOP} → rerank → top-{RERANK_TOP})",
+    f"Retrieval Eval Exp 1–4  │  BM25+MedEmbed RRF {RRF_WEIGHTS[0]}/{RRF_WEIGHTS[1]} "
+    f"→ bge-reranker-base → top-{RERANK_TOP}",
     fontsize=13, fontweight="bold"
 )
 plt.tight_layout()
