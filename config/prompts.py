@@ -1,11 +1,8 @@
 
 # ---------------------------------------------------------------------------
 # Few-shot examples: Natural Language → Cypher Query
-# ---------------------------------------------------------------------------
-# These examples were tested against the live Neo4j graph (see 4_Tests/neo4j_query_test.ipynb).
-# They teach the LLM the correct node labels, the `id` property convention,
-# relationship directions, and query patterns used in this knowledge graph.
-# ---------------------------------------------------------------------------
+
+from langchain_core.prompts import ChatPromptTemplate
 
 FEW_SHOT_EXAMPLES = """
 Example 1
@@ -143,24 +140,26 @@ LIMIT 15
 # Main Cypher generation prompt template (inject {schema} and {question})
 # ---------------------------------------------------------------------------
 
-cypher_generation_prompt = """Task:
-Generate a Cypher Query statement to query a graph database for Type 2 Diabetes clinical nursing knowledge.
-
-Instructions:
-- Refer to the provided relationship types and properties in the schema.
-- Do not use any other relationship types or properties that are not provided.
-- ALL entities are identified by the `id` property.
-- Use `toLower(n.id) CONTAINS '...'` for case-insensitive keyword searches.
-- Generate READ-ONLY queries (MATCH / RETURN / WITH / WHERE / LIMIT only).
-- Do not include any explanations, apologies, or markdown formatting.
-- Return ONLY the executable Cypher statement.
+cypher_generation_prompt_template = ChatPromptTemplate.from_template(
+    """Generate a Cypher query for Neo4j graph database (Type 2 Diabetes nursing knowledge).
 
 Schema:
 {schema}
 
-Few-shot examples (natural language → Cypher):
+Rules:
+1. Use ONLY schema elements above
+2. Entities identified by 'id' property
+3. Case-insensitive search: WHERE toLower(n.id) CONTAINS toLower('term')
+4. READ-ONLY: Use MATCH/WHERE/RETURN/WITH/LIMIT only
+5. Return properties, not counts
+
+Examples:
 {examples}
 
-The question is:
-{question}"""
+Question: {question}
+
+Output (Cypher only, no explanation):"""
+)
+
+
 
