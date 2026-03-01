@@ -1,5 +1,8 @@
 langchain
+langchain-community
 python-dotenv  
+rank_bm25
+nltk
 langchain-openai
 ipykernel
 streamlit
@@ -13,8 +16,8 @@ qdrant-client>=1.7.0
 pdfplumber
 llama-index
 llama-parse
-sentence-transformers>=2.2.2
 tiktoken>=0.5.0
 langchain-qdrant
 langchain-text-splitters
 ragas
+sentence-transformers
