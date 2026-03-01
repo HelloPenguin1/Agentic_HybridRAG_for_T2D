@@ -146,6 +146,9 @@ cypher_generation_prompt_template = ChatPromptTemplate.from_template(
 Schema:
 {schema}
 
+Important:
+Return ONLY the cypher query. Do not include any other text.
+
 Rules:
 1. Use ONLY schema elements above
 2. Entities identified by 'id' property
@@ -160,6 +163,24 @@ Question: {question}
 
 Output (Cypher only, no explanation):"""
 )
+
+### Synthesizer Prompt ###
+
+synthesizer_prompt = ChatPromptTemplate.from_template(
+    """Your task is to transform retrieved information from a graph database into
+a complete, coherent response for the user.
+
+Your ONLY source of information is the graph data provided below.
+Do NOT use any outside knowledge, assumptions, or information not present in the graph data.
+If the graph data is empty or does not contain enough information to answer the question,
+say so clearly — do not fabricate an answer.
+
+Graph Data:
+{graph_result}
+
+Question: {question}
+
+Answer:""")
 
 
 

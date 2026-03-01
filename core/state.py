@@ -6,6 +6,9 @@ from langgraph.graph.message import add_messages
 
 class GraphState(TypedDict):
     question: str
+
     graph_result: str
+    vector_result: str
+    
     final_answer: str
 

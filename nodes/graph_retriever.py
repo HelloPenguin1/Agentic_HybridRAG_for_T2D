@@ -1,9 +1,10 @@
 from config.prompts import cypher_generation_prompt_template, FEW_SHOT_EXAMPLES
 from langchain_core.output_parsers import StrOutputParser
-from langchain_core.runnables import RunnableLambda
 import pandas as pd
 from langchain_groq import ChatGroq 
 from langchain_neo4j import Neo4jGraph
+from config.settings import translator_llm
+
 import os
 from dotenv import load_dotenv
 
@@ -13,9 +14,6 @@ uri = os.getenv("NEO4J_URI")
 user = os.getenv("NEO4J_USER")
 password = os.getenv("NEO4J_PASSWORD")
 groq_api_key = os.getenv("GROQ_API_KEY")
-
-
-translator_llm = ChatGroq(groq_api_key=groq_api_key, model_name="openai/gpt-oss-20b", temperature=0)
 
 
 class GraphRetriever:
@@ -28,6 +26,7 @@ class GraphRetriever:
             password=password,
             database="neo4j"
         )
+        self.translator_llm = translator_llm
     
     
     #Convert natural language questions to cypher queries
@@ -52,25 +51,23 @@ class GraphRetriever:
     def query_graph(self, cypher_query):
         try:
             result = self.graph.query(cypher_query)
-            df = pd.DataFrame(result)
-            if result:
-                print(f"Got result(s)")
-            else:
+            #df = pd.DataFrame(result)
+            if not result:
                 print("Query ran but returned no results")
-
-            return df.to_string(index=False)
+            else:
+                print(f"Data from Retriver: {result}")
+            return result
         except Exception as e:
             print(f"Query failed: {e}")
             print(f"Cypher attempted:\n{cypher_query}")
             return None 
 
     
-
-    def graph_retriever_node(state):
+    def graph_retriever_node(self, state):
         user_question = state['question']
-        cypher_query = convert_to_cypher(user_question, translator_llm)
-        graph_result = query_graph(cypher_query)
-        return {"cypher_query": cypher_query, "graph_result": graph_result}
+        cypher_query = self.convert_to_cypher(user_question, translator_llm)
+        graph_result = self.query_graph(cypher_query)
+        return {"graph_result": graph_result}
         
 
 
@@ -82,7 +79,7 @@ if __name__ == "__main__":
         
         # Test if we can retrieve the schema
         schema = retriever.graph.schema
-        query = "What does insulin treat?"
+        query = "Find all complications"
         cypher_query = retriever.convert_to_cypher(query, translator_llm)
         print("\n--- GENERATED CYPHER ---")
         print(cypher_query)
