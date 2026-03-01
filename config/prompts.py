@@ -170,13 +170,13 @@ synthesizer_prompt = ChatPromptTemplate.from_template(
     """Your task is to transform retrieved information from a graph database into
 a complete, coherent response for the user.
 
-Your ONLY source of information is the graph data provided below.
+Your ONLY source of information is the vector retrieved data provided below.
 Do NOT use any outside knowledge, assumptions, or information not present in the graph data.
 If the graph data is empty or does not contain enough information to answer the question,
 say so clearly — do not fabricate an answer.
 
-Graph Data:
-{graph_result}
+Vector Data:
+{vector_result}
 
 Question: {question}
 

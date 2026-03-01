@@ -6,13 +6,13 @@ from config.prompts import synthesizer_prompt
 
 def synthesizer(state):
     question = state["question"]
-    graph_result = state["graph_result"]
+    vector_result = state["vector_result"]
 
     chain = synthesizer_prompt | response_llm | StrOutputParser()
 
     final_answer = chain.invoke({
         "question": question,
-        "graph_result": graph_result if graph_result else "No results were returned from the graph."
+        "vector_result": vector_result if vector_result else "No results were returned from the vector"
     })
 
     return {"final_answer": final_answer}

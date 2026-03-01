@@ -40,19 +40,9 @@ class VectorRetriever:
         self.qdrant_retriever = self.vector_store.as_retriever(search_kwargs={"k": QDRANT_TOPK})
 
         processed_chunks = _load_processed_chunks()
-
-        bm25_docs = [
-            Document(
-                page_content=chunk.get("page_content", ""),
-                metadata={"chunk_id": chunk["metadata"]["chunk_id"]},
-            )
-            for chunk in processed_chunks
-        ]
+        bm25_docs = [Document(page_content=chunk.get("page_content", ""),metadata={"chunk_id": chunk["metadata"]["chunk_id"]}) for chunk in processed_chunks]
 
         self.bm25_retriever = BM25Retriever.from_documents(bm25_docs, k=BM25_TOP, preprocess_func=word_tokenize)
-
-        print(f"BM25 index built over {len(bm25_docs)} chunks (top-{BM25_TOP})")
-
         self.ensemble_retriever = EnsembleRetriever(
             retrievers=[self.qdrant_retriever, self.bm25_retriever],
             weights=[0.7, 0.3],
