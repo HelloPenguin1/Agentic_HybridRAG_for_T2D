@@ -167,16 +167,18 @@ Output (Cypher only, no explanation):"""
 ### Synthesizer Prompt ###
 
 synthesizer_prompt = ChatPromptTemplate.from_template(
-    """Your task is to transform retrieved information from a graph database into
-a complete, coherent response for the user.
+    """Your task is to synthesize a complete, coherent response using the retrieved data below.
 
-Your ONLY source of information is the vector retrieved data provided below.
-Do NOT use any outside knowledge, assumptions, or information not present in the graph data.
-If the graph data is empty or does not contain enough information to answer the question,
-say so clearly — do not fabricate an answer.
+Your ONLY sources of information are the Vector Data and Graph Data provided.
+Do NOT use any outside knowledge or information not present in the retrieved data.
+If both sources are empty or insufficient to answer the question, say so clearly — do not fabricate an answer.
+If one source is empty, rely on the other.
 
-Vector Data:
+Vector Data (semantic chunk retrieval):
 {vector_result}
+
+Graph Data (knowledge graph retrieval):
+{graph_result}
 
 Question: {question}
 
