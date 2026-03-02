@@ -6,16 +6,17 @@ def Router(state):
     """Route the input question to the appropriate retriever node"""
     chain = router_prompt | router_llm
     decision = chain.invoke({"question": state["question"]})
-    return {"router_choice": decision["router_choice"], "router_reasoning": decision["router_reasoning"]}
+    return {"router_choice": decision.router_choice, "router_reasoning": decision.router_reasoning}
 
 
 
- # Conditional edge logic 
+# Conditional edge logic
 def route_decision(state):
-    # Return the node name you want to visit next
-    if state["router_choice"] == "graph":
+    """Return the next node name(s) for LangGraph conditional routing."""
+    choice = state["router_choice"]
+    if choice == "graph":
         return "graph_retriever"
-    elif state["router_choice"] == "vector":
+    elif choice == "vector":
         return "vector_retriever"
-    elif state["decision"] == "both":   #if both retriever, send question to both retrievers parallely
-        return "both_retriever"
+    elif choice == "both":
+        return ["graph_retriever", "vector_retriever"]

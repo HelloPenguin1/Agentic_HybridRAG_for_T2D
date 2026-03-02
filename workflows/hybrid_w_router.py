@@ -1,33 +1,58 @@
-from typing_extensions import TypedDict
 from langgraph.graph import StateGraph, START, END
 from core.state import GraphState
-from nodes.graph_retriever import GraphRetriever
-from nodes.synthesizer import synthesizer
+from nodes.graph_retriever_chain import GraphRetrieverChain
 from nodes.vector_retriever import VectorRetriever
+from nodes.synthesizer import synthesizer
+from nodes.router import Router, route_decision
 
-graph_retriever = GraphRetriever()
+graph_retriever_chain = GraphRetrieverChain()
 vector_retriever = VectorRetriever()
 
-#initialize the graph
+# Initialize the graph
 graph = StateGraph(GraphState)
 
-#add nodes to the graph
-graph.add_node("graph_retriever", graph_retriever.graph_retriever_node)
+# Add nodes
+graph.add_node("router", Router)
+graph.add_node("graph_retriever", graph_retriever_chain.graph_retriever_node)
 graph.add_node("vector_retriever", vector_retriever.vector_retriever_node)
 graph.add_node("synthesizer", synthesizer)
 
-#add edges to the graph
-graph.add_edge(START, "graph_retriever")
-graph.add_edge(START, "vector_retriever")
+# Edges
+graph.add_edge(START, "router")
+graph.add_conditional_edges(
+    "router",
+    route_decision,
+    ["graph_retriever", "vector_retriever"],  # flat list of all reachable nodes
+)
+
 graph.add_edge("graph_retriever", "synthesizer")
 graph.add_edge("vector_retriever", "synthesizer")
 graph.add_edge("synthesizer", END)
 
-#compile the graph
+# Compile
 workflow = graph.compile()
 
 
 if __name__ == "__main__":
-    print("Testing hybrid workflow...")
-    result = workflow.invoke({"question": "Return 3 types of medications for Type 2 Diabetes?"})
-    print(result["final_answer"])
+    import os
+
+    # ── Graph visualisation ──────────────────────────────────────────────
+    png_path = "workflow_graph.png"
+    with open(png_path, "wb") as f:
+        f.write(workflow.get_graph(xray=True).draw_mermaid_png())
+    print(f"Graph saved → {os.path.abspath(png_path)}")
+    os.startfile(os.path.abspath(png_path))   # opens with default image viewer on Windows
+
+    # ── Run ──────────────────────────────────────────────────────────────
+    question = "What routine check-ups should patients with Type 2 Diabetes do?"
+    print(f"\n{'='*60}")
+    print(f"Question : {question}")
+    print(f"{'='*60}")
+
+    result = workflow.invoke({"question": question})
+
+    print(f"\nRouter choice    : {result['router_choice'].upper()}")
+    print(f"Router reasoning : {result['router_reasoning']}")
+    print(f"\n{'─'*60}")
+    print(f"Final Answer:\n{result['final_answer']}")
+    print(f"{'='*60}")

@@ -1,7 +1,7 @@
 # Stores Model Gateways
 from langchain_groq import ChatGroq
 from langchain_huggingface import HuggingFaceEmbeddings
-from config.output_validation import RouterOutput 
+from config.output_validation import RouterOutput
 from dotenv import load_dotenv
 from pathlib import Path
 import os
@@ -36,6 +36,7 @@ groq_api_key = os.getenv("GROQ_API_KEY")
 translator_llm = ChatGroq(groq_api_key=groq_api_key, 
                           model_name="openai/gpt-oss-20b", 
                           temperature=0)
+
 
 #Router LLM
 router_llm = ChatGroq(groq_api_key=groq_api_key, 

@@ -155,6 +155,17 @@ Rules:
 3. Case-insensitive search: WHERE toLower(n.id) CONTAINS toLower('term')
 4. READ-ONLY: Use MATCH/WHERE/RETURN/WITH/LIMIT only
 5. Return properties, not counts
+6. Multi-relationship syntax: use [:REL_A|REL_B] NOT [:REL_A|:REL_B] (no colon after pipe)
+
+Domain Vocabulary (always map these user terms to the correct node label):
+- medication / drug / medicine / treatment / agent    → TherapeuticAgent
+- complication / condition / disease / disorder       → Complication
+- test / lab / screening / diagnostic / measurement   → DiagnosticTest
+- risk factor / risk                                  → RiskFactor
+- goal / target / threshold / recommended value       → TargetGoal
+- patient profile / patient type / population         → PatientProfile
+- referral / specialist                               → ReferralCriteria
+- monitoring / follow-up / frequency                  → ScreeningFrequency
 
 Examples:
 {examples}
@@ -243,4 +254,60 @@ Question: {question}
 Answer:""")
 
 
+### GraphCypherQAChain Prompts ###
+# GraphCypherQAChain requires PromptTemplate (not ChatPromptTemplate)
+from langchain_core.prompts import PromptTemplate
 
+cypher_chain_generation_prompt = PromptTemplate(
+    input_variables=["schema", "question"],
+    template="""You are an expert in Neo4j Cypher for a Type 2 Diabetes nursing knowledge graph.
+Generate a Cypher query to answer the question below.
+
+Schema:
+{schema}
+
+Rules:
+1. Use ONLY node labels and relationship types present in the schema above
+2. Entities are identified by their 'id' property
+3. Case-insensitive search: WHERE toLower(n.id) CONTAINS toLower('term')
+4. READ-ONLY queries only: MATCH, WHERE, RETURN, WITH, LIMIT
+5. Return properties, not node objects
+6. Multi-relationship syntax: [:REL_A|REL_B] NOT [:REL_A|:REL_B]
+7. ALWAYS use descriptive aliases in RETURN (e.g. RETURN t.id AS medication, NOT RETURN t.id)
+
+Domain Vocabulary (map user terms → graph node labels):
+- medication / drug / medicine / treatment → TherapeuticAgent
+- complication / condition / disease       → Complication
+- test / screening / lab / diagnostic      → DiagnosticTest
+- risk factor / risk                       → RiskFactor
+- goal / target / threshold               → TargetGoal
+- patient profile / patient type          → PatientProfile
+- referral / specialist                   → ReferralCriteria
+- monitoring / follow-up / frequency      → ScreeningFrequency
+
+Return ONLY the Cypher query. No explanations, no markdown code blocks.
+
+Question: {question}
+Cypher query:"""
+)
+
+cypher_chain_qa_prompt = PromptTemplate(
+    input_variables=["context", "question"],
+    template="""You are a clinical assistant helping nurses manage Type 2 Diabetes patients.
+Use the information below (retrieved from a graph database) to answer the question.
+The information is authoritative — use it as-is, do not use outside knowledge.
+Make the answer sound like a direct response to the question.
+Do not mention the graph or database in your answer.
+If the information is empty, say that you don't know.
+
+Example:
+Question: What medications treat CVD?
+Information: [{{'medication': 'GLP-1 RAs'}}, {{'medication': 'SGLT2 inhibitor'}}]
+Answer: The medications that treat CVD include GLP-1 RAs and SGLT2 inhibitors.
+
+Information:
+{context}
+
+Question: {question}
+Answer:"""
+)
