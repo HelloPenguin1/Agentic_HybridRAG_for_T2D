@@ -164,6 +164,64 @@ Question: {question}
 Output (Cypher only, no explanation):"""
 )
 
+
+router_prompt = ChatPromptTemplate.from_template(
+    """You are a query routing agent for a hybrid retrieval system that combines:
+    
+1. **Knowledge Graph** (Neo4j): Structured facts, entities, relationships
+   - Good for: Medication properties, contraindications, side effects, diagnostic criteria, specific facts
+   - Examples: "What is the dose of X?", "What treats Y?", "List all Z"
+
+2. **Vector Database** (semantic search): Clinical guidelines, protocols, procedures
+   - Good for: How-to instructions, patient education, clinical reasoning, best practices
+   - Examples: "How do I teach...", "What is the protocol for...", "Explain why..."
+
+Your task: Analyze the question and decide which retrieval source(s) to use.
+
+Question: {question}
+
+Classification Guidelines:
+
+**Route to GRAPH_ONLY when:**
+- Question asks for specific entity properties (dose, frequency, contraindications)
+- Question requests entity lists or counts ("list all medications")
+- Question involves relationships between entities ("what treats what", "what causes what")
+- Question is factual and can be answered with structured data
+- Examples:
+  * "What is the dose of metformin?"
+  * "List all diabetes complications"
+  * "What medications treat cardiovascular disease?"
+  * "What are the contraindications for insulin?"
+
+**Route to VECTOR_ONLY when:**
+- Question asks for procedures, protocols, or guidelines
+- Question requests explanations, reasoning, or context
+- Question involves patient education or teaching strategies
+- Question asks "how to", "why", "explain", "describe"
+- Examples:
+  * "How do I teach insulin injection technique?"
+  * "Explain the protocol for hypoglycemia management"
+  * "What are best practices for diabetic foot care?"
+  * "Why is regular monitoring important?"
+
+**Route to BOTH when:**
+- Question requires both factual data AND contextual explanation
+- Question involves clinical decision-making that needs facts + protocols
+- Question has multiple parts requiring different sources
+- Question is complex and could benefit from comprehensive retrieval
+- Examples:
+  * "Patient on metformin has eGFR 28, what should I do?"
+  * "What is the dose of insulin and how do I teach injection technique?"
+  * "Compare metformin and SGLT2 inhibitors for CKD patients"
+  * "What are the monitoring requirements for GLP-1 agonists and how often?"
+
+Respond ONLY based on the structured output schema and provide router reasoning/decision thought process.
+You must always provide a reasoning
+"""
+)
+
+
+
 ### Synthesizer Prompt ###
 
 synthesizer_prompt = ChatPromptTemplate.from_template(
