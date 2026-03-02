@@ -180,12 +180,12 @@ router_prompt = ChatPromptTemplate.from_template(
     """You are a query routing agent for a hybrid retrieval system that combines:
     
 1. **Knowledge Graph** (Neo4j): Structured facts, entities, relationships
-   - Good for: Medication properties, contraindications, side effects, diagnostic criteria, specific facts
-   - Examples: "What is the dose of X?", "What treats Y?", "List all Z"
+   - Good for: Entity lists, relationships, medications, contraindications, diagnostic criteria
+   - Examples: "What treats Y?", "List all Z", "What causes X?"
 
-2. **Vector Database** (semantic search): Clinical guidelines, protocols, procedures
-   - Good for: How-to instructions, patient education, clinical reasoning, best practices
-   - Examples: "How do I teach...", "What is the protocol for...", "Explain why..."
+2. **Vector Database** (semantic search): Clinical guidelines, protocols, procedures, explanations
+   - Good for: How-to instructions, patient education, clinical reasoning, best practices, definitions
+   - Examples: "How do I...", "What is the protocol for...", "Explain why..."
 
 Your task: Analyze the question and decide which retrieval source(s) to use.
 
@@ -194,37 +194,35 @@ Question: {question}
 Classification Guidelines:
 
 **Route to GRAPH_ONLY when:**
-- Question asks for specific entity properties (dose, frequency, contraindications)
-- Question requests entity lists or counts ("list all medications")
-- Question involves relationships between entities ("what treats what", "what causes what")
-- Question is factual and can be answered with structured data
+- Question requests specific entity lists or counts ("list all medications", "list all complications")
+- Question involves a known named relationship between two specific entities
+- Question asks for a concrete property of one specific entity (dose, frequency)
 - Examples:
-  * "What is the dose of metformin?"
   * "List all diabetes complications"
   * "What medications treat cardiovascular disease?"
-  * "What are the contraindications for insulin?"
+  * "Which TherapeuticAgents are linked to metformin?"
 
 **Route to VECTOR_ONLY when:**
-- Question asks for procedures, protocols, or guidelines
-- Question requests explanations, reasoning, or context
+- Question asks for procedures, protocols, or clinical guidelines
 - Question involves patient education or teaching strategies
-- Question asks "how to", "why", "explain", "describe"
+- Question asks "how to", "why", "explain the process of"
 - Examples:
   * "How do I teach insulin injection technique?"
   * "Explain the protocol for hypoglycemia management"
   * "What are best practices for diabetic foot care?"
-  * "Why is regular monitoring important?"
 
 **Route to BOTH when:**
+- Question asks "what is X?" or requests a definition/overview of a condition, medication, or concept
+  (graph provides relationships; vector provides explanatory text)
 - Question requires both factual data AND contextual explanation
-- Question involves clinical decision-making that needs facts + protocols
+- Question involves clinical decision-making combining facts + protocols
 - Question has multiple parts requiring different sources
-- Question is complex and could benefit from comprehensive retrieval
 - Examples:
+  * "What is CKD?" → graph: relationships of CKD; vector: definition and context
+  * "What is metformin?" → graph: what it treats; vector: mechanism and guidance
   * "Patient on metformin has eGFR 28, what should I do?"
   * "What is the dose of insulin and how do I teach injection technique?"
   * "Compare metformin and SGLT2 inhibitors for CKD patients"
-  * "What are the monitoring requirements for GLP-1 agonists and how often?"
 
 Respond ONLY based on the structured output schema and provide router reasoning/decision thought process.
 You must always provide a reasoning
@@ -274,6 +272,10 @@ Rules:
 5. Return properties, not node objects
 6. Multi-relationship syntax: [:REL_A|REL_B] NOT [:REL_A|:REL_B]
 7. ALWAYS use descriptive aliases in RETURN (e.g. RETURN t.id AS medication, NOT RETURN t.id)
+8. NEVER return embedding fields — only return .id and other human-readable properties
+9. For definition/overview questions ("what is X?"), explore all relationships of that entity:
+   MATCH (n)-[r]->(m) WHERE toLower(n.id) CONTAINS 'term' AND n.id IS NOT NULL AND m.id IS NOT NULL
+   RETURN type(r) AS relationship, m.id AS related_entity, labels(m)[0] AS related_type LIMIT 20
 
 Domain Vocabulary (map user terms → graph node labels):
 - medication / drug / medicine / treatment → TherapeuticAgent

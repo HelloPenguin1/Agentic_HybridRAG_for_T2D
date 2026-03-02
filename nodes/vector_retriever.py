@@ -52,10 +52,18 @@ class VectorRetriever:
         """LangGraph node: retrieves documents for the given question via RRF."""
         query = state["question"]
         docs = self.ensemble_retriever.invoke(query)
-        docs = docs[:5] #Top 5 documents
+
+        # ── Debug: inspect retrieved vector docs ─────────────────────────────
+        print(f"\n[VectorRetriever] Retrieved {len(docs)} docs for query: '{query}'")
+        for i, doc in enumerate(docs):
+            chunk_id = doc.metadata.get("chunk_id", "N/A")
+            snippet = doc.page_content[:200].replace("\n", " ")
+            print(f"  [{i+1}] chunk_id={chunk_id} | {snippet}...")
+        print("[VectorRetriever] ── end of docs ──\n")
+        # ─────────────────────────────────────────────────────────────────────
 
         vector_result = "\n\n".join(doc.page_content for doc in docs)
-        return {"vector_result": vector_result}
+        return {"vector_result": vector_result, "vector_docs": docs}
 
 
 if __name__ == "__main__":
@@ -67,4 +75,4 @@ if __name__ == "__main__":
         print(f"Retrieved {len(docs)} docs via RRF ensemble.")
 
     except Exception as e:
-        print(f"Error: {e}")
+        print(f"Error: {e}")    

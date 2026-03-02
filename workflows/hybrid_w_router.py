@@ -50,7 +50,7 @@ if __name__ == "__main__":
     os.startfile(os.path.abspath(png_path))   # opens with default image viewer on Windows
 
     # ── Run ──────────────────────────────────────────────────────────────
-    question = "What are the insulin dosages for people with Type 1 Diabetes"
+    question = "What is CKD?"
     print(f"\n{'='*60}")
     print(f"Question : {question}")
     print(f"{'='*60}")

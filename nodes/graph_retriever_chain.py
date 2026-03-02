@@ -35,17 +35,27 @@ class GraphRetrieverChain:
 
             # intermediate_steps: [{'query': cypher}, {'context': [...rows...]}]
             steps = result.get("intermediate_steps", [])
+            cypher_used = steps[0].get("query", "N/A") if len(steps) > 0 else "N/A"
             context = steps[1].get("context", []) if len(steps) > 1 else []
 
-            if not context:
-                print("[graph_retriever] Empty context — returning GRAPH_EMPTY sentinel.")
-                return {"graph_result": GRAPH_EMPTY}
+            # ── Debug: inspect raw graph docs ────────────────────────────────
+            print(f"\n[GraphRetriever] Question: '{question}'")
+            print(f"[GraphRetriever] Cypher used:\n  {cypher_used}")
+            print(f"[GraphRetriever] Raw rows returned: {len(context)}")
+            for i, row in enumerate(context):
+                print(f"  [{i+1}] {row}")
+            print("[GraphRetriever] ── end of rows ──\n")
+            # ─────────────────────────────────────────────────────────────────
 
-            return {"graph_result": result.get("result", "")}
+            if not context:
+                print("[GraphRetriever] Empty context — returning GRAPH_EMPTY sentinel.")
+                return {"graph_result": GRAPH_EMPTY, "graph_docs": []}
+
+            return {"graph_result": result.get("result", ""), "graph_docs": context}
 
         except Exception as e:
             print(f"GraphCypherQAChain error: {e}")
-            return {"graph_result": GRAPH_EMPTY}
+            return {"graph_result": GRAPH_EMPTY, "graph_docs": []}
 
 
 if __name__ == "__main__":
