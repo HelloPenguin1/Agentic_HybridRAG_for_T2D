@@ -18,3 +18,7 @@ def synthesizer(state):
     })
 
     return {"final_answer": final_answer}
+
+
+Adjust this so that it provides a more complete answer based on the context provided by the vector and graph retrievers
+for exmaple rohjt now, hybrid workflpw ios not working well with the question: what is ckd ?

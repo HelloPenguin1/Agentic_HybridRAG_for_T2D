@@ -53,15 +53,6 @@ class VectorRetriever:
         query = state["question"]
         docs = self.ensemble_retriever.invoke(query)
 
-        # ── Debug: inspect retrieved vector docs ─────────────────────────────
-        print(f"\n[VectorRetriever] Retrieved {len(docs)} docs for query: '{query}'")
-        for i, doc in enumerate(docs):
-            chunk_id = doc.metadata.get("chunk_id", "N/A")
-            snippet = doc.page_content[:200].replace("\n", " ")
-            print(f"  [{i+1}] chunk_id={chunk_id} | {snippet}...")
-        print("[VectorRetriever] ── end of docs ──\n")
-        # ─────────────────────────────────────────────────────────────────────
-
         vector_result = "\n\n".join(doc.page_content for doc in docs)
         return {"vector_result": vector_result, "vector_docs": docs}
 
@@ -71,7 +62,7 @@ if __name__ == "__main__":
     try:
         retriever = VectorRetriever()
         test_query = "What is the recommended HbA1c target for type 2 diabetes?"
-        docs = retriever.ensemble_retriever.invoke(test_query)[:5]
+        docs = retriever.ensemble_retriever.invoke(test_query)
         print(f"Retrieved {len(docs)} docs via RRF ensemble.")
 
     except Exception as e:

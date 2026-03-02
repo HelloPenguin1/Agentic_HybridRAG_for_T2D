@@ -14,7 +14,7 @@ class GraphState(TypedDict):
     graph_result: Optional[str]
     vector_result: Optional[str]
 
-    # Raw retrieved objects — kept for citation, context, and reranking
+    # for citation, context, and reranking
     vector_docs: Optional[List[Any]]   # list of LangChain Document objects
     graph_docs: Optional[List[Any]]    # list of raw Neo4j result dicts
 

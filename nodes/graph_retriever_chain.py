@@ -35,17 +35,7 @@ class GraphRetrieverChain:
 
             # intermediate_steps: [{'query': cypher}, {'context': [...rows...]}]
             steps = result.get("intermediate_steps", [])
-            cypher_used = steps[0].get("query", "N/A") if len(steps) > 0 else "N/A"
             context = steps[1].get("context", []) if len(steps) > 1 else []
-
-            # ── Debug: inspect raw graph docs ────────────────────────────────
-            print(f"\n[GraphRetriever] Question: '{question}'")
-            print(f"[GraphRetriever] Cypher used:\n  {cypher_used}")
-            print(f"[GraphRetriever] Raw rows returned: {len(context)}")
-            for i, row in enumerate(context):
-                print(f"  [{i+1}] {row}")
-            print("[GraphRetriever] ── end of rows ──\n")
-            # ─────────────────────────────────────────────────────────────────
 
             if not context:
                 print("[GraphRetriever] Empty context — returning GRAPH_EMPTY sentinel.")
