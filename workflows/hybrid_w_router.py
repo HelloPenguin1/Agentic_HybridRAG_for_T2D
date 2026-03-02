@@ -4,6 +4,7 @@ from nodes.graph_retriever_chain import GraphRetrieverChain
 from nodes.vector_retriever import VectorRetriever
 from nodes.synthesizer import synthesizer
 from nodes.router import Router, route_decision
+from nodes.fallback_to_vector import fallback_to_vector
 
 graph_retriever_chain = GraphRetrieverChain()
 vector_retriever = VectorRetriever()
@@ -22,10 +23,15 @@ graph.add_edge(START, "router")
 graph.add_conditional_edges(
     "router",
     route_decision,
-    ["graph_retriever", "vector_retriever"],  # flat list of all reachable nodes
+    ["graph_retriever", "vector_retriever"], 
 )
 
-graph.add_edge("graph_retriever", "synthesizer")
+# After graph_retriever: conditionally fall back to vector if graph returned empty
+graph.add_conditional_edges(
+    "graph_retriever",
+    fallback_to_vector,
+    ["vector_retriever", "synthesizer"],
+)
 graph.add_edge("vector_retriever", "synthesizer")
 graph.add_edge("synthesizer", END)
 
@@ -44,7 +50,7 @@ if __name__ == "__main__":
     os.startfile(os.path.abspath(png_path))   # opens with default image viewer on Windows
 
     # ── Run ──────────────────────────────────────────────────────────────
-    question = "What routine check-ups should patients with Type 2 Diabetes do?"
+    question = "What are the insulin dosages for people with Type 1 Diabetes"
     print(f"\n{'='*60}")
     print(f"Question : {question}")
     print(f"{'='*60}")

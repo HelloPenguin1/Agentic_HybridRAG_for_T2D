@@ -3,6 +3,7 @@ from dotenv import load_dotenv
 from langchain_neo4j import Neo4jGraph, GraphCypherQAChain
 from config.settings import translator_llm
 from config.prompts import cypher_chain_generation_prompt, cypher_chain_qa_prompt
+from config.output_validation import GRAPH_EMPTY
 
 load_dotenv()
 
@@ -27,15 +28,24 @@ class GraphRetrieverChain:
         )
 
     def graph_retriever_node(self, state):
-        """LangGraph node: runs the full QA chain and stores the answer as graph_result."""
+        """LangGraph node. Returns GRAPH_EMPTY sentinel if the graph context was empty."""
         question = state["question"]
         try:
             result = self.chain.invoke({"query": question})
-            graph_result = result.get("result", "No result returned from graph.")
+
+            # intermediate_steps: [{'query': cypher}, {'context': [...rows...]}]
+            steps = result.get("intermediate_steps", [])
+            context = steps[1].get("context", []) if len(steps) > 1 else []
+
+            if not context:
+                print("[graph_retriever] Empty context — returning GRAPH_EMPTY sentinel.")
+                return {"graph_result": GRAPH_EMPTY}
+
+            return {"graph_result": result.get("result", "")}
+
         except Exception as e:
             print(f"GraphCypherQAChain error: {e}")
-            graph_result = ""
-        return {"graph_result": graph_result}
+            return {"graph_result": GRAPH_EMPTY}
 
 
 if __name__ == "__main__":
