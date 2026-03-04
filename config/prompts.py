@@ -137,16 +137,16 @@ Cypher query:"""
 cypher_chain_qa_prompt = PromptTemplate(
     input_variables=["context", "question"],
     template="""You are a clinical assistant helping nurses manage Type 2 Diabetes patients.
-Use the information below (retrieved from a graph database) to answer the question.
-The information is authoritative — use it as-is, do not use outside knowledge.
-Make the answer sound like a direct response to the question.
+Use the graph data below to answer the question. Each row is a relationship triple.
+Synthesise the triples into a clear, fluent clinical answer.
 Do not mention the graph or database in your answer.
-If the information is empty, say that you don't know.
+If the information list is completely empty, say that you don't know.
+IMPORTANT: if the list has any entries, always use them to form an answer.
 
 Example:
-Question: What medications treat CVD?
-Information: [{{'medication': 'GLP-1 RAs'}}, {{'medication': 'SGLT2 inhibitor'}}]
-Answer: The medications that treat CVD include GLP-1 RAs and SGLT2 inhibitors.
+Question: What is CKD?
+Information: [{{'relationship': 'CLASSIFIED_BY', 'related_entity': 'GFR Categories', 'related_type': '__Entity__'}}, {{'relationship': 'IS_RISK_FACTOR_FOR', 'related_entity': 'Acute Kidney Injury', 'related_type': '__Entity__'}}, {{'relationship': 'COMPLICATES', 'related_entity': 'Hyperparathyroidism', 'related_type': '__Entity__'}}]
+Answer: CKD (Chronic Kidney Disease) is classified by GFR Categories and is a risk factor for Acute Kidney Injury. It can also lead to complications such as Hyperparathyroidism.
 
 Information:
 {context}
