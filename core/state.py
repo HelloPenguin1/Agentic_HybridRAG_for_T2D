@@ -17,6 +17,7 @@ class GraphState(TypedDict):
     # for citation, context, and reranking
     vector_docs: Optional[List[Any]]   # list of LangChain Document objects
     graph_docs: Optional[List[Any]]    # list of raw Neo4j result dicts
+    ranked_docs: Optional[List[Any]]   # filtered, scored candidates after reranking
 
 
     final_answer: str

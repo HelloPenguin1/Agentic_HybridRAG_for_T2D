@@ -1,5 +1,5 @@
 from pydantic import BaseModel, Field
-from typing import Literal
+from typing import Literal, List
 
 # Sentinel returned by graph_retriever when the graph context is empty
 GRAPH_EMPTY = "##NO_GRAPH_RESULT##"

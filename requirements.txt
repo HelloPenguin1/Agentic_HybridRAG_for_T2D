@@ -1,8 +1,5 @@
 langchain
-langchain-community
 python-dotenv  
-rank_bm25
-nltk
 langchain-openai
 ipykernel
 streamlit

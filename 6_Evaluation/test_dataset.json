@@ -1,0 +1,206 @@
+[
+  {
+    "question_id": "Q001",
+    "question": "What are the potential metabolic disturbances that can occur due to insulinopenia in type 1 diabetes?",
+    "expected_route": "graph",
+    "ground_truth_answer": "Hyperglycemia, hypertriglyceridemia, ketoacidosis, and tissue catabolism."
+  },
+  {
+    "question_id": "Q002",
+    "question": "What is the relationship between glycated hemoglobin A1c levels and cognitive function in type 2 diabetes?",
+    "expected_route": "both",
+    "ground_truth_answer": "Research suggests that there is an association between glycated hemoglobin A1c levels and cognitive function in type 2 diabetes, with higher A1c levels potentially impacting cognitive function."
+  },
+  {
+    "question_id": "Q003",
+    "question": "What is the recommended screening interval for lipid abnormalities in youth with type 1 diabetes?",
+    "expected_route": "vector",
+    "ground_truth_answer": "Within 3 years, even if initial screening results are normal, due to the potential for dramatic changes in A1C and other cardiovascular risk factors during adolescence."
+  },
+  {
+    "question_id": "Q004",
+    "question": "What is the frequency of microdose adjustments in Automated Insulin Delivery systems?",
+    "expected_route": "graph",
+    "ground_truth_answer": "every 5 minutes"
+  },
+  {
+    "question_id": "Q005",
+    "question": "What is the role of a behavioral health professional in a diabetes treatment team for patients with depression?",
+    "expected_route": "vector",
+    "ground_truth_answer": "The behavioral health professional providing treatment for depression should be incorporated into, or collaborate closely with, the diabetes treatment team to improve both depression and glycemic outcomes."
+  },
+  {
+    "question_id": "Q006",
+    "question": "What percentage of participants with mild Gestational Diabetes Mellitus can be managed with lifestyle therapy alone?",
+    "expected_route": "graph",
+    "ground_truth_answer": "80-90%"
+  },
+  {
+    "question_id": "Q007",
+    "question": "What is the role of teplizumab in type 1 diabetes prevention?",
+    "expected_route": "both",
+    "ground_truth_answer": "Teplizumab is an anti-CD3 antibody used to delay the onset of type 1 diabetes in individuals at risk."
+  },
+  {
+    "question_id": "Q008",
+    "question": "What is the role of metformin in Type 2 Diabetes management?",
+    "expected_route": "both",
+    "ground_truth_answer": "Metformin is a first-line medication for the treatment of Type 2 Diabetes, used to decrease glucose production by the liver, increase insulin sensitivity, and thereby lower blood sugar levels."
+  },
+  {
+    "question_id": "Q009",
+    "question": "At what age is there a low risk of development of vision-threatening retinal lesions in patients with diabetes?",
+    "expected_route": "graph",
+    "ground_truth_answer": "Prior to 12 years of age"
+  },
+  {
+    "question_id": "Q010",
+    "question": "What is the typical starting dose of insulin in adults with type 1 diabetes who are metabolically stable?",
+    "expected_route": "graph",
+    "ground_truth_answer": "0.5 units/kg/day, with approximately one-half administered as prandial insulin and the remaining portion as basal insulin"
+  },
+  {
+    "question_id": "Q011",
+    "question": "What is the role of hyperglycemia in the incidence of frailty and lower extremity mobility limitations in older adults with diabetes?",
+    "expected_route": "both",
+    "ground_truth_answer": "Hyperglycemia is associated with an increased incidence of frailty and lower extremity mobility limitations in older adults with diabetes, as it can lead to complications such as neuropathy, nephropathy, and vascular disease, which can impair physical function and mobility."
+  },
+  {
+    "question_id": "Q012",
+    "question": "What is the role of Hemoglobin A1c in guiding medical practice for Type 2 Diabetes management?",
+    "expected_route": "both",
+    "ground_truth_answer": "Hemoglobin A1c is a crucial measure for assessing average blood glucose levels over the past 2-3 months, guiding medical practice by helping clinicians diagnose, monitor, and adjust treatment plans for patients with Type 2 Diabetes."
+  },
+  {
+    "question_id": "Q013",
+    "question": "What antihypertensive medications are safe to use during pregnancy?",
+    "expected_route": "graph",
+    "ground_truth_answer": "Methyldopa, labetalol, and long-acting nifedipine are known to be effective and safe in pregnancy, while hydralazine may be considered in acute management of hypertension in pregnancy or severe preeclampsia."
+  },
+  {
+    "question_id": "Q014",
+    "question": "What are the metabolic side effects of antipsychotic drugs on glucose in patients with schizophrenia?",
+    "expected_route": "both",
+    "ground_truth_answer": "Antipsychotic drugs can have varying metabolic side effects on glucose, including increased risk of developing type 2 diabetes, with some drugs having a higher risk than others."
+  },
+  {
+    "question_id": "Q015",
+    "question": "What are the effects of liraglutide on A1C reductions and weight in type 1 diabetes?",
+    "expected_route": "graph",
+    "ground_truth_answer": "Liraglutide results in modest A1C reductions of approximately 0.4% and decreases in weight of around 5 kg."
+  },
+  {
+    "question_id": "Q016",
+    "question": "What classes of medications were in high demand and led to a shortage?",
+    "expected_route": "graph",
+    "ground_truth_answer": "GLP-1 RA and dual GIP and GLP-1 RA classes"
+  },
+  {
+    "question_id": "Q017",
+    "question": "What are the standards of care for children and adolescents with Type 2 Diabetes?",
+    "expected_route": "vector",
+    "ground_truth_answer": "The American Diabetes Association's Standards of Care in Diabetes—2026 provides guidelines for the management of children and adolescents with Type 2 Diabetes, including recommendations for diagnosis, treatment, and ongoing care."
+  },
+  {
+    "question_id": "Q018",
+    "question": "What is the relationship between interpregnancy weight change and the risk of gestational diabetes mellitus?",
+    "expected_route": "both",
+    "ground_truth_answer": "Interpregnancy weight gain is associated with an increased risk of gestational diabetes mellitus in subsequent pregnancies."
+  },
+  {
+    "question_id": "Q019",
+    "question": "What is the role of physical activity in the management of Type 2 Diabetes?",
+    "expected_route": "vector",
+    "ground_truth_answer": "Physical activity, including all movement that increases energy use, plays a crucial role in the management of Type 2 Diabetes as it helps improve physical fitness and is a key component of a comprehensive diabetes care plan."
+  },
+  {
+    "question_id": "Q020",
+    "question": "What is the purpose of using a hybrid closed-loop system in older adults with type 2 diabetes?",
+    "expected_route": "both",
+    "ground_truth_answer": "The purpose of using a hybrid closed-loop system in older adults with type 2 diabetes is to improve glucose control and reduce the burden of multiple daily insulin injections, potentially offering a more automated and convenient alternative to traditional insulin therapy."
+  },
+  {
+    "question_id": "Q021",
+    "question": "What are the primary goals of nutrition therapy for people with Type 2 Diabetes?",
+    "expected_route": "vector",
+    "ground_truth_answer": "The primary goals are to promote and support healthful eating patterns, achieve and maintain body weight goals, attain individualized glycemic, blood pressure, and lipid goals, and delay or prevent the complications of diabetes."
+  },
+  {
+    "question_id": "Q022",
+    "question": "How often should urinary albumin and eGFR be monitored in people with chronic kidney disease?",
+    "expected_route": "vector",
+    "ground_truth_answer": "1-4 times per year, depending on the stage of kidney disease"
+  },
+  {
+    "question_id": "Q023",
+    "question": "What is the relationship between testosterone therapy and cardiovascular safety in men with hypogonadism and diabetes?",
+    "expected_route": "both",
+    "ground_truth_answer": "Testosterone-replacement therapy in middle-aged and older men has been found to have long-term cardiovascular safety in meta-analyses of randomized controlled trials, but its impact on diabetes management and cardiovascular risk needs to be considered on an individual basis."
+  },
+  {
+    "question_id": "Q024",
+    "question": "What is the minimum estimated glomerular filtration rate for safe use of metformin?",
+    "expected_route": "graph",
+    "ground_truth_answer": "≥30 mL/min/1.73 m²"
+  },
+  {
+    "question_id": "Q025",
+    "question": "What are the key safety issues in metabolic surgery for type 1 diabetes?",
+    "expected_route": "vector",
+    "ground_truth_answer": "The key safety issues include an increased frequency of diabetic ketoacidosis, enhanced risk of hypoglycemia, and long-term surgical complications like dumping syndrome."
+  },
+  {
+    "question_id": "Q026",
+    "question": "What are the most common genetic causes of permanent neonatal diabetes?",
+    "expected_route": "graph",
+    "ground_truth_answer": "Autosomal dominant mutations in the genes encoding the Kir6.2 subunit (KCNJ11) and SUR1 subunit (ABCC8) of the β-cell KATP channel"
+  },
+  {
+    "question_id": "Q027",
+    "question": "What are the effects of using a digital health solution and rtCGM on glucose control in individuals with type 2 diabetes?",
+    "expected_route": "both",
+    "ground_truth_answer": "Reductions in GMI and TAR >180 mg/dL (>10 mmol/L) and >250 mg/dL (>13.9 mmol/L), and an increase in TIR by 15%"
+  },
+  {
+    "question_id": "Q028",
+    "question": "What is the effect of reduced dietary sodium on GFR in patients with diabetic kidney disease?",
+    "expected_route": "both",
+    "ground_truth_answer": "Reduced dietary sodium can help slow the progression of diabetic kidney disease by reducing the glomerular filtration rate (GFR) decline, as seen in the DASH-sodium trial."
+  },
+  {
+    "question_id": "Q029",
+    "question": "What is Saxenda and how is it used in the management of type 2 diabetes?",
+    "expected_route": "both",
+    "ground_truth_answer": "Saxenda is a liraglutide injection of 3 mg, used as an adjunct to diet and exercise for the treatment of type 2 diabetes, and its management involves a dosing regimen and monitoring of blood glucose levels."
+  },
+  {
+    "question_id": "Q030",
+    "question": "What is Metformin and how is it managed in type 2 diabetes?",
+    "expected_route": "both",
+    "ground_truth_answer": "Metformin is a biguanide oral antidiabetic drug, and its management in type 2 diabetes typically involves an initial dose of 500 mg twice daily, with gradual dose escalation to achieve adequate glycemic control, while monitoring for gastrointestinal side effects and renal function."
+  },
+  {
+    "question_id": "Q031",
+    "question": "What is celiac disease and which patients with type 2 diabetes are indicated for screening for it?",
+    "expected_route": "both",
+    "ground_truth_answer": "Celiac disease is an autoimmune disorder where the ingestion of gluten leads to damage in the small intestine, and screening for it is recommended especially in asymptomatic children and adolescents with type 2 diabetes before establishing a diagnosis and endorsing significant eating plan changes."
+  },
+  {
+    "question_id": "Q032",
+    "question": "What is rivaroxaban and what monitoring is required for T2D patients on it?",
+    "expected_route": "both",
+    "ground_truth_answer": "Rivaroxaban is an anticoagulant considered for people with atherosclerotic disease, and monitoring for T2D patients on it would involve regular checks for bleeding risks and interactions with other medications, particularly in those with kidney disease or other comorbidities."
+  },
+  {
+    "question_id": "Q033",
+    "question": "What is diabetic peripheral neuropathy and how is it prevented in type 2 diabetes?",
+    "expected_route": "both",
+    "ground_truth_answer": "Diabetic peripheral neuropathy is a condition caused by damage to peripheral nerves due to high blood sugar levels, and its prevention in type 2 diabetes involves tight blood glucose control, healthy lifestyle choices, and potentially new treatments targeting its pathogenesis."
+  },
+  {
+    "question_id": "Q034",
+    "question": "What is diabetes distress and how is it addressed in the management of type 2 diabetes?",
+    "expected_route": "both",
+    "ground_truth_answer": "Diabetes distress refers to the emotional and psychological challenges associated with managing diabetes, and it is addressed through a combination of psychological approaches, treatment adjustments, and support to improve overall well-being and A1C levels."
+  }
+]

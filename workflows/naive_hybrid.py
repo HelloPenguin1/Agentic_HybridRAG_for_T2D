@@ -1,11 +1,11 @@
 from typing_extensions import TypedDict
 from langgraph.graph import StateGraph, START, END
 from core.state import GraphState
-from nodes.graph_retriever import GraphRetriever
+from nodes.graph_retriever_chain import GraphRetrieverChain
 from nodes.synthesizer import synthesizer
 from nodes.vector_retriever import VectorRetriever
 
-graph_retriever = GraphRetriever()
+graph_retriever = GraphRetrieverChain()
 vector_retriever = VectorRetriever()
 
 #initialize the graph
