@@ -2,7 +2,7 @@ from typing_extensions import TypedDict
 from langgraph.graph import StateGraph, START, END
 from core.state import GraphState
 from nodes.graph_retriever_chain import GraphRetrieverChain
-from nodes.synthesizer import synthesizer
+from nodes.synthesizer import hybrid_synthesizer
 from nodes.vector_retriever import VectorRetriever
 
 graph_retriever = GraphRetrieverChain()
@@ -14,7 +14,7 @@ graph = StateGraph(GraphState)
 #add nodes to the graph
 graph.add_node("graph_retriever", graph_retriever.graph_retriever_node)
 graph.add_node("vector_retriever", vector_retriever.vector_retriever_node)
-graph.add_node("synthesizer", synthesizer)
+graph.add_node("synthesizer", hybrid_synthesizer)
 
 #add edges to the graph
 graph.add_edge(START, "graph_retriever")
