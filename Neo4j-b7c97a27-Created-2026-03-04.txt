@@ -1,0 +1,7 @@
+# Wait 60 seconds before connecting using these details, or login to https://console.neo4j.io to validate the Aura Instance is available
+NEO4J_URI=neo4j+s://b7c97a27.databases.neo4j.io
+NEO4J_USERNAME=b7c97a27
+NEO4J_PASSWORD=VQf75IQybJ25P2DeL04OYDFmaXLmZyXRMpyWrCeYBTE
+NEO4J_DATABASE=b7c97a27
+AURA_INSTANCEID=b7c97a27
+AURA_INSTANCENAME=T2Diabetes_Data
