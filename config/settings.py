@@ -34,10 +34,10 @@ groq_api_key = os.getenv("GROQ_API_KEY")
 
 #Translator LLM converts natural language questions to cypher queries
 translator_llm = ChatGroq(groq_api_key=groq_api_key, 
-                          model_name="llama-3.3-70b-versatile", 
+                          model_name="openai/gpt-oss-20b", 
                           temperature=0)
 qa_llm = ChatGroq(groq_api_key=groq_api_key, 
-                          model_name="llama-3.1-8b-instant", 
+                          model_name="openai/gpt-oss-20b", 
                           temperature=0)
 
 
