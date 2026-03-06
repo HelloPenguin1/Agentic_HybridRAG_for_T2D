@@ -5,6 +5,10 @@ from langchain_core.documents import Document
 from langchain_qdrant import QdrantVectorStore
 from langchain_community.retrievers import BM25Retriever
 from langchain_classic.retrievers import EnsembleRetriever
+from langchain_classic.retrievers.contextual_compression import ContextualCompressionRetriever
+from langchain_community.document_compressors import FlashrankRerank
+
+
 
 from config.settings import (
     QDRANT_URL,
@@ -38,6 +42,8 @@ class VectorRetriever:
             api_key=QDRANT_API_KEY,
         )
         self.qdrant_retriever = self.vector_store.as_retriever(search_kwargs={"k": QDRANT_TOPK})
+        self.compressor = FlashrankRerank(top_n=5)
+
 
         processed_chunks = _load_processed_chunks()
         bm25_docs = [Document(page_content=chunk.get("page_content", ""),metadata={"chunk_id": chunk["metadata"]["chunk_id"]}) for chunk in processed_chunks]
@@ -47,11 +53,12 @@ class VectorRetriever:
             retrievers=[self.qdrant_retriever, self.bm25_retriever],
             weights=[0.7, 0.3],
         )
+        self.compression_retriever = ContextualCompressionRetriever(base_compressor=self.compressor, base_retriever=self.ensemble_retriever)
 
     def vector_retriever_node(self, state):
         """LangGraph node: retrieves documents for the given question via RRF."""
         query = state["question"]
-        docs = self.ensemble_retriever.invoke(query)
+        docs = self.compression_retriever.invoke(query)
 
         vector_result = "\n\n".join(doc.page_content for doc in docs)
         return {"vector_result": vector_result, "vector_docs": docs}
@@ -62,8 +69,8 @@ if __name__ == "__main__":
     try:
         retriever = VectorRetriever()
         test_query = "What is the recommended HbA1c target for type 2 diabetes?"
-        docs = retriever.ensemble_retriever.invoke(test_query)
-        print(f"Retrieved {len(docs)} docs via RRF ensemble.")
+        docs = retriever.compression_retriever.invoke(test_query)
+        print(f"Retrieved {len(docs)} docs")
 
     except Exception as e:
         print(f"Error: {e}")    

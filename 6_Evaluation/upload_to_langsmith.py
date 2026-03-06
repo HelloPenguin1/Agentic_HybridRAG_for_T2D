@@ -18,11 +18,11 @@ client = Client()
 with open(Path(__file__).parent / "test_dataset.json", encoding="utf-8") as f:
     dataset = json.load(f)
 
-dataset_name = "diabetes-nursing-qa-v1"
+dataset_name = "diabetes-nursing-qa-v3"
 
 ls_dataset = client.create_dataset(
     dataset_name=dataset_name,
-    description="Evaluation dataset for the Agentic GraphRAG T2D system — 34 nurse/patient questions with expected retrieval routes and ground-truth answers."
+    description="Evaluation dataset for the Agentic GraphRAG T2D system — 37 questions with graph-factual, vector, and hybrid questions with ground-truth answers."
 )
 
 client.create_examples(

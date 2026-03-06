@@ -20,14 +20,14 @@ from langsmith import evaluate
 from eval_runners import run_adaptive_router, run_fixed_hybrid, run_vector_only, run_graph_only
 from evaluators import answer_correctness, faithfulness, completeness, router_accuracy
 
-DATASET   = "diabetes-nursing-qa-v1"
+DATASET   = "diabetes-nursing-qa-v3"
 EVALUATORS = [answer_correctness, faithfulness, completeness, router_accuracy]
 
 configs = [
-    ("adaptive-router", run_adaptive_router),
-    ("fixed-hybrid",    run_fixed_hybrid),
+    #("adaptive-router", run_adaptive_router),
+    #("fixed-hybrid",    run_fixed_hybrid),
     ("vector-only",     run_vector_only),
-    ("graph-only",      run_graph_only),
+    #("graph-only",      run_graph_only),
 ]
 
 for i, (name, runner) in enumerate(configs):
@@ -37,7 +37,7 @@ for i, (name, runner) in enumerate(configs):
         data=DATASET,
         evaluators=EVALUATORS,
         experiment_prefix=name,
-        max_concurrency=1,   # one question at a time — avoids Groq TPM spikes
+        max_concurrency=2,   # one question at a time — avoids Groq TPM spikes
     )
     print(f" Done: {name}")
     if i < len(configs) - 1:

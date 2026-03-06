@@ -17,6 +17,7 @@ BM25_TOP = 10
 
 CHUNKS_PATH = Path(__file__).resolve().parent.parent / "3_vectordb_ingestion" / "processed_chunks"
 
+
 EMBEDDINGS = HuggingFaceEmbeddings(
     model_name=EMBED_MODEL,
     model_kwargs={"device": "cpu"},

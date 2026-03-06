@@ -1,206 +1,254 @@
 [
   {
     "question_id": "Q001",
-    "question": "What are the potential metabolic disturbances that can occur due to insulinopenia in type 1 diabetes?",
+    "question": "What was the hazard ratio for major hemorrhage in the ASPREE trial comparing aspirin to placebo?",
     "expected_route": "graph",
-    "ground_truth_answer": "Hyperglycemia, hypertriglyceridemia, ketoacidosis, and tissue catabolism."
+    "ground_truth_answer": "HR 1.38 (95% CI 1.18–1.62)",
+    "question_type": "factual"
   },
   {
     "question_id": "Q002",
-    "question": "What is the relationship between glycated hemoglobin A1c levels and cognitive function in type 2 diabetes?",
-    "expected_route": "both",
-    "ground_truth_answer": "Research suggests that there is an association between glycated hemoglobin A1c levels and cognitive function in type 2 diabetes, with higher A1c levels potentially impacting cognitive function."
+    "question": "What changes in left ventricular mass index and left ventricular ejection fraction were reported in individuals on peritoneal dialysis receiving GLP-1–based therapy over a 12‑month period?",
+    "expected_route": "graph",
+    "ground_truth_answer": "Left ventricular mass index decreased and left ventricular ejection fraction increased.",
+    "question_type": "factual"
   },
   {
     "question_id": "Q003",
-    "question": "What is the recommended screening interval for lipid abnormalities in youth with type 1 diabetes?",
-    "expected_route": "vector",
-    "ground_truth_answer": "Within 3 years, even if initial screening results are normal, due to the potential for dramatic changes in A1C and other cardiovascular risk factors during adolescence."
+    "question": "What test is preferred for diagnosing post‑transplantation diabetes mellitus (PTDM)?",
+    "expected_route": "graph",
+    "ground_truth_answer": "The oral glucose tolerance test (OGTT) is the preferred test.",
+    "question_type": "factual"
   },
   {
     "question_id": "Q004",
-    "question": "What is the frequency of microdose adjustments in Automated Insulin Delivery systems?",
+    "question": "Should statins be continued in diabetic patients receiving palliative or hospice care at the end of life?",
     "expected_route": "graph",
-    "ground_truth_answer": "every 5 minutes"
+    "ground_truth_answer": "No, withdrawal of statins in people with diabetes receiving palliative care improves quality of life, so they should not be continued.",
+    "question_type": "clinical"
   },
   {
     "question_id": "Q005",
-    "question": "What is the role of a behavioral health professional in a diabetes treatment team for patients with depression?",
-    "expected_route": "vector",
-    "ground_truth_answer": "The behavioral health professional providing treatment for depression should be incorporated into, or collaborate closely with, the diabetes treatment team to improve both depression and glycemic outcomes."
+    "question": "What is the odds ratio for female sexual dysfunction in women with type 2 diabetes compared with women without diabetes?",
+    "expected_route": "graph",
+    "ground_truth_answer": "2.49",
+    "question_type": "factual"
   },
   {
     "question_id": "Q006",
-    "question": "What percentage of participants with mild Gestational Diabetes Mellitus can be managed with lifestyle therapy alone?",
+    "question": "At what postpartum interval should individuals with a recent history of gestational diabetes be screened using the 75‑g oral glucose tolerance test?",
     "expected_route": "graph",
-    "ground_truth_answer": "80-90%"
+    "ground_truth_answer": "At 4–12 weeks postpartum.",
+    "question_type": "factual"
   },
   {
     "question_id": "Q007",
-    "question": "What is the role of teplizumab in type 1 diabetes prevention?",
-    "expected_route": "both",
-    "ground_truth_answer": "Teplizumab is an anti-CD3 antibody used to delay the onset of type 1 diabetes in individuals at risk."
+    "question": "What contraception recommendation is given for individuals of childbearing potential who are taking glucose‑lowering medications with unknown risks during pregnancy?",
+    "expected_route": "graph",
+    "ground_truth_answer": "They should use a form of contraception regardless of their intention to become pregnant.",
+    "question_type": "factual"
   },
   {
     "question_id": "Q008",
-    "question": "What is the role of metformin in Type 2 Diabetes management?",
-    "expected_route": "both",
-    "ground_truth_answer": "Metformin is a first-line medication for the treatment of Type 2 Diabetes, used to decrease glucose production by the liver, increase insulin sensitivity, and thereby lower blood sugar levels."
+    "question": "What proportion of children and adolescents aged 10–19 years with type 2 diabetes present with diabetic ketoacidosis at onset?",
+    "expected_route": "graph",
+    "ground_truth_answer": "Approximately 11% of children and adolescents aged 10–19 years with type 2 diabetes develop diabetic ketoacidosis at onset.",
+    "question_type": "factual"
   },
   {
     "question_id": "Q009",
-    "question": "At what age is there a low risk of development of vision-threatening retinal lesions in patients with diabetes?",
+    "question": "At what office-based blood pressure level should individuals with diabetes receive prompt initiation and timely titration of two antihypertensive drugs or a single‑pill combination?",
     "expected_route": "graph",
-    "ground_truth_answer": "Prior to 12 years of age"
+    "ground_truth_answer": "≥150/90 mmHg",
+    "question_type": "factual"
   },
   {
     "question_id": "Q010",
-    "question": "What is the typical starting dose of insulin in adults with type 1 diabetes who are metabolically stable?",
+    "question": "In a dying individual with type 2 diabetes, what medication management approach is considered reasonable?",
     "expected_route": "graph",
-    "ground_truth_answer": "0.5 units/kg/day, with approximately one-half administered as prandial insulin and the remaining portion as basal insulin"
+    "ground_truth_answer": "Discontinuation of all diabetes medications may be a reasonable approach.",
+    "question_type": "factual"
   },
   {
     "question_id": "Q011",
-    "question": "What is the role of hyperglycemia in the incidence of frailty and lower extremity mobility limitations in older adults with diabetes?",
-    "expected_route": "both",
-    "ground_truth_answer": "Hyperglycemia is associated with an increased incidence of frailty and lower extremity mobility limitations in older adults with diabetes, as it can lead to complications such as neuropathy, nephropathy, and vascular disease, which can impair physical function and mobility."
+    "question": "What modality is used to debride wounds according to the excerpt?",
+    "expected_route": "graph",
+    "ground_truth_answer": "Ultrasound is used to debride wounds.",
+    "question_type": "factual"
   },
   {
     "question_id": "Q012",
-    "question": "What is the role of Hemoglobin A1c in guiding medical practice for Type 2 Diabetes management?",
-    "expected_route": "both",
-    "ground_truth_answer": "Hemoglobin A1c is a crucial measure for assessing average blood glucose levels over the past 2-3 months, guiding medical practice by helping clinicians diagnose, monitor, and adjust treatment plans for patients with Type 2 Diabetes."
+    "question": "What adverse effects are reported with GLP-1 receptor agonist therapy in adults with type 1 diabetes?",
+    "expected_route": "graph",
+    "ground_truth_answer": "Higher risk of nausea and ketosis.",
+    "question_type": "factual"
   },
   {
     "question_id": "Q013",
-    "question": "What antihypertensive medications are safe to use during pregnancy?",
+    "question": "What is the recommended maximum daily sodium intake for people with diabetes?",
     "expected_route": "graph",
-    "ground_truth_answer": "Methyldopa, labetalol, and long-acting nifedipine are known to be effective and safe in pregnancy, while hydralazine may be considered in acute management of hypertension in pregnancy or severe preeclampsia."
+    "ground_truth_answer": "<2,300 mg/day",
+    "question_type": "factual"
   },
   {
     "question_id": "Q014",
-    "question": "What are the metabolic side effects of antipsychotic drugs on glucose in patients with schizophrenia?",
-    "expected_route": "both",
-    "ground_truth_answer": "Antipsychotic drugs can have varying metabolic side effects on glucose, including increased risk of developing type 2 diabetes, with some drugs having a higher risk than others."
+    "question": "Do glucagon-like peptide-1 receptor agonists provide cardiovascular benefits in type 2 diabetes?",
+    "expected_route": "graph",
+    "ground_truth_answer": "Yes, glucagon-like peptide-1 receptor agonists have cardiovascular benefits in type 2 diabetes.",
+    "question_type": "factual"
   },
   {
     "question_id": "Q015",
-    "question": "What are the effects of liraglutide on A1C reductions and weight in type 1 diabetes?",
+    "question": "Which foot conditions place a diabetic patient in the moderate- to high-risk category requiring referral to a foot care specialist?",
     "expected_route": "graph",
-    "ground_truth_answer": "Liraglutide results in modest A1C reductions of approximately 0.4% and decreases in weight of around 5 kg."
+    "ground_truth_answer": "Loss of protective sensation (LOPS), peripheral arterial disease (PAD), and structural foot deformities such as Charcot foot, bunions, or hammertoes.",
+    "question_type": "factual"
   },
   {
     "question_id": "Q016",
-    "question": "What classes of medications were in high demand and led to a shortage?",
+    "question": "Should the dose of SGLT2 inhibitors be changed during religious fasting such as Ramadan?",
     "expected_route": "graph",
-    "ground_truth_answer": "GLP-1 RA and dual GIP and GLP-1 RA classes"
+    "ground_truth_answer": "Guidelines do not advise any change in SGLT2 inhibitor dose during fasting.",
+    "question_type": "factual"
   },
   {
     "question_id": "Q017",
-    "question": "What are the standards of care for children and adolescents with Type 2 Diabetes?",
-    "expected_route": "vector",
-    "ground_truth_answer": "The American Diabetes Association's Standards of Care in Diabetes—2026 provides guidelines for the management of children and adolescents with Type 2 Diabetes, including recommendations for diagnosis, treatment, and ongoing care."
+    "question": "What is the recommended first-line pharmacologic treatment for hyperglycemia caused by mTOR kinase inhibitors such as everolimus?",
+    "expected_route": "graph",
+    "ground_truth_answer": "Metformin",
+    "question_type": "factual"
   },
   {
     "question_id": "Q018",
-    "question": "What is the relationship between interpregnancy weight change and the risk of gestational diabetes mellitus?",
-    "expected_route": "both",
-    "ground_truth_answer": "Interpregnancy weight gain is associated with an increased risk of gestational diabetes mellitus in subsequent pregnancies."
+    "question": "In people with a history of stroke and evidence of insulin resistance and prediabetes, which medication may be considered to lower the risk of stroke or myocardial infarction?",
+    "expected_route": "graph",
+    "ground_truth_answer": "Pioglitazone may be considered.",
+    "question_type": "factual"
   },
   {
     "question_id": "Q019",
-    "question": "What is the role of physical activity in the management of Type 2 Diabetes?",
-    "expected_route": "vector",
-    "ground_truth_answer": "Physical activity, including all movement that increases energy use, plays a crucial role in the management of Type 2 Diabetes as it helps improve physical fitness and is a key component of a comprehensive diabetes care plan."
+    "question": "In patients with diabetes, for which clinical findings is evaluation of bladder function recommended?",
+    "expected_route": "graph",
+    "ground_truth_answer": "Evaluation of bladder function should be performed for individuals with diabetes who have recurrent urinary tract infections, pyelonephritis, incontinence, or a palpable bladder.",
+    "question_type": "factual"
   },
   {
     "question_id": "Q020",
-    "question": "What is the purpose of using a hybrid closed-loop system in older adults with type 2 diabetes?",
-    "expected_route": "both",
-    "ground_truth_answer": "The purpose of using a hybrid closed-loop system in older adults with type 2 diabetes is to improve glucose control and reduce the burden of multiple daily insulin injections, potentially offering a more automated and convenient alternative to traditional insulin therapy."
+    "question": "What percentage reduction in incident type 2 diabetes risk was observed with intensive lifestyle intervention in the DPP trial over 3 years?",
+    "expected_route": "graph",
+    "ground_truth_answer": "58%",
+    "question_type": "factual"
   },
   {
     "question_id": "Q021",
-    "question": "What are the primary goals of nutrition therapy for people with Type 2 Diabetes?",
-    "expected_route": "vector",
-    "ground_truth_answer": "The primary goals are to promote and support healthful eating patterns, achieve and maintain body weight goals, attain individualized glycemic, blood pressure, and lipid goals, and delay or prevent the complications of diabetes."
+    "question": "What proportion of people with diabetes were found to have peripheral artery disease in screening studies?",
+    "expected_route": "graph",
+    "ground_truth_answer": "26%",
+    "question_type": "factual"
   },
   {
     "question_id": "Q022",
-    "question": "How often should urinary albumin and eGFR be monitored in people with chronic kidney disease?",
-    "expected_route": "vector",
-    "ground_truth_answer": "1-4 times per year, depending on the stage of kidney disease"
+    "question": "What is hyperbaric oxygen therapy as described in the excerpt?",
+    "expected_route": "graph",
+    "ground_truth_answer": "It is the delivery of oxygen through a chamber, either individual or multiperson.",
+    "question_type": "factual"
   },
   {
     "question_id": "Q023",
-    "question": "What is the relationship between testosterone therapy and cardiovascular safety in men with hypogonadism and diabetes?",
-    "expected_route": "both",
-    "ground_truth_answer": "Testosterone-replacement therapy in middle-aged and older men has been found to have long-term cardiovascular safety in meta-analyses of randomized controlled trials, but its impact on diabetes management and cardiovascular risk needs to be considered on an individual basis."
+    "question": "In incidentally diagnosed asymptomatic type 2 diabetes with A1C <8.5%, what is the recommended initial pharmacologic therapy?",
+    "expected_route": "graph",
+    "ground_truth_answer": "Metformin, unless contraindicated by kidney function.",
+    "question_type": "factual"
   },
   {
     "question_id": "Q024",
-    "question": "What is the minimum estimated glomerular filtration rate for safe use of metformin?",
+    "question": "What screening is recommended for thyroid dysfunction in children and adolescents with type 1 diabetes?",
     "expected_route": "graph",
-    "ground_truth_answer": "≥30 mL/min/1.73 m²"
+    "ground_truth_answer": "Screening for thyroid dysfunction should be considered.",
+    "question_type": "factual"
   },
   {
     "question_id": "Q025",
-    "question": "What are the key safety issues in metabolic surgery for type 1 diabetes?",
-    "expected_route": "vector",
-    "ground_truth_answer": "The key safety issues include an increased frequency of diabetic ketoacidosis, enhanced risk of hypoglycemia, and long-term surgical complications like dumping syndrome."
+    "question": "Which skin sensitizer present in continuous glucose monitoring device adhesives has been linked to contact dermatitis?",
+    "expected_route": "graph",
+    "ground_truth_answer": "Isobornyl acrylate",
+    "question_type": "factual"
   },
   {
     "question_id": "Q026",
-    "question": "What are the most common genetic causes of permanent neonatal diabetes?",
+    "question": "What is the earliest clinical manifestation of diabetic retinopathy?",
     "expected_route": "graph",
-    "ground_truth_answer": "Autosomal dominant mutations in the genes encoding the Kir6.2 subunit (KCNJ11) and SUR1 subunit (ABCC8) of the β-cell KATP channel"
+    "ground_truth_answer": "Microaneurysms",
+    "question_type": "factual"
   },
   {
     "question_id": "Q027",
-    "question": "What are the effects of using a digital health solution and rtCGM on glucose control in individuals with type 2 diabetes?",
-    "expected_route": "both",
-    "ground_truth_answer": "Reductions in GMI and TAR >180 mg/dL (>10 mmol/L) and >250 mg/dL (>13.9 mmol/L), and an increase in TIR by 15%"
+    "question": "What term is used to describe the lasting benefit of a finite period of intensive glucose lowering as mentioned in the excerpt?",
+    "expected_route": "graph",
+    "ground_truth_answer": "Metabolic memory, also referred to as the legacy effect",
+    "question_type": "factual"
   },
   {
     "question_id": "Q028",
-    "question": "What is the effect of reduced dietary sodium on GFR in patients with diabetic kidney disease?",
-    "expected_route": "both",
-    "ground_truth_answer": "Reduced dietary sodium can help slow the progression of diabetic kidney disease by reducing the glomerular filtration rate (GFR) decline, as seen in the DASH-sodium trial."
+    "question": "What A1C threshold is considered diagnostic for cystic fibrosis‑related diabetes (CFRD) according to the excerpt?",
+    "expected_route": "graph",
+    "ground_truth_answer": "A1C ≥ 6.5% (≥48 mmol/mol)",
+    "question_type": "factual"
   },
   {
     "question_id": "Q029",
-    "question": "What is Saxenda and how is it used in the management of type 2 diabetes?",
-    "expected_route": "both",
-    "ground_truth_answer": "Saxenda is a liraglutide injection of 3 mg, used as an adjunct to diet and exercise for the treatment of type 2 diabetes, and its management involves a dosing regimen and monitoring of blood glucose levels."
+    "question": "Is refugee status an independent risk factor for cardiovascular disease in individuals with type 2 diabetes?",
+    "expected_route": "graph",
+    "ground_truth_answer": "Yes, refugee status is an independent risk factor for cardiovascular disease.",
+    "question_type": "factual"
   },
   {
     "question_id": "Q030",
-    "question": "What is Metformin and how is it managed in type 2 diabetes?",
-    "expected_route": "both",
-    "ground_truth_answer": "Metformin is a biguanide oral antidiabetic drug, and its management in type 2 diabetes typically involves an initial dose of 500 mg twice daily, with gradual dose escalation to achieve adequate glycemic control, while monitoring for gastrointestinal side effects and renal function."
+    "question": "Which medication classes were widely used by participants after the DPP study, as mentioned in the excerpt?",
+    "expected_route": "graph",
+    "ground_truth_answer": "Statin, antihypertensive, and metformin therapy",
+    "question_type": "factual"
   },
   {
     "question_id": "Q031",
-    "question": "What is celiac disease and which patients with type 2 diabetes are indicated for screening for it?",
-    "expected_route": "both",
-    "ground_truth_answer": "Celiac disease is an autoimmune disorder where the ingestion of gluten leads to damage in the small intestine, and screening for it is recommended especially in asymptomatic children and adolescents with type 2 diabetes before establishing a diagnosis and endorsing significant eating plan changes."
+    "question": "Which medication was evaluated for heart failure outcomes in patients with diabetes and chronic kidney disease?",
+    "expected_route": "graph",
+    "ground_truth_answer": "Semaglutide",
+    "question_type": "factual"
   },
   {
     "question_id": "Q032",
-    "question": "What is rivaroxaban and what monitoring is required for T2D patients on it?",
-    "expected_route": "both",
-    "ground_truth_answer": "Rivaroxaban is an anticoagulant considered for people with atherosclerotic disease, and monitoring for T2D patients on it would involve regular checks for bleeding risks and interactions with other medications, particularly in those with kidney disease or other comorbidities."
+    "question": "Is aspirin recommended for individuals under 50 years of age with diabetes who have no other major ASCVD risk factors?",
+    "expected_route": "graph",
+    "ground_truth_answer": "No, aspirin is not recommended for those at low risk of ASCVD, such as men and women under 50 years with diabetes and no other major ASCVD risk factors.",
+    "question_type": "factual"
   },
   {
     "question_id": "Q033",
-    "question": "What is diabetic peripheral neuropathy and how is it prevented in type 2 diabetes?",
-    "expected_route": "both",
-    "ground_truth_answer": "Diabetic peripheral neuropathy is a condition caused by damage to peripheral nerves due to high blood sugar levels, and its prevention in type 2 diabetes involves tight blood glucose control, healthy lifestyle choices, and potentially new treatments targeting its pathogenesis."
+    "question": "What is the approximate weekly increase in total daily insulin dose during pregnancy after insulin resistance begins?",
+    "expected_route": "graph",
+    "ground_truth_answer": "Approximately 5% per week through week 36.",
+    "question_type": "factual"
   },
   {
     "question_id": "Q034",
-    "question": "What is diabetes distress and how is it addressed in the management of type 2 diabetes?",
-    "expected_route": "both",
-    "ground_truth_answer": "Diabetes distress refers to the emotional and psychological challenges associated with managing diabetes, and it is addressed through a combination of psychological approaches, treatment adjustments, and support to improve overall well-being and A1C levels."
+    "question": "Which diet is studied for its effects on adults with elevated blood pressure or hypertension?",
+    "expected_route": "graph",
+    "ground_truth_answer": "the modified DASH diet",
+    "question_type": "factual"
+  },
+  {
+    "question_id": "Q035",
+    "question": "What is the dosing frequency of tirzepatide for the treatment of obesity?",
+    "expected_route": "graph",
+    "ground_truth_answer": "once weekly",
+    "question_type": "factual"
+  },
+  {
+    "question_id": "Q036",
+    "question": "How many AID systems have been approved for use by people with type 2 diabetes?",
+    "expected_route": "graph",
+    "ground_truth_answer": "Three",
+    "question_type": "factual"
   }
 ]

@@ -48,6 +48,7 @@ Classification Guidelines:
   * "What are best practices for diabetic foot care?"
 
 **Route to BOTH when:**
+
 - Question asks "what is X?" or requests a definition/overview of a condition, medication, or concept
   (graph provides relationships; vector provides explanatory text)
 - Question requires both factual data AND contextual explanation
@@ -59,6 +60,14 @@ Classification Guidelines:
   * "Patient on metformin has eGFR 28, what should I do?"
   * "What is the dose of insulin and how do I teach injection technique?"
   * "Compare metformin and SGLT2 inhibitors for CKD patients"
+
+**Route VAGUE questions to VECTOR or BOTH:**
+- "What is linked to X?" 
+- "What is related to X?"
+- "What is associated with X?"
+
+These are too broad for graph (will return random relationships).
+Vector can provide structured overview from guidelines.
 
   **IMPORTANT ROUTING BIAS:**
   When in doubt, prefer VECTOR or BOTH over GRAPH_ONLY.
@@ -88,10 +97,8 @@ CORE PRINCIPLES:
    - If asked "What is metformin?" → Brief overview, key clinical facts
    - If asked "At what eGFR..." → Give the threshold, explain why briefly
 
-2. **Be concise but complete**
+2. **Be complete**
    - Provide all necessary clinical details to answer safely
-   - Skip background information unless essential to understanding
-   - Use 2-4 sentences for simple questions, 1-2 paragraphs for complex ones
 
 3. **Prioritize nursing action**
    - Focus on: What to monitor, what to teach, when to escalate, contraindications
@@ -130,45 +137,6 @@ TYPE D - Complex decision-making (Patient with X and Y, what should I do?)
 - NO unnecessary headers like "Overview", "Key Facts", "Clinical Relevance"
 - Write in natural clinical prose, not academic report style
 
-═══════════════════════════════════════════════════════════════════════════════
-EXAMPLES OF GOOD RESPONSES:
-═══════════════════════════════════════════════════════════════════════════════
-
-Question: "What medications treat Type 2 diabetes?"
-Bad: "Type 2 diabetes is a chronic metabolic disorder... [long explanation]"
-Good: "First-line medications include **metformin**, **SGLT2 inhibitors**, **GLP-1 receptor agonists**, **DPP-4 inhibitors**, **sulfonylureas**, **thiazolidinediones**, and **insulin**. Choice depends on patient-specific factors like kidney function, cardiovascular disease, and weight management goals."
-
----
-
-Question: "At what eGFR is metformin contraindicated?"
-Bad: "Metformin is a biguanide that works by... [mechanism explanation]"
-Good: "Metformin is contraindicated when eGFR <30 mL/min/1.73 m² due to risk of lactic acidosis. Dose reduction may be needed when eGFR is 30-45 mL/min."
-
----
-
-Question: "What is CKD?"
-Bad: [3 paragraphs with headers, pathophysiology, staging systems, epidemiology]
-Good: "Chronic Kidney Disease (CKD) is progressive kidney damage over >3 months. It's commonly classified by eGFR stages and often complicates diabetes management. Key nursing concerns: monitor eGFR and albuminuria regularly, adjust medications (especially metformin, NSAIDs), and screen for cardiovascular risk factors."
-
----
-
-Question: "List side effects of SGLT2 inhibitors"
-Bad: "SGLT2 inhibitors work by blocking glucose reabsorption... [long explanation]"
-Good: "Common side effects: genital yeast infections, urinary tract infections, increased urination. Serious but rare: diabetic ketoacidosis (including euglycemic DKA), Fournier's gangrene, and volume depletion. Monitor for signs of infection and educate patients on DKA symptoms."
-
-═══════════════════════════════════════════════════════════════════════════════
-HANDLING INSUFFICIENT DATA:
-═══════════════════════════════════════════════════════════════════════════════
-
-If the retrieved information doesn't fully answer the question:
-- State what you CAN answer from the data
-- Clearly indicate what's missing
-- Suggest where to find the missing information (clinical guidelines, specialist consult, etc.)
-
-Example:
-"Based on available information, metformin is contraindicated in severe kidney disease. However, I don't have the specific eGFR threshold from the retrieved data. Refer to current ADA Standards of Care or FDA prescribing information for exact contraindication criteria."
-
-═══════════════════════════════════════════════════════════════════════════════
 
 **Retrieved Information:**
 
@@ -178,11 +146,22 @@ Vector Results:
 Graph Results:
 {graph_result}
 
-**Nurse's Question:** {question}
+*Question:** {question}
 
 **Answer:**
 
-**Related Consideration:** [Optional: ONE brief follow-up point or related clinical consideration that might be relevant, only if it adds safety or actionability. Skip if the answer is already complete.]
+**CRITICAL RULES:**
+- Every clinical fact MUST come from the retrieved data below
+- If information is not in the retrieved context, say "Not found in available data"
+- DO NOT use general medical knowledge - stick to retrieved content only
+- When uncertain, quote directly from context rather than paraphrase
+- Mark any inference with "Based on the data provided..."
+
+**Forbidden behaviors:**
+✗ Adding medication doses not in the retrieved data
+✗ Listing entities not mentioned in context
+✗ Explaining mechanisms not present in retrieved text
+✗ Inferring relationships not explicitly stated
 """)
 
 
@@ -401,6 +380,14 @@ CYPHER GENERATION RULES:
       RETURN m.id AS medication, COLLECT(DISTINCT ae.id) AS kidney_effects
       LIMIT 20
 
+    **For vague questions ("what is linked to X?"), use focused query:**
+    MATCH (n)-[r]->(m) WHERE toLower(n.id) CONTAINS 'X'
+    RETURN type(r) AS relationship, m.id AS entity
+    ORDER BY relationship
+    LIMIT 10
+
+    Only return the MOST COMMON relationship types, not all possible links.
+    
 6. **Query Safety**:
    - READ-ONLY queries only: MATCH, WHERE, RETURN, WITH, LIMIT, ORDER BY
    - Always use LIMIT (max 50 for lists, max 30 for relationships)
