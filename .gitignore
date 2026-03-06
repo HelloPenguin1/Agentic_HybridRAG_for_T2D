@@ -5,6 +5,9 @@ build/
 dist/
 wheels/
 *.egg-info
+7_drugbank\full_database.xml
+7_drugbank\graph_data.json
+7_drugbank\Neo4j-52830101-Created-2026-03-06.txt
 
 # Virtual environments
 .venv

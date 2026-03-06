@@ -37,7 +37,7 @@ for i, (name, runner) in enumerate(configs):
         data=DATASET,
         evaluators=EVALUATORS,
         experiment_prefix=name,
-        max_concurrency=2,   # one question at a time — avoids Groq TPM spikes
+        max_concurrency=1,   # one question at a time — avoids Groq TPM spikes
     )
     print(f" Done: {name}")
     if i < len(configs) - 1:
