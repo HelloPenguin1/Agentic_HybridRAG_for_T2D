@@ -190,9 +190,10 @@ Answer:"""
 # ---------------------------------------------------------------------------
 # ROUTER PROMPT - Updated for DrugBank + Vector hybrid
 # ---------------------------------------------------------------------------
-
+    
 router_prompt = ChatPromptTemplate.from_template(
     """You are a query routing agent for a hybrid retrieval system:
+
 
 1. **Knowledge Graph (DrugBank)**: Medication reference data
    - Drug properties (dose, half-life, clearance, mechanism)
@@ -213,7 +214,7 @@ Your task: Decide which source(s) to use.
 
 Question: {question}
 
-**Route to GRAPH_ONLY when:**
+Choose "graph" route when:
 - Asking about specific medication properties (dose, half-life, mechanism)
 - Drug interaction queries ("Can I give X with Y?")
 - Drug class/category questions ("What class is semaglutide?")
@@ -226,7 +227,7 @@ Question: {question}
   * "What drug class is semaglutide?"
   * "Tell me about lactic acidosis risk with metformin" (toxicity property)
 
-**Route to VECTOR_ONLY when:**
+Choose "vector" route when:
 - How-to procedures and protocols
 - Patient education and teaching strategies
 - Clinical management guidelines
@@ -238,7 +239,7 @@ Question: {question}
   * "How do I assess diabetic foot ulcers?"
   * "Best practices for glucose monitoring"
 
-**Route to BOTH when:**
+Choose "both" route when:
 - Question needs medication facts AND clinical protocols
 - Scenario-based questions combining drug info + management
 - Questions requiring both reference data and clinical guidance
@@ -253,8 +254,7 @@ Question: {question}
 **Default behavior:**
 - When uncertain, prefer VECTOR_ONLY or BOTH over GRAPH_ONLY
 - Graph is for medication lookups only
-
-Respond with your routing decision and reasoning."""
+"""
 )
 
 
