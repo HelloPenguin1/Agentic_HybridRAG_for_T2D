@@ -1,6 +1,6 @@
 
 from config.settings import router_llm  #already configured with structured output in settings
-from config.prompts import router_prompt
+from config.prompts2 import router_prompt
 
 def Router(state):
     """Route the input question to the appropriate retriever node"""

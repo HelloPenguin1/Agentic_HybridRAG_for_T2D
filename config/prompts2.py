@@ -99,6 +99,17 @@ CYPHER GENERATION RULES:
       RETURN d.name, d.toxicity, d.clearance
       LIMIT 1
 
+    I) LIST MEDICATION TYPES WITH EXAMPLES:
+        MATCH (d:Drug)-[:BELONGS_TO]->(c:Category)
+        WITH c.name AS medication_type,
+                collect(DISTINCT d.name) AS example_drugs,
+                count(DISTINCT d) AS drug_count
+        RETURN medication_type, example_drugs
+        ORDER BY drug_count DESC
+        LIMIT 10
+    
+
+
 3. **CRITICAL RULES**:
    - Always use LIMIT (max 10 for most queries, max 1 for single drug info)
    - Use toLower() for case-insensitive matching
@@ -106,6 +117,9 @@ CYPHER GENERATION RULES:
      MATCH (d1:Drug)-[:INTERACTS_WITH]-(d2:Drug)  # bidirectional
    - Return only relevant properties, not entire nodes
    - Use DISTINCT when returning lists to avoid duplicates
+   - When returning drug classes/categories, include example drugs using:
+     collect(DISTINCT d.name). 
+
 
 4. **Keyword Mapping**:
    - "dose", "dosage", "how much" → d.available_dosages
@@ -157,6 +171,7 @@ RULES:
    - For lists (interactions, brands): Use bullet points
    - For doses: Format clearly with units
    - For interactions: Include both the interacting drug AND the clinical warning
+   - If drugs appear multiple times for a particular query/category, only list them once 
    
 4. Use professional clinical language
 5. Don't mention "database" or "query" - answer as if you're looking up reference info
@@ -281,7 +296,6 @@ Question: {question}
 - If information is missing, state "Not found in available data"
 - Don't use general medical knowledge
 - When uncertain, quote directly from context
-- Mark inferences with "Based on the data provided..."
 - Provide CITATIONS for the information. For example, cite specifically from each chapter and section you got the information from in the vector database
 
 Answer:"""

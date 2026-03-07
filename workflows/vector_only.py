@@ -23,5 +23,5 @@ workflow = graph.compile()
 
 if __name__ == "__main__":
     print("Testing workflow...")
-    result = workflow.invoke({"question": "Return 7 types of medications for Type 2 Diabetes?"})
+    result = workflow.invoke({"question": "What is the recommended first-line pharmacologic treatment for hyperglycemia caused by mTOR kinase inhibitors such as everolimus?"})
     print(result["final_answer"])

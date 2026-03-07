@@ -14,7 +14,7 @@ import sys
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent.parent))  # project root
 
-from workflows.hybrid_w_router import workflow as adaptive_workflow
+from workflows.adaptive import workflow as adaptive_workflow
 from workflows.naive_hybrid    import workflow as naive_hybrid_workflow
 from workflows.vector_only     import workflow as vector_only_workflow
 from workflows.graph_only      import workflow as graph_only_workflow

@@ -37,6 +37,8 @@ graph.add_edge("synthesizer", END)
 
 # Compile
 workflow = graph.compile()
+\
+
 
 
 if __name__ == "__main__":
@@ -46,19 +48,24 @@ if __name__ == "__main__":
     png_path = "workflow_graph.png"
     with open(png_path, "wb") as f:
         f.write(workflow.get_graph(xray=True).draw_mermaid_png())
+
     print(f"Graph saved → {os.path.abspath(png_path)}")
-    os.startfile(os.path.abspath(png_path))   # opens with default image viewer on Windows
+    os.startfile(os.path.abspath(png_path))  # opens with default image viewer on Windows
 
-    # ── Run ──────────────────────────────────────────────────────────────
-    question = "What is CKD?"
-    print(f"\n{'='*60}")
-    print(f"Question : {question}")
-    print(f"{'='*60}")
+    # ── Continuous Run Loop ──────────────────────────────────────────────
+    print("\nAgent ready. Press Ctrl+C to exit.\n")
 
-    result = workflow.invoke({"question": question})
+    try:
+        while True:
+            question = input("Question: ")
 
-    print(f"\nRouter choice    : {result['router_choice'].upper()}")
-    print(f"Router reasoning : {result['router_reasoning']}")
-    print(f"\n{'─'*60}")
-    print(f"Final Answer:\n{result['final_answer']}")
-    print(f"{'='*60}")
+            result = workflow.invoke({"question": question})
+
+            print(f"\nRouter choice    : {result['router_choice'].upper()}")
+            print(f"Router reasoning : {result['router_reasoning']}")
+            print(f"\n{'─'*60}")
+            print(f"Final Answer:\n{result['final_answer']}")
+            print(f"{'='*60}\n")
+
+    except KeyboardInterrupt:
+        print("\nExiting...")
