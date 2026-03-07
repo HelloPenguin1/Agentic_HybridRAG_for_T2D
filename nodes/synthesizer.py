@@ -1,6 +1,6 @@
 from langchain_core.output_parsers import StrOutputParser
 from config.settings import response_llm
-from config.prompts import base_synthesizer_prompt, fixed_hybrid_synthesizer_prompt  
+from config.prompts2 import base_synthesizer_prompt 
 
 
 def synthesizer(state):

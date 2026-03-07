@@ -2,7 +2,7 @@ import os
 from dotenv import load_dotenv
 from langchain_neo4j import Neo4jGraph, GraphCypherQAChain
 from config.settings import translator_llm, qa_llm
-from config.prompts import cypher_chain_generation_prompt, cypher_chain_qa_prompt
+from config.prompts2 import cypher_chain_generation_prompt, cypher_chain_qa_prompt
 from config.output_validation import GRAPH_EMPTY
 
 load_dotenv()
@@ -52,11 +52,20 @@ class GraphRetrieverChain:
 
 
 if __name__ == "__main__":
-    print("Testing GraphRetrieverChain...")
+    print("Testing GraphRetrieverChain... (Press Ctrl+C to exit)")
+
     try:
         retriever = GraphRetrieverChain()
-        question = input("Enter your question: ")
-        result = retriever.chain.invoke({"query": question})
-        print(f"\nAnswer: {result['result']}")
+
+        while True:
+            question = input("\nEnter your question: ")
+
+            result = retriever.chain.invoke({"query": question})
+
+            print(f"\nAnswer: {result['result']}")
+
+    except KeyboardInterrupt:
+        print("\nExiting...")
+
     except Exception as e:
         print(f"Error: {e}")
