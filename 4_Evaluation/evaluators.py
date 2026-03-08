@@ -26,6 +26,9 @@ import os
 from openai import OpenAI
 from langsmith.schemas import Run, Example
 from langsmith.evaluation import EvaluationResult
+from langsmith.evaluation import EvaluationResult, run_evaluator
+from config.settings import response_llm 
+from config.output_validation import GRAPH_EMPTY
 
 _oai = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
 
@@ -163,3 +166,63 @@ def router_accuracy(run: Run, example: Example) -> EvaluationResult:
 
     score = 1.0 if (expected and actual and expected == actual) else 0.0
     return EvaluationResult(key="router_accuracy", score=score)
+
+
+@run_evaluator
+def cypher_quality_evaluator(run: Run, example: Example) -> EvaluationResult:
+    """Checks the actual Cypher syntax and intent."""
+    # Retrieve from the new state field
+    query = run.outputs.get("generated_cypher", "")
+    
+    if not query:
+        return EvaluationResult(key="cypher_quality", score=0.0)
+
+    prompt = f"""You are a Neo4j Cypher expert. 
+    Evaluate this generated query for a Type 2 Diabetes database:
+    Query: {query}
+
+    Score (0-5):
+    5: Perfect syntax, uses correct relationship types (e.g., HAS_GENE, TREATS), and is efficient.
+    3: Correct syntax but might be missing a filter or using a slightly suboptimal path.
+    1: Valid Cypher but logically wrong for the question.
+    0: Syntax error or completely hallucinated labels.
+
+    Reply with a SINGLE integer only."""
+    
+    return EvaluationResult(key="cypher_quality", score=_llm_judge_score(prompt))
+
+
+@run_evaluator
+def context_recall_evaluator(run, example) -> EvaluationResult:
+    """Tier 2: Checks if retrieved graph data contains the ground truth facts."""
+    ground_truth = example.outputs.get("ground_truth_context", "")
+    retrieved = run.outputs.get("graph_result", "")
+    
+    prompt = f"""Ground truth facts: {ground_truth}
+    Retrieved facts: {retrieved}
+    Does the Retrieved facts text contain the core clinical information found in the Ground truth facts? 
+    Answer only with YES or NO."""
+    
+    res = response_llm.invoke(prompt).content.strip().upper()
+    return EvaluationResult(key="context_recall", score=1 if "YES" in res else 0)
+
+
+
+@run_evaluator
+def e2e_quality_evaluator(run, example) -> EvaluationResult:
+    """Tier 3: Scores the final generated answer against the golden answer (1-5)."""
+    gt_answer = example.outputs.get("ground_truth_answer", "")
+    final_answer = run.outputs.get("final_answer", "")
+    
+    prompt = f"""Golden Answer: {gt_answer}
+    Agent Answer: {final_answer}
+    Rate the Agent Answer from 1 to 5 based on clinical accuracy and alignment with the Golden Answer. 
+    Output ONLY the integer (e.g., 4)."""
+    
+    try:
+        res = response_llm.invoke(prompt).content.strip()
+        score = int(res) / 5.0  # Normalize to a 0.0 - 1.0 scale for LangSmith
+    except ValueError:
+        score = 0.0
+        
+    return EvaluationResult(key="e2e_quality", score=score)

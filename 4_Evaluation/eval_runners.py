@@ -14,6 +14,9 @@ import sys
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent.parent))  # project root
 
+from nodes.graph_retriever_chain import GraphRetrieverChain
+from nodes.synthesizer import synthesizer
+
 from workflows.adaptive import workflow as adaptive_workflow
 from workflows.naive_hybrid    import workflow as naive_hybrid_workflow
 from workflows.vector_only     import workflow as vector_only_workflow
@@ -68,3 +71,20 @@ def run_graph_only(inputs: dict) -> dict:
         "retrieved_context":  _context(result),
         "router_choice":      "graph",   # fixed
     }
+
+
+def run_graph_only_workflow(inputs: dict) -> dict:
+    """Target function that bypasses the router and vector DB."""
+    question = inputs["question"]
+    state = {"question": question, "router_choice": "graph"}
+    
+    # 1. Retrieve from Graph
+    graph_chain = GraphRetrieverChain()
+    graph_state = graph_chain.graph_retriever_node(state)
+    state.update(graph_state)
+    
+    # 2. Synthesize Answer
+    final_state = synthesizer(state)
+    state.update(final_state)
+    
+    return state

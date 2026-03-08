@@ -15,7 +15,7 @@ EMBED_MODEL="abhinand/MedEmbed-base-v0.1"
 QDRANT_TOPK = 10
 BM25_TOP = 10
 
-CHUNKS_PATH = Path(__file__).resolve().parent.parent / "3_vectordb_ingestion" / "processed_chunks"
+CHUNKS_PATH = Path(__file__).resolve().parent.parent / "1_vectordb_ingestion" / "processed_chunks"
 
 
 EMBEDDINGS = HuggingFaceEmbeddings(
