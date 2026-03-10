@@ -171,40 +171,90 @@ def router_accuracy(run: Run, example: Example) -> EvaluationResult:
 
 
 @run_evaluator
-def cypher_query_correctness(run: Run, example: Example) -> EvaluationResult:
+def cypher_semantic_correctness(run, example) -> EvaluationResult:
     """
-    GRAPHDB METRIC 1: Cypher Query Correctness
-    Evaluates execution success and result presence to isolate query quality.
+    Evaluates whether the generated Cypher query retrieves the same information
+    as the expected Cypher query. Uses an LLM judge to allow flexibility.
     """
-    query = run.outputs.get("generated_cypher")
-    graph_result = run.outputs.get("graph_result")
-    
-    # 0.0 = Query failed to execute (No query generated or exception caught in node)
-    if not query:
-        return EvaluationResult(key="cypher_query_correctness", score=0.0)
 
-    # Clean and check the result against the empty sentinel
-    res_str = str(graph_result).strip() if graph_result else ""
-    sentinel_str = str(GRAPH_EMPTY).strip()
-    
-    # Check for empty indicators
-    is_empty = (
-        not res_str or 
-        res_str == sentinel_str or 
-        res_str == "[]" or 
-        "no records found" in res_str.lower()
+    expected = example.outputs.get("expected_cypher", "")
+    generated = run.outputs.get("generated_cypher", "")
+
+    if not generated:
+        return EvaluationResult(key="cypher_semantic_correctness", score=0.0)
+
+    prompt = f"""
+    You are evaluating Cypher queries for a medical graph database.
+
+    Expected Query:
+    {expected}
+
+    Generated Query:
+    {generated}
+
+    Determine whether the Generated Query retrieves the SAME information
+    from the graph as the Expected Query.
+
+    Ignore:
+    - formatting differences
+    - whitespace
+    - variable names
+    - query layout
+    - harmless optimizations (e.g., additional filters that do not change meaning)
+
+    Focus on:
+    - node labels
+    - relationship types
+    - filtering conditions
+    - returned fields
+
+    Answer ONLY with YES or NO.
+"""
+
+    res = response_llm.invoke(prompt).content.strip().upper()
+
+    score = 1.0 if res.startswith("YES") else 0.0
+
+    return EvaluationResult(
+        key="cypher_semantic_correctness",
+        score=score
     )
 
-    # Composite Scoring Logic:
-    if not is_empty:
-        # 1.0 = Query executed successfully AND returned non-empty results
-        score = 1.0
-    else:
-        # 0.5 = Query executed but returned empty results (likely wrong query logic)
-        # Note: If it reached this point without an exception, execution 'succeeded'
-        score = 0.5
+# @run_evaluator
+# def cypher_query_correctness(run: Run, example: Example) -> EvaluationResult:
+#     """
+#     GRAPHDB METRIC 1: Cypher Query Correctness
+#     Evaluates execution success and result presence to isolate query quality.
+#     """
+#     query = run.outputs.get("generated_cypher")
+#     graph_result = run.outputs.get("graph_result")
+    
+#     # 0.0 = Query failed to execute (No query generated or exception caught in node)
+#     if not query:
+#         return EvaluationResult(key="cypher_query_correctness", score=0.0)
 
-    return EvaluationResult(key="cypher_query_correctness", score=score)
+#     # Clean and check the result against the empty sentinel
+#     res_str = str(graph_result).strip() if graph_result else ""
+#     sentinel_str = str(GRAPH_EMPTY).strip()
+    
+#     # Check for empty indicators
+#     is_empty = (
+#         not res_str or 
+#         res_str == sentinel_str or 
+#         res_str == "[]" or 
+#         "no records found" in res_str.lower()
+#     )
+
+#     # Composite Scoring Logic:
+#     if not is_empty:
+#         # 1.0 = Query executed successfully AND returned non-empty results
+#         score = 1.0
+#     else:
+#         # 0.5 = Query executed but returned empty results (likely wrong query logic)
+#         # Note: If it reached this point without an exception, execution 'succeeded'
+#         score = 0.5
+
+#     return EvaluationResult(key="cypher_query_correctness", score=score)
 
 
 @run_evaluator
@@ -217,7 +267,10 @@ def context_recall_evaluator(run, example) -> EvaluationResult:
         return EvaluationResult(key="context_recall", score=None)
     
     # Convert graph_docs to string for comparison
-    retrieved_context = str(graph_docs) if graph_docs else ""
+    if isinstance(graph_docs, list):
+        retrieved_context = "\n".join([str(d) for d in graph_docs])
+    else:
+        retrieved_context = str(graph_docs)
     
     if not retrieved_context:
         # No context retrieved for a graph question
