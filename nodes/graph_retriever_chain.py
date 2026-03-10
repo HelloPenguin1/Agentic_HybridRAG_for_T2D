@@ -39,16 +39,17 @@ class GraphRetrieverChain:
             # intermediate_steps: [{'query': cypher}, {'context': [...rows...]}]
             steps = result.get("intermediate_steps", [])
             context = steps[1].get("context", []) if len(steps) > 1 else []
+            generated_cypher_query = result['intermediate_steps'][0]['query']
 
             if not context:
                 print("[GraphRetriever] Empty context — returning GRAPH_EMPTY sentinel.")
-                return {"graph_result": GRAPH_EMPTY, "graph_docs": []}
+                return {"graph_result": GRAPH_EMPTY, "graph_docs": [], "generated_cypher": generated_cypher_query}
 
-            return {"graph_result": result.get("result", ""), "graph_docs": context}
+            return {"graph_result": result.get("result", ""), "graph_docs": context, "generated_cypher": generated_cypher_query}
 
         except Exception as e:
             print(f"GraphCypherQAChain error: {e}")
-            return {"graph_result": GRAPH_EMPTY, "graph_docs": []}
+            return {"graph_result": GRAPH_EMPTY, "graph_docs": [], "generated_cypher": None}
 
 
 
@@ -66,7 +67,10 @@ if __name__ == "__main__":
 
             result = retriever.chain.invoke({"query": question})
 
+            print(f"Generated_cypher: {result['intermediate_steps'][0]['query']}")
+            print("="*100)
             print(f"\nAnswer: {result['result']}")
+            
 
     except KeyboardInterrupt:
         print("\nExiting...")

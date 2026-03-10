@@ -50,74 +50,74 @@
   {
     "question": "What are the available dosages for Tolazamide?",
     "expected_cypher": "MATCH (d:Drug) WHERE toLower(d.name) CONTAINS toLower('tolazamide') RETURN d.name, d.available_dosages LIMIT 1",
-    "ground_truth_context": "",
+    "ground_truth_context": "['Tablet (Oral) - 250 mg/1', 'Tablet (Oral) - 500 mg/1', 'Tablet (Oral) - 100 mg/1']",
     "ground_truth_answer": "Insulin lispro is available in multiple formulations including 100 U/mL and 200 U/mL concentrations for subcutaneous and intravenous administration."
   },
   {
     "question": "Does Metformin interact with Glimepiride?",
     "expected_cypher": "MATCH (d1:Drug)-[r:INTERACTS_WITH]-(d2:Drug) WHERE toLower(d1.name) CONTAINS toLower('metformin') AND toLower(d2.name) CONTAINS toLower('glimepiride') RETURN d1.name, d2.name, r.description AS interaction_details LIMIT 1",
     "ground_truth_context": "['Tablet (Oral) - 250 mg/1', 'Tablet (Oral) - 500 mg/1', 'Tablet (Oral) - 100 mg/1']",
-    "ground_truth_answer": ""
+    "ground_truth_answer": "The ground truth context does not contain interaction information between Metformin and Glimepiride; it only lists Tolazamide dosage formulations."
   },
   {
     "question": "What drugs interact with Metformin?",
     "expected_cypher": "MATCH (d1:Drug)-[r:INTERACTS_WITH]->(d2:Drug) WHERE toLower(d1.name) CONTAINS toLower('metformin') RETURN d2.name AS interacting_drug, r.description AS interaction_details LIMIT 10",
     "ground_truth_context": "'Insulin lispro'\n'The risk or severity of adverse effects can be increased when Insulin lispro is combined with Metformin.'\n2\n'Insulin glargine'\n'The risk or severity of adverse effects can be increased when Insulin glargine is combined with Metformin.'\n3\n'Acarbose'\n'The serum concentration of Metformin can be decreased when it is combined with Acarbose.'\n4\n'Acetohexamide'\n'The risk or severity of hypoglycemia can be increased when Metformin is combined with Acetohexamide.'\n5\n'Tolazamide'\n'The risk or severity of hypoglycemia can be increased when Tolazamide is combined with Metformin.'\n6\n'Tolbutamide'\n'The risk or severity of hypoglycemia can be increased when Tolbutamide is combined with Metformin.'\n7\n'Exenatide'\n'The risk or severity of hypoglycemia can be increased when Exenatide is combined with Metformin.'\n8\n'Insulin aspart'\n'The risk or severity of adverse effects can be increased when Insulin aspart is combined with Metformin.'\n9\n'Insulin detemir'\n'The risk or severity of adverse effects can be increased when Insulin detemir is combined with Metformin.'\n10\n'Insulin glulisine'\n'The risk or severity of adverse effects can be increased when Insulin glulisine is combined with Metformin.'",
-    "ground_truth_answer": ""
+    "ground_truth_answer": "Metformin interacts with multiple diabetes medications including insulin lispro, insulin glargine, insulin aspart, insulin detemir, and insulin glulisine (which increase adverse effects risk), acetohexamide, tolazamide, tolbutamide, and exenatide (which increase hypoglycemia risk), and acarbose (which decreases metformin serum concentration)."
   },
   {
     "question": "What are the brand names for Insulin glargine?",
     "expected_cypher": "MATCH (d:Drug)-[:MARKETED_AS]->(p:Product) WHERE toLower(d.name) CONTAINS toLower('insulin glargine') RETURN p.brand_name, p.labeller, p.country LIMIT 10",
     "ground_truth_context": "'Lantus'\n'Physicians Total Care, Inc.'\n'US'\n2\n'Basaglar'\n'Eli Lilly Nederland B.V.'\n'US'\n3\n'Lantus Solostar'\n'REMEDYREPACK INC.'\n'US'\n4\n'TOUJEO Max'\n'A-S Medication Solutions'\n'US'\n5\n'Soliqua 100/33'\n'Sanofi Aventis Deutschland Gmb H'\n'US'\n6\n'BASAGLAR KwikPen'\n'Eli Lilly Nederland B.V.'\n'US'\n7\n'BASAGLAR Tempo Pen'\n'Eli Lilly Nederland B.V.'\n'US'\n8\n'Toujeo'\n'Sanofi Aventis Deutschland Gmb H'\n'US'\n9\n'Semglee'\n'Mylan Specialty L.P.'\n'US'\n10\n'Insulin Glargine'\n'Viatris Specialty Llc'\n'US'",
-    "ground_truth_answer": ""
+    "ground_truth_answer": "Insulin glargine is marketed in the US under brand names including Lantus, Basaglar, Lantus Solostar, Toujeo, TOUJEO Max, Soliqua 100/33, BASAGLAR KwikPen, BASAGLAR Tempo Pen, Semglee, and generic Insulin Glargine."
   },
   {
     "question": "What are the dietary rules for Acarbose?",
     "expected_cypher": "MATCH (d:Drug)-[:HAS_DIETARY_RULE]->(f:FoodInteraction) WHERE toLower(d.name) CONTAINS toLower('acarbose') RETURN f.description LIMIT 5",
     "ground_truth_context": "'Take with food. Each dose should be taken with the first bite of a main meal.'",
-    "ground_truth_answer": ""
+    "ground_truth_answer": "Acarbose should be taken with food, specifically with the first bite of each main meal."
   },
   {
     "question": "What products is Metformin marketed as?",
     "expected_cypher": "MATCH (d:Drug)-[:MARKETED_AS]->(p:Product) WHERE toLower(d.name) CONTAINS toLower('metformin') RETURN p.brand_name, p.labeller, p.country LIMIT 10",
     "ground_truth_context": "'Metformin Hydrochloride'\n'Watson Pharmaceuticals'\n'US'\n2\n'Metformin hydrochloride'\n'Dr. Reddy's Laboratories Limited'\n'US'\n3\n'Glipizide and Metformin Hydrochloride'\n'Caraco Pharmaceutical Laboratories, Ltd.'\n'US'\n4\n'Glyburide and Metformin Hydrochloride'\n'Dr. Reddy's Laboratories Limited'\n'US'\n5\n'Metaglip'\n'Bristol Myers Squibb'\n'US'\n6\n'Fortamet'\n'Physicians Total Care, Inc.'\n'US'\n7\n'Glucophage XR'\n'Caremark L.L.C.'\n'US'\n8\n'Appformin'\n'Physician Therapeutics Llc'\n'US'\n9\n'Appformin-D'\n'Physician Therapeutics Llc'\n'US'\n10\n'Glumetza'\n'Depomed'\n'US'",
-    "ground_truth_answer": ""
+    "ground_truth_answer": "Metformin is marketed as Metformin Hydrochloride, Fortamet, Glucophage XR, Glumetza, Appformin, Appformin-D, and in combination products including Glipizide and Metformin Hydrochloride, Glyburide and Metformin Hydrochloride, and Metaglip."
   },
   {
     "question": "Does Rosiglitazone interact with Insulin glargine?",
     "expected_cypher": "MATCH (d1:Drug)-[r:INTERACTS_WITH]-(d2:Drug) WHERE toLower(d1.name) CONTAINS toLower('rosiglitazone') AND toLower(d2.name) CONTAINS toLower('insulin glargine') RETURN d1.name, d2.name, r.description AS interaction_details LIMIT 1",
     "ground_truth_context": "'The risk or severity of congestive heart failure can be increased when Insulin glargine is combined with Rosiglitazone.'",
-    "ground_truth_answer": ""
+    "ground_truth_answer": "Yes, the risk or severity of congestive heart failure can be increased when insulin glargine is combined with rosiglitazone."
   },
   {
     "question": "What are all the drugs that interact with Glimepiride?",
     "expected_cypher": "MATCH (d1:Drug)-[r:INTERACTS_WITH]->(d2:Drug) WHERE toLower(d1.name) CONTAINS toLower('glimepiride') RETURN d2.name AS interacting_drug, r.description AS interaction_details LIMIT 10",
     "ground_truth_context": "'Insulin lispro'\n'The risk or severity of hypoglycemia can be increased when Glimepiride is combined with Insulin lispro.'\n2\n'Insulin glargine'\n'The risk or severity of hypoglycemia can be increased when Glimepiride is combined with Insulin glargine.'\n3\n'Acarbose'\n'The risk or severity of hypoglycemia can be increased when Glimepiride is combined with Acarbose.'\n4\n'Acetohexamide'\n'The risk or severity of hypoglycemia can be increased when Glimepiride is combined with Acetohexamide.'\n5\n'Miglitol'\n'The risk or severity of hypoglycemia can be increased when Glimepiride is combined with Miglitol.'\n6\n'Chlorpropamide'\n'The risk or severity of hypoglycemia can be increased when Glimepiride is combined with Chlorpropamide.'\n7\n'Nateglinide'\n'The risk or severity of hypoglycemia can be increased when Glimepiride is combined with Nateglinide.'\n8\n'Tolazamide'\n'The risk or severity of hypoglycemia can be increased when Glimepiride is combined with Tolazamide.'\n9\n'Repaglinide'\n'The risk or severity of hypoglycemia can be increased when Glimepiride is combined with Repaglinide.'\n10\n'Glyburide'\n'Glyburide may decrease the excretion rate of Glimepiride which could result in a higher serum level.'",
-    "ground_truth_answer": ""
+    "ground_truth_answer": "Glimepiride interacts with multiple diabetes medications including insulin lispro, insulin glargine, acarbose, acetohexamide, miglitol, chlorpropamide, nateglinide, tolazamide, and repaglinide, all of which increase hypoglycemia risk, while glyburide may decrease glimepiride excretion and raise its serum level."
   },
   {
     "question": "What food interactions exist for Miglitol?",
     "expected_cypher": "MATCH (d:Drug)-[:HAS_DIETARY_RULE]->(f:FoodInteraction) WHERE toLower(d.name) CONTAINS toLower('miglitol') RETURN f.description LIMIT 5",
     "ground_truth_context": "'Take with food. Take at the beginning of a meal.'",
-    "ground_truth_answer": ""
+    "ground_truth_answer": "Miglitol should be taken with food at the beginning of a meal."
   },
   {
     "question": "What products is Nateglinide sold as?",
     "expected_cypher": "MATCH (d:Drug)-[:MARKETED_AS]->(p:Product) WHERE toLower(d.name) CONTAINS toLower('nateglinide') RETURN p.brand_name, p.labeller, p.country LIMIT 10",
     "ground_truth_context": "'Starlix'\n'Caremark L.L.C.'\n'US'\n2\n'Nateglinide'\n'Physicians Total Care, Inc.'\n'US'\n3\n'Starlix 60mg'\n'Novartis'\n'Canada'\n4\n'Starlix 120mg'\n'Novartis'\n'Canada'\n5\n'Starlix 180mg'\n'Novartis'\n'Canada'\n6\n'Trazec'\n'Novartis Europharm Limited'\n'EU'",
-    "ground_truth_answer": ""
+    "ground_truth_answer": "Nateglinide is marketed as Starlix in the US and Canada (in 60mg, 120mg, and 180mg formulations), as generic Nateglinide in the US, and as Trazec in the EU."
   },
   {
     "question": "What pharmacological category does Metformin belong to?",
     "expected_cypher": "MATCH (d:Drug)-[:BELONGS_TO]->(c:Category) WHERE toLower(d.name) CONTAINS toLower('metformin') RETURN d.name, c.name AS drug_class LIMIT 5",
     "ground_truth_context": "'Metformin'\n'Blood Glucose Lowering Agents'\n2\n'Metformin'\n'Alimentary Tract and Metabolism'\n3\n'Metformin'\n'Drugs Used in Diabetes'\n4\n'Metformin'\n'Oral Hypoglycemics'\n5\n'Metformin'\n'Drugs that are Mainly Renally Excreted'",
-    "ground_truth_answer": ""
+    "ground_truth_answer": "Metformin belongs to multiple pharmacological categories including Blood Glucose Lowering Agents, Oral Hypoglycemics, Drugs Used in Diabetes, Alimentary Tract and Metabolism, and Drugs that are Mainly Renally Excreted."
   },
   {
     "question": "What is the drug class for Glimepiride?",
     "expected_cypher": "MATCH (d:Drug)-[:BELONGS_TO]->(c:Category) WHERE toLower(d.name) CONTAINS toLower('glimepiride') RETURN d.name, c.name AS drug_class LIMIT 5",
     "ground_truth_context": "'Glimepiride'\n'Blood Glucose Lowering Agents'\n2\n'Glimepiride'\n'Hypoglycemia-Associated Agents'\n3\n'Glimepiride'\n'Alimentary Tract and Metabolism'\n4\n'Glimepiride'\n'Drugs Used in Diabetes'\n5\n'Glimepiride'\n'Sulfonylureas'",
-    "ground_truth_answer": ""
+    "ground_truth_answer": "Glimepiride belongs to multiple drug classes including Sulfonylureas, Blood Glucose Lowering Agents, Hypoglycemia-Associated Agents, Drugs Used in Diabetes, and Alimentary Tract and Metabolism."
   },
   {
     "question": "What biological target does Insulin lispro act on?",

@@ -22,6 +22,7 @@ Usage:
 Note: latency is tracked automatically by LangSmith — no evaluator needed.
 """
 
+import time
 import os
 from openai import OpenAI
 from langsmith.schemas import Run, Example
@@ -35,6 +36,7 @@ _oai = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
 
 def _llm_score(prompt: str, low: int = 0, high: int = 5) -> float:
     """Call GPT-4o-mini, parse an integer score from the response, normalize to 0-1."""
+    time.sleep(4)
     resp = _oai.chat.completions.create(
         model="gpt-4o-mini",
         messages=[{"role": "user", "content": prompt}],
@@ -169,39 +171,62 @@ def router_accuracy(run: Run, example: Example) -> EvaluationResult:
 
 
 @run_evaluator
-def cypher_quality_evaluator(run: Run, example: Example) -> EvaluationResult:
-    """Checks the actual Cypher syntax and intent."""
-    # Retrieve from the new state field
-    query = run.outputs.get("generated_cypher", "")
+def cypher_query_correctness(run: Run, example: Example) -> EvaluationResult:
+    """
+    GRAPHDB METRIC 1: Cypher Query Correctness
+    Evaluates execution success and result presence to isolate query quality.
+    """
+    query = run.outputs.get("generated_cypher")
+    graph_result = run.outputs.get("graph_result")
     
+    # 0.0 = Query failed to execute (No query generated or exception caught in node)
     if not query:
-        return EvaluationResult(key="cypher_quality", score=0.0)
+        return EvaluationResult(key="cypher_query_correctness", score=0.0)
 
-    prompt = f"""You are a Neo4j Cypher expert. 
-    Evaluate this generated query for a Type 2 Diabetes database:
-    Query: {query}
-
-    Score (0-5):
-    5: Perfect syntax, uses correct relationship types (e.g., HAS_GENE, TREATS), and is efficient.
-    3: Correct syntax but might be missing a filter or using a slightly suboptimal path.
-    1: Valid Cypher but logically wrong for the question.
-    0: Syntax error or completely hallucinated labels.
-
-    Reply with a SINGLE integer only."""
+    # Clean and check the result against the empty sentinel
+    res_str = str(graph_result).strip() if graph_result else ""
+    sentinel_str = str(GRAPH_EMPTY).strip()
     
-    return EvaluationResult(key="cypher_quality", score=_llm_judge_score(prompt))
+    # Check for empty indicators
+    is_empty = (
+        not res_str or 
+        res_str == sentinel_str or 
+        res_str == "[]" or 
+        "no records found" in res_str.lower()
+    )
+
+    # Composite Scoring Logic:
+    if not is_empty:
+        # 1.0 = Query executed successfully AND returned non-empty results
+        score = 1.0
+    else:
+        # 0.5 = Query executed but returned empty results (likely wrong query logic)
+        # Note: If it reached this point without an exception, execution 'succeeded'
+        score = 0.5
+
+    return EvaluationResult(key="cypher_query_correctness", score=score)
 
 
 @run_evaluator
 def context_recall_evaluator(run, example) -> EvaluationResult:
     """Tier 2: Checks if retrieved graph data contains the ground truth facts."""
     ground_truth = example.outputs.get("ground_truth_context", "")
-    retrieved = run.outputs.get("graph_result", "")
+    graph_docs = run.outputs.get("graph_docs", [])
     
+    if not ground_truth:
+        return EvaluationResult(key="context_recall", score=None)
+    
+    # Convert graph_docs to string for comparison
+    retrieved_context = str(graph_docs) if graph_docs else ""
+    
+    if not retrieved_context:
+        # No context retrieved for a graph question
+        return EvaluationResult(key="context_recall", score=0.0)
+
     prompt = f"""Ground truth facts: {ground_truth}
-    Retrieved facts: {retrieved}
+    Retrieved facts: {retrieved_context}
     Does the Retrieved facts text contain the core clinical information found in the Ground truth facts? 
-    Answer only with YES or NO."""
+    Answer only with YES, or  NO."""
     
     res = response_llm.invoke(prompt).content.strip().upper()
     return EvaluationResult(key="context_recall", score=1 if "YES" in res else 0)

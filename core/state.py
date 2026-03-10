@@ -11,7 +11,7 @@ class GraphState(TypedDict):
     router_choice: Literal["graph", "vector", "both"] 
     router_reasoning: str
 
-    #generated_cypher: Optional[str]
+    generated_cypher: Optional[str]
 
     graph_result: Optional[str]
     vector_result: Optional[str]

@@ -2,7 +2,7 @@ import json
 from langsmith import Client
 
 client = Client()
-dataset_name = "T2D_Graph_Eval" # You will reference this name in the run script
+dataset_name = "T2D_Graph_Dataset" # You will reference this name in the run script
 
 def upload_dataset():
     # Create a new dataset in LangSmith

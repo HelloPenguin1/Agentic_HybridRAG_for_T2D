@@ -15,7 +15,7 @@ load_dotenv(Path(__file__).parent.parent / ".env")
 
 client = Client()
 
-with open(Path(__file__).parent / "test_dataset.json", encoding="utf-8") as f:
+with open("4_Evaluation\datasets\mixed_dataset.py", encoding="utf-8") as f:
     dataset = json.load(f)
 
 dataset_name = "diabetes_graphdb_dataset"

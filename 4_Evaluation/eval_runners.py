@@ -3,9 +3,11 @@ eval_runners.py
 Runner functions for LangSmith evaluation of 4 workflow configurations.
 
 Each function takes {"question": str} and returns a dict with:
-  final_answer   — the system's response (compared against ground truth)
-  retrieved_context — combined graph + vector context (used for faithfulness eval)
-  router_choice  — which route was taken (used for router accuracy eval)
+  final_answer       — the system's response (compared against ground truth)
+  retrieved_context  — combined graph + vector context (used for faithfulness eval)
+  router_choice      — which route was taken (used for router accuracy eval)
+  generated_cypher   — the Cypher query generated (for cypher correctness eval)
+  graph_docs         — raw Neo4j results (for context recall eval)
 
 Pass these directly to langsmith.evaluate() as the `target` argument.
 """
@@ -24,7 +26,7 @@ from workflows.graph_only      import workflow as graph_only_workflow
 
 
 def _context(result: dict) -> str:
-    """Combine graph and vector results into a single context string."""
+    """Combine graph and vector results into a single context string for faithfulness eval."""
     parts = []
     if result.get("graph_result"):
         parts.append(f"[Graph] {result['graph_result']}")
@@ -36,55 +38,50 @@ def _context(result: dict) -> str:
 def run_adaptive_router(inputs: dict) -> dict:
     """Adaptive routing — router agent decides graph / vector / both per question."""
     result = adaptive_workflow.invoke({"question": inputs["question"]})
+    
     return {
-        "final_answer":       result["final_answer"],
+        "final_answer":       result.get("final_answer", ""),
         "retrieved_context":  _context(result),
         "router_choice":      result.get("router_choice", ""),
+        "generated_cypher":   result.get("generated_cypher"),      # For cypher correctness
+        "graph_docs":         result.get("graph_docs", []),        # For context recall
     }
 
 
 def run_fixed_hybrid(inputs: dict) -> dict:
     """Fixed hybrid — always runs graph AND vector retrievers in parallel, no routing."""
     result = naive_hybrid_workflow.invoke({"question": inputs["question"]})
+    
     return {
-        "final_answer":       result["final_answer"],
+        "final_answer":       result.get("final_answer", ""),
         "retrieved_context":  _context(result),
         "router_choice":      "both",   # fixed, always both
+        "generated_cypher":   result.get("generated_cypher"),
+        "graph_docs":         result.get("graph_docs", []),
     }
 
 
 def run_vector_only(inputs: dict) -> dict:
     """Vector-only — semantic search over ADA guideline chunks, no graph."""
     result = vector_only_workflow.invoke({"question": inputs["question"]})
+    
     return {
-        "final_answer":       result["final_answer"],
+        "final_answer":       result.get("final_answer", ""),
         "retrieved_context":  _context(result),
         "router_choice":      "vector",  # fixed
+        "generated_cypher":   None,      # No graph used
+        "graph_docs":         [],        # No graph used
     }
 
 
 def run_graph_only(inputs: dict) -> dict:
     """Graph-only — Neo4j Cypher retrieval only, no vector search."""
     result = graph_only_workflow.invoke({"question": inputs["question"]})
+    
     return {
-        "final_answer":       result["final_answer"],
+        "final_answer":       result.get("final_answer", ""),
         "retrieved_context":  _context(result),
         "router_choice":      "graph",   # fixed
+        "generated_cypher":   result.get("generated_cypher"),
+        "graph_docs":         result.get("graph_docs", []),
     }
-
-
-def run_graph_only_workflow(inputs: dict) -> dict:
-    """Target function that bypasses the router and vector DB."""
-    question = inputs["question"]
-    state = {"question": question, "router_choice": "graph"}
-    
-    # 1. Retrieve from Graph
-    graph_chain = GraphRetrieverChain()
-    graph_state = graph_chain.graph_retriever_node(state)
-    state.update(graph_state)
-    
-    # 2. Synthesize Answer
-    final_state = synthesizer(state)
-    state.update(final_state)
-    
-    return state

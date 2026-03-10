@@ -1,0 +1,197 @@
+[
+{
+    "question": "What was the hazard ratio for major hemorrhage in the ASPREE trial comparing aspirin to placebo?",
+    "expected_route": "vector",
+    "ground_truth_answer": "HR 1.38 (95% CI 1.18–1.62)"
+},
+{
+    "question": "What is the dosing frequency of tirzepatide for the treatment of obesity?",
+    "expected_route": "vector",
+    "ground_truth_answer": "once weekly"
+},
+{
+    "question": "Is aspirin recommended for individuals under 50 years of age with diabetes who have no other major ASCVD risk factors?",
+    "expected_route": "vector",
+    "ground_truth_answer": "No, aspirin is not recommended for those at low risk of ASCVD, such as men and women under 50 years with diabetes and no other major ASCVD risk factors."
+},
+{
+    "question": "In patients with diabetes, for which clinical findings is evaluation of bladder function recommended?",
+    "expected_route": "vector",
+    "ground_truth_answer": "Evaluation of bladder function should be performed for individuals with diabetes who have recurrent urinary tract infections, pyelonephritis, incontinence, or a palpable bladder."
+},
+{
+    "question": "What is hyperbaric oxygen therapy as described in the excerpt?",
+    "expected_route": "vector",
+    "ground_truth_answer": "It is the delivery of oxygen through a chamber, either individual or multiperson."
+},
+{
+    "question": "What test is preferred for diagnosing post‑transplantation diabetes mellitus (PTDM)?",
+    "expected_route": "vector",
+    "ground_truth_answer": "The oral glucose tolerance test (OGTT) is the preferred test."
+},
+{
+    "question": "What is the earliest clinical manifestation of diabetic retinopathy?",
+    "expected_route": "vector",
+    "ground_truth_answer": "Microaneurysms"
+},
+{
+    "question": "Is refugee status an independent risk factor for cardiovascular disease in individuals with type 2 diabetes?",
+    "expected_route": "vector",
+    "ground_truth_answer": "Yes, refugee status is an independent risk factor for cardiovascular disease."
+},
+{
+    "question": "What is the recommended first-line pharmacologic treatment for hyperglycemia caused by mTOR kinase inhibitors such as everolimus?",
+    "expected_route": "vector",
+    "ground_truth_answer": "Metformin"
+},
+{
+    "question": "At what postpartum interval should individuals with a recent history of gestational diabetes be screened using the 75‑g oral glucose tolerance test?",
+    "expected_route": "vector",
+    "ground_truth_answer": "At 4–12 weeks postpartum."
+},
+{
+    "question": "What contraception recommendation is given for individuals of childbearing potential who are taking glucose‑lowering medications with unknown risks during pregnancy?",
+    "expected_route": "vector",
+    "ground_truth_answer": "They should use a form of contraception regardless of their intention to become pregnant."
+},
+  {
+    "question": "What term is used to describe the lasting benefit of a finite period of intensive glucose lowering as mentioned in the excerpt?",
+    "expected_route": "vector",
+    "ground_truth_answer": "Metabolic memory, also referred to as the legacy effect"
+  },
+{
+    "question": "Should the dose of SGLT2 inhibitors be changed during religious fasting such as Ramadan?",
+    "expected_route": "vector",
+    "ground_truth_answer": "Guidelines do not advise any change in SGLT2 inhibitor dose during fasting."
+  },
+  {
+    "question": "What modality is used to debride wounds according to the excerpt?",
+    "expected_route": "vector",
+    "ground_truth_answer": "Ultrasound is used to debride wounds."
+  },
+  {
+    "question": "Do glucagon-like peptide-1 receptor agonists provide cardiovascular benefits in type 2 diabetes?",
+    "expected_route": "vector",
+    "ground_truth_answer": "Yes, glucagon-like peptide-1 receptor agonists have cardiovascular benefits in type 2 diabetes."
+  },
+  {
+    "question": "Which diet is studied for its effects on adults with elevated blood pressure or hypertension?",
+    "expected_route": "vector",
+    "ground_truth_answer": "the modified DASH diet"
+  },
+
+  {
+    "question": "What are the indications for Acarbose?",
+    "expected_route": "graph",
+    "expected_cypher": "MATCH (d:Drug) WHERE toLower(d.name) CONTAINS toLower('acarbose') RETURN d.name, d.indication LIMIT 1",
+    "ground_truth_context": "'Acarbose is indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus.[L31628]'",
+    "ground_truth_answer": "Acarbose is indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus."
+  },
+   {
+    "question": "What is the half-life of Rosiglitazone?",
+    "expected_route": "graph",
+    "expected_cypher": "MATCH (d:Drug) WHERE toLower(d.name) CONTAINS toLower('rosiglitazone') RETURN d.name, d.half_life LIMIT 1",
+    "ground_truth_context": "'3-4 hours (single oral dose, independent of dose)'",
+    "ground_truth_answer": "Rosiglitazone has a half-life of 3-4 hours following a single oral dose, independent of dose."
+  },
+  {
+    "question": "What are the available dosages for Tolazamide?",
+    "expected_route": "graph",
+    "expected_cypher": "MATCH (d:Drug) WHERE toLower(d.name) CONTAINS toLower('tolazamide') RETURN d.name, d.available_dosages LIMIT 1",
+    "ground_truth_context": "['Tablet (Oral) - 250 mg/1', 'Tablet (Oral) - 500 mg/1', 'Tablet (Oral) - 100 mg/1']",
+    "ground_truth_answer": "Insulin lispro is available in multiple formulations including 100 U/mL and 200 U/mL concentrations for subcutaneous and intravenous administration."
+  },
+  {
+    "question": "Does Metformin interact with Glimepiride?",
+    "expected_route": "graph",
+    "expected_cypher": "MATCH (d1:Drug)-[r:INTERACTS_WITH]-(d2:Drug) WHERE toLower(d1.name) CONTAINS toLower('metformin') AND toLower(d2.name) CONTAINS toLower('glimepiride') RETURN d1.name, d2.name, r.description AS interaction_details LIMIT 1",
+    "ground_truth_context": "['Tablet (Oral) - 250 mg/1', 'Tablet (Oral) - 500 mg/1', 'Tablet (Oral) - 100 mg/1']",
+    "ground_truth_answer": "The ground truth context does not contain interaction information between Metformin and Glimepiride; it only lists Tolazamide dosage formulations."
+  },
+  {
+    "question": "What drugs interact with Metformin?",
+    "expected_route": "graph",
+    "expected_cypher": "MATCH (d1:Drug)-[r:INTERACTS_WITH]->(d2:Drug) WHERE toLower(d1.name) CONTAINS toLower('metformin') RETURN d2.name AS interacting_drug, r.description AS interaction_details LIMIT 10",
+    "ground_truth_context": "'Insulin lispro'\n'The risk or severity of adverse effects can be increased when Insulin lispro is combined with Metformin.'\n2\n'Insulin glargine'\n'The risk or severity of adverse effects can be increased when Insulin glargine is combined with Metformin.'\n3\n'Acarbose'\n'The serum concentration of Metformin can be decreased when it is combined with Acarbose.'\n4\n'Acetohexamide'\n'The risk or severity of hypoglycemia can be increased when Metformin is combined with Acetohexamide.'\n5\n'Tolazamide'\n'The risk or severity of hypoglycemia can be increased when Tolazamide is combined with Metformin.'\n6\n'Tolbutamide'\n'The risk or severity of hypoglycemia can be increased when Tolbutamide is combined with Metformin.'\n7\n'Exenatide'\n'The risk or severity of hypoglycemia can be increased when Exenatide is combined with Metformin.'\n8\n'Insulin aspart'\n'The risk or severity of adverse effects can be increased when Insulin aspart is combined with Metformin.'\n9\n'Insulin detemir'\n'The risk or severity of adverse effects can be increased when Insulin detemir is combined with Metformin.'\n10\n'Insulin glulisine'\n'The risk or severity of adverse effects can be increased when Insulin glulisine is combined with Metformin.'",
+    "ground_truth_answer": "Metformin interacts with multiple diabetes medications including insulin lispro, insulin glargine, insulin aspart, insulin detemir, and insulin glulisine (which increase adverse effects risk), acetohexamide, tolazamide, tolbutamide, and exenatide (which increase hypoglycemia risk), and acarbose (which decreases metformin serum concentration)."
+  },
+  {
+    "question": "What are the brand names for Insulin glargine?",
+    "expected_route": "graph",
+    "expected_cypher": "MATCH (d:Drug)-[:MARKETED_AS]->(p:Product) WHERE toLower(d.name) CONTAINS toLower('insulin glargine') RETURN p.brand_name, p.labeller, p.country LIMIT 10",
+    "ground_truth_context": "'Lantus'\n'Physicians Total Care, Inc.'\n'US'\n2\n'Basaglar'\n'Eli Lilly Nederland B.V.'\n'US'\n3\n'Lantus Solostar'\n'REMEDYREPACK INC.'\n'US'\n4\n'TOUJEO Max'\n'A-S Medication Solutions'\n'US'\n5\n'Soliqua 100/33'\n'Sanofi Aventis Deutschland Gmb H'\n'US'\n6\n'BASAGLAR KwikPen'\n'Eli Lilly Nederland B.V.'\n'US'\n7\n'BASAGLAR Tempo Pen'\n'Eli Lilly Nederland B.V.'\n'US'\n8\n'Toujeo'\n'Sanofi Aventis Deutschland Gmb H'\n'US'\n9\n'Semglee'\n'Mylan Specialty L.P.'\n'US'\n10\n'Insulin Glargine'\n'Viatris Specialty Llc'\n'US'",
+    "ground_truth_answer": "Insulin glargine is marketed in the US under brand names including Lantus, Basaglar, Lantus Solostar, Toujeo, TOUJEO Max, Soliqua 100/33, BASAGLAR KwikPen, BASAGLAR Tempo Pen, Semglee, and generic Insulin Glargine."
+  },
+  {
+    "question": "What are the dietary rules for Acarbose?",
+    "expected_route": "graph",
+    "expected_cypher": "MATCH (d:Drug)-[:HAS_DIETARY_RULE]->(f:FoodInteraction) WHERE toLower(d.name) CONTAINS toLower('acarbose') RETURN f.description LIMIT 5",
+    "ground_truth_context": "'Take with food. Each dose should be taken with the first bite of a main meal.'",
+    "ground_truth_answer": "Acarbose should be taken with food, specifically with the first bite of each main meal."
+  },
+  {
+    "question": "What products is Metformin marketed as?",
+    "expected_route": "graph",
+    "expected_cypher": "MATCH (d:Drug)-[:MARKETED_AS]->(p:Product) WHERE toLower(d.name) CONTAINS toLower('metformin') RETURN p.brand_name, p.labeller, p.country LIMIT 10",
+    "ground_truth_context": "'Metformin Hydrochloride'\n'Watson Pharmaceuticals'\n'US'\n2\n'Metformin hydrochloride'\n'Dr. Reddy's Laboratories Limited'\n'US'\n3\n'Glipizide and Metformin Hydrochloride'\n'Caraco Pharmaceutical Laboratories, Ltd.'\n'US'\n4\n'Glyburide and Metformin Hydrochloride'\n'Dr. Reddy's Laboratories Limited'\n'US'\n5\n'Metaglip'\n'Bristol Myers Squibb'\n'US'\n6\n'Fortamet'\n'Physicians Total Care, Inc.'\n'US'\n7\n'Glucophage XR'\n'Caremark L.L.C.'\n'US'\n8\n'Appformin'\n'Physician Therapeutics Llc'\n'US'\n9\n'Appformin-D'\n'Physician Therapeutics Llc'\n'US'\n10\n'Glumetza'\n'Depomed'\n'US'",
+    "ground_truth_answer": "Metformin is marketed as Metformin Hydrochloride, Fortamet, Glucophage XR, Glumetza, Appformin, Appformin-D, and in combination products including Glipizide and Metformin Hydrochloride, Glyburide and Metformin Hydrochloride, and Metaglip."
+  },
+  {
+    "question": "Does Rosiglitazone interact with Insulin glargine?",
+    "expected_route": "graph",
+    "expected_cypher": "MATCH (d1:Drug)-[r:INTERACTS_WITH]-(d2:Drug) WHERE toLower(d1.name) CONTAINS toLower('rosiglitazone') AND toLower(d2.name) CONTAINS toLower('insulin glargine') RETURN d1.name, d2.name, r.description AS interaction_details LIMIT 1",
+    "ground_truth_context": "'The risk or severity of congestive heart failure can be increased when Insulin glargine is combined with Rosiglitazone.'",
+    "ground_truth_answer": "Yes, the risk or severity of congestive heart failure can be increased when insulin glargine is combined with rosiglitazone."
+  },
+{
+    "question": "What drugs are in the same class as Acetohexamide?",
+    "expected_route": "graph",
+    "expected_cypher": "MATCH (d1:Drug)-[:BELONGS_TO]->(c:Category)<-[:BELONGS_TO]-(d2:Drug) WHERE toLower(d1.name) CONTAINS toLower('acetohexamide') RETURN d2.name AS similar_drugs, c.name AS shared_class LIMIT 10",
+    "ground_truth_context": "'Insulin lispro'\n'Blood Glucose Lowering Agents'\n2\n'Insulin glargine'\n'Blood Glucose Lowering Agents'\n3\n'Glimepiride'\n'Blood Glucose Lowering Agents'\n4\n'Acarbose'\n'Blood Glucose Lowering Agents'\n5\n'Metformin'\n'Blood Glucose Lowering Agents'\n6\n'Rosiglitazone'\n'Blood Glucose Lowering Agents'\n7\n'Miglitol'\n'Blood Glucose Lowering Agents'\n8\n'Chlorpropamide'\n'Blood Glucose Lowering Agents'\n9\n'Nateglinide'\n'Blood Glucose Lowering Agents'\n10\n'Tolazamide'\n'Blood Glucose Lowering Agents'",
+    "ground_truth_answer": "Acetohexamide belongs to the Blood Glucose Lowering Agents class, which includes insulin lispro, insulin glargine, glimepiride, acarbose, metformin, rosiglitazone, miglitol, chlorpropamide, nateglinide, and tolazamide."
+  },
+  {
+    "question": "What is the mechanism and target for Rosiglitazone?",
+    "expected_route": "graph",
+    "expected_cypher": "MATCH (d:Drug)-[r:ACTS_ON]->(t:Target) WHERE toLower(d.name) CONTAINS toLower('rosiglitazone') RETURN t.name AS target, r.action AS action_type LIMIT 3",
+    "ground_truth_context": "'Peroxisome proliferator-activated receptor gamma\"\n\"agonist\"\n2\n\"Retinoic acid receptor RXR-alpha\"\n\"inhibitor\"\n3\n\"Long-chain-fatty-acid--CoA ligase 4\"\n\"inhibitor'",
+    "ground_truth_answer": "Rosiglitazone acts as an agonist on peroxisome proliferator-activated receptor gamma (PPAR-\u03b3) and as an inhibitor on retinoic acid receptor RXR-alpha and long-chain-fatty-acid--CoA ligase 4."
+  },
+  {
+    "question": "What category does Acarbose belong to?",
+    "expected_route": "graph",
+    "expected_cypher": "MATCH (d:Drug)-[:BELONGS_TO]->(c:Category) WHERE toLower(d.name) CONTAINS toLower('acarbose') RETURN d.name, c.name AS drug_class LIMIT 5",
+    "ground_truth_context": "'Acarbose'\n'Blood Glucose Lowering Agents'\n2\n'Acarbose'\n'Hypoglycemia-Associated Agents'\n3\n'Acarbose'\n'Alimentary Tract and Metabolism'\n4\n'Acarbose'\n'Drugs Used in Diabetes'\n5\n'Acarbose'\n'Oral Hypoglycemics'",
+    "ground_truth_answer": "Acarbose belongs to multiple drug categories including Blood Glucose Lowering Agents, Hypoglycemia-Associated Agents, Alimentary Tract and Metabolism, Drugs Used in Diabetes, and Oral Hypoglycemics."
+  },
+  {
+    "question": "What other drugs are in the same class as Miglitol?",
+    "expected_route": "graph",
+    "expected_cypher": "MATCH (d1:Drug)-[:BELONGS_TO]->(c:Category)<-[:BELONGS_TO]-(d2:Drug) WHERE toLower(d1.name) CONTAINS toLower('miglitol') RETURN d2.name AS similar_drugs, c.name AS shared_class LIMIT 10",
+    "ground_truth_context": "'Insulin lispro'\n'Blood Glucose Lowering Agents'\n2\n'Insulin glargine'\n'Blood Glucose Lowering Agents'\n3\n'Glimepiride'\n'Blood Glucose Lowering Agents'\n4\n'Acarbose'\n'Blood Glucose Lowering Agents'\n5\n'Metformin'\n'Blood Glucose Lowering Agents'\n6\n'Rosiglitazone'\n'Blood Glucose Lowering Agents'\n7\n'Acetohexamide'\n'Blood Glucose Lowering Agents'\n8\n'Chlorpropamide'\n'Blood Glucose Lowering Agents'\n9\n'Nateglinide'\n'Blood Glucose Lowering Agents'\n10\n'Tolazamide'\n'Blood Glucose Lowering Agents'",
+    "ground_truth_answer": "Miglitol belongs to the Blood Glucose Lowering Agents class along with insulin lispro, insulin glargine, glimepiride, acarbose, metformin, rosiglitazone, acetohexamide, chlorpropamide, nateglinide, and tolazamide."
+  },
+  {
+    "question": "What target does Nateglinide act on and how?",
+    "expected_route": "graph",
+    "expected_cypher": "MATCH (d:Drug)-[r:ACTS_ON]->(t:Target) WHERE toLower(d.name) CONTAINS toLower('nateglinide') RETURN t.name AS target, r.action AS action_type LIMIT 3",
+    "ground_truth_context": "'ATP-binding cassette sub-family C member 8'\n'inhibitor'\n2\n'Peroxisome proliferator-activated receptor gamma'\n'agonist'",
+    "ground_truth_answer": "Nateglinide acts as an inhibitor on ATP-binding cassette sub-family C member 8 and as an agonist on peroxisome proliferator-activated receptor gamma."
+  },
+  {
+    "question": "What drugs belong to the same class as Tolazamide?",
+    "expected_route": "graph",
+    "expected_cypher": "MATCH (d1:Drug)-[:BELONGS_TO]->(c:Category)<-[:BELONGS_TO]-(d2:Drug) WHERE toLower(d1.name) CONTAINS toLower('tolazamide') RETURN d2.name AS similar_drugs, c.name AS shared_class LIMIT 10",
+    "ground_truth_context": "'Insulin lispro'\n'Blood Glucose Lowering Agents'\n2\n'Insulin glargine'\n'Blood Glucose Lowering Agents'\n3\n'Glimepiride'\n'Blood Glucose Lowering Agents'\n4\n'Acarbose'\n'Blood Glucose Lowering Agents'\n5\n'Metformin'\n'Blood Glucose Lowering Agents'\n6\n'Rosiglitazone'\n'Blood Glucose Lowering Agents'\n7\n'Acetohexamide'\n'Blood Glucose Lowering Agents'\n8\n'Miglitol'\n'Blood Glucose Lowering Agents'\n9\n'Chlorpropamide'\n'Blood Glucose Lowering Agents'\n10\n'Nateglinide'\n'Blood Glucose Lowering Agents'",
+    "ground_truth_answer": "Tolazamide belongs to the Blood Glucose Lowering Agents class, which includes insulin lispro, insulin glargine, glimepiride, acarbose, metformin, rosiglitazone, acetohexamide, miglitol, chlorpropamide, and nateglinide."
+  },
+  {
+    "question": "What is the pharmacological target and action of Insulin glargine?",
+    "expected_route": "graph",
+    "expected_cypher": "MATCH (d:Drug)-[r:ACTS_ON]->(t:Target) WHERE toLower(d.name) CONTAINS toLower('insulin glargine') RETURN t.name AS target, r.action AS action_type LIMIT 3",
+    "ground_truth_context": "'Insulin receptor'\n'agonist'\n2\n'Insulin-like growth factor 1 receptor'\n'activator'\n3\n'Insulin'\n'modulator'",
+    "ground_truth_answer": "Insulin glargine acts as an agonist on the insulin receptor, an activator on insulin-like growth factor 1 receptor, and a modulator on insulin."
+  }
+
+
+]

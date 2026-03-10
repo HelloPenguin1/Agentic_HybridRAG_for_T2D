@@ -8,10 +8,10 @@ load_dotenv(Path(__file__).parent.parent / ".env")
 
 from langsmith import evaluate
 from eval_runners import run_graph_only
-from evaluators import cypher_quality_evaluator, context_recall_evaluator,e2e_quality_evaluator
+from evaluators import cypher_query_correctness, context_recall_evaluator, e2e_quality_evaluator
 
-DATASET   = "T2D_Graph_Eval"
-EVALUATORS = [cypher_quality_evaluator, context_recall_evaluator,e2e_quality_evaluator]
+DATASET   = "T2D_Graph_Dataset"
+EVALUATORS = [cypher_query_correctness, context_recall_evaluator,e2e_quality_evaluator]
 
 configs = [
     #("adaptive-router", run_adaptive_router),
@@ -27,7 +27,7 @@ for i, (name, runner) in enumerate(configs):
         data=DATASET,
         evaluators=EVALUATORS,
         experiment_prefix="graph_eval_v1",
-        max_concurrency=1,   # one question at a time — avoids Groq TPM spikes
+        max_concurrency=1, 
     )
     print(f" Done: {name}")
     if i < len(configs) - 1:
