@@ -58,6 +58,6 @@ response_llm = ChatGroq(groq_api_key=groq_api_key,
 #Hallucination Checker LLM
 hallucination_llm = ChatGroq(groq_api_key=groq_api_key, 
                           model_name="qwen/qwen3-32b", 
-                          temperature=0)
+                          temperature=0,)
 hallucination_llm = hallucination_llm.with_structured_output(GradeHallucination)
 

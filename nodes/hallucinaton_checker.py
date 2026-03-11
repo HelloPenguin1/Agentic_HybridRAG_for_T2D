@@ -18,8 +18,10 @@ def hallucination_grader(state):
     chain = hallucination_grader_prompt | hallucination_llm
     res = chain.invoke({"evidence": full_evidence, "answer": generation})
 
-    score = "faithful" if res.binary_score == "yes" else "hallucinated"
-    return {"hallucination_score": score, "hallucination_explanation": res.explanation}
+    return {
+        "hallucination_score": "faithful" if res.binary_score == "yes" else "hallucinated",
+        "audit_feedback": res.explanation # feedback
+    }
 
 
 # Conditional edge logic
@@ -28,4 +30,4 @@ def hallucination_decision(state):
     if state["hallucination_score"] == "faithful":
         return "end"
     else:
-        return "synthesizer"
+        return "refiner"

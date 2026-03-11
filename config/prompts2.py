@@ -324,3 +324,29 @@ hallucination_grader_prompt = ChatPromptTemplate.from_messages([
 
     Provide your reasoning for each claim, then output the final binary score.""")
 ])
+
+
+## Refiner Prompt
+
+
+refiner_prompt = ChatPromptTemplate.from_messages([
+    ("system", """You are a Senior Clinical Editor. 
+    You have been given a 'Draft Answer' and an 'Audit Report' identifying specific medical hallucinations or errors.
+    
+    TASK:
+    1. Rewrite the Draft Answer to fix EVERY error identified in the Audit Report.
+    2. Ensure the final response is strictly grounded in the provided Evidence.
+    3. Do not change parts of the answer that were marked as 'faithful' or 'correct'.
+    4. Maintain a professional tone for nursing care."""),
+    ("human", """
+    --- EVIDENCE ---
+    {context}
+
+    --- DRAFT ANSWER ---
+    {original_answer}
+
+    --- AUDIT REPORT ---
+    {audit_feedback}
+
+    Please provide the refined Final Answer with citations as before. """)
+])
