@@ -378,9 +378,8 @@ citation_prompt = ChatPromptTemplate.from_messages([
        with its full provenance (ADA chapter name, section heading, and page number
        for vector sources; graph relationship path for graph sources).
     4. Do NOT alter the medical content of the answer — only add citation tags and the reference list.
-    5. If a sentence cannot be matched to any evidence, tag it as [UNGROUNDED].
-    6. It is okay if the information is paraphrased from the evidence. If it is just paraphrasing from an evidence, cite the evidence no need to mark [UNGROUNDED]
-    7. Keep the same formatting (bullets, bold, etc.) as the original answer."""),
+    5. It is okay if the information is paraphrased from the evidence. If it is just paraphrasing from an evidence, cite the evidence no need to mark [UNGROUNDED]
+    6. Keep the same formatting (bullets, bold, etc.) as the original answer."""),
     ("human", """
     --- EVIDENCE INDEX ---
     {evidence_index}

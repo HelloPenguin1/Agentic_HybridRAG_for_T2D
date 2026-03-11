@@ -6,6 +6,7 @@ evidence index with nurse-friendly source labels, and asks the LLM
 to annotate each sentence with [V1], [G1] etc. citation tags.
 """
 
+import re
 from langchain_core.output_parsers import StrOutputParser
 from config.settings import response_llm
 from config.prompts2 import citation_prompt
@@ -24,7 +25,7 @@ def _build_vector_evidence(vector_docs: list) -> tuple[list[dict], list[str]]:
         meta = getattr(doc, "metadata", {})
         tag = f"V{i}"
 
-        # Build label from metadata: chapter > section > subsection, p.N
+        # Build label: chapter > section > subsection
         parts = []
         if meta.get("chapter_name"):
             parts.append(f'"{meta["chapter_name"]}"')
@@ -32,8 +33,6 @@ def _build_vector_evidence(vector_docs: list) -> tuple[list[dict], list[str]]:
             parts.append(f'> "{meta["section_heading"]}"')
         if meta.get("subsection_heading"):
             parts.append(f'> "{meta["subsection_heading"]}"')
-        if meta.get("page_number"):
-            parts.append(f"p.{meta['page_number']}")
 
         label = "ADA — " + ", ".join(parts) if parts else "ADA — Unknown Section"
         snippet = (doc.page_content[:200] + "...") if len(doc.page_content) > 200 else doc.page_content
@@ -51,32 +50,65 @@ def _build_vector_evidence(vector_docs: list) -> tuple[list[dict], list[str]]:
     return citations, lines
 
 
+def _extract_relationship(cypher: str) -> str:
+    """Extract the relationship type from a Cypher query, e.g. 'INTERACTS_WITH'."""
+    match = re.search(r'\[:(\w+)', cypher)
+    return match.group(1) if match else "RELATED_TO"
+
+
+def _extract_drug_name(cypher: str) -> str:
+    """Extract the primary drug name from toLower(...) CONTAINS toLower('name')."""
+    match = re.search(r"toLower\(['\"](.+?)['\"]\)", cypher)
+    return match.group(1).title() if match else "Unknown Drug"
+
+
+def _format_record_as_path(record: dict, drug_name: str, relationship: str) -> str:
+    """Format a Neo4j result dict as a human-readable relationship path.
+
+    Examples:
+      Acarbose —[BELONGS_TO]→ Oral Hypoglycemics
+      Metformin —[INTERACTS_WITH]→ Glipizide: "may increase risk"
+    """
+    values = list(record.values())
+    if not values:
+        return f"{drug_name} —[{relationship}]→ (empty result)"
+
+    target = str(values[0])
+    detail = ""
+    if len(values) > 1 and values[1]:
+        detail = f': "{values[1]}"'
+
+    return f"{drug_name} —[{relationship}]→ {target}{detail}"
+
+
 def _build_graph_evidence(graph_docs: list, generated_cypher: str | None) -> tuple[list[dict], list[str]]:
     """Build numbered evidence entries from Neo4j result dicts.
 
-    Returns (citations_list, formatted_lines) where each line is like:
-      [G1] DrugBank KG — (Metformin)-[:INTERACTS_WITH]->(Glipizide)
-           Query: MATCH (d1:Drug)-[r:INTERACTS_WITH]-(d2:Drug)...
+    Uses relationship-path format for nurse-friendly citations:
+      [G1] DrugBank KG — Acarbose —[BELONGS_TO]→ Oral Hypoglycemics
     """
     citations = []
     lines = []
 
-    cypher_display = generated_cypher.strip() if generated_cypher else "N/A"
+    if not graph_docs:
+        return citations, lines
+
+    relationship = _extract_relationship(generated_cypher) if generated_cypher else "RELATED_TO"
+    drug_name = _extract_drug_name(generated_cypher) if generated_cypher else "Unknown Drug"
 
     for i, record in enumerate(graph_docs, start=1):
         tag = f"G{i}"
-        record_str = str(record)
-        summary = (record_str[:250] + "...") if len(record_str) > 250 else record_str
-
-        label = f"DrugBank KG — Result: {summary}"
+        path = _format_record_as_path(record, drug_name, relationship)
+        label = f"DrugBank KG — {path}"
 
         citations.append({
             "id": tag,
             "source_type": "graph",
             "label": label,
-            "cypher_query": cypher_display,
+            "relationship": relationship,
+            "drug_name": drug_name,
         })
-        lines.append(f"[{tag}] {label}\n     Cypher: {cypher_display}")
+        lines.append(f"[{tag}] {label}")
 
     return citations, lines
 
