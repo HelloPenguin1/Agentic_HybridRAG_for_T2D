@@ -296,7 +296,7 @@ Question: {question}
 - If information is missing, state "Not found in available data"
 - Don't use general medical knowledge
 - When uncertain, quote directly from context
-- Provide CITATIONS for the information. For example, cite specifically from each chapter and section you got the information from in the vector database
+- Provide CITATIONS for the information. For example, cite specifically from each chapter and section you got the information from in the vector database at a separate section at the bottom of your response.
 
 Answer:"""
 )

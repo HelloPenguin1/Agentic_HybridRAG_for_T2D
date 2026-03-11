@@ -21,6 +21,7 @@ dependencies = [
     "langchain-openai>=1.1.7",
     "langchain-qdrant>=1.1.0",
     "langchain-text-splitters>=1.1.0",
+    "langgraph-cli[inmem]>=0.4.15",
     "llama-index>=0.14.13",
     "llama-parse>=0.6.54",
     "lxml>=6.0.2",

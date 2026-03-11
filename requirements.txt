@@ -18,3 +18,4 @@ langchain-qdrant
 langchain-text-splitters
 ragas
 sentence-transformers
+langgraph-cli[inmem]

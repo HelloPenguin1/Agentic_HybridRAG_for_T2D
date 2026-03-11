@@ -1,0 +1,7 @@
+{
+  "dependencies": [".."],
+  "graphs": {
+    "adaptive_agent": "./adaptive.py:workflow"
+  },
+  "env": "../.env"
+}
