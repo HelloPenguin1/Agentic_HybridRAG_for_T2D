@@ -1,7 +1,7 @@
 {
   "dependencies": [".."],
   "graphs": {
-    "adaptive_agent": "./adaptive.py:workflow"
+    "adaptive_agent": "./adaptor_w_checker.py:workflow"
   },
   "env": "../.env"
 }

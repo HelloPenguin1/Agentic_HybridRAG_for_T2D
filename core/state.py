@@ -24,3 +24,6 @@ class GraphState(TypedDict):
 
     final_answer: str
 
+    hallucination_score: Optional[Literal["faithful", "hallucinated"]]
+    hallucination_explanation: Optional[str]
+

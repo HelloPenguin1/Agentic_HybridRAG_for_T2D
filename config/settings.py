@@ -1,7 +1,7 @@
 # Stores Model Gateways
 from langchain_groq import ChatGroq
 from langchain_huggingface import HuggingFaceEmbeddings
-from config.output_validation import RouterOutput
+from config.output_validation import RouterOutput, GradeHallucination
 from dotenv import load_dotenv
 from pathlib import Path
 import os
@@ -54,4 +54,10 @@ response_llm = ChatGroq(groq_api_key=groq_api_key,
                           model_name="llama-3.1-8b-instant", 
                           temperature=0,
                           max_tokens=512)
+
+#Hallucination Checker LLM
+hallucination_llm = ChatGroq(groq_api_key=groq_api_key, 
+                          model_name="qwen/qwen3-32b", 
+                          temperature=0)
+hallucination_llm = hallucination_llm.with_structured_output(GradeHallucination)
 
