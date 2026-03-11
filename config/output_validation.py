@@ -10,3 +10,11 @@ class RouterOutput(BaseModel):
     router_reasoning: str = Field(description="Router LLM's reasoning for its retriever choice")
 
 
+class GradeHallucination(BaseModel):
+    """Binary score for hallucination check."""
+    binary_score: Literal["yes", "no"] = Field(
+        description="Answer is grounded in the facts, 'yes' or 'no'"
+    )
+    explanation: str = Field(
+        description="Brief explanation of why the answer is or isn't grounded"
+    )

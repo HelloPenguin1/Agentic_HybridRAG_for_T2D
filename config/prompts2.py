@@ -300,3 +300,27 @@ Question: {question}
 
 Answer:"""
 )
+
+
+# ---------------------------------------------------------------------------
+# HALLUCINATION GRADER PROMPT - Checks answer grounding
+# ---------------------------------------------------------------------------
+hallucination_grader_prompt = ChatPromptTemplate.from_messages([
+    ("system", """You are a Lead Clinical Auditor for a Type 2 Diabetes management system. 
+    Your goal is to ensure 100% grounding. Use the following Chain-of-Reasoning:
+
+    1. **Deconstruction**: Break the 'Answer' down into individual clinical claims or instructions.
+    2. **Fact-Checking**: For EACH claim, locate the exact supporting sentence in the 'Vector Evidence' or the specific relationship in the 'Graph Evidence'.
+    3. **Conflict Detection**: Check if any part of the answer contradicts the evidence (e.g., the evidence says 'avoid Metformin' but the answer suggests it).
+    4. **Final Grade**: 
+       - Score 'yes' ONLY if every single claim is explicitly supported. 
+       - Score 'no' if there is even ONE hallucinated claim or unsupported medical advice."""),
+    ("human", """
+    --- EVIDENCE ---
+    {evidence}
+
+    --- ANSWER TO AUDIT ---
+    {answer}
+
+    Provide your reasoning for each claim, then output the final binary score.""")
+])
