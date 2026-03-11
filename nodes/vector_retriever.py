@@ -46,7 +46,7 @@ class VectorRetriever:
 
 
         processed_chunks = _load_processed_chunks()
-        bm25_docs = [Document(page_content=chunk.get("page_content", ""),metadata={"chunk_id": chunk["metadata"]["chunk_id"]}) for chunk in processed_chunks]
+        bm25_docs = [Document(page_content=chunk.get("page_content", ""), metadata=chunk["metadata"]) for chunk in processed_chunks]
 
         self.bm25_retriever = BM25Retriever.from_documents(bm25_docs, k=BM25_TOP, preprocess_func=word_tokenize)
         self.ensemble_retriever = EnsembleRetriever(

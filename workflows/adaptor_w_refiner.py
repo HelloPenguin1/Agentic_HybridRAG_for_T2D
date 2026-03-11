@@ -7,6 +7,7 @@ from nodes.router import Router, route_decision
 from nodes.fallback_to_vector import fallback_to_vector
 from nodes.hallucinaton_checker import hallucination_grader, hallucination_decision
 from nodes.refiner_node import refiner_node
+from nodes.citation_agent import citation_agent
 
 
 graph_retriever_chain = GraphRetrieverChain()
@@ -22,6 +23,7 @@ graph.add_node("vector_retriever", vector_retriever.vector_retriever_node)
 graph.add_node("synthesizer", synthesizer)
 graph.add_node("hallucination_grader", hallucination_grader)
 graph.add_node("refiner", refiner_node)
+graph.add_node("citation_agent", citation_agent)
 
 # Edges
 graph.add_edge(START, "router")
@@ -39,18 +41,19 @@ graph.add_conditional_edges(
 )
 graph.add_edge("vector_retriever", "synthesizer")
 
-# Synthesizer → hallucination check → END or loop back
+# Synthesizer → hallucination check → citation_agent or refiner → citation_agent
 graph.add_edge("synthesizer", "hallucination_grader")
 graph.add_conditional_edges(
     "hallucination_grader",
     hallucination_decision,
     {
-        "end": END,
+        "end": "citation_agent",
         "refiner": "refiner",
     },
 )
 
-graph.add_edge("refiner", END)
+graph.add_edge("refiner", "citation_agent")
+graph.add_edge("citation_agent", END)
 
 # Compile
 workflow = graph.compile()
@@ -81,6 +84,7 @@ if __name__ == "__main__":
             print(f"\nRouter choice    : {result['router_choice'].upper()}")
             print(f"Router reasoning : {result['router_reasoning']}")
             print(f"Hallucination    : {result['hallucination_score']}")
+            print(f"Citations        : {len(result.get('citations') or [])}")
             print(f"\n{'─'*60}")
             print(f"Final Answer:\n{result['final_answer']}")
             print(f"{'='*60}\n")

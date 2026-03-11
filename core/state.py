@@ -27,3 +27,6 @@ class GraphState(TypedDict):
     hallucination_score: Optional[Literal["faithful", "hallucinated"]]
     audit_feedback: Optional[str]  #Stores diagnostic feedback for the Refiner
 
+    # Traceability: structured citation map from Citation Agent
+    citations: Optional[List[dict]]  # [{"id": "V1", "source_type": "vector", "label": "..."}]
+

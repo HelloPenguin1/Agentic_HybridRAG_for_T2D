@@ -177,6 +177,7 @@ RULES:
 5. Don't mention "database" or "query" - answer as if you're looking up reference info
 6. Make sure the answer is grammatically logical and sound. Attempt to provide a concise answer 
 7. Do not add extra information that is NOT in the context.
+8. When the results contain a LIST of items (categories, interactions, targets, etc.), include ALL of them — do not summarize or omit any.
 
 Database Results:
 {context}
@@ -291,12 +292,14 @@ Clinical Guidelines (from protocols):
 
 Question: {question}
 
-**CRITICAL RULES:**
-- Every fact must come from retrieved data
-- If information is missing, state "Not found in available data"
-- Don't use general medical knowledge
-- When uncertain, quote directly from context
-- Provide CITATIONS for the information. For example, cite specifically from each chapter and section you got the information from in the vector database at a separate section at the bottom of your response.
+**NON-NEGOTIABLE CRITICAL RULES:**
+= Only use information explicitly present in the provided sources. 
+= Do not add medical advice unless it appears in the documents.
+= If information is missing, say "Not found in retrieved sources."
+= Don't use general medical knowledge. 
+= DO no add information from outside retrieved information to make the answer more robust. 
+= When uncertain, quote directly from context
+= Provide CITATIONS for the information
 
 Answer:"""
 )
@@ -337,7 +340,13 @@ refiner_prompt = ChatPromptTemplate.from_messages([
     1. Rewrite the Draft Answer to fix EVERY error identified in the Audit Report.
     2. Ensure the final response is strictly grounded in the provided Evidence.
     3. Do not change parts of the answer that were marked as 'faithful' or 'correct'.
-    4. Maintain a professional tone for nursing care."""),
+    4. Maintain a professional tone for nursing care.
+    
+    Only use information explicitly present in the provided sources.
+    DO NOT use general medical knowledge that is NOT provided in the evidence. 
+
+
+    """),
     ("human", """
     --- EVIDENCE ---
     {context}
@@ -349,4 +358,33 @@ refiner_prompt = ChatPromptTemplate.from_messages([
     {audit_feedback}
 
     Please provide the refined Final Answer with citations as before. """)
+])
+
+
+# ---------------------------------------------------------------------------
+# CITATION AGENT PROMPT - Adds formal traceability citations
+# ---------------------------------------------------------------------------
+
+citation_prompt = ChatPromptTemplate.from_messages([
+    ("system", """You are a Clinical Librarian for a diabetes nursing reference system.
+    Your job is to take a verified medical answer and append formal citations.
+
+    RULES:
+    
+    1. Read the 'Final Answer' and the 'Evidence Index' below.
+    2. For EACH factual sentence in the answer, append one or more [Source ID] tags
+       (e.g. [V], [G]) that correspond to the evidence it came from.
+    3. At the bottom, add a "### References" section listing each Source ID
+       with its full provenance (ADA chapter name, section heading, and page number
+       for vector sources; graph relationship path for graph sources).
+    4. Do NOT alter the medical content of the answer — only add citation tags and the reference list.
+    5. If a sentence cannot be matched to any evidence, tag it as [UNGROUNDED].
+    6. It is okay if the information is paraphrased from the evidence. If it is just paraphrasing from an evidence, cite the evidence no need to mark [UNGROUNDED]
+    7. Keep the same formatting (bullets, bold, etc.) as the original answer."""),
+    ("human", """
+    --- EVIDENCE INDEX ---
+    {evidence_index}
+
+    --- FINAL ANSWER ---
+    {final_answer}""")
 ])

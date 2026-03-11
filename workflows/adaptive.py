@@ -5,6 +5,7 @@ from nodes.vector_retriever import VectorRetriever
 from nodes.synthesizer import synthesizer
 from nodes.router import Router, route_decision
 from nodes.fallback_to_vector import fallback_to_vector
+from nodes.citation_agent import citation_agent
 
 graph_retriever_chain = GraphRetrieverChain()
 vector_retriever = VectorRetriever()
@@ -17,6 +18,7 @@ graph.add_node("router", Router)
 graph.add_node("graph_retriever", graph_retriever_chain.graph_retriever_node)
 graph.add_node("vector_retriever", vector_retriever.vector_retriever_node)
 graph.add_node("synthesizer", synthesizer)
+graph.add_node("citation_agent", citation_agent)
 
 # Edges
 graph.add_edge(START, "router")
@@ -33,7 +35,8 @@ graph.add_conditional_edges(
     ["vector_retriever", "synthesizer"],
 )
 graph.add_edge("vector_retriever", "synthesizer")
-graph.add_edge("synthesizer", END)
+graph.add_edge("synthesizer", "citation_agent")
+graph.add_edge("citation_agent", END)
 
 # Compile
 workflow = graph.compile()
@@ -63,6 +66,7 @@ if __name__ == "__main__":
 
             print(f"\nRouter choice    : {result['router_choice'].upper()}")
             print(f"Router reasoning : {result['router_reasoning']}")
+            print(f"Citations        : {len(result.get('citations') or [])}")
             print(f"\n{'─'*60}")
             print(f"Final Answer:\n{result['final_answer']}")
             print(f"{'='*60}\n")
