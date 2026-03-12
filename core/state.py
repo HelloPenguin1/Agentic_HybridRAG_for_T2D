@@ -21,6 +21,8 @@ class GraphState(TypedDict):
     # for citation, context, and reranking
     vector_docs: Optional[List[Any]]   # list of LangChain Document objects
     graph_docs: Optional[List[Any]]    # list of raw Neo4j result dicts
+    web_docs: Optional[List[dict]]     # [{url, title, content}] from Tavily
+    web_result: Optional[str]          # formatted web evidence string for synthesizer
 
 
     final_answer: str

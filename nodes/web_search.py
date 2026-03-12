@@ -5,8 +5,9 @@ from langchain_community.tools.tavily_search import TavilySearchResults
 def web_search_node(state: GraphState) -> dict:
     """Fetch evidence from trusted medical sources via Tavily.
 
-    Stores results in 'vector_result' so the downstream synthesiser
-    treats them the same way it treats local vector evidence.
+    Stores structured web_docs (for citation agent) and a formatted
+    web_result string (for the synthesizer), mirroring how vector_docs
+    and vector_result work for local retrieval.
     """
     search_tool = TavilySearchResults(
         include_domains=[
@@ -22,12 +23,19 @@ def web_search_node(state: GraphState) -> dict:
 
     results = search_tool.invoke({"query": state["question"]})
 
-    # Format each result with its URL for traceability
-    formatted = "\n\n".join(
-        f"[Web{i+1}] {r.get('url', '')}\n{r.get('content', '')}"
-        for i, r in enumerate(results)
+    # Build structured docs for citation agent
+    web_docs = [
+        {
+            "url": r.get("url", ""),
+            "title": r.get("title", r.get("url", "")),
+            "content": r.get("content", ""),
+        }
+        for r in results
         if isinstance(r, dict)
-    )
+    ]
 
-    print(f"[WebSearch] Retrieved {len(results)} results from trusted sources.")
-    return {"vector_result": formatted, "web_search_used": True}
+    # Build formatted string for synthesizer
+    web_result = "\n\n".join(doc["content"] for doc in web_docs)
+
+    print(f"[WebSearch] Retrieved {len(web_docs)} results from trusted sources.")
+    return {"web_docs": web_docs, "web_result": web_result, "web_search_used": True}

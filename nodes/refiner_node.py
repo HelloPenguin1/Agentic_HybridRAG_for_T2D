@@ -9,10 +9,19 @@ def refiner_node(state: GraphState):
     # The prompt here tells the LLM: "Here is a draft and its errors. Fix it."
     refine_chain = refiner_prompt | response_llm | StrOutputParser()
 
+    # Combine all evidence sources as context
+    context_parts = []
+    if state.get("vector_result"):
+        context_parts.append(state["vector_result"])
+    if state.get("graph_result"):
+        context_parts.append(state["graph_result"])
+    if state.get("web_result"):
+        context_parts.append(state["web_result"])
+
     refined_answer = refine_chain.invoke({
         "original_answer": state["final_answer"],
         "audit_feedback": state["audit_feedback"],
-        "context": (state.get("vector_result") or "") + "\n" + (state.get("graph_result") or "")
+        "context": "\n".join(context_parts),
     })
     
     return {"final_answer": refined_answer}
