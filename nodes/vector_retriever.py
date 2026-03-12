@@ -41,7 +41,9 @@ class VectorRetriever:
             url=QDRANT_URL,
             api_key=QDRANT_API_KEY,
         )
-        self.qdrant_retriever = self.vector_store.as_retriever(search_kwargs={"k": QDRANT_TOPK})
+        self.qdrant_retriever = self.vector_store.as_retriever(
+            search_type="similarity_score_threshold",
+            search_kwargs={"k": QDRANT_TOPK, "score_threshold": 0.8})
         self.compressor = FlashrankRerank(top_n=5)
 
 
@@ -59,6 +61,10 @@ class VectorRetriever:
         """LangGraph node: retrieves documents for the given question via RRF."""
         query = state["question"]
         docs = self.compression_retriever.invoke(query)
+
+        if not docs:
+            print("--- KNOWLEDGE GAP DETECTED: NO LOCAL DOCS PASSED QUALITY BAR ---")
+            return {"vector_docs": [], "vector_result": ""}
 
         vector_result = "\n\n".join(doc.page_content for doc in docs)
         return {"vector_result": vector_result, "vector_docs": docs}

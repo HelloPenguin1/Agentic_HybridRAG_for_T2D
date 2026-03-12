@@ -252,9 +252,21 @@ Choose "both" route when:
   * "When should I hold metformin before surgery?"
     (Graph: drug properties; Vector: perioperative protocol)
 
+Choose "real_time" route when:
+- Question asks about the LATEST, NEWEST, or MOST RECENT guidelines or updates
+- Contains temporal cues: "latest", "recent", "2025", "2026", "new", "updated", "current year"
+- Asks about regulatory updates (FDA approvals, new drug releases)
+- Asks about emerging research or clinical trials that may not be in the local corpus
+- Examples:
+  * "What are the latest ADA 2026 guidelines for T2D management?"
+  * "Any recent FDA updates for GLP-1 agonists?"
+  * "What new diabetes medications were approved this year?"
+  * "Latest research on SGLT2 inhibitors and heart failure"
+
 **Default behavior:**
 - When uncertain, prefer VECTOR_ONLY or BOTH over GRAPH_ONLY
 - Graph is for medication lookups only
+- Use real_time ONLY when the query explicitly signals a need for up-to-date information
 """
 )
 
@@ -266,11 +278,11 @@ Choose "both" route when:
 base_synthesizer_prompt = ChatPromptTemplate.from_template(
     """You are a diabetes nursing assistant combining medication reference data with clinical guidelines.
 
-Your task: Provide a clear, actionable answer using both information sources.
+Your task: Provide a clear, actionable answer using all available information sources.
 
 **CORE PRINCIPLES:**
 1. Answer the specific question asked - no extra information
-2. Combine medication facts (from graph) with clinical context (from vector)
+2. Combine medication facts (from graph) with clinical context (from vector) and web evidence (if available)
 3. Prioritize nursing action and safety
 4. Use retrieved data only - don't add external knowledge
 5. Be concise but complete
@@ -284,22 +296,24 @@ Your task: Provide a clear, actionable answer using both information sources.
 
 **Retrieved Information:**
 
-Medication Informative Data (from drug database):
+Medication Data (from drug knowledge graph):
 {graph_result}
 
-Clinical Guidelines (from protocols):
+Clinical Guidelines (from protocol documents):
 {vector_result}
+
+Web Evidence (from trusted medical sources):
+{web_result}
 
 Question: {question}
 
 **NON-NEGOTIABLE CRITICAL RULES:**
-= Only use information explicitly present in the provided sources. 
+= Only use information explicitly present in the provided sources.
 = Do not add medical advice unless it appears in the documents.
 = If information is missing, say "Not found in retrieved sources."
-= Don't use general medical knowledge. 
-= DO no add information from outside retrieved information to make the answer more robust. 
-= When uncertain, quote directly from context
-= Provide CITATIONS for the information
+= Don't use general medical knowledge.
+= DO NOT add information from outside retrieved information to make the answer more robust.
+= When uncertain, quote directly from context.
 
 Answer:"""
 )
@@ -367,19 +381,23 @@ refiner_prompt = ChatPromptTemplate.from_messages([
 
 citation_prompt = ChatPromptTemplate.from_messages([
     ("system", """You are a Clinical Librarian for a diabetes nursing reference system.
-    Your job is to take a verified medical answer and append formal citations.
+    Your job is to take a verified medical answer and add numbered references.
 
     RULES:
-    
+
     1. Read the 'Final Answer' and the 'Evidence Index' below.
-    2. For EACH factual sentence in the answer, append one or more [Source ID] tags
-       (e.g. [V], [G]) that correspond to the evidence it came from.
-    3. At the bottom, add a "### References" section listing each Source ID
-       with its full provenance (ADA chapter name, section heading, and page number
-       for vector sources; graph relationship path for graph sources).
-    4. Do NOT alter the medical content of the answer — only add citation tags and the reference list.
-    5. It is okay if the information is paraphrased from the evidence. If it is just paraphrasing from an evidence, cite the evidence no need to mark [UNGROUNDED]
-    6. Keep the same formatting (bullets, bold, etc.) as the original answer."""),
+    2. For EACH factual sentence in the answer, add a small superscript-style number
+       at the END of that sentence (e.g. "Metformin is first-line therapy. (1)").
+       The number must correspond to the evidence source in the Evidence Index.
+    3. Do NOT use bracket tags like [V1], [G1], [W1]. Use ONLY plain numbers: (1), (2), (3).
+    4. At the BOTTOM of the answer, add a "### References" section.
+       List each number with its full source provenance on its own line:
+       - For ADA/vector sources: the chapter name, section heading, and page number
+       - For graph sources: the drug relationship path
+       - For web sources: the source title and full URL
+    5. Do NOT alter the medical content of the answer — only add reference numbers and the reference list.
+    6. It is okay if the information is paraphrased from the evidence. Cite the evidence it was paraphrased from.
+    7. Keep the same formatting (bullets, bold, etc.) as the original answer."""),
     ("human", """
     --- EVIDENCE INDEX ---
     {evidence_index}
@@ -387,3 +405,4 @@ citation_prompt = ChatPromptTemplate.from_messages([
     --- FINAL ANSWER ---
     {final_answer}""")
 ])
+

@@ -3,7 +3,8 @@ Citation Agent Node — Traceability layer for Agentic GraphRAG.
 
 Reads the final answer + raw evidence from state, builds a numbered
 evidence index with nurse-friendly source labels, and asks the LLM
-to annotate each sentence with [V1], [G1] etc. citation tags.
+to add numbered superscript references (1, 2, 3) at the end of each
+evidenced sentence, with a References section at the bottom.
 """
 
 import re
@@ -12,18 +13,19 @@ from config.settings import response_llm
 from config.prompts2 import citation_prompt
 
 
-def _build_vector_evidence(vector_docs: list) -> tuple[list[dict], list[str]]:
+# ── Evidence Builders ────────────────────────────────────────────────────
+
+def _build_vector_evidence(vector_docs: list, start_num: int) -> tuple[list[dict], list[str]]:
     """Build numbered evidence entries from vector Document objects.
 
     Returns (citations_list, formatted_lines) where each line is like:
-      [V1] ADA — "Chapter Name" > "Section", p.3
+      [1] ADA — "Chapter Name" > "Section", p.3
            Content: "first 200 chars of chunk..."
     """
     citations = []
     lines = []
-    for i, doc in enumerate(vector_docs, start=1):
+    for i, doc in enumerate(vector_docs, start=start_num):
         meta = getattr(doc, "metadata", {})
-        tag = f"V{i}"
 
         # Build label: chapter > section > subsection
         parts = []
@@ -38,14 +40,14 @@ def _build_vector_evidence(vector_docs: list) -> tuple[list[dict], list[str]]:
         snippet = (doc.page_content[:200] + "...") if len(doc.page_content) > 200 else doc.page_content
 
         citations.append({
-            "id": tag,
+            "id": str(i),
             "source_type": "vector",
             "label": label,
             "chapter_name": meta.get("chapter_name", ""),
             "section_heading": meta.get("section_heading", ""),
             "page_number": meta.get("page_number"),
         })
-        lines.append(f"[{tag}] {label}\n     Content: \"{snippet}\"")
+        lines.append(f"[{i}] {label}\n     Content: \"{snippet}\"")
 
     return citations, lines
 
@@ -63,12 +65,7 @@ def _extract_drug_name(cypher: str) -> str:
 
 
 def _format_record_as_path(record: dict, drug_name: str, relationship: str) -> str:
-    """Format a Neo4j result dict as a human-readable relationship path.
-
-    Examples:
-      Acarbose —[BELONGS_TO]→ Oral Hypoglycemics
-      Metformin —[INTERACTS_WITH]→ Glipizide: "may increase risk"
-    """
+    """Format a Neo4j result dict as a human-readable relationship path."""
     values = list(record.values())
     if not values:
         return f"{drug_name} —[{relationship}]→ (empty result)"
@@ -81,12 +78,8 @@ def _format_record_as_path(record: dict, drug_name: str, relationship: str) -> s
     return f"{drug_name} —[{relationship}]→ {target}{detail}"
 
 
-def _build_graph_evidence(graph_docs: list, generated_cypher: str | None) -> tuple[list[dict], list[str]]:
-    """Build numbered evidence entries from Neo4j result dicts.
-
-    Uses relationship-path format for nurse-friendly citations:
-      [G1] DrugBank KG — Acarbose —[BELONGS_TO]→ Oral Hypoglycemics
-    """
+def _build_graph_evidence(graph_docs: list, generated_cypher: str | None, start_num: int) -> tuple[list[dict], list[str]]:
+    """Build numbered evidence entries from Neo4j result dicts."""
     citations = []
     lines = []
 
@@ -96,38 +89,80 @@ def _build_graph_evidence(graph_docs: list, generated_cypher: str | None) -> tup
     relationship = _extract_relationship(generated_cypher) if generated_cypher else "RELATED_TO"
     drug_name = _extract_drug_name(generated_cypher) if generated_cypher else "Unknown Drug"
 
-    for i, record in enumerate(graph_docs, start=1):
-        tag = f"G{i}"
+    for i, record in enumerate(graph_docs, start=start_num):
         path = _format_record_as_path(record, drug_name, relationship)
         label = f"DrugBank KG — {path}"
 
         citations.append({
-            "id": tag,
+            "id": str(i),
             "source_type": "graph",
             "label": label,
             "relationship": relationship,
             "drug_name": drug_name,
         })
-        lines.append(f"[{tag}] {label}")
+        lines.append(f"[{i}] {label}")
 
     return citations, lines
 
 
+def _build_web_evidence(web_docs: list, start_num: int) -> tuple[list[dict], list[str]]:
+    """Build numbered evidence entries from web search results.
+
+    Returns (citations_list, formatted_lines) where each line is like:
+      [5] Mayo Clinic — https://mayoclinic.org/...
+           Content: "first 200 chars..."
+    """
+    citations = []
+    lines = []
+
+    if not web_docs:
+        return citations, lines
+
+    for i, doc in enumerate(web_docs, start=start_num):
+        title = doc.get("title", "Web Source")
+        url = doc.get("url", "")
+        content = doc.get("content", "")
+        snippet = (content[:200] + "...") if len(content) > 200 else content
+
+        label = f"{title} — {url}" if url else title
+
+        citations.append({
+            "id": str(i),
+            "source_type": "web",
+            "label": label,
+            "url": url,
+            "title": title,
+        })
+        lines.append(f"[{i}] {label}\n     Content: \"{snippet}\"")
+
+    return citations, lines
+
+
+# ── Main Citation Agent Node ─────────────────────────────────────────────
+
 def citation_agent(state):
-    """LangGraph node: annotates the final answer with formal citations."""
+    """LangGraph node: annotates the final answer with numbered references."""
     print("---CITATION AGENT: ADDING TRACEABILITY---")
 
     final_answer = state.get("final_answer", "")
     vector_docs = state.get("vector_docs") or []
     graph_docs = state.get("graph_docs") or []
+    web_docs = state.get("web_docs") or []
     generated_cypher = state.get("generated_cypher")
 
-    # ── Build evidence index ────────────────────────────────────────
-    v_citations, v_lines = _build_vector_evidence(vector_docs)
-    g_citations, g_lines = _build_graph_evidence(graph_docs, generated_cypher)
+    # ── Build evidence index with continuous numbering ───────────────
+    counter = 1
 
-    all_citations = v_citations + g_citations
-    all_lines = v_lines + g_lines
+    v_citations, v_lines = _build_vector_evidence(vector_docs, start_num=counter)
+    counter += len(v_citations)
+
+    g_citations, g_lines = _build_graph_evidence(graph_docs, generated_cypher, start_num=counter)
+    counter += len(g_citations)
+
+    w_citations, w_lines = _build_web_evidence(web_docs, start_num=counter)
+
+    all_citations = v_citations + g_citations + w_citations
+    all_lines = v_lines + g_lines + w_lines
 
     # If there is no evidence at all just return unchanged
     if not all_lines:
