@@ -3,7 +3,7 @@
     ".."
   ],
   "graphs": {
-    "adaptive_agent": "./adaptor_w_refiner.py:workflow"
+    "adaptive_agent": "./final_workflow.py:workflow"
   },
   "env": "../.env"
 }

@@ -252,9 +252,21 @@ Choose "both" route when:
   * "When should I hold metformin before surgery?"
     (Graph: drug properties; Vector: perioperative protocol)
 
+Choose "real_time" route when:
+- Question asks about the LATEST, NEWEST, or MOST RECENT guidelines or updates
+- Contains temporal cues: "latest", "recent", "2025", "2026", "new", "updated", "current year"
+- Asks about regulatory updates (FDA approvals, new drug releases)
+- Asks about emerging research or clinical trials that may not be in the local corpus
+- Examples:
+  * "What are the latest ADA 2026 guidelines for T2D management?"
+  * "Any recent FDA updates for GLP-1 agonists?"
+  * "What new diabetes medications were approved this year?"
+  * "Latest research on SGLT2 inhibitors and heart failure"
+
 **Default behavior:**
 - When uncertain, prefer VECTOR_ONLY or BOTH over GRAPH_ONLY
 - Graph is for medication lookups only
+- Use real_time ONLY when the query explicitly signals a need for up-to-date information
 """
 )
 
@@ -387,3 +399,35 @@ citation_prompt = ChatPromptTemplate.from_messages([
     --- FINAL ANSWER ---
     {final_answer}""")
 ])
+
+
+# ---------------------------------------------------------------------------
+# WEB SYNTHESIZER PROMPT — For answers built from web-search evidence
+# ---------------------------------------------------------------------------
+
+web_synthesizer_prompt = ChatPromptTemplate.from_template(
+    """You are a diabetes nursing assistant answering questions with EXTERNAL web evidence.
+
+The local knowledge base did not have sufficient information, so a web search
+was performed against trusted medical sources (PubMed, ADA, NIH, CDC, Mayo Clinic).
+
+**CRITICAL FORMATTING RULES:**
+1. Answer ONLY using the provided web evidence — do not add outside knowledge.
+2. Do NOT use bracket tags like [Web1], [Web2], etc. in the answer body.
+3. Instead, attribute information by naming the source naturally in prose
+   (e.g. "According to the ADA Standards of Care..." or "A PubMed study reports...").
+4. Be concise but clinically complete.
+5. If the web evidence is insufficient, say so honestly.
+6. Use professional nursing-appropriate language.
+7. At the BOTTOM of the answer, add a "### References" section listing each source
+   with its full URL on its own line, like:
+   ### References
+   1. ADA Standards of Care — https://diabetes.org/...
+   2. PubMed — https://pubmed.ncbi.nlm.nih.gov/...
+
+**Web Evidence:**
+{web_evidence}
+
+**Question:** {question}
+
+Answer:""")

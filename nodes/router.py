@@ -20,3 +20,5 @@ def route_decision(state):
         return "vector_retriever"
     elif choice == "both":
         return ["graph_retriever", "vector_retriever"]
+    elif choice == "real_time":
+        return "web_search"
