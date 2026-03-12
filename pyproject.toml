@@ -5,6 +5,7 @@ description = "GraphRAG with Agentic Workflow for Type 2 Diabetes Nursing Managm
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
+    "fastapi>=0.135.1",
     "flashrank>=0.2.10",
     "fpdf2>=2.8.5",
     "google-genai>=1.61.0",
@@ -37,7 +38,9 @@ dependencies = [
     "reportlab>=4.4.9",
     "requests>=2.32.5",
     "sentence-transformers>=5.2.3",
-    "streamlit>=1.53.1",
+    "sseclient-py>=1.8.0",
+    "streamlit>=1.28.0",
     "tiktoken>=0.5.0",
     "tqdm>=4.67.2",
+    "uvicorn>=0.41.0",
 ]

@@ -94,7 +94,7 @@ def _build_graph_evidence(graph_docs: list, generated_cypher: str | None, start_
         label = f"DrugBank KG — {path}"
 
         citations.append({
-            "id": str(i),
+            "id": str(i),   
             "source_type": "graph",
             "label": label,
             "relationship": relationship,
@@ -106,12 +106,7 @@ def _build_graph_evidence(graph_docs: list, generated_cypher: str | None, start_
 
 
 def _build_web_evidence(web_docs: list, start_num: int) -> tuple[list[dict], list[str]]:
-    """Build numbered evidence entries from web search results.
-
-    Returns (citations_list, formatted_lines) where each line is like:
-      [5] Mayo Clinic — https://mayoclinic.org/...
-           Content: "first 200 chars..."
-    """
+    
     citations = []
     lines = []
 

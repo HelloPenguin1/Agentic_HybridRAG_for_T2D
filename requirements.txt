@@ -19,3 +19,9 @@ langchain-text-splitters
 ragas
 sentence-transformers
 langgraph-cli[inmem]
+fastapi
+uvicorn
+ 
+# Streamlit frontend
+streamlit>=1.28.0
+sseclient-py>=1.8.0  # For Server-Sent Events streaming
