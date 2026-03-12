@@ -32,6 +32,7 @@ from nodes.refiner_node import refiner_node
 from nodes.citation_agent import citation_agent
 from nodes.evidence_gate import evidence_gate, evidence_gate_decision
 from nodes.web_search import web_search_node
+from langgraph.checkpoint.memory import MemorySaver
 
 
 # ── Instantiate stateful retrievers ─────────────────────────────────────
@@ -110,14 +111,11 @@ graph.add_conditional_edges(
 graph.add_edge("refiner", "citation_agent")
 
 
-# ── 8. Terminal ─────────────────────────────────────────────────────────
 graph.add_edge("citation_agent", END)
 
 
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-# COMPILE
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-workflow = graph.compile()
+
+workflow = graph.compile(interrupt_before=["citation_agent"],)  # pause here for human review,
 
 
 if __name__ == "__main__":
