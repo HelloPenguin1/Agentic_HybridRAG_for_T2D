@@ -114,9 +114,7 @@ graph.add_edge("refiner", "citation_agent")
 graph.add_edge("citation_agent", END)
 
 
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-# COMPILE
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 workflow = graph.compile()
 
 
