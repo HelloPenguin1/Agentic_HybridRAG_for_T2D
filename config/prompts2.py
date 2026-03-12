@@ -386,18 +386,20 @@ citation_prompt = ChatPromptTemplate.from_messages([
     RULES:
 
     1. Read the 'Final Answer' and the 'Evidence Index' below.
-    2. For EACH factual sentence in the answer, add a small superscript-style number
+    2. For semantic information in the answer, add a small superscript-style number
        at the END of that sentence (e.g. "Metformin is first-line therapy. (1)").
        The number must correspond to the evidence source in the Evidence Index.
     3. Do NOT use bracket tags like [V1], [G1], [W1]. Use ONLY plain numbers: (1), (2), (3).
     4. At the BOTTOM of the answer, add a "### References" section.
        List each number with its full source provenance on its own line:
-       - For ADA/vector sources: the chapter name, section heading, and page number
+       - For ADA/vector sources: the chapter name, section heading
        - For graph sources: the drug relationship path
        - For web sources: the source title and full URL
     5. Do NOT alter the medical content of the answer — only add reference numbers and the reference list.
     6. It is okay if the information is paraphrased from the evidence. Cite the evidence it was paraphrased from.
-    7. Keep the same formatting (bullets, bold, etc.) as the original answer."""),
+    7. Keep the same formatting (bullets, bold, etc.) as the original answer.
+    
+    IMPORTANT: Make sure the reference section has every source in new lines using new line characters"""),
     ("human", """
     --- EVIDENCE INDEX ---
     {evidence_index}
@@ -405,4 +407,4 @@ citation_prompt = ChatPromptTemplate.from_messages([
     --- FINAL ANSWER ---
     {final_answer}""")
 ])
-
+

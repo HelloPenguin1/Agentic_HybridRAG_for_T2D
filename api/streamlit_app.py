@@ -147,10 +147,10 @@ with st.sidebar:
     
     # API Status
     if check_api_health():
-        st.success("✅ System Ready")
+        st.success("System Ready")
         st.session_state.system_ready = True
     else:
-        st.error("❌ API Offline")
+        st.error("API Offline")
         st.warning("Start the API server:\n```bash\npython api/main.py\n```")
         st.session_state.system_ready = False
     
@@ -159,11 +159,11 @@ with st.sidebar:
     # Chat Controls
     st.subheader("Chat Controls")
     
-    if st.button("🔄 New Conversation", use_container_width=True):
+    if st.button("New Conversation", use_container_width=True):
         st.session_state.chat_history = []
         st.rerun()
     
-    if st.button("🗑️ Clear History", use_container_width=True):
+    if st.button("Clear History", use_container_width=True):
         st.session_state.chat_history = []
         st.rerun()
     
@@ -188,7 +188,7 @@ with st.sidebar:
         """)
     
     # Example Questions
-    with st.expander("💡 Example Questions"):
+    with st.expander("Example Questions"):
         st.markdown("""
         **Factual:**
         - What is the typical dose of metformin?
@@ -223,7 +223,7 @@ if not st.session_state.system_ready:
 # Welcome message
 if len(st.session_state.chat_history) == 0:
     st.markdown("""
-    ### 👋 Welcome!
+    ###Welcome!
     
     I'm your AI-powered nursing assistant for Type 2 Diabetes care. I can help you with:
     
@@ -253,7 +253,7 @@ for message in st.session_state.chat_history:
                     st.caption(metadata.get('router_reasoning', 'N/A'))
                     
                 with col2:
-                    st.markdown(f"**Web Search:** {'✅ Yes' if metadata.get('web_search_used') else '❌ No'}")
+                    st.markdown(f"**Web Search:** {'Yes' if metadata.get('web_search_used') else 'No'}")
                     st.markdown(f"**Hallucination Check:** {metadata.get('hallucination_score', 'N/A')}")
                 
                 # Agent flow
@@ -338,7 +338,7 @@ if prompt := st.chat_input("Ask me about diabetes nursing care...", disabled=not
                         st.caption(metadata.get('router_reasoning', 'N/A'))
                         
                     with col2:
-                        st.markdown(f"**Web Search:** {'✅ Yes' if metadata.get('web_search_used') else '❌ No'}")
+                        st.markdown(f"**Web Search:** {'Yes' if metadata.get('web_search_used') else 'No'}")
                         st.markdown(f"**Hallucination Check:** {metadata.get('hallucination_score', 'N/A')}")
                     
                     # Agent flow
@@ -362,12 +362,12 @@ if prompt := st.chat_input("Ask me about diabetes nursing care...", disabled=not
         
         # Non-streaming mode (fallback)
         else:
-            with st.spinner("🤔 Thinking..."):
+            with st.spinner("Processing..."):
                 response_data = query_api(prompt)
             
             # Handle errors
             if response_data.get("error"):
-                error_msg = f"❌ **Error:** {response_data.get('message', 'Unknown error')}"
+                error_msg = f"**Error:** {response_data.get('message', 'Unknown error')}"
                 st.error(error_msg)
                 
                 st.session_state.chat_history.append({
@@ -392,7 +392,7 @@ if prompt := st.chat_input("Ask me about diabetes nursing care...", disabled=not
                         st.caption(metadata.get('router_reasoning', 'N/A'))
                         
                     with col2:
-                        st.markdown(f"**Web Search:** {'✅ Yes' if metadata.get('web_search_used') else '❌ No'}")
+                        st.markdown(f"**Web Search:** {'Yes' if metadata.get('web_search_used') else 'No'}")
                         st.markdown(f"**Hallucination Check:** {metadata.get('hallucination_score', 'N/A')}")
                     
                     # Agent flow
