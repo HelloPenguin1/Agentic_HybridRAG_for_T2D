@@ -94,7 +94,7 @@ def _build_graph_evidence(graph_docs: list, generated_cypher: str | None, start_
         label = f"DrugBank KG — {path}"
 
         citations.append({
-            "id": str(i),
+            "id": str(i),   
             "source_type": "graph",
             "label": label,
             "relationship": relationship,

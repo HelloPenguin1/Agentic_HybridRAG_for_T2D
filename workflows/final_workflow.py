@@ -115,7 +115,7 @@ graph.add_edge("citation_agent", END)
 
 
 
-workflow = graph.compile(interrupt_before=["citation_agent"],)  # pause here for human review,
+workflow = graph.compile()  # pause here for human review,
 
 
 if __name__ == "__main__":
