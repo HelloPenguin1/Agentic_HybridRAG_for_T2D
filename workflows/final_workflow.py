@@ -129,7 +129,7 @@ if __name__ == "__main__":
         f.write(workflow.get_graph(xray=True).draw_mermaid_png())
 
     print(f"Graph saved → {os.path.abspath(png_path)}")
-    os.startfile(os.path.abspath(png_path))
+    #os.startfile(os.path.abspath(png_path))
 
     # ── Continuous Run Loop ──────────────────────────────────────────────
     print("\nAgent ready. Press Ctrl+C to exit.\n")

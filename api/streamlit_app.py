@@ -10,13 +10,13 @@ import sseclient  # For Server-Sent Events
 
 st.set_page_config(
     page_title="Diabetes Nursing Assistant",
-    page_icon="🩺",
+    page_icon="assistant_icon.png",
     layout="wide",
     initial_sidebar_state="expanded"
 )
 
 API_BASE_URL = "http://127.0.0.1:8000"
-ENABLE_STREAMING = False # Toggle streaming on/off
+ENABLE_STREAMING = False 
 
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -141,8 +141,7 @@ def format_router_info(metadata: dict) -> str:
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 with st.sidebar:
-    st.title("🩺 Diabetes Nursing")
-    st.markdown("### Evidence-Based Assistant")
+    st.title("Settings and Information")
     st.markdown("---")
     
     # API Status
@@ -173,9 +172,9 @@ with st.sidebar:
     with st.expander("ℹ️ System Information"):
         st.markdown("""
         **Knowledge Sources:**
-        - 🔗 Neo4j Knowledge Graph
-        - 📄 Qdrant Vector Database
-        - 🌐 Real-time Web Search
+        - Neo4j Knowledge Graph
+        - Qdrant Vector Database
+        - Real-time Web Search
         
         **Agents:**
         1. Router → Routing strategy
@@ -211,8 +210,8 @@ with st.sidebar:
 # MAIN INTERFACE
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-st.title("🩺 Type 2 Diabetes Nursing Assistant")
-st.markdown("*Evidence-based answers powered by agentic GraphRAG*")
+st.title("Type 2 Diabetes Management Assistant")
+st.markdown("*Multi-source evidence-based nursing guidance*")
 
 # System check
 if not st.session_state.system_ready:
@@ -223,13 +222,12 @@ if not st.session_state.system_ready:
 # Welcome message
 if len(st.session_state.chat_history) == 0:
     st.markdown("""
-    ###Welcome!
+    Welcome!
     
-    I'm your AI-powered nursing assistant for Type 2 Diabetes care. I can help you with:
+    I can help you with:
     
     - 💊 **Medication information** (doses, contraindications, interactions)
     - 📋 **Clinical protocols** (monitoring, patient teaching, procedures)
-    - 🚨 **Decision support** (when to hold meds, contraindication checks)
     - 📚 **Evidence-based guidance** (ADA guidelines, clinical best practices)
     
     All answers include **citations** from authoritative sources for traceability.
@@ -244,7 +242,7 @@ for message in st.session_state.chat_history:
         
         # Show metadata for assistant messages
         if message["role"] == "assistant" and "metadata" in message:
-            with st.expander("🔍 Details", expanded=False):
+            with st.expander("**Details**", expanded=False):
                 metadata = message["metadata"]
                 
                 col1, col2 = st.columns(2)
@@ -401,10 +399,10 @@ if prompt := st.chat_input("Ask me about diabetes nursing care...", disabled=not
                     st.caption(" → ".join(agents))
                 
                 # Display citations
-                if citations:
-                    with st.expander(f"📚 References ({len(citations)})", expanded=False):
-                        for citation in citations:
-                            st.markdown(format_citation(citation))
+                # if citations:
+                #     with st.expander(f"📚 References ({len(citations)})", expanded=False):
+                #         for citation in citations:
+                #             st.markdown(format_citation(citation))
                 
                 # Save to history
                 st.session_state.chat_history.append({

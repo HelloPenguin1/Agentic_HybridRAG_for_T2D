@@ -379,32 +379,60 @@ refiner_prompt = ChatPromptTemplate.from_messages([
 # CITATION AGENT PROMPT - Adds formal traceability citations
 # ---------------------------------------------------------------------------
 
-citation_prompt = ChatPromptTemplate.from_messages([
-    ("system", """You are a Clinical Librarian for a diabetes nursing reference system.
-    Your job is to take a verified medical answer and add numbered references.
+# citation_prompt = ChatPromptTemplate.from_messages([
+#     ("system", """You are a Clinical Librarian for a diabetes nursing reference system.
+#     Your job is to take a verified medical answer and add numbered references.
 
-    RULES:
+#     RULES:
 
-    1. Read the 'Final Answer' and the 'Evidence Index' below.
-    2. For semantic information in the answer, add a small superscript-style number
-       at the END of that sentence (e.g. "Metformin is first-line therapy. (1)").
-       The number must correspond to the evidence source in the Evidence Index.
-    3. Do NOT use bracket tags like [V1], [G1], [W1]. Use ONLY plain numbers: (1), (2), (3).
-    4. At the BOTTOM of the answer, add a "### References" section.
-       List each number with its full source provenance on its own line:
-       - For ADA/vector sources: the chapter name, section heading
-       - For graph sources: the drug relationship path
-       - For web sources: the source title and full URL
-    5. Do NOT alter the medical content of the answer — only add reference numbers and the reference list.
-    6. It is okay if the information is paraphrased from the evidence. Cite the evidence it was paraphrased from.
-    7. Keep the same formatting (bullets, bold, etc.) as the original answer.
+#     1. Read the 'Final Answer' and the 'Evidence Index' below.
+#     2. For semantic information in the answer, add a small superscript-style number
+#        at the END of that sentence (e.g. "Metformin is first-line therapy. (1)").
+#        The number must correspond to the evidence source in the Evidence Index.
+#     3. Do NOT use bracket tags like [V1], [G1], [W1]. Use ONLY plain numbers: (1), (2), (3).
+#     4. At the BOTTOM of the answer, add a "### References" section.
+#        List each number with its full source provenance on its own line:
+#        - For ADA/vector sources: the chapter name, section heading
+#        - For graph sources: the drug relationship path
+#        - For web sources: the source title and full URL
+#     5. Do NOT alter the medical content of the answer — only add reference numbers and the reference list.
+#     6. It is okay if the information is paraphrased from the evidence. Cite the evidence it was paraphrased from.
+#     7. Keep the same formatting (bullets, bold, etc.) as the original answer.
     
-    IMPORTANT: Make sure the reference section has every source in new lines using new line characters"""),
-    ("human", """
-    --- EVIDENCE INDEX ---
-    {evidence_index}
+#     IMPORTANT: Make sure the reference section has every source in new lines using new line characters"""),
+#     ("human", """
+#     --- EVIDENCE INDEX ---
+#     {evidence_index}
 
-    --- FINAL ANSWER ---
-    {final_answer}""")
-])
+#     --- FINAL ANSWER ---
+#     {final_answer}""")
+    
+    
+citation_prompt = ChatPromptTemplate.from_messages([
+      ("system", """You are a Clinical Librarian for a diabetes nursing reference system.
+        Your job is to take a verified medical answer and add numbered references.
+
+   RULES:
+
+   1. Read the 'Final Answer' and 'Evidence Index'. Assign each source a UNIQUE number in order of FIRST use.
+   2. Add a citation ONLY when directly supported by a source. Place it at the END of the sentence as (n).
+   3. Use ONLY plain numbers (1), (2), (3). Do NOT reuse or invent numbers not in the Evidence Index.
+   4. Each number must map to EXACTLY ONE source, and each source must keep the SAME number throughout.
+   5. At the end, add "### References" and list each source once on a new line using its assigned number.
+   6.  At the BOTTOM of the answer, add a "### References" section.
+      List each number with its full source provenance on its own line:
+        - For ADA/vector sources: the chapter name, section heading
+        - For graph sources: the drug relationship path
+        - For web sources: the source title and full URL
+   6. Do NOT change wording, structure, or formatting of the answer.
+   7. Keep the same formatting (bullets, bold, etc.) as the original answer.
+
+   IMPORTANT: Citation numbers must be consistent and correctly mapped to the Evidence Index."""),
+      ("human", """
+   --- EVIDENCE INDEX ---
+   {evidence_index}
+
+   --- FINAL ANSWER ---
+   {final_answer}""")
+   ])
 
