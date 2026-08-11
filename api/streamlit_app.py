@@ -398,11 +398,11 @@ if prompt := st.chat_input("Ask me about diabetes nursing care...", disabled=not
                     agents = metadata.get('agents_executed', [])
                     st.caption(" → ".join(agents))
                 
-                # Display citations
-                # if citations:
-                #     with st.expander(f"📚 References ({len(citations)})", expanded=False):
-                #         for citation in citations:
-                #             st.markdown(format_citation(citation))
+                #Display citations
+                if citations:
+                    with st.expander(f"References ({len(citations)})", expanded=False):
+                        for citation in citations:
+                            st.markdown(format_citation(citation))
                 
                 # Save to history
                 st.session_state.chat_history.append({

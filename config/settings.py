@@ -6,6 +6,7 @@ from dotenv import load_dotenv
 from pathlib import Path
 import os
 load_dotenv()
+os.environ.pop("SSL_CERT_FILE", None)
 
 #VectorDB settings ----------------------------------------------------
 QDRANT_URL=os.getenv("QDRANT_URL")
@@ -20,8 +21,8 @@ CHUNKS_PATH = Path(__file__).resolve().parent.parent / "1_vectordb_ingestion" / 
 
 EMBEDDINGS = HuggingFaceEmbeddings(
     model_name=EMBED_MODEL,
-    model_kwargs={"device": "cpu"},
-    encode_kwargs={"normalize_embeddings": True},
+        model_kwargs={"device": "cpu"},
+        encode_kwargs={"normalize_embeddings": True},
 )
 
 #API Keys --------------------------------------------------------------

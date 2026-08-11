@@ -424,10 +424,10 @@ citation_prompt = ChatPromptTemplate.from_messages([
         - For ADA/vector sources: the chapter name, section heading
         - For graph sources: the drug relationship path
         - For web sources: the source title and full URL
-   6. Do NOT change wording, structure, or formatting of the answer.
+   6. Do NOT change wording, structure, or formatting of the answer. Remove redundant citations if the same source supports multiple claims, but do not change the content of the answer.
    7. Keep the same formatting (bullets, bold, etc.) as the original answer.
 
-   IMPORTANT: Citation numbers must be consistent and correctly mapped to the Evidence Index."""),
+   IMPORTANT: Citation numbers must be consistent and correctly mapped to the Evidence Index. Make sure the citations are complete"""),
       ("human", """
    --- EVIDENCE INDEX ---
    {evidence_index}
