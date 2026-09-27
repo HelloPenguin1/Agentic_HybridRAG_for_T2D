@@ -19,10 +19,8 @@ def main():
     """
     Process all PDFs with medical-grade extraction pipeline.
     """
-    print("=" * 60)
     print("Medical-Grade PDF Extraction Pipeline")
     print("3-Phase Process: Parse → Split → Enrich")
-    print("=" * 60)
     print()
     
     # Initialize loader
@@ -36,19 +34,10 @@ def main():
     # Process all PDFs
     loader.process_all_pdfs()
     
-    print()
-    print("=" * 60)
-    print("✓ All PDFs processed successfully!")
+    print("All PDFs processed successfully!")
     print(f"Output location: {Path(OUTPUT_DIR).absolute()}")
-    print()
-    print("Each chunk contains:")
-    print("  - chapter_name (if applicable)")
-    print("  - section_heading (if applicable)")
-    print("  - subsection_heading (if applicable)")
-    print("  - page_number")
-    print("  - source (filename)")
-    print("  - source_path (full path)")
-    print("=" * 60)
+
+
 
 
 def inspect_chunks():
@@ -84,7 +73,6 @@ def inspect_chunks():
 
 
 if __name__ == "__main__":
-    # Run the main processing
     main()
     
     # Uncomment to inspect chunks after processing
