@@ -5,9 +5,10 @@ from langchain_core.documents import Document
 from langchain_qdrant import QdrantVectorStore
 from langchain_community.retrievers import BM25Retriever
 from langchain_classic.retrievers import EnsembleRetriever
-from langchain_classic.retrievers.contextual_compression import ContextualCompressionRetriever
+from langchain_classic.retrievers.contextual_compression import (
+    ContextualCompressionRetriever,
+)
 from langchain_community.document_compressors import FlashrankRerank
-
 
 
 from config.settings import (
@@ -43,19 +44,28 @@ class VectorRetriever:
         )
         self.qdrant_retriever = self.vector_store.as_retriever(
             search_type="similarity_score_threshold",
-            search_kwargs={"k": QDRANT_TOPK, "score_threshold": 0.8})
+            search_kwargs={"k": QDRANT_TOPK, "score_threshold": 0.8},
+        )
         self.compressor = FlashrankRerank(top_n=5)
 
-
         processed_chunks = _load_processed_chunks()
-        bm25_docs = [Document(page_content=chunk.get("page_content", ""), metadata=chunk["metadata"]) for chunk in processed_chunks]
+        bm25_docs = [
+            Document(
+                page_content=chunk.get("page_content", ""), metadata=chunk["metadata"]
+            )
+            for chunk in processed_chunks
+        ]
 
-        self.bm25_retriever = BM25Retriever.from_documents(bm25_docs, k=BM25_TOP, preprocess_func=word_tokenize)
+        self.bm25_retriever = BM25Retriever.from_documents(
+            bm25_docs, k=BM25_TOP, preprocess_func=word_tokenize
+        )
         self.ensemble_retriever = EnsembleRetriever(
             retrievers=[self.qdrant_retriever, self.bm25_retriever],
             weights=[0.7, 0.3],
         )
-        self.compression_retriever = ContextualCompressionRetriever(base_compressor=self.compressor, base_retriever=self.ensemble_retriever)
+        self.compression_retriever = ContextualCompressionRetriever(
+            base_compressor=self.compressor, base_retriever=self.ensemble_retriever
+        )
 
     def vector_retriever_node(self, state):
         """LangGraph node: retrieves documents for the given question via RRF."""
@@ -79,4 +89,4 @@ if __name__ == "__main__":
         print(f"Retrieved {len(docs)} docs")
 
     except Exception as e:
-        print(f"Error: {e}")    
+        print(f"Error: {e}")

@@ -23,7 +23,7 @@ load_dotenv(Path(__file__).parent.parent / ".env")
 client = Groq(api_key=os.environ["GROQ_API_KEY"])
 MODEL = "openai/gpt-oss-120b"
 
-CHUNKS_DIR  = Path(__file__).parent.parent / "3_vectordb_ingestion" / "processed_chunks"
+CHUNKS_DIR = Path(__file__).parent.parent / "3_vectordb_ingestion" / "processed_chunks"
 OUTPUT_PATH = Path(__file__).parent / "test_dataset.json"
 TOTAL_QUESTIONS = 28
 MIN_CHUNK_CHARS = 500
@@ -33,9 +33,10 @@ random.seed(None)
 # ── Junk-chunk filter ──────────────────────────────────────────────────
 REF_PATTERNS = re.compile(
     r"(^\s*#{1,3}\s*(References|Additional References|Bibliography))"
-    r"|(^\s*\d{1,3}\.\s+[A-Z][a-z]+\s+[A-Z]{1,2}[,.])",   # numbered author citation
+    r"|(^\s*\d{1,3}\.\s+[A-Z][a-z]+\s+[A-Z]{1,2}[,.])",  # numbered author citation
     re.MULTILINE,
 )
+
 
 def is_clinical_chunk(text: str) -> bool:
     """Return True only when the chunk contains usable clinical prose."""
@@ -56,7 +57,7 @@ def is_clinical_chunk(text: str) -> bool:
         return False
     # Reference / citation sections  (>40 % of lines look like citations)
     lines = [l.strip() for l in text.splitlines() if l.strip()]
-    citation_lines = sum(1 for l in lines if re.match(r'^\d{1,3}\.\s+[A-Z]', l))
+    citation_lines = sum(1 for l in lines if re.match(r"^\d{1,3}\.\s+[A-Z]", l))
     if citation_lines / max(len(lines), 1) > 0.35:
         return False
     # Section header is "References" / "Additional References"
@@ -203,13 +204,15 @@ for i, chunk in enumerate(sampled, 1):
     print(f"  Q: {result['question']}")
     print(f"  route={result['expected_route']}  type={result['question_type']}\n")
 
-    new_questions.append({
-        "question_id":         f"Q{start_id + len(new_questions) + 1:03d}",
-        "question":            result["question"],
-        "expected_route":      result["expected_route"],
-        "ground_truth_answer": result["ground_truth_answer"],
-        "question_type":       result["question_type"],
-    })
+    new_questions.append(
+        {
+            "question_id": f"Q{start_id + len(new_questions) + 1:03d}",
+            "question": result["question"],
+            "expected_route": result["expected_route"],
+            "ground_truth_answer": result["ground_truth_answer"],
+            "question_type": result["question_type"],
+        }
+    )
 
     if i < len(sampled):
         time.sleep(2)
@@ -218,8 +221,14 @@ dataset = existing + new_questions
 with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
     json.dump(dataset, f, indent=2, ensure_ascii=False)
 
-route_counts = {r: sum(1 for q in dataset if q["expected_route"] == r) for r in ["graph", "vector", "both"]}
-type_counts  = {t: sum(1 for q in dataset if q["question_type"] == t) for t in ["factual", "procedural", "clinical"]}
+route_counts = {
+    r: sum(1 for q in dataset if q["expected_route"] == r)
+    for r in ["graph", "vector", "both"]
+}
+type_counts = {
+    t: sum(1 for q in dataset if q["question_type"] == t)
+    for t in ["factual", "procedural", "clinical"]
+}
 print(f"Saved {len(dataset)} questions → {OUTPUT_PATH.name}")
 print(f"Routes : {route_counts}")
 print(f"Types  : {type_counts}")

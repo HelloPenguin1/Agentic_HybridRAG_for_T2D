@@ -26,8 +26,10 @@ def hallucination_grader(state):
     res = chain.invoke({"evidence": full_evidence, "answer": generation})
 
     return {
-        "hallucination_score": "faithful" if res.binary_score == "yes" else "hallucinated",
-        "audit_feedback": res.explanation
+        "hallucination_score": "faithful"
+        if res.binary_score == "yes"
+        else "hallucinated",
+        "audit_feedback": res.explanation,
     }
 
 

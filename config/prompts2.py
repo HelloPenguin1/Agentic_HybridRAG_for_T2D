@@ -145,7 +145,7 @@ Question: {question}
 
 Generate ONLY the Cypher query. No explanation, no markdown formatting.
 
-Cypher:"""
+Cypher:""",
 )
 
 
@@ -184,14 +184,14 @@ Database Results:
 
 Question: {question}
 
-Answer:"""
+Answer:""",
 )
 
 
 # ---------------------------------------------------------------------------
 # ROUTER PROMPT - Updated for DrugBank + Vector hybrid
 # ---------------------------------------------------------------------------
-    
+
 router_prompt = ChatPromptTemplate.from_template(
     """You are a query routing agent for a hybrid retrieval system:
 
@@ -322,8 +322,11 @@ Answer:"""
 # ---------------------------------------------------------------------------
 # HALLUCINATION GRADER PROMPT - Checks answer grounding
 # ---------------------------------------------------------------------------
-hallucination_grader_prompt = ChatPromptTemplate.from_messages([
-    ("system", """You are a Lead Clinical Auditor for a Type 2 Diabetes management system. 
+hallucination_grader_prompt = ChatPromptTemplate.from_messages(
+    [
+        (
+            "system",
+            """You are a Lead Clinical Auditor for a Type 2 Diabetes management system. 
     Your goal is to ensure 100% grounding. Use the following Chain-of-Reasoning:
 
     1. **Deconstruction**: Break the 'Answer' down into individual clinical claims or instructions.
@@ -331,23 +334,31 @@ hallucination_grader_prompt = ChatPromptTemplate.from_messages([
     3. **Conflict Detection**: Check if any part of the answer contradicts the evidence (e.g., the evidence says 'avoid Metformin' but the answer suggests it).
     4. **Final Grade**: 
        - Score 'yes' ONLY if every single claim is explicitly supported. 
-       - Score 'no' if there is even ONE hallucinated claim or unsupported medical advice."""),
-    ("human", """
+       - Score 'no' if there is even ONE hallucinated claim or unsupported medical advice.""",
+        ),
+        (
+            "human",
+            """
     --- EVIDENCE ---
     {evidence}
 
     --- ANSWER TO AUDIT ---
     {answer}
 
-    Provide your reasoning for each claim, then output the final binary score.""")
-])
+    Provide your reasoning for each claim, then output the final binary score.""",
+        ),
+    ]
+)
 
 
 ## Refiner Prompt
 
 
-refiner_prompt = ChatPromptTemplate.from_messages([
-    ("system", """You are a Senior Clinical Editor. 
+refiner_prompt = ChatPromptTemplate.from_messages(
+    [
+        (
+            "system",
+            """You are a Senior Clinical Editor. 
     You have been given a 'Draft Answer' and an 'Audit Report' identifying specific medical hallucinations or errors.
     
     TASK:
@@ -360,8 +371,11 @@ refiner_prompt = ChatPromptTemplate.from_messages([
     DO NOT use general medical knowledge that is NOT provided in the evidence. 
 
 
-    """),
-    ("human", """
+    """,
+        ),
+        (
+            "human",
+            """
     --- EVIDENCE ---
     {context}
 
@@ -371,8 +385,10 @@ refiner_prompt = ChatPromptTemplate.from_messages([
     --- AUDIT REPORT ---
     {audit_feedback}
 
-    Please provide the refined Final Answer with citations as before. """)
-])
+    Please provide the refined Final Answer with citations as before. """,
+        ),
+    ]
+)
 
 
 # ---------------------------------------------------------------------------
@@ -398,7 +414,7 @@ refiner_prompt = ChatPromptTemplate.from_messages([
 #     5. Do NOT alter the medical content of the answer — only add reference numbers and the reference list.
 #     6. It is okay if the information is paraphrased from the evidence. Cite the evidence it was paraphrased from.
 #     7. Keep the same formatting (bullets, bold, etc.) as the original answer.
-    
+
 #     IMPORTANT: Make sure the reference section has every source in new lines using new line characters"""),
 #     ("human", """
 #     --- EVIDENCE INDEX ---
@@ -406,10 +422,13 @@ refiner_prompt = ChatPromptTemplate.from_messages([
 
 #     --- FINAL ANSWER ---
 #     {final_answer}""")
-    
-    
-citation_prompt = ChatPromptTemplate.from_messages([
-      ("system", """You are a Clinical Librarian for a diabetes nursing reference system.
+
+
+citation_prompt = ChatPromptTemplate.from_messages(
+    [
+        (
+            "system",
+            """You are a Clinical Librarian for a diabetes nursing reference system.
         Your job is to take a verified medical answer and add numbered references.
 
    RULES:
@@ -427,12 +446,16 @@ citation_prompt = ChatPromptTemplate.from_messages([
    6. Do NOT change wording, structure, or formatting of the answer. Remove redundant citations if the same source supports multiple claims, but do not change the content of the answer.
    7. Keep the same formatting (bullets, bold, etc.) as the original answer.
 
-   IMPORTANT: Citation numbers must be consistent and correctly mapped to the Evidence Index. Make sure the citations are complete"""),
-      ("human", """
+   IMPORTANT: Citation numbers must be consistent and correctly mapped to the Evidence Index. Make sure the citations are complete""",
+        ),
+        (
+            "human",
+            """
    --- EVIDENCE INDEX ---
    {evidence_index}
 
    --- FINAL ANSWER ---
-   {final_answer}""")
-   ])
-
+   {final_answer}""",
+        ),
+    ]
+)

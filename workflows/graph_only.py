@@ -6,23 +6,25 @@ from nodes.synthesizer import synthesizer
 
 graph_retriever = GraphRetrieverChain()
 
-#initialize the graph
+# initialize the graph
 graph = StateGraph(GraphState)
 
-#add nodes to the graph
+# add nodes to the graph
 graph.add_node("graph_retriever", graph_retriever.graph_retriever_node)
 graph.add_node("synthesizer", synthesizer)
 
-#add edges to the graph
+# add edges to the graph
 graph.add_edge(START, "graph_retriever")
 graph.add_edge("graph_retriever", "synthesizer")
 graph.add_edge("synthesizer", END)
 
-#compile the graph
+# compile the graph
 workflow = graph.compile()
 
 
 if __name__ == "__main__":
     print("Testing workflow...")
-    result = workflow.invoke({"question": "Return 7 types of medications for Type 2 Diabetes?"})
+    result = workflow.invoke(
+        {"question": "Return 7 types of medications for Type 2 Diabetes?"}
+    )
     print(result["final_answer"])

@@ -25,7 +25,7 @@ graph.add_edge(START, "router")
 graph.add_conditional_edges(
     "router",
     route_decision,
-    ["graph_retriever", "vector_retriever"], 
+    ["graph_retriever", "vector_retriever"],
 )
 
 # After graph_retriever: conditionally fall back to vector if graph returned empty
@@ -42,8 +42,6 @@ graph.add_edge("citation_agent", END)
 workflow = graph.compile()
 
 
-
-
 if __name__ == "__main__":
     import os
 
@@ -53,7 +51,9 @@ if __name__ == "__main__":
         f.write(workflow.get_graph(xray=True).draw_mermaid_png())
 
     print(f"Graph saved → {os.path.abspath(png_path)}")
-    os.startfile(os.path.abspath(png_path))  # opens with default image viewer on Windows
+    os.startfile(
+        os.path.abspath(png_path)
+    )  # opens with default image viewer on Windows
 
     # ── Continuous Run Loop ──────────────────────────────────────────────
     print("\nAgent ready. Press Ctrl+C to exit.\n")
@@ -67,9 +67,9 @@ if __name__ == "__main__":
             print(f"\nRouter choice    : {result['router_choice'].upper()}")
             print(f"Router reasoning : {result['router_reasoning']}")
             print(f"Citations        : {len(result.get('citations') or [])}")
-            print(f"\n{'─'*60}")
+            print(f"\n{'─' * 60}")
             print(f"Final Answer:\n{result['final_answer']}")
-            print(f"{'='*60}\n")
+            print(f"{'=' * 60}\n")
 
     except KeyboardInterrupt:
         print("\nExiting...")

@@ -1,6 +1,7 @@
 import json
 from neo4j import GraphDatabase
 
+
 class DiabetesGraphLoader:
     def __init__(self, uri, user, password):
         # Initialize the connection to Neo4j
@@ -18,7 +19,7 @@ class DiabetesGraphLoader:
                 "CREATE CONSTRAINT category_name IF NOT EXISTS FOR (c:Category) REQUIRE c.name IS UNIQUE",
                 "CREATE CONSTRAINT target_name IF NOT EXISTS FOR (t:Target) REQUIRE t.name IS UNIQUE",
                 "CREATE CONSTRAINT product_name IF NOT EXISTS FOR (p:Product) REQUIRE p.brand_name IS UNIQUE",
-                "CREATE CONSTRAINT food_rule IF NOT EXISTS FOR (f:FoodInteraction) REQUIRE f.description IS UNIQUE"
+                "CREATE CONSTRAINT food_rule IF NOT EXISTS FOR (f:FoodInteraction) REQUIRE f.description IS UNIQUE",
             ]
             for query in queries:
                 session.run(query)
@@ -26,29 +27,33 @@ class DiabetesGraphLoader:
 
     def load_data(self, json_filepath):
         """Load the JSON file and pass it to Neo4j in modular steps."""
-        with open(json_filepath, 'r', encoding='utf-8') as file:
+        with open(json_filepath, "r", encoding="utf-8") as file:
             drugs_data = json.load(file)
 
         with self.driver.session() as session:
-            print("1/6: Ingesting Base Medication Nodes (with Pharmacokinetics & Dosages)...")
+            print(
+                "1/6: Ingesting Base Medication Nodes (with Pharmacokinetics & Dosages)..."
+            )
             session.execute_write(self._ingest_medications, drugs_data)
-            
+
             print("2/6: Ingesting ATC Codes & Categories...")
             session.execute_write(self._ingest_classifications, drugs_data)
-            
+
             print("3/6: Ingesting Biological Targets...")
             session.execute_write(self._ingest_targets, drugs_data)
-            
+
             print("4/6: Ingesting Commercial Products...")
             session.execute_write(self._ingest_products, drugs_data)
-            
+
             print("5/6: Ingesting Food Interactions...")
             session.execute_write(self._ingest_food, drugs_data)
-            
+
             print("6/6: Ingesting Drug-Drug Interactions...")
             session.execute_write(self._ingest_drug_interactions, drugs_data)
-            
-        print(f"\n✓ Successfully loaded {len(drugs_data)} rich diabetes drugs into Neo4j!")
+
+        print(
+            f"\n✓ Successfully loaded {len(drugs_data)} rich diabetes drugs into Neo4j!"
+        )
 
     @staticmethod
     def _ingest_medications(tx, drugs_data):
@@ -141,13 +146,14 @@ class DiabetesGraphLoader:
         """
         tx.run(query, drugs=drugs_data)
 
+
 if __name__ == "__main__":
-    NEO4J_URI = "neo4j+s://52830101.databases.neo4j.io" # Or bolt://localhost:7687
+    NEO4J_URI = "neo4j+s://52830101.databases.neo4j.io"  # Or bolt://localhost:7687
     NEO4J_USER = "52830101"
     NEO4J_PASSWORD = "T7zK97BX1FVw48eifpBhXSupNXVw_YjBjSesnv0YozU"
-    
+
     JSON_FILE = r"7_drugbank\graph_data.json"
-    
+
     loader = DiabetesGraphLoader(NEO4J_URI, NEO4J_USER, NEO4J_PASSWORD)
     try:
         loader.create_constraints()

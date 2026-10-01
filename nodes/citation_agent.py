@@ -15,7 +15,10 @@ from config.prompts2 import citation_prompt
 
 # ── Evidence Builders ────────────────────────────────────────────────────
 
-def _build_vector_evidence(vector_docs: list, start_num: int) -> tuple[list[dict], list[str]]:
+
+def _build_vector_evidence(
+    vector_docs: list, start_num: int
+) -> tuple[list[dict], list[str]]:
     """Build numbered evidence entries from vector Document objects.
 
     Returns (citations_list, formatted_lines) where each line is like:
@@ -37,24 +40,30 @@ def _build_vector_evidence(vector_docs: list, start_num: int) -> tuple[list[dict
             parts.append(f'> "{meta["subsection_heading"]}"')
 
         label = "ADA — " + ", ".join(parts) if parts else "ADA — Unknown Section"
-        snippet = (doc.page_content[:200] + "...") if len(doc.page_content) > 200 else doc.page_content
+        snippet = (
+            (doc.page_content[:200] + "...")
+            if len(doc.page_content) > 200
+            else doc.page_content
+        )
 
-        citations.append({
-            "id": str(i),
-            "source_type": "vector",
-            "label": label,
-            "chapter_name": meta.get("chapter_name", ""),
-            "section_heading": meta.get("section_heading", ""),
-            "page_number": meta.get("page_number"),
-        })
-        lines.append(f"[{i}] {label}\n     Content: \"{snippet}\"")
+        citations.append(
+            {
+                "id": str(i),
+                "source_type": "vector",
+                "label": label,
+                "chapter_name": meta.get("chapter_name", ""),
+                "section_heading": meta.get("section_heading", ""),
+                "page_number": meta.get("page_number"),
+            }
+        )
+        lines.append(f'[{i}] {label}\n     Content: "{snippet}"')
 
     return citations, lines
 
 
 def _extract_relationship(cypher: str) -> str:
     """Extract the relationship type from a Cypher query, e.g. 'INTERACTS_WITH'."""
-    match = re.search(r'\[:(\w+)', cypher)
+    match = re.search(r"\[:(\w+)", cypher)
     return match.group(1) if match else "RELATED_TO"
 
 
@@ -78,7 +87,9 @@ def _format_record_as_path(record: dict, drug_name: str, relationship: str) -> s
     return f"{drug_name} —[{relationship}]→ {target}{detail}"
 
 
-def _build_graph_evidence(graph_docs: list, generated_cypher: str | None, start_num: int) -> tuple[list[dict], list[str]]:
+def _build_graph_evidence(
+    graph_docs: list, generated_cypher: str | None, start_num: int
+) -> tuple[list[dict], list[str]]:
     """Build numbered evidence entries from Neo4j result dicts."""
     citations = []
     lines = []
@@ -86,27 +97,33 @@ def _build_graph_evidence(graph_docs: list, generated_cypher: str | None, start_
     if not graph_docs:
         return citations, lines
 
-    relationship = _extract_relationship(generated_cypher) if generated_cypher else "RELATED_TO"
-    drug_name = _extract_drug_name(generated_cypher) if generated_cypher else "Unknown Drug"
+    relationship = (
+        _extract_relationship(generated_cypher) if generated_cypher else "RELATED_TO"
+    )
+    drug_name = (
+        _extract_drug_name(generated_cypher) if generated_cypher else "Unknown Drug"
+    )
 
     for i, record in enumerate(graph_docs, start=start_num):
         path = _format_record_as_path(record, drug_name, relationship)
         label = f"DrugBank KG — {path}"
 
-        citations.append({
-            "id": str(i),   
-            "source_type": "graph",
-            "label": label,
-            "relationship": relationship,
-            "drug_name": drug_name,
-        })
+        citations.append(
+            {
+                "id": str(i),
+                "source_type": "graph",
+                "label": label,
+                "relationship": relationship,
+                "drug_name": drug_name,
+            }
+        )
         lines.append(f"[{i}] {label}")
 
     return citations, lines
 
 
 def _build_web_evidence(web_docs: list, start_num: int) -> tuple[list[dict], list[str]]:
-    
+
     citations = []
     lines = []
 
@@ -121,19 +138,22 @@ def _build_web_evidence(web_docs: list, start_num: int) -> tuple[list[dict], lis
 
         label = f"{title} — {url}" if url else title
 
-        citations.append({
-            "id": str(i),
-            "source_type": "web",
-            "label": label,
-            "url": url,
-            "title": title,
-        })
-        lines.append(f"[{i}] {label}\n     Content: \"{snippet}\"")
+        citations.append(
+            {
+                "id": str(i),
+                "source_type": "web",
+                "label": label,
+                "url": url,
+                "title": title,
+            }
+        )
+        lines.append(f'[{i}] {label}\n     Content: "{snippet}"')
 
     return citations, lines
 
 
 # ── Main Citation Agent Node ─────────────────────────────────────────────
+
 
 def citation_agent(state):
     """LangGraph node: annotates the final answer with numbered references."""
@@ -151,7 +171,9 @@ def citation_agent(state):
     v_citations, v_lines = _build_vector_evidence(vector_docs, start_num=counter)
     counter += len(v_citations)
 
-    g_citations, g_lines = _build_graph_evidence(graph_docs, generated_cypher, start_num=counter)
+    g_citations, g_lines = _build_graph_evidence(
+        graph_docs, generated_cypher, start_num=counter
+    )
     counter += len(g_citations)
 
     w_citations, w_lines = _build_web_evidence(web_docs, start_num=counter)
@@ -169,9 +191,11 @@ def citation_agent(state):
     # ── Run citation LLM ────────────────────────────────────────────
     chain = citation_prompt | response_llm | StrOutputParser()
 
-    cited_answer = chain.invoke({
-        "evidence_index": evidence_index,
-        "final_answer": final_answer,
-    })
+    cited_answer = chain.invoke(
+        {
+            "evidence_index": evidence_index,
+            "final_answer": final_answer,
+        }
+    )
 
     return {"final_answer": cited_answer, "citations": all_citations}

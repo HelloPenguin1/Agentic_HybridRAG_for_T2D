@@ -45,15 +45,15 @@ vector_retriever = VectorRetriever()
 graph = StateGraph(GraphState)
 
 # ── Register nodes ──────────────────────────────────────────────────────
-graph.add_node("router",               Router)
-graph.add_node("graph_retriever",      graph_retriever_chain.graph_retriever_node)
-graph.add_node("vector_retriever",     vector_retriever.vector_retriever_node)
-graph.add_node("evidence_gate",        evidence_gate)
-graph.add_node("synthesizer",          synthesizer)
+graph.add_node("router", Router)
+graph.add_node("graph_retriever", graph_retriever_chain.graph_retriever_node)
+graph.add_node("vector_retriever", vector_retriever.vector_retriever_node)
+graph.add_node("evidence_gate", evidence_gate)
+graph.add_node("synthesizer", synthesizer)
 graph.add_node("hallucination_grader", hallucination_grader)
-graph.add_node("refiner",             refiner_node)
-graph.add_node("citation_agent",       citation_agent)
-graph.add_node("web_search",           web_search_node)
+graph.add_node("refiner", refiner_node)
+graph.add_node("citation_agent", citation_agent)
+graph.add_node("web_search", web_search_node)
 
 
 # ── 1. START → Router ───────────────────────────────────────────────────
@@ -104,7 +104,7 @@ graph.add_conditional_edges(
     "hallucination_grader",
     hallucination_decision,
     {
-        "end":     "citation_agent",
+        "end": "citation_agent",
         "refiner": "refiner",
     },
 )
@@ -129,7 +129,7 @@ if __name__ == "__main__":
         f.write(workflow.get_graph(xray=True).draw_mermaid_png())
 
     print(f"Graph saved → {os.path.abspath(png_path)}")
-    #os.startfile(os.path.abspath(png_path))
+    # os.startfile(os.path.abspath(png_path))
 
     # ── Continuous Run Loop ──────────────────────────────────────────────
     print("\nAgent ready. Press Ctrl+C to exit.\n")
@@ -145,9 +145,9 @@ if __name__ == "__main__":
             print(f"Web search used  : {result.get('web_search_used', False)}")
             print(f"Hallucination    : {result.get('hallucination_score', 'N/A')}")
             print(f"Citations        : {len(result.get('citations') or [])}")
-            print(f"\n{'─'*60}")
+            print(f"\n{'─' * 60}")
             print(f"Final Answer:\n{result['final_answer']}")
-            print(f"{'='*60}\n")
+            print(f"{'=' * 60}\n")
 
     except KeyboardInterrupt:
         print("\nExiting...")

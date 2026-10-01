@@ -22,16 +22,19 @@ dataset_name = "diabetes_graphdb_dataset"
 
 ls_dataset = client.create_dataset(
     dataset_name=dataset_name,
-    description="Evaluation dataset for the Agentic GraphRAG T2D system: Testing Graph Only"
+    description="Evaluation dataset for the Agentic GraphRAG T2D system: Testing Graph Only",
 )
 
 client.create_examples(
     inputs=[{"question": item["question"]} for item in dataset],
-    outputs=[{
-        "ground_truth_answer": item["ground_truth_answer"],
-        "expected_route":      item["expected_route"],
-    } for item in dataset],
-    dataset_id=ls_dataset.id
+    outputs=[
+        {
+            "ground_truth_answer": item["ground_truth_answer"],
+            "expected_route": item["expected_route"],
+        }
+        for item in dataset
+    ],
+    dataset_id=ls_dataset.id,
 )
 
 print(f"Uploaded {len(dataset)} questions to LangSmith dataset: {dataset_name}")

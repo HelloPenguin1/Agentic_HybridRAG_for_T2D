@@ -12,27 +12,28 @@ st.set_page_config(
     page_title="Diabetes Nursing Assistant",
     page_icon="assistant_icon.png",
     layout="wide",
-    initial_sidebar_state="expanded"
+    initial_sidebar_state="expanded",
 )
 
 API_BASE_URL = "http://127.0.0.1:8000"
-ENABLE_STREAMING = False 
+ENABLE_STREAMING = False
 
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # SESSION STATE
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-if 'chat_history' not in st.session_state:
+if "chat_history" not in st.session_state:
     st.session_state.chat_history = []
 
-if 'system_ready' not in st.session_state:
+if "system_ready" not in st.session_state:
     st.session_state.system_ready = False
 
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # HELPER FUNCTIONS
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 
 def check_api_health() -> bool:
     """Check if API is running and ready"""
@@ -47,30 +48,25 @@ def query_api(question: str) -> dict:
     """Send query to API and get response"""
     try:
         response = requests.post(
-            f"{API_BASE_URL}/query",
-            json={"question": question},
-            timeout=60
+            f"{API_BASE_URL}/query", json={"question": question}, timeout=60
         )
-        
+
         if response.status_code == 200:
             return response.json()
         else:
             return {
                 "error": True,
                 "message": f"API Error: {response.status_code}",
-                "detail": response.text
+                "detail": response.text,
             }
-            
+
     except requests.exceptions.Timeout:
         return {
             "error": True,
-            "message": "Request timed out. The query is taking too long to process."
+            "message": "Request timed out. The query is taking too long to process.",
         }
     except requests.exceptions.RequestException as e:
-        return {
-            "error": True,
-            "message": f"Connection error: {str(e)}"
-        }
+        return {"error": True, "message": f"Connection error: {str(e)}"}
 
 
 def query_api_stream(question: str):
@@ -80,13 +76,13 @@ def query_api_stream(question: str):
             f"{API_BASE_URL}/query/stream",
             json={"question": question},
             stream=True,
-            timeout=120
+            timeout=120,
         )
-        
+
         if response.status_code == 200:
             # Parse SSE stream
             client = sseclient.SSEClient(response)
-            
+
             for event in client.events():
                 if event.data:
                     try:
@@ -95,44 +91,31 @@ def query_api_stream(question: str):
                     except json.JSONDecodeError:
                         continue
         else:
-            yield {
-                "type": "error",
-                "message": f"API Error: {response.status_code}"
-            }
-            
+            yield {"type": "error", "message": f"API Error: {response.status_code}"}
+
     except Exception as e:
-        yield {
-            "type": "error",
-            "message": f"Streaming error: {str(e)}"
-        }
+        yield {"type": "error", "message": f"Streaming error: {str(e)}"}
 
 
 def format_citation(citation: dict) -> str:
     """Format a citation for display"""
-    source_type = citation.get('source_type', 'unknown')
-    
+    source_type = citation.get("source_type", "unknown")
+
     # Icon based on source type
-    icon = {
-        'vector': '📄',
-        'graph': '🔗',
-        'web': '🌐'
-    }.get(source_type, '📌')
-    
+    icon = {"vector": "📄", "graph": "🔗", "web": "🌐"}.get(source_type, "📌")
+
     return f"{icon} **[{citation['id']}]** {citation['label']}"
 
 
 def format_router_info(metadata: dict) -> str:
     """Format router decision info"""
-    choice = metadata.get('router_choice', 'unknown')
-    
+    choice = metadata.get("router_choice", "unknown")
+
     # Icon based on choice
-    icon = {
-        'graph': '🔗',
-        'vector': '📄',
-        'both': '🔗📄',
-        'real_time': '🌐'
-    }.get(choice, '🤖')
-    
+    icon = {"graph": "🔗", "vector": "📄", "both": "🔗📄", "real_time": "🌐"}.get(
+        choice, "🤖"
+    )
+
     return f"{icon} **{choice.upper()}**"
 
 
@@ -143,7 +126,7 @@ def format_router_info(metadata: dict) -> str:
 with st.sidebar:
     st.title("Settings and Information")
     st.markdown("---")
-    
+
     # API Status
     if check_api_health():
         st.success("System Ready")
@@ -152,22 +135,22 @@ with st.sidebar:
         st.error("API Offline")
         st.warning("Start the API server:\n```bash\npython api/main.py\n```")
         st.session_state.system_ready = False
-    
+
     st.markdown("---")
-    
+
     # Chat Controls
     st.subheader("Chat Controls")
-    
+
     if st.button("New Conversation", use_container_width=True):
         st.session_state.chat_history = []
         st.rerun()
-    
+
     if st.button("Clear History", use_container_width=True):
         st.session_state.chat_history = []
         st.rerun()
-    
+
     st.markdown("---")
-    
+
     # System Info
     with st.expander("ℹ️ System Information"):
         st.markdown("""
@@ -185,7 +168,7 @@ with st.sidebar:
         6. Hallucination Grader → Verification
         7. Citation Agent → Traceability
         """)
-    
+
     # Example Questions
     with st.expander("Example Questions"):
         st.markdown("""
@@ -201,7 +184,7 @@ with st.sidebar:
         - When should I hold metformin before a procedure?
         - Patient on metformin has eGFR of 28, what should I do?
         """)
-    
+
     st.markdown("---")
     st.caption(f"API: {API_BASE_URL}")
 
@@ -239,178 +222,203 @@ if len(st.session_state.chat_history) == 0:
 for message in st.session_state.chat_history:
     with st.chat_message(message["role"]):
         st.markdown(message["content"])
-        
+
         # Show metadata for assistant messages
         if message["role"] == "assistant" and "metadata" in message:
             with st.expander("**Details**", expanded=False):
                 metadata = message["metadata"]
-                
+
                 col1, col2 = st.columns(2)
                 with col1:
                     st.markdown(f"**Router Decision:** {format_router_info(metadata)}")
-                    st.caption(metadata.get('router_reasoning', 'N/A'))
-                    
+                    st.caption(metadata.get("router_reasoning", "N/A"))
+
                 with col2:
-                    st.markdown(f"**Web Search:** {'Yes' if metadata.get('web_search_used') else 'No'}")
-                    st.markdown(f"**Hallucination Check:** {metadata.get('hallucination_score', 'N/A')}")
-                
+                    st.markdown(
+                        f"**Web Search:** {'Yes' if metadata.get('web_search_used') else 'No'}"
+                    )
+                    st.markdown(
+                        f"**Hallucination Check:** {metadata.get('hallucination_score', 'N/A')}"
+                    )
+
                 # Agent flow
                 st.markdown("**Execution Flow:**")
-                agents = metadata.get('agents_executed', [])
+                agents = metadata.get("agents_executed", [])
                 st.caption(" → ".join(agents))
-        
+
         # Show citations
-        if message["role"] == "assistant" and "citations" in message and message["citations"]:
-            with st.expander(f"📚 References ({len(message['citations'])})", expanded=False):
+        if (
+            message["role"] == "assistant"
+            and "citations" in message
+            and message["citations"]
+        ):
+            with st.expander(
+                f"📚 References ({len(message['citations'])})", expanded=False
+            ):
                 for citation in message["citations"]:
                     st.markdown(format_citation(citation))
 
 
 # Chat input
-if prompt := st.chat_input("Ask me about diabetes nursing care...", disabled=not st.session_state.system_ready):
+if prompt := st.chat_input(
+    "Ask me about diabetes nursing care...", disabled=not st.session_state.system_ready
+):
     # Add user message
-    st.session_state.chat_history.append({
-        "role": "user",
-        "content": prompt
-    })
-    
+    st.session_state.chat_history.append({"role": "user", "content": prompt})
+
     # Display user message
     with st.chat_message("user"):
         st.markdown(prompt)
-    
+
     # Get assistant response
     with st.chat_message("assistant"):
         # Streaming mode
         if ENABLE_STREAMING:
             status_placeholder = st.empty()
             answer_placeholder = st.empty()
-            
+
             full_answer = ""
             final_data = None
-            
+
             # Stream the response
             for event in query_api_stream(prompt):
                 event_type = event.get("type")
-                
+
                 # Status updates
                 if event_type == "status":
                     agent = event.get("agent", "system")
                     message = event.get("message", "")
                     status_placeholder.caption(f"🔄 {agent}: {message}")
-                
+
                 # Answer chunks
                 elif event_type == "answer":
                     chunk = event.get("content", "")
                     full_answer += chunk
                     answer_placeholder.markdown(full_answer + "▌")  # Cursor effect
-                
+
                 # Complete
                 elif event_type == "complete":
                     final_data = event.get("data", {})
                     full_answer = final_data.get("answer", full_answer)
                     status_placeholder.empty()  # Clear status
                     answer_placeholder.markdown(full_answer)  # Remove cursor
-                
+
                 # Error
                 elif event_type == "error":
                     error_msg = f"❌ **Error:** {event.get('message', 'Unknown error')}"
                     status_placeholder.empty()
                     answer_placeholder.error(error_msg)
-                    
-                    st.session_state.chat_history.append({
-                        "role": "assistant",
-                        "content": error_msg
-                    })
+
+                    st.session_state.chat_history.append(
+                        {"role": "assistant", "content": error_msg}
+                    )
                     st.stop()
-            
+
             # Process final data if available
             if final_data:
                 citations = final_data.get("citations", [])
                 metadata = final_data.get("metadata", {})
-                
+
                 # Display metadata
                 with st.expander("🔍 Details", expanded=False):
                     col1, col2 = st.columns(2)
                     with col1:
-                        st.markdown(f"**Router Decision:** {format_router_info(metadata)}")
-                        st.caption(metadata.get('router_reasoning', 'N/A'))
-                        
+                        st.markdown(
+                            f"**Router Decision:** {format_router_info(metadata)}"
+                        )
+                        st.caption(metadata.get("router_reasoning", "N/A"))
+
                     with col2:
-                        st.markdown(f"**Web Search:** {'Yes' if metadata.get('web_search_used') else 'No'}")
-                        st.markdown(f"**Hallucination Check:** {metadata.get('hallucination_score', 'N/A')}")
-                    
+                        st.markdown(
+                            f"**Web Search:** {'Yes' if metadata.get('web_search_used') else 'No'}"
+                        )
+                        st.markdown(
+                            f"**Hallucination Check:** {metadata.get('hallucination_score', 'N/A')}"
+                        )
+
                     # Agent flow
                     st.markdown("**Execution Flow:**")
-                    agents = metadata.get('agents_executed', [])
+                    agents = metadata.get("agents_executed", [])
                     st.caption(" → ".join(agents))
-                
+
                 # Display citations
                 if citations:
                     with st.expander(f"References ({len(citations)})", expanded=False):
                         for citation in citations:
                             st.markdown(format_citation(citation))
-                
+
                 # Save to history
-                st.session_state.chat_history.append({
-                    "role": "assistant",
-                    "content": full_answer,
-                    "citations": citations,
-                    "metadata": metadata
-                })
-        
+                st.session_state.chat_history.append(
+                    {
+                        "role": "assistant",
+                        "content": full_answer,
+                        "citations": citations,
+                        "metadata": metadata,
+                    }
+                )
+
         # Non-streaming mode (fallback)
         else:
             with st.spinner("Processing..."):
                 response_data = query_api(prompt)
-            
+
             # Handle errors
             if response_data.get("error"):
-                error_msg = f"**Error:** {response_data.get('message', 'Unknown error')}"
+                error_msg = (
+                    f"**Error:** {response_data.get('message', 'Unknown error')}"
+                )
                 st.error(error_msg)
-                
-                st.session_state.chat_history.append({
-                    "role": "assistant",
-                    "content": error_msg
-                })
-            
+
+                st.session_state.chat_history.append(
+                    {"role": "assistant", "content": error_msg}
+                )
+
             # Display successful response
             else:
                 answer = response_data.get("answer", "No answer received")
                 citations = response_data.get("citations", [])
                 metadata = response_data.get("metadata", {})
-                
+
                 # Display answer
                 st.markdown(answer)
-                
+
                 # Display metadata
                 with st.expander("🔍 Details", expanded=False):
                     col1, col2 = st.columns(2)
                     with col1:
-                        st.markdown(f"**Router Decision:** {format_router_info(metadata)}")
-                        st.caption(metadata.get('router_reasoning', 'N/A'))
-                        
+                        st.markdown(
+                            f"**Router Decision:** {format_router_info(metadata)}"
+                        )
+                        st.caption(metadata.get("router_reasoning", "N/A"))
+
                     with col2:
-                        st.markdown(f"**Web Search:** {'Yes' if metadata.get('web_search_used') else 'No'}")
-                        st.markdown(f"**Hallucination Check:** {metadata.get('hallucination_score', 'N/A')}")
-                    
+                        st.markdown(
+                            f"**Web Search:** {'Yes' if metadata.get('web_search_used') else 'No'}"
+                        )
+                        st.markdown(
+                            f"**Hallucination Check:** {metadata.get('hallucination_score', 'N/A')}"
+                        )
+
                     # Agent flow
                     st.markdown("**Execution Flow:**")
-                    agents = metadata.get('agents_executed', [])
+                    agents = metadata.get("agents_executed", [])
                     st.caption(" → ".join(agents))
-                
-                #Display citations
+
+                # Display citations
                 if citations:
                     with st.expander(f"References ({len(citations)})", expanded=False):
                         for citation in citations:
                             st.markdown(format_citation(citation))
-                
+
                 # Save to history
-                st.session_state.chat_history.append({
-                    "role": "assistant",
-                    "content": answer,
-                    "citations": citations,
-                    "metadata": metadata
-                })
+                st.session_state.chat_history.append(
+                    {
+                        "role": "assistant",
+                        "content": answer,
+                        "citations": citations,
+                        "metadata": metadata,
+                    }
+                )
 
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -423,5 +431,5 @@ st.markdown(
     "🩺 Diabetes Nursing GraphRAG | Powered by Neo4j, Qdrant & LangGraph | "
     f"Messages: {len(st.session_state.chat_history)}"
     "</div>",
-    unsafe_allow_html=True
+    unsafe_allow_html=True,
 )

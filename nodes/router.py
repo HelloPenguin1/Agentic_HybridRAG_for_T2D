@@ -1,13 +1,17 @@
-
-from config.settings import router_llm  #already configured with structured output in settings
+from config.settings import (
+    router_llm,
+)  # already configured with structured output in settings
 from config.prompts2 import router_prompt
+
 
 def Router(state):
     """Route the input question to the appropriate retriever node"""
     chain = router_prompt | router_llm
     decision = chain.invoke({"question": state["question"]})
-    return {"router_choice": decision.router_choice, "router_reasoning": decision.router_reasoning}
-
+    return {
+        "router_choice": decision.router_choice,
+        "router_reasoning": decision.router_reasoning,
+    }
 
 
 # Conditional edge logic

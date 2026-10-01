@@ -16,8 +16,8 @@ def evidence_gate(state) -> dict:
     This node does NOT call an LLM — it is a pure-Python quality gate.
     It writes `web_search_used` to state so downstream nodes know the source.
     """
-    vector_docs   = state.get("vector_docs") or []
-    graph_docs    = state.get("graph_docs")  or []
+    vector_docs = state.get("vector_docs") or []
+    graph_docs = state.get("graph_docs") or []
     router_choice = state.get("router_choice", "")
 
     needs_web = False

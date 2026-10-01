@@ -25,11 +25,11 @@ load_dotenv(Path(__file__).parent.parent / ".env")
 client = Groq(api_key=os.environ["GROQ_API_KEY"])
 MODEL = "llama-3.3-70b-versatile"
 
-CHUNKS_DIR      = Path(__file__).parent / "processed_chunks"
-OUTPUT_PATH     = Path(__file__).parent / "eval_queries.json"
-SAMPLES_PER_FILE = 2       # change to 1 for 10 total, 2 for 20, etc.
-MIN_CHUNK_CHARS  = 300     # skip short / header / citation chunks
-random.seed(None)          # random seed so each run picks different chunks
+CHUNKS_DIR = Path(__file__).parent / "processed_chunks"
+OUTPUT_PATH = Path(__file__).parent / "eval_queries.json"
+SAMPLES_PER_FILE = 2  # change to 1 for 10 total, 2 for 20, etc.
+MIN_CHUNK_CHARS = 300  # skip short / header / citation chunks
+random.seed(None)  # random seed so each run picks different chunks
 
 TARGET_FILES = [
     "ada_chapter2_chunks.json",
@@ -62,13 +62,14 @@ def sample_chunks(filepath: Path, n: int) -> list[dict]:
         data = json.load(f)
 
     candidates = [
-        c for c in data
+        c
+        for c in data
         if len(c["page_content"].strip()) >= MIN_CHUNK_CHARS
         and c["metadata"].get("chunk_id") not in used_chunk_ids
         # Skip reference lists and page headers
         and not c["page_content"].strip().startswith("Diabetes Care Volume")
         and "doi.org" not in c["page_content"][:80]
-        and not c["page_content"].strip().startswith("|")   # pure table rows
+        and not c["page_content"].strip().startswith("|")  # pure table rows
     ]
 
     if not candidates:
@@ -105,8 +106,10 @@ EXCERPT:
 new_queries = []
 
 print("=" * 60)
-print(f"Generating {SAMPLES_PER_FILE} queries × {len(TARGET_FILES)} files = "
-      f"{SAMPLES_PER_FILE * len(TARGET_FILES)} new queries")
+print(
+    f"Generating {SAMPLES_PER_FILE} queries × {len(TARGET_FILES)} files = "
+    f"{SAMPLES_PER_FILE * len(TARGET_FILES)} new queries"
+)
 print("=" * 60)
 
 for i, filename in enumerate(TARGET_FILES, 1):
@@ -123,9 +126,9 @@ for i, filename in enumerate(TARGET_FILES, 1):
         continue
 
     for j, chunk in enumerate(chunks, 1):
-        chunk_id   = chunk["metadata"]["chunk_id"]
+        chunk_id = chunk["metadata"]["chunk_id"]
         chunk_text = chunk["page_content"]
-        source     = chunk["metadata"].get("source", filename)
+        source = chunk["metadata"].get("source", filename)
 
         print(f"  sample {j}: chunk_id={chunk_id}")
         print(f"  text   : {chunk_text[:100].strip()}...")
@@ -133,18 +136,20 @@ for i, filename in enumerate(TARGET_FILES, 1):
         query = generate_query(chunk_text)
         print(f"  query  : {query}")
 
-        new_queries.append({
-            "query":                  query,
-            "ground_truth_chunk_id":  chunk_id,
-            "source":                 source,
-            "chunk_text":             chunk_text,
-        })
+        new_queries.append(
+            {
+                "query": query,
+                "ground_truth_chunk_id": chunk_id,
+                "source": source,
+                "chunk_text": chunk_text,
+            }
+        )
 
         # Mark as used so sibling samples in same run don't collide
         used_chunk_ids.add(chunk_id)
 
         if not (i == len(TARGET_FILES) and j == len(chunks)):
-            time.sleep(2)   # respect Groq rate limit
+            time.sleep(2)  # respect Groq rate limit
 
 
 # ── Append & save ─────────────────────────────────────────────────────────────
@@ -154,7 +159,7 @@ with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
     json.dump(combined, f, indent=2, ensure_ascii=False)
 
 size_kb = OUTPUT_PATH.stat().st_size / 1024
-print(f"\n{'='*60}")
+print(f"\n{'=' * 60}")
 print(f" {OUTPUT_PATH.name} updated")
 print(f"   Before : {len(existing)} queries")
 print(f"   Added  : {len(new_queries)} queries")

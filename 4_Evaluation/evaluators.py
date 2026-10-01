@@ -28,7 +28,7 @@ from openai import OpenAI
 from langsmith.schemas import Run, Example
 from langsmith.evaluation import EvaluationResult
 from langsmith.evaluation import EvaluationResult, run_evaluator
-from config.settings import response_llm 
+from config.settings import response_llm
 from config.output_validation import GRAPH_EMPTY
 
 _oai = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
@@ -57,8 +57,8 @@ def answer_correctness(run: Run, example: Example) -> EvaluationResult:
     LLM-as-Judge: how factually correct is the system answer vs ground truth?
     Scale 0-5, normalized to 0-1.
     """
-    question      = example.inputs["question"]
-    ground_truth  = example.outputs["ground_truth_answer"]
+    question = example.inputs["question"]
+    ground_truth = example.outputs["ground_truth_answer"]
     system_answer = run.outputs.get("final_answer", "")
 
     prompt = f"""You are a clinical accuracy evaluator for a Type 2 Diabetes Q&A system.
@@ -91,7 +91,7 @@ def faithfulness(run: Run, example: Example) -> EvaluationResult:
     LLM-as-Judge: are the claims in the system answer supported by retrieved context?
     Scale 0-5, normalized to 0-1. Catches hallucinations.
     """
-    system_answer     = run.outputs.get("final_answer", "")
+    system_answer = run.outputs.get("final_answer", "")
     retrieved_context = run.outputs.get("retrieved_context", "")
 
     if not retrieved_context:
@@ -126,8 +126,8 @@ def completeness(run: Run, example: Example) -> EvaluationResult:
     LLM-as-Judge: does the system answer cover all key points from the ground truth?
     Scale 0-5, normalized to 0-1.
     """
-    question      = example.inputs["question"]
-    ground_truth  = example.outputs["ground_truth_answer"]
+    question = example.inputs["question"]
+    ground_truth = example.outputs["ground_truth_answer"]
     system_answer = run.outputs.get("final_answer", "")
 
     prompt = f"""You are evaluating the completeness of a clinical answer for nurses.
@@ -164,7 +164,7 @@ def router_accuracy(run: Run, example: Example) -> EvaluationResult:
     but most meaningful for the adaptive router config.
     """
     expected = example.outputs.get("expected_route", "").strip().lower()
-    actual   = run.outputs.get("router_choice", "").strip().lower()
+    actual = run.outputs.get("router_choice", "").strip().lower()
 
     score = 1.0 if (expected and actual and expected == actual) else 0.0
     return EvaluationResult(key="router_accuracy", score=score)
@@ -215,10 +215,8 @@ def cypher_semantic_correctness(run, example) -> EvaluationResult:
 
     score = 1.0 if res.startswith("YES") else 0.0
 
-    return EvaluationResult(
-        key="cypher_semantic_correctness",
-        score=score
-    )
+    return EvaluationResult(key="cypher_semantic_correctness", score=score)
+
 
 # @run_evaluator
 # def cypher_query_correctness(run: Run, example: Example) -> EvaluationResult:
@@ -228,7 +226,7 @@ def cypher_semantic_correctness(run, example) -> EvaluationResult:
 #     """
 #     query = run.outputs.get("generated_cypher")
 #     graph_result = run.outputs.get("graph_result")
-    
+
 #     # 0.0 = Query failed to execute (No query generated or exception caught in node)
 #     if not query:
 #         return EvaluationResult(key="cypher_query_correctness", score=0.0)
@@ -236,12 +234,12 @@ def cypher_semantic_correctness(run, example) -> EvaluationResult:
 #     # Clean and check the result against the empty sentinel
 #     res_str = str(graph_result).strip() if graph_result else ""
 #     sentinel_str = str(GRAPH_EMPTY).strip()
-    
+
 #     # Check for empty indicators
 #     is_empty = (
-#         not res_str or 
-#         res_str == sentinel_str or 
-#         res_str == "[]" or 
+#         not res_str or
+#         res_str == sentinel_str or
+#         res_str == "[]" or
 #         "no records found" in res_str.lower()
 #     )
 
@@ -262,16 +260,16 @@ def context_recall_evaluator(run, example) -> EvaluationResult:
     """Tier 2: Checks if retrieved graph data contains the ground truth facts."""
     ground_truth = example.outputs.get("ground_truth_context", "")
     graph_docs = run.outputs.get("graph_docs", [])
-    
+
     if not ground_truth:
         return EvaluationResult(key="context_recall", score=None)
-    
+
     # Convert graph_docs to string for comparison
     if isinstance(graph_docs, list):
         retrieved_context = "\n".join([str(d) for d in graph_docs])
     else:
         retrieved_context = str(graph_docs)
-    
+
     if not retrieved_context:
         # No context retrieved for a graph question
         return EvaluationResult(key="context_recall", score=0.0)
@@ -280,10 +278,9 @@ def context_recall_evaluator(run, example) -> EvaluationResult:
     Retrieved facts: {retrieved_context}
     Does the Retrieved facts text contain the core clinical information found in the Ground truth facts? 
     Answer only with YES, or  NO."""
-    
+
     res = response_llm.invoke(prompt).content.strip().upper()
     return EvaluationResult(key="context_recall", score=1 if "YES" in res else 0)
-
 
 
 @run_evaluator
@@ -291,16 +288,16 @@ def e2e_quality_evaluator(run, example) -> EvaluationResult:
     """Tier 3: Scores the final generated answer against the golden answer (1-5)."""
     gt_answer = example.outputs.get("ground_truth_answer", "")
     final_answer = run.outputs.get("final_answer", "")
-    
+
     prompt = f"""Golden Answer: {gt_answer}
     Agent Answer: {final_answer}
     Rate the Agent Answer from 1 to 5 based on clinical accuracy and alignment with the Golden Answer. 
     Output ONLY the integer (e.g., 4)."""
-    
+
     try:
         res = response_llm.invoke(prompt).content.strip()
         score = int(res) / 5.0  # Normalize to a 0.0 - 1.0 scale for LangSmith
     except ValueError:
         score = 0.0
-        
+
     return EvaluationResult(key="e2e_quality", score=score)

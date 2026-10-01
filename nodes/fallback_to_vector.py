@@ -1,5 +1,3 @@
-
-
 from config.output_validation import GRAPH_EMPTY
 
 
@@ -14,7 +12,7 @@ def fallback_to_vector(state):
     - graph_result is GRAPH_EMPTY sentinel AND router was 'both'
                                      → evidence_gate (vector already ran in parallel)
     """
-    graph_result  = state.get("graph_result", GRAPH_EMPTY)
+    graph_result = state.get("graph_result", GRAPH_EMPTY)
     router_choice = state.get("router_choice", "graph")
 
     if graph_result and graph_result != GRAPH_EMPTY:
@@ -27,5 +25,3 @@ def fallback_to_vector(state):
     else:
         print("[fallback] Graph empty — relying on vector retriever results.")
         return "evidence_gate"
-
- 

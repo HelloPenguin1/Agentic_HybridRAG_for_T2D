@@ -15,6 +15,7 @@ from vectordb_ingestion.data_loader import MedicalDataLoader
 PDF_DIR = r"t2d_extraction_pipeline\data\raw_pdfs"
 OUTPUT_DIR = r"vectordb_ingestion\processed_chunks"
 
+
 def main():
     """
     Process all PDFs with medical-grade extraction pipeline.
@@ -22,47 +23,44 @@ def main():
     print("Medical-Grade PDF Extraction Pipeline")
     print("3-Phase Process: Parse → Split → Enrich")
     print()
-    
+
     # Initialize loader
     loader = MedicalDataLoader(
         pdf_dir=PDF_DIR,
         output_dir=OUTPUT_DIR,
         chunk_size=1000,  # Adjust based on your embedding model
-        chunk_overlap=200
+        chunk_overlap=200,
     )
-    
+
     # Process all PDFs
     loader.process_all_pdfs()
-    
+
     print("All PDFs processed successfully!")
     print(f"Output location: {Path(OUTPUT_DIR).absolute()}")
-
-
 
 
 def inspect_chunks():
     """
     Example: Inspect chunks from a processed file.
     """
-    loader = MedicalDataLoader(
-        pdf_dir=PDF_DIR,
-        output_dir=OUTPUT_DIR
-    )
-    
+    loader = MedicalDataLoader(pdf_dir=PDF_DIR, output_dir=OUTPUT_DIR)
+
     # Load chunks from a specific file
     chunk_file = Path(OUTPUT_DIR) / "ada_cardio_disease_manag_chunks.json"
-    
+
     if chunk_file.exists():
         chunks = loader.load_chunks_from_disk(str(chunk_file))
         stats = loader.get_chunk_stats(chunks)
-        
+
         print(f"\nChunk Statistics for {chunk_file.name}:")
         print(f"  Total chunks: {stats['total_chunks']}")
         print(f"  Avg chunk size: {stats['avg_chunk_size']:.0f} chars")
-        print(f"  Min/Max size: {stats['min_chunk_size']}/{stats['max_chunk_size']} chars")
+        print(
+            f"  Min/Max size: {stats['min_chunk_size']}/{stats['max_chunk_size']} chars"
+        )
         print(f"  Unique pages: {stats['unique_pages']}")
         print(f"  Unique chapters: {stats['unique_chapters']}")
-        
+
         # Show first chunk as example
         if chunks:
             print("\nFirst chunk preview:")
@@ -74,6 +72,6 @@ def inspect_chunks():
 
 if __name__ == "__main__":
     main()
-    
+
     # Uncomment to inspect chunks after processing
     # inspect_chunks()

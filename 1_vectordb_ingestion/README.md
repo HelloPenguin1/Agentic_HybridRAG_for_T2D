@@ -104,7 +104,7 @@ DEVICE = "cuda"  # Change from "cpu" to "cuda"
 To overwrite existing collections, edit `multi_model_ingestion.py`:
 
 ```python
-force_recreate=True  # Change from False to True
+force_recreate = True  # Change from False to True
 ```
 
 ## Output Files
