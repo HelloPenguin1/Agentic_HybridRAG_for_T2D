@@ -40,6 +40,11 @@ D. Reciprocal Rank Fusion (RRF) - Different Weight Combinations
 E. RRF + Reranker Combination
    9. RRF [0.7, 0.3] + reranker    → P@5: 0.393, Latency: 717ms
 
+F. Tested Query Rewriting to improve retrieval
+   - 4 Different Prompt Versions 
+
+   - No significant retriever improvements
+
 FINAL SELECTED CONFIGURATION
 -----------------------------
 MedEmbed + BM25 RRF [0.7, 0.3] (k=10)
