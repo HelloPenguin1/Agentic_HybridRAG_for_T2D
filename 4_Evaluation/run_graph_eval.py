@@ -1,40 +1,45 @@
-import sys, time
+"""Run graph-only workflow (graph_retriever -> synthesizer) on the LangSmith graph dataset.
+
+Run from repo root:  python 4_Evaluation/run_graph_eval.py
+UI-defined judge evaluators attached to the dataset score the outputs automatically.
+"""
+import sys
 from pathlib import Path
 
-sys.path.insert(0, str(Path(__file__).parent.parent))  # project root
-sys.path.insert(0, str(Path(__file__).parent))  # 6_Evaluation/
-from dotenv import load_dotenv
+ROOT = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(ROOT))
 
-load_dotenv(Path(__file__).parent.parent / ".env")
+from dotenv import load_dotenv
+load_dotenv(ROOT / ".env")
 
 from langsmith import evaluate
-from eval_runners import run_graph_only
-from evaluators import (
-    cypher_query_correctness,
-    context_recall_evaluator,
-    e2e_quality_evaluator,
-)
+from workflows.graph_only import workflow
 
-DATASET = "T2D_Graph_Dataset"
-EVALUATORS = [cypher_query_correctness, context_recall_evaluator, e2e_quality_evaluator]
+DATASET = "Graph_Eval_Dataset"  
 
-configs = [
-    # ("adaptive-router", run_adaptive_router),
-    # ("fixed-hybrid",    run_fixed_hybrid),
-    # ("vector-only",     run_vector_only),
-    ("graph-only", run_graph_only),
-]
 
-for i, (name, runner) in enumerate(configs):
-    print(f" Running: {name}  ({i + 1}/{len(configs)})")
+def run_graph_only(inputs: dict) -> dict:
+    state = workflow.invoke({"question": inputs["question"]})
+    return {
+        "generated_cypher": state.get("generated_cypher"),
+        "graph_docs": state.get("graph_docs", []),
+        "retrieved_context": state.get("graph_result", ""),
+        "final_answer": state.get("final_answer", ""),
+    }
+
+
+def cypher_execution_success(outputs: dict) -> dict:
+    return {"results": [
+        {"key": "cypher_executed", "score": float(outputs.get("generated_cypher") is not None)},
+        {"key": "non_empty_result", "score": float(bool(outputs.get("graph_docs")))},
+    ]}
+
+
+if __name__ == "__main__":
     evaluate(
-        runner,
+        run_graph_only,
         data=DATASET,
-        evaluators=EVALUATORS,
+        evaluators=[cypher_execution_success],
         experiment_prefix="graph_eval_v1",
         max_concurrency=1,
     )
-    print(f" Done: {name}")
-    if i < len(configs) - 1:
-        print(" Waiting 60s before next config (Groq rate limit)...")
-        time.sleep(60)

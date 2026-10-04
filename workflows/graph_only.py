@@ -21,10 +21,3 @@ graph.add_edge("synthesizer", END)
 # compile the graph
 workflow = graph.compile()
 
-
-if __name__ == "__main__":
-    print("Testing workflow...")
-    result = workflow.invoke(
-        {"question": "Return 7 types of medications for Type 2 Diabetes?"}
-    )
-    print(result["final_answer"])
