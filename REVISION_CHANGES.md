@@ -6,4 +6,6 @@ A - Determined FlashRank compressor actually hurts performance and is not needed
 
 B - Tested Query Rewriter under 4 prompt versions , did not work - must add to experiment table
 
-C - 
+C - CHANGE NODE AND RELATIONSHIP NUMBERS IN THE PAPER --- URGENT    
+
+D = 

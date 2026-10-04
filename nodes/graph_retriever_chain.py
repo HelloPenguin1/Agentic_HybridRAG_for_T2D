@@ -12,7 +12,7 @@ class GraphRetrieverChain:
     def __init__(self):
         self.graph = Neo4jGraph(
             url=os.getenv("NEO4J_URI"),
-            username=os.getenv("NEO4J_USER"),
+            username=os.getenv("NEO4J_USER") or os.getenv("NEO4J_USERNAME"),
             password=os.getenv("NEO4J_PASSWORD"),
             database=os.getenv("NEO4J_DATABASE", "neo4j"),
             refresh_schema=True,

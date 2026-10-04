@@ -1,18 +1,25 @@
 import json
 from neo4j import GraphDatabase
+import os
+from pathlib import Path
+from dotenv import load_dotenv
+
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+load_dotenv(PROJECT_ROOT / ".env")
 
 
 class DiabetesGraphLoader:
-    def __init__(self, uri, user, password):
+    def __init__(self, uri, user, password, database="neo4j"):
         # Initialize the connection to Neo4j
         self.driver = GraphDatabase.driver(uri, auth=(user, password))
+        self.database = database
 
     def close(self):
         self.driver.close()
 
     def create_constraints(self):
         """Create uniqueness constraints to prevent duplicates and speed up queries."""
-        with self.driver.session() as session:
+        with self.driver.session(database=self.database) as session:
             queries = [
                 "CREATE CONSTRAINT drug_id IF NOT EXISTS FOR (d:Drug) REQUIRE d.drugbank_id IS UNIQUE",
                 "CREATE CONSTRAINT atc_code IF NOT EXISTS FOR (a:ATC) REQUIRE a.code IS UNIQUE",
@@ -22,7 +29,7 @@ class DiabetesGraphLoader:
                 "CREATE CONSTRAINT food_rule IF NOT EXISTS FOR (f:FoodInteraction) REQUIRE f.description IS UNIQUE",
             ]
             for query in queries:
-                session.run(query)
+                session.run(query).consume()
             print("✓ Constraints created successfully.")
 
     def load_data(self, json_filepath):
@@ -30,7 +37,7 @@ class DiabetesGraphLoader:
         with open(json_filepath, "r", encoding="utf-8") as file:
             drugs_data = json.load(file)
 
-        with self.driver.session() as session:
+        with self.driver.session(database=self.database) as session:
             print(
                 "1/6: Ingesting Base Medication Nodes (with Pharmacokinetics & Dosages)..."
             )
@@ -70,7 +77,7 @@ class DiabetesGraphLoader:
             d.clearance = drug.Medication.clearance,
             d.available_dosages = drug.Medication.available_dosages
         """
-        tx.run(query, drugs=drugs_data)
+        tx.run(query, drugs=drugs_data).consume()
 
     @staticmethod
     def _ingest_classifications(tx, drugs_data):
@@ -89,7 +96,7 @@ class DiabetesGraphLoader:
             MERGE (d)-[:BELONGS_TO]->(c)
         )
         """
-        tx.run(query, drugs=drugs_data)
+        tx.run(query, drugs=drugs_data).consume()
 
     @staticmethod
     def _ingest_targets(tx, drugs_data):
@@ -102,7 +109,7 @@ class DiabetesGraphLoader:
         MERGE (d)-[r:ACTS_ON]->(t)
         SET r.action = target.pharmacological_action
         """
-        tx.run(query, drugs=drugs_data)
+        tx.run(query, drugs=drugs_data).consume()
 
     @staticmethod
     def _ingest_products(tx, drugs_data):
@@ -117,7 +124,7 @@ class DiabetesGraphLoader:
             p.country = prod.country
         MERGE (d)-[:MARKETED_AS]->(p)
         """
-        tx.run(query, drugs=drugs_data)
+        tx.run(query, drugs=drugs_data).consume()
 
     @staticmethod
     def _ingest_food(tx, drugs_data):
@@ -129,7 +136,7 @@ class DiabetesGraphLoader:
         MERGE (f:FoodInteraction {description: food_desc})
         MERGE (d)-[:HAS_DIETARY_RULE]->(f)
         """
-        tx.run(query, drugs=drugs_data)
+        tx.run(query, drugs=drugs_data).consume()
 
     @staticmethod
     def _ingest_drug_interactions(tx, drugs_data):
@@ -144,17 +151,36 @@ class DiabetesGraphLoader:
         MERGE (d1)-[r:INTERACTS_WITH]->(d2)
         SET r.description = interaction.description
         """
-        tx.run(query, drugs=drugs_data)
+        tx.run(query, drugs=drugs_data).consume()
 
 
 if __name__ == "__main__":
-    NEO4J_URI = "neo4j+s://52830101.databases.neo4j.io"  # Or bolt://localhost:7687
-    NEO4J_USER = "52830101"
-    NEO4J_PASSWORD = "T7zK97BX1FVw48eifpBhXSupNXVw_YjBjSesnv0YozU"
+    NEO4J_URI = os.getenv("NEO4J_URI")
+    NEO4J_USER = os.getenv("NEO4J_USER") or os.getenv("NEO4J_USERNAME")
+    NEO4J_PASSWORD = os.getenv("NEO4J_PASSWORD")
+    NEO4J_DATABASE = os.getenv("NEO4J_DATABASE") or "neo4j"
+    JSON_FILE = Path(__file__).resolve().with_name("graph_data.json")
 
-    JSON_FILE = r"7_drugbank\graph_data.json"
+    missing_settings = [
+        name
+        for name, value in (
+            ("NEO4J_URI", NEO4J_URI),
+            ("NEO4J_USER or NEO4J_USERNAME", NEO4J_USER),
+            ("NEO4J_PASSWORD", NEO4J_PASSWORD),
+        )
+        if not value
+    ]
+    if missing_settings:
+        raise RuntimeError(
+            "Missing required Neo4j settings in the environment/.env: "
+            + ", ".join(missing_settings)
+        )
+    if not JSON_FILE.is_file():
+        raise FileNotFoundError(f"Graph data JSON not found: {JSON_FILE}")
 
-    loader = DiabetesGraphLoader(NEO4J_URI, NEO4J_USER, NEO4J_PASSWORD)
+    loader = DiabetesGraphLoader(
+        NEO4J_URI, NEO4J_USER, NEO4J_PASSWORD, database=NEO4J_DATABASE
+    )
     try:
         loader.create_constraints()
         loader.load_data(JSON_FILE)
