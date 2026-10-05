@@ -15,15 +15,14 @@ load_dotenv(ROOT / ".env")
 from langsmith import evaluate
 from workflows.graph_only import workflow
 
-DATASET = "Graph_Eval_Dataset"  
+DATASET = "Graph_Eval_Dataset_v2"  
 
 
 def run_graph_only(inputs: dict) -> dict:
     state = workflow.invoke({"question": inputs["question"]})
     return {
         "generated_cypher": state.get("generated_cypher"),
-        "graph_docs": state.get("graph_docs", []),
-        "retrieved_context": state.get("graph_result", ""),
+        "graph_raw_cntx": state.get("graph_raw_cntx", []),
         "final_answer": state.get("final_answer", ""),
     }
 
@@ -31,7 +30,7 @@ def run_graph_only(inputs: dict) -> dict:
 def cypher_execution_success(outputs: dict) -> dict:
     return {"results": [
         {"key": "cypher_executed", "score": float(outputs.get("generated_cypher") is not None)},
-        {"key": "non_empty_result", "score": float(bool(outputs.get("graph_docs")))},
+        {"key": "non_empty_result", "score": float(bool(outputs.get("graph_raw_cntx")))},
     ]}
 
 

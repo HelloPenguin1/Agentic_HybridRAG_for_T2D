@@ -161,7 +161,7 @@ def citation_agent(state):
 
     final_answer = state.get("final_answer", "")
     vector_docs = state.get("vector_docs") or []
-    graph_docs = state.get("graph_docs") or []
+    graph_docs = state.get("graph_raw_cntx") or []
     web_docs = state.get("web_docs") or []
     generated_cypher = state.get("generated_cypher")
 

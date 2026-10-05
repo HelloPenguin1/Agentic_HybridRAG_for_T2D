@@ -14,8 +14,9 @@ def refiner_node(state: GraphState):
     context_parts = []
     if state.get("vector_result"):
         context_parts.append(state["vector_result"])
-    if state.get("graph_result"):
-        context_parts.append(state["graph_result"])
+    graph_raw_cntx = state.get("graph_raw_cntx") or []
+    if graph_raw_cntx:
+        context_parts.append("\n".join(str(record) for record in graph_raw_cntx))
     if state.get("web_result"):
         context_parts.append(state["web_result"])
 

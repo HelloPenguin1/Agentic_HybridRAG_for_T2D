@@ -29,8 +29,9 @@ from workflows.graph_only import workflow as graph_only_workflow
 def _context(result: dict) -> str:
     """Combine graph and vector results into a single context string for faithfulness eval."""
     parts = []
-    if result.get("graph_result"):
-        parts.append(f"[Graph] {result['graph_result']}")
+    graph_raw_cntx = result.get("graph_raw_cntx") or []
+    if graph_raw_cntx:
+        parts.append(f"[Graph] {'; '.join(str(record) for record in graph_raw_cntx)}")
     if result.get("vector_result"):
         parts.append(f"[Vector] {result['vector_result']}")
     return "\n\n".join(parts) if parts else ""
@@ -45,7 +46,7 @@ def run_adaptive_router(inputs: dict) -> dict:
         "retrieved_context": _context(result),
         "router_choice": result.get("router_choice", ""),
         "generated_cypher": result.get("generated_cypher"),  # For cypher correctness
-        "graph_docs": result.get("graph_docs", []),  # For context recall
+        "graph_docs": result.get("graph_raw_cntx", []),  # Evaluation output contract
     }
 
 
@@ -58,7 +59,7 @@ def run_fixed_hybrid(inputs: dict) -> dict:
         "retrieved_context": _context(result),
         "router_choice": "both",  # fixed, always both
         "generated_cypher": result.get("generated_cypher"),
-        "graph_docs": result.get("graph_docs", []),
+        "graph_docs": result.get("graph_raw_cntx", []),
     }
 
 
@@ -84,5 +85,5 @@ def run_graph_only(inputs: dict) -> dict:
         "retrieved_context": _context(result),
         "router_choice": "graph",  # fixed
         "generated_cypher": result.get("generated_cypher"),
-        "graph_docs": result.get("graph_docs", []),
+        "graph_docs": result.get("graph_raw_cntx", []),
     }

@@ -2,7 +2,7 @@
 Evidence Gate — Threshold-Gated Reasoning Gate for the Agentic GraphRAG pipeline.
 
 Dual-Trigger Logic:
-  Trigger 1 (Local Gap)  : Both vector_docs AND graph_docs are empty.
+  Trigger 1 (Local Gap)  : Both vector_docs AND graph_raw_cntx are empty.
   Trigger 2 (Ambiguity)  : Router classified the query as 'real_time'.
 
 If either trigger fires → route to web_search.
@@ -17,13 +17,13 @@ def evidence_gate(state) -> dict:
     It writes `web_search_used` to state so downstream nodes know the source.
     """
     vector_docs = state.get("vector_docs") or []
-    graph_docs = state.get("graph_docs") or []
+    graph_raw_cntx = state.get("graph_raw_cntx") or []
     router_choice = state.get("router_choice", "")
 
     needs_web = False
 
     # Trigger 1: Local Gap — both retrievers came back empty
-    if not vector_docs and not graph_docs:
+    if not vector_docs and not graph_raw_cntx:
         print("[EvidenceGate] Trigger 1 fired: both retrievers empty.")
         needs_web = True
 

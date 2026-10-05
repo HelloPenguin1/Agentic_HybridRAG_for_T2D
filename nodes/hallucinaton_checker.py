@@ -6,7 +6,7 @@ def hallucination_grader(state):
     """Grade whether the final_answer is grounded in the retrieved evidence."""
     # Gather raw evidence from all sources
     v_docs = state.get("vector_docs") or []
-    g_docs = state.get("graph_docs") or []
+    g_docs = state.get("graph_raw_cntx") or []
     w_docs = state.get("web_docs") or []
     generation = state.get("final_answer", "")
 

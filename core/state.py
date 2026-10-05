@@ -15,12 +15,11 @@ class GraphState(TypedDict):
 
     generated_cypher: Optional[str]
 
-    graph_result: Optional[str]
     vector_result: Optional[str]
 
     # for citation, context, and reranking
     vector_docs: Optional[List[Any]]  # list of LangChain Document objects
-    graph_docs: Optional[List[Any]]  # list of raw Neo4j result dicts
+    graph_raw_cntx: Optional[List[dict[str, Any]]]  # raw Neo4j result records
     web_docs: Optional[List[dict]]  # [{url, title, content}] from Tavily
     web_result: Optional[str]  # formatted web evidence string for synthesizer
 

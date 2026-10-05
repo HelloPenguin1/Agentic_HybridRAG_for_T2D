@@ -296,8 +296,8 @@ Your task: Provide a clear, actionable answer using all available information so
 
 **Retrieved Information:**
 
-Medication Data (from drug knowledge graph):
-{graph_result}
+Raw medication records returned by the knowledge-graph query (not a generated graph answer):
+{graph_raw_cntx}
 
 Clinical Guidelines (from protocol documents):
 {vector_result}
