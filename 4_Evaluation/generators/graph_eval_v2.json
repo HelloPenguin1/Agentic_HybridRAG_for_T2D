@@ -1,0 +1,182 @@
+[
+  {
+    "question": "What are the dietary rules for Acarbose?",
+    "expected_cypher": "MATCH (d:Drug)-[:HAS_DIETARY_RULE]->(f:FoodInteraction) WHERE toLower(d.name) CONTAINS toLower('acarbose') RETURN f.description LIMIT 5",
+    "ground_truth_context": "",
+    "ground_truth_answer": ""
+  },
+  {
+    "question": "What is the half-life of Metformin?",
+    "expected_cypher": "MATCH (d:Drug) WHERE toLower(d.name) CONTAINS toLower('metformin') RETURN d.name, d.half_life LIMIT 1",
+    "ground_truth_context": "",
+    "ground_truth_answer": ""
+  },
+  {
+    "question": "What are the indications for Acarbose?",
+    "expected_cypher": "MATCH (d:Drug) WHERE toLower(d.name) CONTAINS toLower('acarbose') RETURN d.name, d.indication LIMIT 1",
+    "ground_truth_context": "",
+    "ground_truth_answer": ""
+  },
+  {
+    "question": "What is the half-life of Rosiglitazone?",
+    "expected_cypher": "MATCH (d:Drug) WHERE toLower(d.name) CONTAINS toLower('rosiglitazone') RETURN d.name, d.half_life LIMIT 1",
+    "ground_truth_context": "",
+    "ground_truth_answer": ""
+  },
+  {
+    "question": "What are the toxicity concerns for Nateglinide?",
+    "expected_cypher": "MATCH (d:Drug) WHERE toLower(d.name) CONTAINS toLower('nateglinide') RETURN d.name, d.toxicity LIMIT 1",
+    "ground_truth_context": "",
+    "ground_truth_answer": ""
+  },
+  {
+    "question": "What are the available dosages for Tolazamide?",
+    "expected_cypher": "MATCH (d:Drug) WHERE toLower(d.name) CONTAINS toLower('tolazamide') RETURN d.name, d.available_dosages LIMIT 1",
+    "ground_truth_context": "",
+    "ground_truth_answer": ""
+  },
+  {
+    "question": "Does Rosiglitazone interact with Insulin glargine?",
+    "expected_cypher": "MATCH (d1:Drug)-[r:INTERACTS_WITH]-(d2:Drug) WHERE toLower(d1.name) CONTAINS toLower('rosiglitazone') AND toLower(d2.name) CONTAINS toLower('insulin glargine') RETURN d1.name, d2.name, r.description AS interaction_details LIMIT 1",
+    "ground_truth_context": "",
+    "ground_truth_answer": ""
+  },
+  {
+    "question": "What food interactions exist for Miglitol?",
+    "expected_cypher": "MATCH (d:Drug)-[:HAS_DIETARY_RULE]->(f:FoodInteraction) WHERE toLower(d.name) CONTAINS toLower('miglitol') RETURN f.description LIMIT 5",
+    "ground_truth_context": "",
+    "ground_truth_answer": ""
+  },
+  {
+    "question": "What is the mechanism and target for Rosiglitazone?",
+    "expected_cypher": "MATCH (d:Drug)-[r:ACTS_ON]->(t:Target) WHERE toLower(d.name) CONTAINS toLower('rosiglitazone') RETURN t.name AS target, r.action AS action_type LIMIT 3",
+    "ground_truth_context": "",
+    "ground_truth_answer": ""
+  },
+  {
+    "question": "What is the pharmacological target and action of Insulin glargine?",
+    "expected_cypher": "MATCH (d:Drug)-[r:ACTS_ON]->(t:Target) WHERE toLower(d.name) CONTAINS toLower('insulin glargine') RETURN t.name AS target, r.action AS action_type LIMIT 3",
+    "ground_truth_context": "",
+    "ground_truth_answer": ""
+  },
+  {
+    "question": "What are the toxicity risks associated with Metformin?",
+    "expected_cypher": "MATCH (d:Drug) WHERE toLower(d.name) CONTAINS toLower('metformin') RETURN d.name, d.toxicity LIMIT 1",
+    "ground_truth_context": "",
+    "ground_truth_answer": ""
+  },
+  {
+    "question": "What target does Nateglinide act on and how?",
+    "expected_cypher": "MATCH (d:Drug)-[r:ACTS_ON]->(t:Target) WHERE toLower(d.name) CONTAINS toLower('nateglinide') RETURN t.name AS target, r.action AS action_type LIMIT 3",
+    "ground_truth_context": "",
+    "ground_truth_answer": ""
+  },
+  {
+    "question": "What interaction risk is documented between Metformin and Acetohexamide?",
+    "expected_cypher": "MATCH (d1:Drug)-[r:INTERACTS_WITH]->(d2:Drug) WHERE toLower(d1.name) CONTAINS toLower('metformin') AND toLower(d2.name) CONTAINS toLower('acetohexamide') RETURN d1.name, d2.name, r.description AS interaction_details LIMIT 1",
+    "ground_truth_context": "",
+    "ground_truth_answer": ""
+  },
+  {
+    "question": "What is the drug class for Glimepiride?",
+    "expected_cypher": "MATCH (d:Drug)-[:BELONGS_TO]->(c:Category) WHERE toLower(d.name) CONTAINS toLower('glimepiride') RETURN d.name, c.name AS drug_class LIMIT 5",
+    "ground_truth_context": "",
+    "ground_truth_answer": ""
+  },
+  {
+    "question": "What category does Acarbose belong to?",
+    "expected_cypher": "MATCH (d:Drug)-[:BELONGS_TO]->(c:Category) WHERE toLower(d.name) CONTAINS toLower('acarbose') RETURN d.name, c.name AS drug_class LIMIT 5",
+    "ground_truth_context": "",
+    "ground_truth_answer": ""
+  },
+  {
+    "question": "What is the mechanism of action for Acarbose?",
+    "expected_cypher": "MATCH (d:Drug) WHERE toLower(d.name) CONTAINS toLower('acarbose') RETURN d.name, d.mechanism_of_action LIMIT 1",
+    "ground_truth_context": "",
+    "ground_truth_answer": ""
+  },
+  {
+    "question": "What are the brand names for Insulin glargine?",
+    "expected_cypher": "MATCH (d:Drug)-[:MARKETED_AS]->(p:Product) WHERE toLower(d.name) CONTAINS toLower('insulin glargine') RETURN p.brand_name, p.labeller, p.country LIMIT 10",
+    "ground_truth_context": "",
+    "ground_truth_answer": ""
+  },
+  {
+    "question": "What drugs interact with Metformin?",
+    "expected_cypher": "MATCH (d1:Drug)-[r:INTERACTS_WITH]->(d2:Drug) WHERE toLower(d1.name) CONTAINS toLower('metformin') RETURN d2.name AS interacting_drug, r.description AS interaction_details LIMIT 10",
+    "ground_truth_context": "",
+    "ground_truth_answer": ""
+  },
+  {
+    "question": "What are the available dosages for Insulin lispro?",
+    "expected_cypher": "MATCH (d:Drug) WHERE toLower(d.name) CONTAINS toLower('insulin lispro') RETURN d.name, d.available_dosages LIMIT 1",
+    "ground_truth_context": "",
+    "ground_truth_answer": ""
+  },
+  {
+    "question": "What is the mechanism of action for Glimepiride?",
+    "expected_cypher": "MATCH (d:Drug) WHERE toLower(d.name) CONTAINS toLower('glimepiride') RETURN d.name, d.mechanism_of_action LIMIT 1",
+    "ground_truth_context": "",
+    "ground_truth_answer": ""
+  },
+  {
+    "question": "What are all the drugs that interact with Glimepiride?",
+    "expected_cypher": "MATCH (d1:Drug)-[r:INTERACTS_WITH]->(d2:Drug) WHERE toLower(d1.name) CONTAINS toLower('glimepiride') RETURN d2.name AS interacting_drug, r.description AS interaction_details LIMIT 10",
+    "ground_truth_context": "",
+    "ground_truth_answer": ""
+  },
+  {
+    "question": "What drugs belong to the same class as Tolazamide?",
+    "expected_cypher": "MATCH (d1:Drug)-[:BELONGS_TO]->(c:Category)<-[:BELONGS_TO]-(d2:Drug) WHERE toLower(d1.name) CONTAINS toLower('tolazamide') RETURN d2.name AS similar_drugs, c.name AS shared_class LIMIT 10",
+    "ground_truth_context": "",
+    "ground_truth_answer": ""
+  },
+  {
+    "question": "What products is Metformin marketed as?",
+    "expected_cypher": "MATCH (d:Drug)-[:MARKETED_AS]->(p:Product) WHERE toLower(d.name) CONTAINS toLower('metformin') RETURN p.brand_name, p.labeller, p.country LIMIT 10",
+    "ground_truth_context": "",
+    "ground_truth_answer": ""
+  },
+  {
+    "question": "What products is Nateglinide sold as?",
+    "expected_cypher": "MATCH (d:Drug)-[:MARKETED_AS]->(p:Product) WHERE toLower(d.name) CONTAINS toLower('nateglinide') RETURN p.brand_name, p.labeller, p.country LIMIT 10",
+    "ground_truth_context": "",
+    "ground_truth_answer": ""
+  },
+  {
+    "question": "What pharmacological category does Metformin belong to?",
+    "expected_cypher": "MATCH (d:Drug)-[:BELONGS_TO]->(c:Category) WHERE toLower(d.name) CONTAINS toLower('metformin') RETURN d.name, c.name AS drug_class LIMIT 5",
+    "ground_truth_context": "",
+    "ground_truth_answer": ""
+  },
+  {
+    "question": "What biological target does Insulin lispro act on?",
+    "expected_cypher": "MATCH (d:Drug)-[r:ACTS_ON]->(t:Target) WHERE toLower(d.name) CONTAINS toLower('insulin lispro') RETURN t.name AS target, r.action AS action_type LIMIT 3",
+    "ground_truth_context": "",
+    "ground_truth_answer": ""
+  },
+  {
+    "question": "What drugs are in the same class as Acetohexamide?",
+    "expected_cypher": "MATCH (d1:Drug)-[:BELONGS_TO]->(c:Category)<-[:BELONGS_TO]-(d2:Drug) WHERE toLower(d1.name) CONTAINS toLower('acetohexamide') RETURN d2.name AS similar_drugs, c.name AS shared_class LIMIT 10",
+    "ground_truth_context": "",
+    "ground_truth_answer": ""
+  },
+  {
+    "question": "What other drugs are in the same class as Miglitol?",
+    "expected_cypher": "MATCH (d1:Drug)-[:BELONGS_TO]->(c:Category)<-[:BELONGS_TO]-(d2:Drug) WHERE toLower(d1.name) CONTAINS toLower('miglitol') RETURN d2.name AS similar_drugs, c.name AS shared_class LIMIT 10",
+    "ground_truth_context": "",
+    "ground_truth_answer": ""
+  },
+  {
+    "question": "What interaction is documented between Metformin and Acarbose",
+    "expected_cypher": "MATCH (d1:Drug)-[r:INTERACTS_WITH]->(d2:Drug) WHERE toLower(d1.name) CONTAINS toLower('metformin') AND toLower(d2.name) CONTAINS toLower('acarbose') RETURN d1.name, d2.name, r.description AS interaction_details LIMIT 1",
+    "ground_truth_context": "",
+    "ground_truth_answer": ""
+  },
+  {
+    "question": "What is the elimination half-life of Glimepiride?",
+    "expected_cypher": "MATCH (d:Drug) WHERE toLower(d.name) CONTAINS toLower('glimepiride') RETURN d.name, d.half_life LIMIT 1",
+    "ground_truth_context": "",
+    "ground_truth_answer": ""
+  }
+]
