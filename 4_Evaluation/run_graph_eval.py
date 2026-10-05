@@ -15,7 +15,7 @@ load_dotenv(ROOT / ".env")
 from langsmith import evaluate
 from workflows.graph_only import workflow
 
-DATASET = "Graph_Eval_Dataset_v2"  
+DATASET = "Graph_Eval_Dataset_v3"  
 
 
 def run_graph_only(inputs: dict) -> dict:

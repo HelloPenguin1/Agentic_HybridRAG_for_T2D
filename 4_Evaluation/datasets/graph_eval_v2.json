@@ -1,0 +1,758 @@
+[
+  {
+    "question": "What are the dietary rules for Acarbose?",
+    "expected_cypher": "MATCH (d:Drug)-[:HAS_DIETARY_RULE]->(f:FoodInteraction) WHERE toLower(d.name) CONTAINS toLower('acarbose') RETURN f.description LIMIT 5",
+    "ground_truth_context": [
+      {
+        "f.description": "Take with food. Each dose should be taken with the first bite of a main meal."
+      }
+    ],
+    "ground_truth_answer": ""
+  },
+  {
+    "question": "What is the half-life of Metformin?",
+    "expected_cypher": "MATCH (d:Drug) WHERE toLower(d.name) CONTAINS toLower('metformin') RETURN d.name, d.half_life LIMIT 1",
+    "ground_truth_context": [
+      {
+        "d.name": "Metformin",
+        "d.half_life": "The plasma elimination half-life of metformin is 6.2 hours in the plasma.[L40243] The elimination half-life in the blood is approximately 17.6 hours, suggesting that the erythrocyte mass may be a compartment of distribution.[L40243]"
+      }
+    ],
+    "ground_truth_answer": ""
+  },
+  {
+    "question": "What are the indications for Acarbose?",
+    "expected_cypher": "MATCH (d:Drug) WHERE toLower(d.name) CONTAINS toLower('acarbose') RETURN d.name, d.indication LIMIT 1",
+    "ground_truth_context": [
+      {
+        "d.name": "Acarbose",
+        "d.indication": "Acarbose is indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus.[L31628]"
+      }
+    ],
+    "ground_truth_answer": ""
+  },
+  {
+    "question": "What is the half-life of Rosiglitazone?",
+    "expected_cypher": "MATCH (d:Drug) WHERE toLower(d.name) CONTAINS toLower('rosiglitazone') RETURN d.name, d.half_life LIMIT 1",
+    "ground_truth_context": [
+      {
+        "d.name": "Rosiglitazone",
+        "d.half_life": "3-4 hours (single oral dose, independent of dose) "
+      }
+    ],
+    "ground_truth_answer": ""
+  },
+  {
+    "question": "What are the toxicity concerns for Nateglinide?",
+    "expected_cypher": "MATCH (d:Drug) WHERE toLower(d.name) CONTAINS toLower('nateglinide') RETURN d.name, d.toxicity LIMIT 1",
+    "ground_truth_context": [
+      {
+        "d.name": "Nateglinide",
+        "d.toxicity": "An overdose may result in an exaggerated glucose-lowering effect with the development of hypoglycemic symptoms."
+      }
+    ],
+    "ground_truth_answer": ""
+  },
+  {
+    "question": "What are the available dosages for Tolazamide?",
+    "expected_cypher": "MATCH (d:Drug) WHERE toLower(d.name) CONTAINS toLower('tolazamide') RETURN d.name, d.available_dosages LIMIT 1",
+    "ground_truth_context": [
+      {
+        "d.name": "Tolazamide",
+        "d.available_dosages": [
+          "Tablet (Oral) - 250 mg/1",
+          "Tablet (Oral) - 500 mg/1",
+          "Tablet (Oral) - 100 mg/1"
+        ]
+      }
+    ],
+    "ground_truth_answer": ""
+  },
+  {
+    "question": "Does Rosiglitazone interact with Insulin glargine?",
+    "expected_cypher": "MATCH (d1:Drug)-[r:INTERACTS_WITH]-(d2:Drug) WHERE toLower(d1.name) CONTAINS toLower('rosiglitazone') AND toLower(d2.name) CONTAINS toLower('insulin glargine') RETURN d1.name, d2.name, r.description AS interaction_details LIMIT 1",
+    "ground_truth_context": [
+      {
+        "d1.name": "Rosiglitazone",
+        "d2.name": "Insulin glargine",
+        "interaction_details": "The risk or severity of congestive heart failure can be increased when Insulin glargine is combined with Rosiglitazone."
+      }
+    ],
+    "ground_truth_answer": ""
+  },
+  {
+    "question": "What food interactions exist for Miglitol?",
+    "expected_cypher": "MATCH (d:Drug)-[:HAS_DIETARY_RULE]->(f:FoodInteraction) WHERE toLower(d.name) CONTAINS toLower('miglitol') RETURN f.description LIMIT 5",
+    "ground_truth_context": [
+      {
+        "f.description": "Take with food. Take at the beginning of a meal."
+      }
+    ],
+    "ground_truth_answer": ""
+  },
+  {
+    "question": "What is the mechanism and target for Rosiglitazone?",
+    "expected_cypher": "MATCH (d:Drug)-[r:ACTS_ON]->(t:Target) WHERE toLower(d.name) CONTAINS toLower('rosiglitazone') RETURN t.name AS target, r.action AS action_type LIMIT 3",
+    "ground_truth_context": [
+      {
+        "target": "Peroxisome proliferator-activated receptor gamma",
+        "action_type": "agonist"
+      },
+      {
+        "target": "Retinoic acid receptor RXR-alpha",
+        "action_type": "inhibitor"
+      },
+      {
+        "target": "Long-chain-fatty-acid--CoA ligase 4",
+        "action_type": "inhibitor"
+      }
+    ],
+    "ground_truth_answer": ""
+  },
+  {
+    "question": "What is the pharmacological target and action of Insulin glargine?",
+    "expected_cypher": "MATCH (d:Drug)-[r:ACTS_ON]->(t:Target) WHERE toLower(d.name) CONTAINS toLower('insulin glargine') RETURN t.name AS target, r.action AS action_type LIMIT 3",
+    "ground_truth_context": [
+      {
+        "target": "Insulin receptor",
+        "action_type": "agonist"
+      },
+      {
+        "target": "Insulin-like growth factor 1 receptor",
+        "action_type": "activator"
+      },
+      {
+        "target": "Insulin",
+        "action_type": "modulator"
+      }
+    ],
+    "ground_truth_answer": ""
+  },
+  {
+    "question": "What are the toxicity risks associated with Metformin?",
+    "expected_cypher": "MATCH (d:Drug) WHERE toLower(d.name) CONTAINS toLower('metformin') RETURN d.name, d.toxicity LIMIT 1",
+    "ground_truth_context": [
+      {
+        "d.name": "Metformin",
+        "d.toxicity": "**Metformin (hydrochloride) toxicity data**: \r\n\r\nOral LD50 (rat): 1 g/kg; Intraperitoneal LD50 (rat): 500 mg/kg; Subcutaneous LD50 (rat): 300 mg/kg; Oral LD50 (mouse): 1450 mg/kg; Intraperitoneal LD50 (mouse): 420 mg/kg; Subcutaneous LD50 (mouse): 225 mg/kg.[L40283,L50211]\r\n\r\n**A note on lactic acidosis**\r\n\r\nMetformin decreases liver uptake of lactate, thereby increasing lactate blood levels which may increase the risk of lactic acidosis.[L40243] There have been reported postmarketing cases of metformin-associated lactic acidosis, including some fatal cases. Such cases had a subtle onset and were accompanied by nonspecific symptoms including malaise, myalgias, abdominal pain, respiratory distress, or increased somnolence. In certain cases, hypotension and resistant bradyarrhythmias have occurred with severe lactic acidosis.[L40243] Metformin-associated lactic acidosis was characterized by elevated blood lactate concentrations (>5 mmol/L), anion gap acidosis (without evidence of ketonuria or ketonemia), as well as an increased lactate:pyruvate ratio; metformin plasma levels were generally >5 mcg/mL.[L40243]\r\n\r\nRisk factors for metformin-associated lactic acidosis include renal impairment, concomitant use of certain drugs (e.g. carbonic anhydrase inhibitors such as topiramate), age 65 years old or greater, having a radiological study with contrast, surgery and other procedures, hypoxic states (e.g., acute congestive heart failure), excessive alcohol intake, and hepatic impairment.[L40243]\r\n\r\n**A note on renal function**\r\n\r\nIn patients with decreased renal function, the plasma and blood half-life of metformin is prolonged and the renal clearance is decreased.[L40243]\r\n\r\nMetformin should be avoided in those with severely compromised renal function (creatinine clearance < 30 ml/min), acute/decompensated heart failure, severe liver disease and for 48 hours after the use of iodinated contrast dyes due to the risk of lactic acidosis.[L40243] Lower doses should be used in the elderly and those with decreased renal function. Metformin decreases fasting plasma glucose, postprandial blood glucose and glycosolated hemoglobin (HbA1c) levels, which are reflective of the last 8-10 weeks of glucose control. Metformin may also have a positive effect on lipid levels. \r\n\r\n**A note on hypoglycemia**\r\n\r\n When used alone, metformin does not cause hypoglycemia, however, it may potentiate the hypoglycemic effects of sulfonylureas and insulin when they are used together.[L40243]\r\n\r\n**Use in pregnancy** \r\n\r\nAvailable data from post-marketing studies have not indicated a clear association of metformin with major birth defects, miscarriage, or adverse maternal or fetal outcomes when metformin was ingested during pregnancy. Despite this, the abovementioned studies cannot definitively establish the absence of any metformin-associated risk due to methodological limitations, including small sample size and inconsistent study groups.[L40243]\r\n\r\n**Use in nursing**\r\n\r\nA limited number of published studies indicate that metformin is present in human milk. There is insufficient information to confirm the effects of metformin on the nursing infant and no available data on the effects of metformin on the production of milk. The developmental and health benefits of breastfeeding should be considered as well as the mother’s clinical need for metformin and any possible adverse effects on the nursing child.[L40243]"
+      }
+    ],
+    "ground_truth_answer": ""
+  },
+  {
+    "question": "What target does Nateglinide act on and how?",
+    "expected_cypher": "MATCH (d:Drug)-[r:ACTS_ON]->(t:Target) WHERE toLower(d.name) CONTAINS toLower('nateglinide') RETURN t.name AS target, r.action AS action_type LIMIT 3",
+    "ground_truth_context": [
+      {
+        "target": "ATP-binding cassette sub-family C member 8",
+        "action_type": "inhibitor"
+      },
+      {
+        "target": "Peroxisome proliferator-activated receptor gamma",
+        "action_type": "agonist"
+      }
+    ],
+    "ground_truth_answer": ""
+  },
+  {
+    "question": "What interaction risk is documented between Metformin and Acetohexamide?",
+    "expected_cypher": "MATCH (d1:Drug)-[r:INTERACTS_WITH]->(d2:Drug) WHERE toLower(d1.name) CONTAINS toLower('metformin') AND toLower(d2.name) CONTAINS toLower('acetohexamide') RETURN d1.name, d2.name, r.description AS interaction_details LIMIT 1",
+    "ground_truth_context": [
+      {
+        "d1.name": "Metformin",
+        "d2.name": "Acetohexamide",
+        "interaction_details": "The risk or severity of hypoglycemia can be increased when Metformin is combined with Acetohexamide."
+      }
+    ],
+    "ground_truth_answer": ""
+  },
+  {
+    "question": "What is the drug class for Glimepiride?",
+    "expected_cypher": "MATCH (d:Drug)-[:BELONGS_TO]->(c:Category) WHERE toLower(d.name) CONTAINS toLower('glimepiride') RETURN d.name, c.name AS drug_class LIMIT 5",
+    "ground_truth_context": [
+      {
+        "d.name": "Glimepiride",
+        "drug_class": "Blood Glucose Lowering Agents"
+      },
+      {
+        "d.name": "Glimepiride",
+        "drug_class": "Hypoglycemia-Associated Agents"
+      },
+      {
+        "d.name": "Glimepiride",
+        "drug_class": "Alimentary Tract and Metabolism"
+      },
+      {
+        "d.name": "Glimepiride",
+        "drug_class": "Drugs Used in Diabetes"
+      },
+      {
+        "d.name": "Glimepiride",
+        "drug_class": "Sulfonylureas"
+      }
+    ],
+    "ground_truth_answer": ""
+  },
+  {
+    "question": "What category does Acarbose belong to?",
+    "expected_cypher": "MATCH (d:Drug)-[:BELONGS_TO]->(c:Category) WHERE toLower(d.name) CONTAINS toLower('acarbose') RETURN d.name, c.name AS drug_class LIMIT 5",
+    "ground_truth_context": [
+      {
+        "d.name": "Acarbose",
+        "drug_class": "Blood Glucose Lowering Agents"
+      },
+      {
+        "d.name": "Acarbose",
+        "drug_class": "Hypoglycemia-Associated Agents"
+      },
+      {
+        "d.name": "Acarbose",
+        "drug_class": "Alimentary Tract and Metabolism"
+      },
+      {
+        "d.name": "Acarbose",
+        "drug_class": "Drugs Used in Diabetes"
+      },
+      {
+        "d.name": "Acarbose",
+        "drug_class": "Oral Hypoglycemics"
+      }
+    ],
+    "ground_truth_answer": ""
+  },
+  {
+    "question": "What is the mechanism of action for Acarbose?",
+    "expected_cypher": "MATCH (d:Drug) WHERE toLower(d.name) CONTAINS toLower('acarbose') RETURN d.name, d.mechanism_of_action LIMIT 1",
+    "ground_truth_context": [
+      {
+        "d.name": "Acarbose",
+        "d.mechanism_of_action": "Alpha-glucosidase enzymes are located in the brush-border of the intestinal mucosa and serve to metabolize oligo-, tri-, and disaccharides (e.g. sucrose) into smaller monosaccharides (e.g. glucose, fructose) which are more readily absorbed.[A37868] These work in conjunction with pancreatic alpha-amylase, an enzyme found in the intestinal lumen that hydrolyzes complex starches to oligosaccharides.[L31633]\r\n\r\nAcarbose is a complex oligosaccharide that competitively and reversibly inhibits both pancreatic alpha-amylase and membrane-bound alpha-glucosidases - of the alpha-glucosidases, inhibitory potency appears to follow a rank order of glucoamylase > sucrase > maltase > isomaltase.[L31633] By preventing the metabolism and subsequent absorption of dietary carbohydrates, acarbose reduces postprandial blood glucose and insulin levels."
+      }
+    ],
+    "ground_truth_answer": ""
+  },
+  {
+    "question": "What are the brand names for Insulin glargine?",
+    "expected_cypher": "MATCH (d:Drug)-[:MARKETED_AS]->(p:Product) WHERE toLower(d.name) CONTAINS toLower('insulin glargine') RETURN p.brand_name, p.labeller, p.country LIMIT 10",
+    "ground_truth_context": [
+      {
+        "p.brand_name": "Lantus",
+        "p.labeller": "Physicians Total Care, Inc.",
+        "p.country": "US"
+      },
+      {
+        "p.brand_name": "Basaglar",
+        "p.labeller": "Eli Lilly Nederland B.V.",
+        "p.country": "US"
+      },
+      {
+        "p.brand_name": "Lantus Solostar",
+        "p.labeller": "REMEDYREPACK INC.",
+        "p.country": "US"
+      },
+      {
+        "p.brand_name": "TOUJEO Max",
+        "p.labeller": "A-S Medication Solutions",
+        "p.country": "US"
+      },
+      {
+        "p.brand_name": "Soliqua 100/33",
+        "p.labeller": "Sanofi Aventis Deutschland Gmb H",
+        "p.country": "US"
+      },
+      {
+        "p.brand_name": "BASAGLAR KwikPen",
+        "p.labeller": "Eli Lilly Nederland B.V.",
+        "p.country": "US"
+      },
+      {
+        "p.brand_name": "BASAGLAR Tempo Pen",
+        "p.labeller": "Eli Lilly Nederland B.V.",
+        "p.country": "US"
+      },
+      {
+        "p.brand_name": "Toujeo",
+        "p.labeller": "Sanofi Aventis Deutschland Gmb H",
+        "p.country": "US"
+      },
+      {
+        "p.brand_name": "Semglee",
+        "p.labeller": "Mylan Specialty L.P.",
+        "p.country": "US"
+      },
+      {
+        "p.brand_name": "Insulin Glargine",
+        "p.labeller": "Viatris Specialty Llc",
+        "p.country": "US"
+      }
+    ],
+    "ground_truth_answer": ""
+  },
+  {
+    "question": "What drugs interact with Metformin?",
+    "expected_cypher": "MATCH (d1:Drug)-[r:INTERACTS_WITH]->(d2:Drug) WHERE toLower(d1.name) CONTAINS toLower('metformin') RETURN d2.name AS interacting_drug, r.description AS interaction_details LIMIT 10",
+    "ground_truth_context": [
+      {
+        "interacting_drug": "Insulin lispro",
+        "interaction_details": "The risk or severity of adverse effects can be increased when Insulin lispro is combined with Metformin."
+      },
+      {
+        "interacting_drug": "Insulin glargine",
+        "interaction_details": "The risk or severity of adverse effects can be increased when Insulin glargine is combined with Metformin."
+      },
+      {
+        "interacting_drug": "Acarbose",
+        "interaction_details": "The serum concentration of Metformin can be decreased when it is combined with Acarbose."
+      },
+      {
+        "interacting_drug": "Acetohexamide",
+        "interaction_details": "The risk or severity of hypoglycemia can be increased when Metformin is combined with Acetohexamide."
+      },
+      {
+        "interacting_drug": "Tolazamide",
+        "interaction_details": "The risk or severity of hypoglycemia can be increased when Tolazamide is combined with Metformin."
+      },
+      {
+        "interacting_drug": "Tolbutamide",
+        "interaction_details": "The risk or severity of hypoglycemia can be increased when Tolbutamide is combined with Metformin."
+      },
+      {
+        "interacting_drug": "Exenatide",
+        "interaction_details": "The risk or severity of hypoglycemia can be increased when Exenatide is combined with Metformin."
+      },
+      {
+        "interacting_drug": "Insulin aspart",
+        "interaction_details": "The risk or severity of adverse effects can be increased when Insulin aspart is combined with Metformin."
+      },
+      {
+        "interacting_drug": "Insulin detemir",
+        "interaction_details": "The risk or severity of adverse effects can be increased when Insulin detemir is combined with Metformin."
+      },
+      {
+        "interacting_drug": "Insulin glulisine",
+        "interaction_details": "The risk or severity of adverse effects can be increased when Insulin glulisine is combined with Metformin."
+      }
+    ],
+    "ground_truth_answer": ""
+  },
+  {
+    "question": "What are the available dosages for Insulin lispro?",
+    "expected_cypher": "MATCH (d:Drug) WHERE toLower(d.name) CONTAINS toLower('insulin lispro') RETURN d.name, d.available_dosages LIMIT 1",
+    "ground_truth_context": [
+      {
+        "d.name": "Insulin lispro",
+        "d.available_dosages": [
+          "Solution (Intravenous; Subcutaneous) - 3.5 mg",
+          "Injection, solution (Intravenous; Subcutaneous) - 100 U/ML",
+          "Injection, suspension (Parenteral; Subcutaneous) - 100 IU/ml",
+          "200 U/ml",
+          "Solution (Intramuscular; Intravenous; Subcutaneous) - 100 unit / mL",
+          "Injection, suspension (Subcutaneous) - 100",
+          "Injection (Subcutaneous) - 100 iu/ml",
+          "Injection, solution (Intravenous; Subcutaneous) - 100 iu/1ml",
+          "Injection, solution (Intravenous; Subcutaneous) - 100 [iU]/1mL",
+          "Injection (Subcutaneous",
+          "Solution (Intravenous; Subcutaneous) - 100 unit / mL",
+          "Solution (Subcutaneous) - 600 unit / 3 mL",
+          "Injection, suspension (Subcutaneous) - 100 U/mL",
+          "Injection (Intravenous; Subcutaneous) - 100 iu/ml",
+          "Injection (Subcutaneous) - 200 U/mL",
+          "Injection, suspension (Parenteral; Subcutaneous) - 100 U/ML",
+          "Suspension (Parenteral) - 3.5 mg",
+          "Subcutaneous) - 200 U/ml",
+          "Injection, solution (Intravenous) - 100 U/ML",
+          "Injection, suspension (Intramuscular; Parenteral; Subcutaneous) - 100 U/ML",
+          "100 U/ml",
+          "Solution (Subcutaneous) - 100 unit / mL",
+          "Liquid (Intramuscular; Intravenous; Subcutaneous) - 100 unit / mL",
+          "Injection, solution (Intramuscular; Parenteral; Subcutaneous) - 200 U/ML",
+          "Injection, solution (Intramuscular; Subcutaneous) - 100 U/ML",
+          "Injection, suspension (Subcutaneous) - 100 [iU]/1mL",
+          "Injection, solution (Subcutaneous) - 100 [iU]/1mL",
+          "Suspension (Subcutaneous",
+          "Injection, solution (Parenteral) - 40 U/ML",
+          "Solution (Subcutaneous) - 200 U",
+          "Solution (Subcutaneous) - 100 UI",
+          "Parenteral) - 100 U/ml",
+          "Solution () - 100 iu/1ml",
+          "Subcutaneous) - 100 U/ml",
+          "Solution (Subcutaneous) - 200 unit / mL",
+          "Injection, solution (Subcutaneous) - 200 [iU]/1mL",
+          "Solution (Subcutaneous) - 100 iu/ml",
+          "Solution (Subcutaneous) - 100 U/ml",
+          "Solution (Intravenous; Subcutaneous) - 100 U",
+          "Solution (Intravenous; Subcutaneous) - 300 unit / 3 mL",
+          "Suspension () - 100 iu/1ml",
+          "Injection, solution (Intramuscular; Parenteral; Subcutaneous) - 100 U/ML",
+          "Injection, solution (Intravenous; Subcutaneous) - 100 U/1mL",
+          "Injection, suspension (Parenteral) - 100 iu/1ml",
+          "Injection, solution (Subcutaneous) - 100 U/1mL",
+          "Injection, solution (Subcutaneous) - 100 U/ML",
+          "Injection; injection, suspension (Subcutaneous) - 100 IU/ML",
+          "Injection, solution (Parenteral; Subcutaneous) - 100 U/ML",
+          "Injection, solution (Subcutaneous) - 200 U/ML",
+          "Injection, suspension (Subcutaneous) - 100 IU/mL"
+        ]
+      }
+    ],
+    "ground_truth_answer": ""
+  },
+  {
+    "question": "What is the mechanism of action for Glimepiride?",
+    "expected_cypher": "MATCH (d:Drug) WHERE toLower(d.name) CONTAINS toLower('glimepiride') RETURN d.name, d.mechanism_of_action LIMIT 1",
+    "ground_truth_context": [
+      {
+        "d.name": "Glimepiride",
+        "d.mechanism_of_action": "ATP-sensitive potassium channels on pancreatic beta cells that are gated by intracellular ATP and ADP. The hetero-octomeric complex of the channel is composed of four pore-forming Kir6.2 subunits and four regulatory sulfonylurea receptor (SUR) subunits. Alternative splicing allows the formation of channels composed of varying subunit isoforms expressed at different concentrations in different tissues.[A177730] In pancreatic beta cells, ATP-sensitive potassium channels play a role as essential metabolic sensors and regulators that couple membrane excitability with glucose-stimulated insulin secretion (GSIS).[A177727] When there is a decrease in the ATP:ADP ratio, the channels are activated and open, leading to K+ efflux from the cell, membrane hyperpolarization, and suppression of insulin secretion.[A177727] In contrast, increased uptake of glucose into the cell leads to elevated intracellular ATP:ADP ratio, leading to the closure of channels and membrane depolarization. Depolarization leads to activation and opening of the voltage-dependent Ca2+ channels and consequently an influx of calcium ions into the cell.[A177727] Elevated intracellular calcium levels causes the contraction of the filaments of actomyosin responsible for the exocytosis of insulin granules stored in vesicles.[A177715] Glimepiride blocks the ATP-sensitive potassium channel by binding non-specifically to the B sites of both sulfonylurea receptor-1 (SUR1) and sulfonylurea receptor-2A (SUR2A) subunits as well as the A site of SUR1 subunit of the channel to promote insulin secretion from the beta cell.[A177715] "
+      }
+    ],
+    "ground_truth_answer": ""
+  },
+  {
+    "question": "What are all the drugs that interact with Glimepiride?",
+    "expected_cypher": "MATCH (d1:Drug)-[r:INTERACTS_WITH]->(d2:Drug) WHERE toLower(d1.name) CONTAINS toLower('glimepiride') RETURN d2.name AS interacting_drug, r.description AS interaction_details LIMIT 10",
+    "ground_truth_context": [
+      {
+        "interacting_drug": "Insulin lispro",
+        "interaction_details": "The risk or severity of hypoglycemia can be increased when Glimepiride is combined with Insulin lispro."
+      },
+      {
+        "interacting_drug": "Insulin glargine",
+        "interaction_details": "The risk or severity of hypoglycemia can be increased when Glimepiride is combined with Insulin glargine."
+      },
+      {
+        "interacting_drug": "Acarbose",
+        "interaction_details": "The risk or severity of hypoglycemia can be increased when Glimepiride is combined with Acarbose."
+      },
+      {
+        "interacting_drug": "Acetohexamide",
+        "interaction_details": "The risk or severity of hypoglycemia can be increased when Glimepiride is combined with Acetohexamide."
+      },
+      {
+        "interacting_drug": "Miglitol",
+        "interaction_details": "The risk or severity of hypoglycemia can be increased when Glimepiride is combined with Miglitol."
+      },
+      {
+        "interacting_drug": "Chlorpropamide",
+        "interaction_details": "The risk or severity of hypoglycemia can be increased when Glimepiride is combined with Chlorpropamide."
+      },
+      {
+        "interacting_drug": "Nateglinide",
+        "interaction_details": "The risk or severity of hypoglycemia can be increased when Glimepiride is combined with Nateglinide."
+      },
+      {
+        "interacting_drug": "Tolazamide",
+        "interaction_details": "The risk or severity of hypoglycemia can be increased when Glimepiride is combined with Tolazamide."
+      },
+      {
+        "interacting_drug": "Repaglinide",
+        "interaction_details": "The risk or severity of hypoglycemia can be increased when Glimepiride is combined with Repaglinide."
+      },
+      {
+        "interacting_drug": "Glyburide",
+        "interaction_details": "Glyburide may decrease the excretion rate of Glimepiride which could result in a higher serum level."
+      }
+    ],
+    "ground_truth_answer": ""
+  },
+  {
+    "question": "What drugs belong to the same class as Tolazamide?",
+    "expected_cypher": "MATCH (d1:Drug)-[:BELONGS_TO]->(c:Category)<-[:BELONGS_TO]-(d2:Drug) WHERE toLower(d1.name) CONTAINS toLower('tolazamide') RETURN d2.name AS similar_drugs, c.name AS shared_class LIMIT 10",
+    "ground_truth_context": [
+      {
+        "similar_drugs": "Insulin lispro",
+        "shared_class": "Blood Glucose Lowering Agents"
+      },
+      {
+        "similar_drugs": "Insulin glargine",
+        "shared_class": "Blood Glucose Lowering Agents"
+      },
+      {
+        "similar_drugs": "Glimepiride",
+        "shared_class": "Blood Glucose Lowering Agents"
+      },
+      {
+        "similar_drugs": "Acarbose",
+        "shared_class": "Blood Glucose Lowering Agents"
+      },
+      {
+        "similar_drugs": "Metformin",
+        "shared_class": "Blood Glucose Lowering Agents"
+      },
+      {
+        "similar_drugs": "Rosiglitazone",
+        "shared_class": "Blood Glucose Lowering Agents"
+      },
+      {
+        "similar_drugs": "Acetohexamide",
+        "shared_class": "Blood Glucose Lowering Agents"
+      },
+      {
+        "similar_drugs": "Miglitol",
+        "shared_class": "Blood Glucose Lowering Agents"
+      },
+      {
+        "similar_drugs": "Chlorpropamide",
+        "shared_class": "Blood Glucose Lowering Agents"
+      },
+      {
+        "similar_drugs": "Nateglinide",
+        "shared_class": "Blood Glucose Lowering Agents"
+      }
+    ],
+    "ground_truth_answer": ""
+  },
+  {
+    "question": "What products is Metformin marketed as?",
+    "expected_cypher": "MATCH (d:Drug)-[:MARKETED_AS]->(p:Product) WHERE toLower(d.name) CONTAINS toLower('metformin') RETURN p.brand_name, p.labeller, p.country LIMIT 10",
+    "ground_truth_context": [
+      {
+        "p.brand_name": "Metformin Hydrochloride",
+        "p.labeller": "Watson Pharmaceuticals",
+        "p.country": "US"
+      },
+      {
+        "p.brand_name": "Metformin hydrochloride",
+        "p.labeller": "Dr. Reddy's Laboratories Limited",
+        "p.country": "US"
+      },
+      {
+        "p.brand_name": "Glipizide and Metformin Hydrochloride",
+        "p.labeller": "Caraco Pharmaceutical Laboratories, Ltd.",
+        "p.country": "US"
+      },
+      {
+        "p.brand_name": "Glyburide and Metformin Hydrochloride",
+        "p.labeller": "Dr. Reddy's Laboratories Limited",
+        "p.country": "US"
+      },
+      {
+        "p.brand_name": "Metaglip",
+        "p.labeller": "Bristol Myers Squibb",
+        "p.country": "US"
+      },
+      {
+        "p.brand_name": "Fortamet",
+        "p.labeller": "Physicians Total Care, Inc.",
+        "p.country": "US"
+      },
+      {
+        "p.brand_name": "Glucophage XR",
+        "p.labeller": "Caremark L.L.C.",
+        "p.country": "US"
+      },
+      {
+        "p.brand_name": "Appformin",
+        "p.labeller": "Physician Therapeutics Llc",
+        "p.country": "US"
+      },
+      {
+        "p.brand_name": "Appformin-D",
+        "p.labeller": "Physician Therapeutics Llc",
+        "p.country": "US"
+      },
+      {
+        "p.brand_name": "Glumetza",
+        "p.labeller": "Depomed",
+        "p.country": "US"
+      }
+    ],
+    "ground_truth_answer": ""
+  },
+  {
+    "question": "What products is Nateglinide sold as?",
+    "expected_cypher": "MATCH (d:Drug)-[:MARKETED_AS]->(p:Product) WHERE toLower(d.name) CONTAINS toLower('nateglinide') RETURN p.brand_name, p.labeller, p.country LIMIT 10",
+    "ground_truth_context": [
+      {
+        "p.brand_name": "Starlix",
+        "p.labeller": "Caremark L.L.C.",
+        "p.country": "US"
+      },
+      {
+        "p.brand_name": "Nateglinide",
+        "p.labeller": "Physicians Total Care, Inc.",
+        "p.country": "US"
+      },
+      {
+        "p.brand_name": "Starlix 60mg",
+        "p.labeller": "Novartis",
+        "p.country": "Canada"
+      },
+      {
+        "p.brand_name": "Starlix 120mg",
+        "p.labeller": "Novartis",
+        "p.country": "Canada"
+      },
+      {
+        "p.brand_name": "Starlix 180mg",
+        "p.labeller": "Novartis",
+        "p.country": "Canada"
+      },
+      {
+        "p.brand_name": "Trazec",
+        "p.labeller": "Novartis Europharm Limited",
+        "p.country": "EU"
+      }
+    ],
+    "ground_truth_answer": ""
+  },
+  {
+    "question": "What pharmacological category does Metformin belong to?",
+    "expected_cypher": "MATCH (d:Drug)-[:BELONGS_TO]->(c:Category) WHERE toLower(d.name) CONTAINS toLower('metformin') RETURN d.name, c.name AS drug_class LIMIT 5",
+    "ground_truth_context": [
+      {
+        "d.name": "Metformin",
+        "drug_class": "Blood Glucose Lowering Agents"
+      },
+      {
+        "d.name": "Metformin",
+        "drug_class": "Alimentary Tract and Metabolism"
+      },
+      {
+        "d.name": "Metformin",
+        "drug_class": "Drugs Used in Diabetes"
+      },
+      {
+        "d.name": "Metformin",
+        "drug_class": "Oral Hypoglycemics"
+      },
+      {
+        "d.name": "Metformin",
+        "drug_class": "Drugs that are Mainly Renally Excreted"
+      }
+    ],
+    "ground_truth_answer": ""
+  },
+  {
+    "question": "What biological target does Insulin lispro act on?",
+    "expected_cypher": "MATCH (d:Drug)-[r:ACTS_ON]->(t:Target) WHERE toLower(d.name) CONTAINS toLower('insulin lispro') RETURN t.name AS target, r.action AS action_type LIMIT 3",
+    "ground_truth_context": [
+      {
+        "target": "Insulin receptor",
+        "action_type": "agonist"
+      },
+      {
+        "target": "Insulin-like growth factor 1 receptor",
+        "action_type": "activator"
+      }
+    ],
+    "ground_truth_answer": ""
+  },
+  {
+    "question": "What drugs are in the same class as Acetohexamide?",
+    "expected_cypher": "MATCH (d1:Drug)-[:BELONGS_TO]->(c:Category)<-[:BELONGS_TO]-(d2:Drug) WHERE toLower(d1.name) CONTAINS toLower('acetohexamide') RETURN d2.name AS similar_drugs, c.name AS shared_class LIMIT 10",
+    "ground_truth_context": [
+      {
+        "similar_drugs": "Insulin lispro",
+        "shared_class": "Blood Glucose Lowering Agents"
+      },
+      {
+        "similar_drugs": "Insulin glargine",
+        "shared_class": "Blood Glucose Lowering Agents"
+      },
+      {
+        "similar_drugs": "Glimepiride",
+        "shared_class": "Blood Glucose Lowering Agents"
+      },
+      {
+        "similar_drugs": "Acarbose",
+        "shared_class": "Blood Glucose Lowering Agents"
+      },
+      {
+        "similar_drugs": "Metformin",
+        "shared_class": "Blood Glucose Lowering Agents"
+      },
+      {
+        "similar_drugs": "Rosiglitazone",
+        "shared_class": "Blood Glucose Lowering Agents"
+      },
+      {
+        "similar_drugs": "Miglitol",
+        "shared_class": "Blood Glucose Lowering Agents"
+      },
+      {
+        "similar_drugs": "Chlorpropamide",
+        "shared_class": "Blood Glucose Lowering Agents"
+      },
+      {
+        "similar_drugs": "Nateglinide",
+        "shared_class": "Blood Glucose Lowering Agents"
+      },
+      {
+        "similar_drugs": "Tolazamide",
+        "shared_class": "Blood Glucose Lowering Agents"
+      }
+    ],
+    "ground_truth_answer": ""
+  },
+  {
+    "question": "What other drugs are in the same class as Miglitol?",
+    "expected_cypher": "MATCH (d1:Drug)-[:BELONGS_TO]->(c:Category)<-[:BELONGS_TO]-(d2:Drug) WHERE toLower(d1.name) CONTAINS toLower('miglitol') RETURN d2.name AS similar_drugs, c.name AS shared_class LIMIT 10",
+    "ground_truth_context": [
+      {
+        "similar_drugs": "Insulin lispro",
+        "shared_class": "Blood Glucose Lowering Agents"
+      },
+      {
+        "similar_drugs": "Insulin glargine",
+        "shared_class": "Blood Glucose Lowering Agents"
+      },
+      {
+        "similar_drugs": "Glimepiride",
+        "shared_class": "Blood Glucose Lowering Agents"
+      },
+      {
+        "similar_drugs": "Acarbose",
+        "shared_class": "Blood Glucose Lowering Agents"
+      },
+      {
+        "similar_drugs": "Metformin",
+        "shared_class": "Blood Glucose Lowering Agents"
+      },
+      {
+        "similar_drugs": "Rosiglitazone",
+        "shared_class": "Blood Glucose Lowering Agents"
+      },
+      {
+        "similar_drugs": "Acetohexamide",
+        "shared_class": "Blood Glucose Lowering Agents"
+      },
+      {
+        "similar_drugs": "Chlorpropamide",
+        "shared_class": "Blood Glucose Lowering Agents"
+      },
+      {
+        "similar_drugs": "Nateglinide",
+        "shared_class": "Blood Glucose Lowering Agents"
+      },
+      {
+        "similar_drugs": "Tolazamide",
+        "shared_class": "Blood Glucose Lowering Agents"
+      }
+    ],
+    "ground_truth_answer": ""
+  },
+  {
+    "question": "What interaction is documented between Metformin and Acarbose",
+    "expected_cypher": "MATCH (d1:Drug)-[r:INTERACTS_WITH]->(d2:Drug) WHERE toLower(d1.name) CONTAINS toLower('metformin') AND toLower(d2.name) CONTAINS toLower('acarbose') RETURN d1.name, d2.name, r.description AS interaction_details LIMIT 1",
+    "ground_truth_context": [
+      {
+        "d1.name": "Metformin",
+        "d2.name": "Acarbose",
+        "interaction_details": "The serum concentration of Metformin can be decreased when it is combined with Acarbose."
+      }
+    ],
+    "ground_truth_answer": ""
+  },
+  {
+    "question": "What is the elimination half-life of Glimepiride?",
+    "expected_cypher": "MATCH (d:Drug) WHERE toLower(d.name) CONTAINS toLower('glimepiride') RETURN d.name, d.half_life LIMIT 1",
+    "ground_truth_context": [
+      {
+        "d.name": "Glimepiride",
+        "d.half_life": "The elimination half-life of glimepiride is approximately 5 to 8 hours,[A177715] which can increase up to 9 hours following multiple doses.[A177709]"
+      }
+    ],
+    "ground_truth_answer": ""
+  }
+]

@@ -276,8 +276,10 @@ def context_recall_evaluator(run, example) -> EvaluationResult:
 
     prompt = f"""Ground truth facts: {ground_truth}
     Retrieved facts: {retrieved_context}
-    Does the Retrieved facts text contain the core clinical information found in the Ground truth facts? 
-    Answer only with YES, or  NO."""
+    Compare the clinical facts and values in both contexts. Treat each context as an unordered collection of records:
+    ignore record ordering, row numbering, and formatting differences. Do not require records to appear in the same sequence.
+    Answer YES if the Retrieved facts contain the core clinical information in the Ground truth facts; otherwise answer NO.
+    Answer only YES or NO."""
 
     res = response_llm.invoke(prompt).content.strip().upper()
     return EvaluationResult(key="context_recall", score=1 if "YES" in res else 0)
