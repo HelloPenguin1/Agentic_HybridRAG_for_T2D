@@ -15,3 +15,4 @@ D = COMPLETELU evaluated graph chain using graph_eval_v2.json dataset.
         qa llm chainl The graph component now only retrieves raw graph context and does no LLM work at all besides cypher 
         transalation.
         
+        The langsmith dataset and experiment is under 'Graph_Eval_Dataset_v3'
