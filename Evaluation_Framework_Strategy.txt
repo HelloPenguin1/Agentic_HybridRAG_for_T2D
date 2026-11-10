@@ -1,0 +1,253 @@
+I'll start by reading the reviewer comments and the repository.
+
+Repo is reachable. Let me read the key files: README, revision notes, the evaluation folder, and the workflow/nodes.
+
+Still reading the repo (I've covered the workflows, evaluators, runners and datasets); now pulling the router prompt so the question mix matches its routing rules.
+
+I read the reviewer report, the project files and the `revision` branch (via the GitHub connector, since cloning failed). I did not open `plag_check_paper2_v1.pdf`, and I never saw the manuscript text itself, so the numbers I quote come from the review.
+
+## What the repo tells us (this shapes the plan)
+
+1. `adaptive.py` and `adaptor_w_checker.py` are stale. `fallback_to_vector` now returns `"evidence_gate"`, but neither file registers that node. The "adaptive without checker/refiner" arm cannot run as it stands.
+2. `eval_runners.py` imports `workflows.naive_hybrid`, which is not on the branch. The Always-Both baseline (A4) does not exist yet.
+3. `mixed_dataset.json` has 16 vector and 16 graph questions and zero "both" questions. The router's hardest case is never tested, and `router_accuracy` is nearly meaningless.
+4. Two graph ground truths are corrupt. The Tolazamide dosage answer talks about insulin lispro. The Metformin–Glimepiride answer says "context does not contain interaction information" and reuses Tolazamide's context.
+5. Vector gold answers are 1–3 words ("Metformin", "Microaneurysms"). Short golds make judge scores noisy.
+6. I think this is the cause of the A3 discrepancy: `e2e_quality_evaluator` uses a different judge (`response_llm`) and a vaguer 1–5 prompt than `correctness` (GPT-4o-mini, 0–5). It is also registered twice in `run_mixed_evaluation.py`.
+7. `faithfulness` truncates context to 3000 characters. Always-Both has the longest context, so it would be penalised unfairly.
+8. The refiner overwrites `final_answer`, so you can't measure the refiner's effect without saving the draft.
+9. Graph-only and vector-only have no citation agent, so answer format differs across arms and biases the judge.
+
+## 1. Splits are strata, not assignments
+
+Every system answers all 50 questions. The "split" is each question's gold route: which source is needed to answer it. It is defined by evidence, not wording. A question is graph-required if every required fact lives only in DrugBank fields, vector-required if only in ADA text, and both-required if at least one fact comes from each. Verify this empirically: run oracle graph-only and vector-only retrieval and check which required facts each one actually contains.
+
+## 2. Arms (one factor changes at a time)
+
+| Arm | Route | Fallback | Checker + refiner | Purpose |
+|---|---|---|---|---|
+| no_rag | none | – | – | A4. Use a different prompt, because the synthesizer prompt would just say "Not found" |
+| vector_only ★ | vector | no | no | |
+| graph_only ★ | graph | no | no | |
+| **always_both** | both | – | no | A4 core |
+| adaptive_lite ★ | LLM router | yes | no | Routing value |
+| adaptive_full ★ | LLM router | yes | yes | A2 |
+| **always_both_full** | both | – | yes | Fairness: baseline gets the same checker |
+| oracle_router | gold route | yes | no | Splits router loss from retrieval/synthesis loss |
+
+★ = the four arms you listed. The others are additions, because your four don't answer "does routing beat always-both?" on their own.
+
+Web search is off in all main arms. The 50 questions contain no temporal cues. Add a separate 5-question temporal side set for the web route, which also covers the "web route not evaluated" limitation.
+
+## 3. The 50 test questions (+10 dev)
+
+| Gold route | n | Factual | Procedural | Clinical decision | Boundary |
+|---|---|---|---|---|---|
+| Graph | 15 | 9 | 0 | 6 | 3 |
+| Vector | 15 | 5 | 6 | 4 | 3 |
+| Both | 20 | 2 | 6 | 12 | 4 |
+| **Total** | **50** | 16 | 12 | 22 | 10 |
+
+- **Why 15/15/20:** the "both" stratum is where Always-Both has home advantage, and most real nursing questions are mixed. Report every metric per stratum and macro-averaged so composition can't flatter the router. At n=15 per stratum, those are descriptive only.
+- **Boundary questions** sound like one source but need another (e.g. a drug-sounding question that needs a guideline threshold). They stop the router from winning on keywords.
+- **Dev set:** 10 extra questions in the same proportions, used only to tune and calibrate judge prompts. The 50 are frozen and versioned as a LangSmith dataset tag before any run.
+- **Leakage:**
+  - Don't use the router prompt's few-shot examples ("hold metformin before surgery", "metformin + glipizide low blood sugar").
+  - Reuse at most 12 existing items, with fixed golds. Make at least half of the graph questions natural nurse phrasing rather than the Cypher prompt's templates.
+- **Gold schema:** replace the one-line gold answer with atomic facts. Completeness and correctness need this to be distinguishable.
+
+```json
+{"id":"Q023","question":"…","gold_route":"both","type":"clinical_decision",
+ "boundary":true,"harm_critical":true,
+ "required_facts":["…","…","…"],          // 2–5 atomic facts
+ "must_not_say":["…"],                     // dangerous statements
+ "gold_evidence":{"graph":["cypher/record"],"vector":["ADA §, p."]},
+ "reference_answer":"2–4 sentences"}
+```
+
+- **Provenance (A6):** the author drafts golds from the ingested corpus only (DrugBank 6.0 and ADA 2026 as ingested, not outside knowledge). For graph "dosage" items the gold is formulation/strength, per the review. A nurse or diabetes educator accepts, revises or rejects every item, and you log the changes. If an LLM helped draft, disclose it for the AI-use statement (Part D).
+
+## 4. Fairness controls
+
+- Same synthesizer, prompts, temperature, retriever parameters and reranking decision (A1: no FlashRank) in every arm.
+- Citation agent in every retrieval arm. Strip the `### References` block before correctness/completeness judging, and score citations separately.
+- Same judge, pinned version, temperature 0, answers blinded and shuffled.
+- No sleep-based throttling (remove `time.sleep(4)`). Disable caches, and log git SHA and dataset version in run metadata.
+- 3 repetitions per arm (`num_repetitions=3`).
+
+## 5. Evaluators for LangSmith
+
+Replace `e2e_quality` entirely. Its criterion ("alignment with golden answer") duplicates correctness. Define metrics on the atomic facts instead:
+
+| Key | Type | Rule |
+|---|---|---|
+| `completeness` | judge, per fact | entailed facts ÷ required facts |
+| `correctness` | same judge call | 1 − (contradicted facts ÷ required facts). Terse-but-right means high correctness, low completeness: that is the distinction reviewers asked for |
+| `critical_error` | same call | 1 if any `must_not_say` item is stated or a dose number is wrong. Report counts (covers the "harmful outputs" limitation) |
+| `faithfulness` | judge, per claim | supported claims ÷ claims, against the **full, untruncated** context given to the synthesizer. Call it "claim support rate", never hallucination rate (A7). N/A for no_rag |
+| `context_recall` | judge, per fact | gold facts found in all retrieved context (graph + vector), not graph only |
+| `context_precision` | judge, per item | relevant retrieved items ÷ retrieved items. This is the mechanism by which routing should help |
+| `router_label` | code | exact / under-routed (missing a needed source) / over-routed, vs gold route. Adaptive arms only |
+| `cypher_exec_success` | code | Cypher generated, executed without error, returned records. Gives the Cypher failure rate |
+| `citation_validity` | code | every `(n)` maps to the reference list and the evidence index; sentence-coverage rate |
+| `refiner_delta` | judge (full arms) | Run completeness, correctness and faithfulness on `draft_answer` and `final_answer`. Report trigger rate and "new error introduced" (a fact entailed in the draft but missing or contradicted after refining) |
+| latency, tokens, cost | automatic | From the LangSmith run tree. Report P50/P95 |
+| pairwise preference | offline | Adaptive vs Always-Both, position-swapped, over stored outputs. Replaces E2E quality as the "overall" metric |
+
+Router stability (A5) doesn't need a full run. Call the router alone 5 times on all 50 questions and report the identical-choice rate.
+
+**Judge rules:**
+- Use structured output, not "reply with an integer".
+- One label per fact.
+- The judge may use only the listed facts, not its own medical knowledge.
+- Calibrate on the dev set, not the test set.
+- Prefer a stronger judge than 4o-mini for the primary score, and keep 4o-mini as a robustness check.
+
+## 6. Pre-registered hypotheses and statistics
+
+Write these down before running:
+- **H1:** adaptive_lite is non-inferior to always_both on completeness and correctness (margin −0.10).
+- **H2:** adaptive_lite has lower median latency, tokens and cost.
+- **H3:** adaptive_lite has higher context_precision and faithfulness in the graph and vector strata.
+- **H4:** report oracle − adaptive_lite as the router's cost.
+
+Fifty questions can only resolve differences of about 0.10 (assuming a paired SD of ~0.25; confirm from your pilot). Anything smaller is exploratory. If Always-Both wins on quality in the "both" stratum, report it. The honest framing then is "routing buys efficiency at little or no quality cost."
+
+Method: average the 3 repetitions per question, bootstrap over questions for 95% CIs, run a paired Wilcoxon test, and apply Holm correction across the pre-specified comparisons. Also report mean ± SD across the three run-level means.
+
+## 7. Human validation (A6)
+
+- **Gold check:** the nurse validates all 60 questions before any run.
+- **Answer rating:** 2 clinicians rate, blind and shuffled, 24 questions (8 per stratum) across 4 arms (adaptive_full, always_both, vector_only, graph_only), about 96 answers each. Rubric: correctness (3-level), completeness (3-level), safe/unsafe.
+- **Agreement:** weighted Cohen's κ between the two clinicians, then Spearman and weighted κ between each judge metric and clinician consensus. If κ is below about 0.6, fix the judge on the dev set and re-score. Don't tune on the test set.
+
+## 8. Order of work, and what each output resolves
+
+1. Fix the code: add `draft_answer` to `GraphState`, replace the five workflow files with the factory below, and fix the two corrupt golds.
+2. Author the questions, run the nurse validation, run the evidence audit and freeze the dataset.
+3. Calibrate the judge on the dev set.
+4. Run one repetition as a pilot. Check variance and the power assumption.
+5. Run the full matrix (8 arms × 50 × 3).
+6. Human rating, then statistics and tables.
+
+| One run matrix resolves | |
+|---|---|
+| A2 | adaptive_full vs adaptive_lite, plus `refiner_delta` |
+| A3 | New metric definitions and the pairwise judge |
+| A4 | always_both, always_both_full, no_rag |
+| A5 | Router stability run |
+| A6 | Strata, CIs, repetitions, human κ |
+| A7 | Claim support rate wording |
+| Limitations | Cypher failure rate, critical errors, web side set |
+
+## Code (kept minimal)
+
+**One factory replaces five workflow files:**
+
+```python
+# workflows/factory.py
+from langgraph.graph import StateGraph, START, END
+from core.state import GraphState   # add: draft_answer: Optional[str]
+from nodes.graph_retriever_chain import GraphRetrieverChain
+from nodes.vector_retriever import VectorRetriever
+from nodes.router import Router
+from nodes.synthesizer import synthesizer
+from nodes.fallback_to_vector import fallback_to_vector
+from nodes.hallucinaton_checker import hallucination_grader, hallucination_decision
+from nodes.refiner_node import refiner_node
+from nodes.citation_agent import citation_agent
+
+T = {"graph": ["graph_retriever"], "vector": ["vector_retriever"],
+     "both": ["graph_retriever", "vector_retriever"]}
+
+def build(route="adaptive", fallback=False, checker=False):
+    """route: adaptive | oracle | graph | vector | both. Web search deliberately absent."""
+    g, gr, vr = StateGraph(GraphState), GraphRetrieverChain(), VectorRetriever()
+    g.add_node("router", Router if route == "adaptive" else
+               (lambda s: {"router_choice": s["router_choice"] if route == "oracle" else route}))
+    g.add_node("graph_retriever", gr.graph_retriever_node)
+    g.add_node("vector_retriever", vr.vector_retriever_node)
+    g.add_node("synthesizer", synthesizer)
+    g.add_node("citation_agent", citation_agent)
+
+    g.add_edge(START, "router")
+    # real_time has no web node here -> vector; the choice is still logged for router metrics
+    g.add_conditional_edges("router", lambda s: T.get(s["router_choice"], T["vector"]),
+                            ["graph_retriever", "vector_retriever"])
+    if fallback:
+        g.add_conditional_edges("graph_retriever", fallback_to_vector,
+                                {"vector_retriever": "vector_retriever", "evidence_gate": "synthesizer"})
+    else:
+        g.add_edge("graph_retriever", "synthesizer")
+    g.add_edge("vector_retriever", "synthesizer")
+
+    if checker:
+        g.add_node("grader", lambda s: {**hallucination_grader(s), "draft_answer": s["final_answer"]})
+        g.add_node("refiner", refiner_node)
+        g.add_edge("synthesizer", "grader")
+        g.add_conditional_edges("grader", hallucination_decision,
+                                {"end": "citation_agent", "refiner": "refiner"})
+        g.add_edge("refiner", "citation_agent")
+    else:
+        g.add_edge("synthesizer", "citation_agent")
+    g.add_edge("citation_agent", END)
+    return g.compile()
+
+ARMS = {"vector_only": dict(route="vector"), "graph_only": dict(route="graph"),
+        "always_both": dict(route="both"),
+        "adaptive_lite": dict(route="adaptive", fallback=True),
+        "adaptive_full": dict(route="adaptive", fallback=True, checker=True),
+        "always_both_full": dict(route="both", checker=True),
+        "oracle_router": dict(route="oracle", fallback=True)}
+```
+
+Notes on the factory: for `oracle_router`, pass `router_choice=gold_route` in the initial state. Check that `citation_agent` works without `web_docs`. no_rag is a separate one-call baseline with its own prompt.
+
+**One judge call yields three metrics (replaces `answer_correctness`, `completeness` and `e2e_quality`):**
+
+```python
+import re
+from typing import Literal
+from pydantic import BaseModel
+from langchain_openai import ChatOpenAI
+
+class Labels(BaseModel):
+    labels: list[Literal["entailed", "missing", "contradicted"]]  # one per required fact, in order
+    must_not_say_violated: bool
+
+_judge = ChatOpenAI(model=JUDGE_MODEL, temperature=0).with_structured_output(Labels)
+
+def fact_scores(run, example):
+    facts = example.outputs["required_facts"]; n = len(facts)
+    ans = re.split(r"###\s*References", run.outputs["final_answer"])[0]
+    facts_txt = "\n".join(f"{i+1}. {f}" for i, f in enumerate(facts))
+    r = _judge.invoke(
+        f"Question: {example.inputs['question']}\nRequired facts:\n{facts_txt}\n"
+        f"Must NOT say: {example.outputs['must_not_say']}\nAnswer:\n{ans}\n\n"
+        "Label each required fact: entailed (stated or clinically equivalent), "
+        "missing (not addressed), contradicted (incompatible statement). "
+        "Judge ONLY against the listed facts, not your own medical knowledge.")
+    lab = (r.labels + ["missing"] * n)[:n]
+    return {"results": [
+        {"key": "completeness", "score": lab.count("entailed") / n},
+        {"key": "correctness", "score": 1 - lab.count("contradicted") / n},
+        {"key": "critical_error", "score": int(r.must_not_say_violated)}]}
+```
+
+**Run loop and paired stats:**
+
+```python
+for arm, cfg in ARMS.items():
+    evaluate(make_target(arm), experiment_prefix=arm, num_repetitions=3, max_concurrency=4,
+             data=client.list_examples(dataset_name="t2d-nursing-eval-v3", splits=["test"]),
+             evaluators=EVALS, metadata={"arm": arm, "git_sha": SHA})
+
+def paired(a, b, B=10_000, seed=0):  # per-question, repetition-averaged scores
+    d = np.asarray(a) - np.asarray(b)
+    boots = np.random.default_rng(seed).choice(d, (B, len(d))).mean(1)
+    return d.mean(), np.percentile(boots, [2.5, 97.5]), wilcoxon(d).pvalue
+```
+
+Check the `splits=` argument against your installed `langsmith` version.
+
+I can turn this into a Word or Markdown document, or start on the factory and evaluator files, if you'd like.
