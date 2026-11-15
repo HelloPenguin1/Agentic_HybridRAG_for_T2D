@@ -197,5 +197,32 @@ def citation_agent(state):
             "final_answer": final_answer,
         }
     )
+    # Protect the original answer from empty or incomplete LLM output.
+    if not isinstance(cited_answer, str) or not cited_answer.strip():
+        print("[CitationAgent] Empty output. Preserving original answer.")
+        cited_answer = final_answer
+
+    else:
+        answer_body = re.split(
+            r"#*\s*\**\s*References",
+            cited_answer,
+            flags=re.I
+        )[0]
+
+        has_inline_citations = bool(re.search(r"\(\d+\)", answer_body))
+
+        severely_truncated = (
+            len(final_answer.strip()) > 100
+            and len(cited_answer.strip()) < 0.5 * len(final_answer.strip())
+        )
+
+        if not has_inline_citations or severely_truncated:
+            print("[CitationAgent] Incomplete citation output. Preserving original answer.")
+            cited_answer = final_answer
+
+    return {
+        "final_answer": cited_answer,
+        "citations": all_citations,
+    }
 
     return {"final_answer": cited_answer, "citations": all_citations}

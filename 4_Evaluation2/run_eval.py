@@ -28,6 +28,6 @@ for arm in a.arms:
         evaluators=EVALUATORS,  # add LangSmith UI judges on the dataset/experiments separately
         experiment_prefix=arm,
         num_repetitions=a.reps,
-        max_concurrency=2,
+        max_concurrency=1,
         metadata={"arm": arm, "git_sha": sha, **ARMS[arm]},
     )

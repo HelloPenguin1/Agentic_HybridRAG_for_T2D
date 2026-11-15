@@ -30,5 +30,7 @@ def synthesizer(state):
             "web_result": web_result if web_result else "No web search was performed.",
         }
     )
+    if not final_answer or not final_answer.strip():
+        raise RuntimeError("Synthesizer returned an empty answer.")
 
     return {"final_answer": final_answer}
