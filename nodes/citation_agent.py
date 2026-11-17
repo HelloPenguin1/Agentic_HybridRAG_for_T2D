@@ -9,7 +9,7 @@ evidenced sentence, with a References section at the bottom.
 
 import re
 from langchain_core.output_parsers import StrOutputParser
-from config.settings import response_llm
+from config.settings import citation_llm
 from config.prompts2 import citation_prompt
 
 
@@ -189,7 +189,7 @@ def citation_agent(state):
     evidence_index = "\n\n".join(all_lines)
 
     # ── Run citation LLM ────────────────────────────────────────────
-    chain = citation_prompt | response_llm | StrOutputParser()
+    chain = citation_prompt | citation_llm | StrOutputParser()
 
     cited_answer = chain.invoke(
         {

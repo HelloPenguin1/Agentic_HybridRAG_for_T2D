@@ -285,7 +285,7 @@ Your task: Provide a clear, actionable answer using all available information so
 2. Combine medication facts (from graph) with clinical context (from vector) and web evidence (if available)
 3. Prioritize nursing action and safety
 4. Use retrieved data only - don't add external knowledge
-5. Be concise but complete
+5. Be concise but answer completely. Do not cut off in the middle of the sentence.
 
 **FORMAT GUIDELINES:**
 - Simple queries: 2-4 sentences, direct answer
