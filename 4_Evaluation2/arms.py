@@ -25,10 +25,10 @@ ARMS = {
     "vector_only":      dict(route="vector"),
     "graph_only":       dict(route="graph"),
     "always_both":      dict(route="both"),
-    "adaptive_lite":    dict(route="adaptive", fallback=True),
+    #"adaptive_lite":    dict(route="adaptive", fallback=True),
     "adaptive_full":    dict(route="adaptive", fallback=True, checker=True),
     "always_both_full": dict(route="both", checker=True),
-    "final_workflow":   dict(route="adaptive", fallback=True, checker=True, web=True),  # = workflows/final_workflow.py
+    #"final_workflow":   dict(route="adaptive", fallback=True, checker=True, web=True),  # = workflows/final_workflow.py
 }
 TARGETS = {"graph": ["graph_retriever"], "vector": ["vector_retriever"],
            "both": ["graph_retriever", "vector_retriever"]}

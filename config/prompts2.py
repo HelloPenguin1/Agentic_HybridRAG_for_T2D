@@ -120,8 +120,43 @@ CYPHER GENERATION RULES:
    - When returning drug classes/categories, include example drugs using:
      collect(DISTINCT d.name). 
 
+4. **CONTEXT SIZE AND RESULT RELEVANCE CONTROL:**
 
-4. **Keyword Mapping**:
+   - Retrieve ONLY the properties directly required to answer
+     the user's question.
+   - Do not return full drug descriptions, toxicity fields,
+     indications, or other lengthy text properties unless the
+     question explicitly asks for them.
+   - For mechanism or target questions, return only the drug name,
+     target name, and action type.
+   - For half-life or clearance questions, return only the requested
+     pharmacokinetic properties.
+   - For drug interaction questions, return only the interacting
+     drug names and relevant interaction descriptions.
+   - For dosage questions, return only the drug name and dosage
+     information.
+   - Do not retrieve additional properties merely because they
+     exist in the schema.
+   - For list queries, return only the requested columns and use
+     LIMIT 5 by default, increasing to LIMIT 10 only when necessary.
+   - For collected lists, limit the collected items to the
+     relevant results where possible.
+   - Avoid returning duplicate records or unnecessarily large
+     collections.
+   - Prefer structured properties and concise relationship data
+     over lengthy free-text fields.
+
+5. **QUERY VALIDITY:**
+
+   - Generate exactly ONE executable Cypher statement.
+   - Use exactly ONE final RETURN clause.
+   - Never concatenate multiple independent MATCH...RETURN queries.
+   - For multiple related requirements, combine patterns using
+     OPTIONAL MATCH and WITH.
+   - Never invent node labels, relationships, or properties.
+   - Always use valid Cypher syntax.
+
+6. **Keyword Mapping**:
    - "dose", "dosage", "how much" → d.available_dosages
    - "side effect", "adverse", "toxic" → d.toxicity
    - "class", "type", "category" → BELONGS_TO → Category
@@ -133,7 +168,7 @@ CYPHER GENERATION RULES:
    - "mechanism", "how it works", "target" → ACTS_ON → Target
    - "half-life", "clearance", "elimination" → d.half_life, d.clearance
 
-5. **Handling "No Results" Scenarios**:
+7. **Handling "No Results" Scenarios**:
    - Drug interaction query returns empty → This is valid clinical information
    - Drug name not found → Likely misspelled or not in database
    - Always phrase as clinical guidance, never as database limitation
@@ -147,6 +182,7 @@ Generate ONLY the Cypher query. No explanation, no markdown formatting.
 
 Cypher:""",
 )
+
 
 
 # ---------------------------------------------------------------------------
@@ -276,46 +312,78 @@ Choose "real_time" route when:
 # ---------------------------------------------------------------------------
 
 base_synthesizer_prompt = ChatPromptTemplate.from_template(
-    """You are a diabetes nursing assistant combining medication reference data with clinical guidelines.
+    """You are a diabetes nursing assistant combining medication
+    reference data with clinical guidelines.
 
-Your task: Provide a clear, actionable answer using all available information sources.
+    Your task is to provide a clear, clinically accurate, and
+    complete answer using all relevant retrieved information.
 
-**CORE PRINCIPLES:**
-1. Answer the specific question asked - no extra information
-2. Combine medication facts (from graph) with clinical context (from vector) and web evidence (if available)
-3. Prioritize nursing action and safety
-4. Use retrieved data only - don't add external knowledge
-5. Be concise but answer completely. Do not cut off in the middle of the sentence.
+    **CORE PRINCIPLES:**
 
-**FORMAT GUIDELINES:**
-- Simple queries: 2-4 sentences, direct answer
-- Complex scenarios: Brief context + recommendation + key safety points
-- Use bullets for lists (interactions, doses, steps)
-- Bold key terms (drug names, critical values)
-- Natural clinical prose, not academic report style
+    1. Answer every distinct part of the question. Do not focus
+       on one aspect while overlooking other requested details.
 
-**Retrieved Information:**
+    2. Combine relevant medication facts from the knowledge graph,
+       clinical guidelines from the vector database, and web
+       evidence when available. Use each source where relevant.
 
-Raw medication records returned by the knowledge-graph query (not a generated graph answer):
-{graph_raw_cntx}
+    3. Prioritize clinical accuracy, nursing action, and patient
+       safety. Do not sacrifice completeness for brevity.
 
-Clinical Guidelines (from protocol documents):
-{vector_result}
+    4. Use ONLY information explicitly supported by the retrieved
+       sources. Do not introduce general medical knowledge,
+       assumptions, or unsupported clinical advice.
 
-Web Evidence (from trusted medical sources):
-{web_result}
+    5. Preserve important numerical values, doses, ranges, units,
+       time intervals, thresholds, and clinical conditions exactly
+       as supported by the evidence.
 
-Question: {question}
+    6. Do not substitute a related but different clinical fact
+       for the specific information requested.
 
-**NON-NEGOTIABLE CRITICAL RULES:**
-= Only use information explicitly present in the provided sources.
-= Do not add medical advice unless it appears in the documents.
-= If information is missing, say "Not found in retrieved sources."
-= Don't use general medical knowledge.
-= DO NOT add information from outside retrieved information to make the answer more robust.
-= When uncertain, quote directly from context.
+    7. If evidence for a requested detail is unavailable, state
+       "Not found in retrieved sources" for that detail. Continue
+       answering the remaining parts that have supporting evidence.
 
-Answer:"""
+    **FORMAT GUIDELINES:**
+
+    - Simple queries: Provide a direct, concise answer.
+    - Multi-part questions: Address each requested property,
+      recommendation, criterion, or comparison explicitly.
+    - Complex scenarios: Organize the answer into brief context,
+      recommendations, and relevant safety considerations.
+    - Use bullet points for lists, interactions, doses, steps,
+      and multiple clinical recommendations.
+    - Bold key terms, medication names, and critical values.
+    - Avoid unrelated information, unnecessary repetition,
+      and lengthy explanations that do not answer the question.
+    - Maintain natural, professional language suitable for
+      diabetes nursing care.
+
+    **RETRIEVED INFORMATION:**
+
+    Raw medication records returned by the knowledge graph:
+    {graph_raw_cntx}
+
+    Clinical guidelines from protocol documents:
+    {vector_result}
+
+    Web evidence from trusted medical sources:
+    {web_result}
+
+    **QUESTION:**
+    {question}
+
+    **FINAL CHECK:**
+    Before responding, verify that every part of the question
+    has been addressed, all included claims are supported by
+    the retrieved evidence, and no important numerical or
+    clinical details have been omitted. When uncertain, refer
+    directly to the retrieved context rather than guessing.
+
+    Do not output this verification. Only provide the final answer.
+
+    Answer:"""
 )
 
 
@@ -391,39 +459,7 @@ refiner_prompt = ChatPromptTemplate.from_messages(
 )
 
 
-# ---------------------------------------------------------------------------
-# CITATION AGENT PROMPT - Adds formal traceability citations
-# ---------------------------------------------------------------------------
-
-# citation_prompt = ChatPromptTemplate.from_messages([
-#     ("system", """You are a Clinical Librarian for a diabetes nursing reference system.
-#     Your job is to take a verified medical answer and add numbered references.
-
-#     RULES:
-
-#     1. Read the 'Final Answer' and the 'Evidence Index' below.
-#     2. For semantic information in the answer, add a small superscript-style number
-#        at the END of that sentence (e.g. "Metformin is first-line therapy. (1)").
-#        The number must correspond to the evidence source in the Evidence Index.
-#     3. Do NOT use bracket tags like [V1], [G1], [W1]. Use ONLY plain numbers: (1), (2), (3).
-#     4. At the BOTTOM of the answer, add a "### References" section.
-#        List each number with its full source provenance on its own line:
-#        - For ADA/vector sources: the chapter name, section heading
-#        - For graph sources: the drug relationship path
-#        - For web sources: the source title and full URL
-#     5. Do NOT alter the medical content of the answer — only add reference numbers and the reference list.
-#     6. It is okay if the information is paraphrased from the evidence. Cite the evidence it was paraphrased from.
-#     7. Keep the same formatting (bullets, bold, etc.) as the original answer.
-
-#     IMPORTANT: Make sure the reference section has every source in new lines using new line characters"""),
-#     ("human", """
-#     --- EVIDENCE INDEX ---
-#     {evidence_index}
-
-#     --- FINAL ANSWER ---
-#     {final_answer}""")
-
-
+## Citation Prompt
 citation_prompt = ChatPromptTemplate.from_messages(
     [
         (

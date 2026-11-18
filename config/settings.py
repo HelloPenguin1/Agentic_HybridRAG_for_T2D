@@ -55,7 +55,8 @@ response_llm = ChatGroq(
     groq_api_key=groq_api_key,
     model_name="openai/gpt-oss-120b",
     temperature=0,
-    max_tokens=512,
+    max_tokens=1024,
+    max_retries=5
 )
 
 citation_llm = ChatGroq(

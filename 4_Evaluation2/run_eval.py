@@ -9,7 +9,7 @@ Examples:
 """
 
 import argparse
-import subprocess
+import subprocess   
 import time
 from functools import wraps
 
@@ -18,7 +18,7 @@ from langsmith import evaluate
 from arms import ARMS, make_target
 from evaluators import EVALUATORS
 
-DATASET = "test"
+DATASET = "Combined_Dataset_For_E2E_v1"
 
 
 def add_inter_run_delay(target, delay_seconds=30):
