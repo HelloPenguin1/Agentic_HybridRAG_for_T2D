@@ -79,7 +79,7 @@ class GraphRetrieverChain:
         try:
             result = self.chain.invoke({"query": question})
 
-            # Extract generated Cypher from intermediate steps.
+            # Extract generated Cypher from intermediate steps.Fi
             steps = result.get("intermediate_steps", [])
 
             generated_cypher_query = (

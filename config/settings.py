@@ -70,7 +70,7 @@ citation_llm = ChatGroq(
 # Hallucination Checker LLM
 hallucination_llm = ChatGroq(
     groq_api_key=groq_api_key,
-    model_name="qwen/qwen3-32b",
+    model_name="openai/gpt-oss-120b",
     temperature=0,
 )
 hallucination_llm = hallucination_llm.with_structured_output(GradeHallucination)
