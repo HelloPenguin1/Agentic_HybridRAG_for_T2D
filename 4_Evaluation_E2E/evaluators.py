@@ -43,33 +43,19 @@ def router_metrics(outputs: dict, reference_outputs: dict) -> dict:
     }
 
 
-def cypher_metrics(outputs: dict, reference_outputs: dict) -> dict:
-    if not isinstance(outputs, dict):
-        return unavailable("cypher_generated", "cypher_records")
-
-    choice = outputs.get("router_choice")
-
-    if choice not in ("graph", "both"):
-        return unavailable("cypher_generated", "cypher_records")
-
-    cypher = outputs.get("generated_cypher")
-    n_graph = outputs.get("n_graph")
-
-    if cypher is None and n_graph is None:
-        return unavailable("cypher_generated", "cypher_records")
-
-    return {
-        "results": [
-            {
-                "key": "cypher_generated",
-                "score": int(bool(cypher) and cypher != "No query generated"),
-            },
-            {
-                "key": "cypher_records",
-                "score": int((n_graph or 0) > 0),
-            },
-        ]
-    }
+def citation_metrics(outputs: dict, reference_outputs: dict) -> dict:
+    if not isinstance(outputs, dict) or not outputs.get("n_evidence"):
+        return unavailable("citation_validity", "citation_coverage")
+    ids = {str(c["id"]) for c in outputs.get("citations") or []}
+    body = re.split(r"#*\s*\**\s*References", outputs.get("final_answer") or "", flags=re.I)[0]
+    body = re.sub(r"([.!?])\s+((?:\(\d+\)\s*)+)", r"\2\1 ", body)  # glue ". (1)" back to its sentence
+    cited = re.findall(r"\((\d+)\)", body)
+    units = [u for u in re.split(r"(?<=[.!?])\s+|\n+", body)
+             if len(u.split()) > 4 and "not found" not in u.lower()]
+    cov = sum(bool(re.search(r"\(\d+\)", u)) for u in units) / len(units) if units else None
+    return {"results": [
+        {"key": "citation_validity", "score": sum(c in ids for c in cited) / len(cited) if cited else 0.0},
+        {"key": "citation_coverage", "score": cov}]}
 
 
 def checker_flagged(outputs: dict, reference_outputs: dict) -> dict:

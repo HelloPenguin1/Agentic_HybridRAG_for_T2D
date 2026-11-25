@@ -10,6 +10,7 @@ from langgraph.graph import StateGraph, START, END
 
 load_dotenv()
 
+import time
 from core.state import GraphState
 from nodes.graph_retriever_chain import GraphRetrieverChain
 from nodes.vector_retriever import VectorRetriever
@@ -93,10 +94,11 @@ def _no_rag_target():
     chain = ChatPromptTemplate.from_template(NO_RAG_PROMPT) | response_llm | StrOutputParser()
 
     def target(inputs: dict) -> dict:
+        t0 = time.perf_counter()
         ans = chain.invoke({"question": inputs["question"]})
         return {"final_answer": ans, "draft_answer": ans, "context": "", "router_choice": None,
                 "adaptive": False, "generated_cypher": None, "n_graph": 0, "hallucination_score": None,
-                "citations": [], "web_search_used": False}
+                "citations": [], "web_search_used": False, "latency_s": round(time.perf_counter() - t0, 2)}
     return target
 
 
@@ -107,6 +109,7 @@ def make_target(arm):
     app = build(**cfg)
 
     def target(inputs: dict) -> dict:
+        t0 = time.perf_counter()
         state, draft = {}, None
         for chunk in app.stream({"question": inputs["question"]}, stream_mode="updates"):
             for node, upd in chunk.items():
@@ -126,6 +129,7 @@ def make_target(arm):
             "n_graph": len(state.get("graph_raw_cntx") or []),
             "hallucination_score": state.get("hallucination_score"),
             "citations": state.get("citations") or [],
+            "latency_s": round(time.perf_counter() - t0, 2),
         }
 
     return target
