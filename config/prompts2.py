@@ -360,19 +360,19 @@ base_synthesizer_prompt = ChatPromptTemplate.from_template(
     - Maintain natural, professional language suitable for
       diabetes nursing care.
 
-    **RETRIEVED INFORMATION:**
 
-    Raw medication records returned by the knowledge graph:
-    {graph_raw_cntx}
+    **RETRIEVED EVIDENCE** (each item has an ID: V = ADA guideline, G = DrugBank record, W = web):
+    {evidence}
 
-    Clinical guidelines from protocol documents:
-    {vector_result}
+    **CITATION RULES:**
+    - End every sentence or bullet that states a fact with the ID(s) of the evidence
+      item(s) that directly contain it, in square brackets: [V2] or [G1][V3].
+    - Cite only IDs listed above, and only the item that actually contains the fact.
+      Never invent IDs.
+    - Use only this ASCII bracket format. Never use 【】, footnote numbers, or a
+      References section; references are added automatically.
+    - Do not cite a sentence that says information was not found.
 
-    Web evidence from trusted medical sources:
-    {web_result}
-
-    **QUESTION:**
-    {question}
 
     **FINAL CHECK:**
     Before responding, verify that every part of the question
@@ -380,6 +380,8 @@ base_synthesizer_prompt = ChatPromptTemplate.from_template(
     the retrieved evidence, and no important numerical or
     clinical details have been omitted. When uncertain, refer
     directly to the retrieved context rather than guessing.
+    
+    Every semantically complete sentence/phrase/reasoning sentence ends with a valid evidence ID.
 
     Do not output this verification. Only provide the final answer.
 
