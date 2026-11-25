@@ -18,7 +18,7 @@ from langsmith import evaluate
 from arms import ARMS, make_target
 from evaluators import EVALUATORS
 
-DATASET = "Always_Both_Full_pt-2"
+DATASET = "test"
 
 
 def add_inter_run_delay(target, delay_seconds=30):

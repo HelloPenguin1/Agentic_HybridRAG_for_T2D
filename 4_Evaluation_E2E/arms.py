@@ -2,7 +2,7 @@
 import sys
 from functools import cache
 from pathlib import Path
-
+import re
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))  # repo root
 
 from dotenv import load_dotenv
@@ -26,7 +26,7 @@ ARMS = {
     "vector_only":      dict(route="vector"),
     "graph_only":       dict(route="graph"),
     "always_both":      dict(route="both"),
-    #"adaptive_lite":    dict(route="adaptive", fallback=True),
+    "adaptive_lite":    dict(route="adaptive", fallback=True),
     "adaptive_full":    dict(route="adaptive", fallback=True, checker=True),
     "always_both_full": dict(route="both", checker=True),
     #"final_workflow":   dict(route="adaptive", fallback=True, checker=True, web=True),  # = workflows/final_workflow.py
@@ -119,7 +119,7 @@ def make_target(arm):
         graph_ctx = docs_to_text(state.get("graph_raw_cntx") or [])
         return {
             "final_answer": state.get("final_answer", ""),
-            "draft_answer": draft,
+            "draft_answer": re.sub(r"\[[VGW]\d+\]", "", draft) if draft else draft,
             "context": f"VECTOR:\n{state.get('vector_result') or ''}\n\nGRAPH:\n{graph_ctx}"
                        f"\n\nWEB:\n{state.get('web_result') or ''}",
             "web_search_used": bool(state.get("web_search_used")),
@@ -127,6 +127,7 @@ def make_target(arm):
             "adaptive": cfg["route"] == "adaptive",
             "generated_cypher": state.get("generated_cypher"),
             "n_graph": len(state.get("graph_raw_cntx") or []),
+            "n_evidence": len(state.get("evidence") or []),
             "hallucination_score": state.get("hallucination_score"),
             "citations": state.get("citations") or [],
             "latency_s": round(time.perf_counter() - t0, 2),

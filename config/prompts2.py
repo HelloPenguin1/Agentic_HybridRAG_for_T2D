@@ -364,6 +364,8 @@ base_synthesizer_prompt = ChatPromptTemplate.from_template(
     **RETRIEVED EVIDENCE** (each item has an ID: V = ADA guideline, G = DrugBank record, W = web):
     {evidence}
 
+    **Question**: {question}
+    
     **CITATION RULES:**
     - End every sentence or bullet that states a fact with the ID(s) of the evidence
       item(s) that directly contain it, in square brackets: [V2] or [G1][V3].
