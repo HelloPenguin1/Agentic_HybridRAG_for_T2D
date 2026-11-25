@@ -22,6 +22,8 @@ class GraphState(TypedDict):
     graph_raw_cntx: Optional[List[dict[str, Any]]]  # raw Neo4j result records
     web_docs: Optional[List[dict]]  # [{url, title, content}] from Tavily
     web_result: Optional[str]  # formatted web evidence string for synthesizer
+    
+    evidence: Optional[List[dict]]
 
     final_answer: str
 

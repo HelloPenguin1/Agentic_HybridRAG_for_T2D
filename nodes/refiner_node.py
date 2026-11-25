@@ -1,31 +1,16 @@
 from config.prompts2 import refiner_prompt
-from core.state import GraphState
 from config.settings import response_llm
+from core.state import GraphState
 from langchain_core.output_parsers import StrOutputParser
+from nodes.evidence import format_evidence
 
 
 def refiner_node(state: GraphState):
     print("---REFINING ANSWER BASED ON AUDIT---")
-
-    # The prompt here tells the LLM: "Here is a draft and its errors. Fix it."
-    refine_chain = refiner_prompt | response_llm | StrOutputParser()
-
-    # Combine all evidence sources as context
-    context_parts = []
-    if state.get("vector_result"):
-        context_parts.append(state["vector_result"])
-    graph_raw_cntx = state.get("graph_raw_cntx") or []
-    if graph_raw_cntx:
-        context_parts.append("\n".join(str(record) for record in graph_raw_cntx))
-    if state.get("web_result"):
-        context_parts.append(state["web_result"])
-
-    refined_answer = refine_chain.invoke(
-        {
-            "original_answer": state["final_answer"],
-            "audit_feedback": state["audit_feedback"],
-            "context": "\n".join(context_parts),
-        }
-    )
-
-    return {"final_answer": refined_answer}
+    chain = refiner_prompt | response_llm | StrOutputParser()
+    refined = chain.invoke({
+        "original_answer": state["final_answer"],
+        "audit_feedback": state["audit_feedback"],
+        "context": format_evidence(state.get("evidence") or []),  # same IDs the draft cited
+    })
+    return {"final_answer": refined}
