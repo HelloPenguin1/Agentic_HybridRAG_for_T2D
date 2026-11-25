@@ -455,7 +455,7 @@ refiner_prompt = ChatPromptTemplate.from_messages(
     --- AUDIT REPORT ---
     {audit_feedback}
 
-    Please provide the refined Final Answer with citations as before. """,
+    Return the refined answer. Keep the [V#]/[G#]/[W#] tags of claims that remain supported; add tags only for IDs in the evidence. """,
         ),
     ]
 )
