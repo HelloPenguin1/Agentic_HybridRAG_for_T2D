@@ -371,8 +371,9 @@ base_synthesizer_prompt = ChatPromptTemplate.from_template(
       item(s) that directly contain it, in square brackets: [V2] or [G1][V3].
     - Cite only IDs listed above, and only the item that actually contains the fact.
       Never invent IDs.
-    - Use only this ASCII bracket format. Never use 【】, footnote numbers, or a
-      References section; references are added automatically.
+    - Write every citation as plain ASCII square brackets with the evidence ID, exactly like
+      [V2] or [G1][V3]. 
+    - NEVER use fullwidth brackets 【 】, parentheses, superscripts or footnote numbers. Wrong: 【G1】  Right: [G1]
     - Do not cite a sentence that says information was not found.
 
 
@@ -440,7 +441,9 @@ refiner_prompt = ChatPromptTemplate.from_messages(
     4. Maintain a professional tone for nursing care.
     
     Only use information explicitly present in the provided sources.
-    DO NOT use general medical knowledge that is NOT provided in the evidence. 
+    DO NOT use general medical knowledge that is NOT provided in the evidence.
+    Return the refined answer. Keep the tags of claims that remain supported; add tags only for IDs in the evidence. 
+    Write every tag in plain ASCII square brackets, like [V2] or [G1][V3]; never use 【 】. 
 
 
     """,
