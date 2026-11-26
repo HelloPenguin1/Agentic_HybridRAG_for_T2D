@@ -22,5 +22,5 @@ def citation_agent(state):
 
     cites = [{"id": str(n), "evidence_id": e, **{k: v for k, v in ev[e].items() if k != "id"}}
              for e, n in order.items()]
-    refs = "\n".join(f"({c['id']}) {c['label']}" for c in cites)
+    refs = "\n".join(f"({c['id']}) {c['evidence_id']} — {c['label']}" for c in cites)
     return {"final_answer": f"{body}\n\n### References\n{refs}", "citations": cites}
