@@ -18,7 +18,8 @@ from langsmith import evaluate
 from arms import ARMS, make_target
 from evaluators import EVALUATORS
 
-DATASET = "test"
+DATASET = "Always_Both_Rerun2"
+
 
 
 def add_inter_run_delay(target, delay_seconds=30):

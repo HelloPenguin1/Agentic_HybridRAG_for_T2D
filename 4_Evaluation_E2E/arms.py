@@ -22,12 +22,12 @@ from nodes.refiner_node import refiner_node
 from nodes.citation_agent import citation_agent
 
 ARMS = {
-    "no_rag":           dict(route="none"),  # LLM only, separate prompt
-    "vector_only":      dict(route="vector"),
-    "graph_only":       dict(route="graph"),
-    "always_both":      dict(route="both"),
-    "adaptive_lite":    dict(route="adaptive", fallback=True),
-    "adaptive_full":    dict(route="adaptive", fallback=True, checker=True),
+    #"no_rag":           dict(route="none"),  # LLM only, separate prompt
+    #"vector_only":      dict(route="vector"),
+    #"graph_only":       dict(route="graph"),
+    #"always_both":      dict(route="both"),
+    #"adaptive_lite":    dict(route="adaptive", fallback=True),
+    #"adaptive_full":    dict(route="adaptive", fallback=True, checker=True),
     "always_both_full": dict(route="both", checker=True),
     #"final_workflow":   dict(route="adaptive", fallback=True, checker=True, web=True),  # = workflows/final_workflow.py
 }
