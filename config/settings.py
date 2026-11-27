@@ -16,6 +16,7 @@ COLLECTION_NAME = "ada_model_medembed_base_v0.1"
 EMBED_MODEL = "abhinand/MedEmbed-base-v0.1"
 QDRANT_TOPK = 10
 BM25_TOP = 10
+RETRIEVER_TOP_K=10
 
 CHUNKS_PATH = (
     Path(__file__).resolve().parent.parent / "1_vectordb_ingestion" / "processed_chunks"

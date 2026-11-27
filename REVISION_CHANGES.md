@@ -31,4 +31,9 @@ F - Made a dataset with 40 questions for E2E evals - 15 V, 15 G, 10 Both
             
              - The citation validity measures format compliance not citation accuracy
 
+             - Fixed : Citation agent is no longer an agent and is more like a formatter
+                       Synthesizer enforces citations itself
+
+
+G - Ran workflow evas for 6 workflows completely and saved aggregate metrics as CSV
              
