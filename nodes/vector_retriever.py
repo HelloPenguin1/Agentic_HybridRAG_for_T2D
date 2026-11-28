@@ -8,7 +8,7 @@ from langchain_classic.retrievers import EnsembleRetriever
 # from langchain_classic.retrievers.contextual_compression import (
 #     ContextualCompressionRetriever,
 # )
-#from langchain_community.document_compressors import FlashrankRerank
+# from langchain_community.document_compressors import FlashrankRerank
 
 
 from config.settings import (
@@ -47,7 +47,7 @@ class VectorRetriever:
             search_type="similarity_score_threshold",
             search_kwargs={"k": QDRANT_TOPK, "score_threshold": 0.8},
         )
-        #self.compressor = FlashrankRerank(top_n=5)
+        # self.compressor = FlashrankRerank(top_n=5)
 
         processed_chunks = _load_processed_chunks()
         bm25_docs = [
@@ -72,7 +72,7 @@ class VectorRetriever:
         """LangGraph node: retrieves documents for the given question via RRF."""
         query = state["question"]
         rrf_docs = self.ensemble_retriever.invoke(query)
-        docs = rrf_docs[:RETRIEVER_TOP_K]
+        docs = rrf_docs[:5]
 
         if not docs:
             print("--- KNOWLEDGE GAP DETECTED: NO LOCAL DOCS PASSED QUALITY BAR ---")
